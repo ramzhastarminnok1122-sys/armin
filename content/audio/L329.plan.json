@@ -1,0 +1,353 @@
+{
+  "lesson": "L329",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L329-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Walking along the path, I noticed a loose board.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L329-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "We can repair it after carrying the baskets inside.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L329-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Looking towards the orchard, I can see the ladder.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L329-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "That is the one leaning against the tool shed.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L329-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Holding the gate, could you call the other volunteers?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L329-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Yes, I will wait here until the path is clear.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L329-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Carrying the empty crates, I walked towards the west gate.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L329-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "I was pruning the plum tree when I heard the bell.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L329-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Looking up, I saw a cloud moving over the hill.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L329-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "The children were gathering fallen blossom near the shed.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L329-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "We should move the wheelbarrow before the rain begins.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L329-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Holding the gate open, I can guide everyone inside.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L329-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "The volunteers arriving from the village have brought extra baskets.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 68
+    },
+    {
+      "id": "L329-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Then, checking the path together, we can finish safely.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L329-en-vocab-trellis",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "trellis. The trellis supporting the pear vines needs fresh paint.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 65
+    },
+    {
+      "id": "L329-en-vocab-sapling",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "sapling. A sapling growing near the path needs more water.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L329-en-vocab-compost",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "compost. We spread compost around the young apple trees.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L329-en-vocab-wheelbarrow",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "wheelbarrow. A wheelbarrow standing by the shed is full of leaves.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 66
+    },
+    {
+      "id": "L329-en-vocab-pruning",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "pruning. Pruning the old branches keeps the tree healthy.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L329-en-vocab-stile",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "stile. We crossed a stile leading into the upper orchard.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L329-en-vocab-blossom",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "blossom. The blossom falling after rain covered the path.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L329-en-vocab-rake",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "rake. Milo carried a rake towards the western gate.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L329-en-vocab-orchard",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "orchard. The orchard smelling of apples opens on Saturdays.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L329-en-vocab-harvest",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "harvest. The harvest begins when the late pears soften.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L329-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Crossing the orchard, we heard the bell.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 40
+    },
+    {
+      "id": "L329-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Carrying two baskets, Lina opened the gate.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 43
+    },
+    {
+      "id": "L329-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "While the children were picking pears, the bell rang.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L329-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Carrying a ladder, Jo walked towards the old pear tree.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L329-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Looking at the dark clouds, we packed the picnic basket.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L329-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "While the gate was closing, the last volunteer ran inside.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L329-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Holding the bell rope, Mara called the team together.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L329-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "On the orchard's open day, volunteers arrived before the first visitors. Carrying baskets, two students walked to the western trees, while a gardener checking the fence found a loose hinge. Looking towards the hill, the organiser noticed rain clouds and asked everyone to gather the tools. The children collecting fallen apples filled three crates, and a neighbour holding the gate welcomed late guests. After the rain passed, the team returned to the paths. Working side by side, they cleared blossom from the steps and placed the fruit beneath a shelter. By dusk, every visitor had tried a pear from the oldest tree.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 618
+    },
+    {
+      "id": "L329-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L329)",
+      "tts_text": "کارهای باغ را نام ببرید و دو عمل هم‌زمان را در یک جمله بیان کنید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L329-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L329)",
+      "tts_text": "بند ing می‌تواند زمینهٔ عمل اصلی را بسازد، به شرط آنکه فاعل‌ها یکی باشند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L329-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L329)",
+      "tts_text": "به گزارش دو داوطلب گوش دهید و کاری را که باید پیش از باران انجام شود پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L329-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L329)",
+      "tts_text": "اگر فاعل بند آغازین و جملهٔ اصلی فرق دارد، از پیوندِ «در حالی که» و بند کامل استفاده کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 90
+    },
+    {
+      "id": "L329-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L329)",
+      "tts_text": "برنامهٔ گروه باغ را با بندهای کوتاه و فاعل‌های روشن توضیح دهید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L329-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L329)",
+      "tts_text": "هر جملهٔ آغازشده با ing را از نظر فاعل ضمنی دوباره بررسی کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "lesson": "L331",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L331-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Seeing the warning, I think we should take the lower path.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L331-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Because the bridge is closed, that route is safer.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L331-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Knowing the guide is nearby, I feel less worried.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L331-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "I can see her beside the stone cairn.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 37
+    },
+    {
+      "id": "L331-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Hearing another warning, should we stop here?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L331-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Yes, while the guide checks the slope.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 38
+    },
+    {
+      "id": "L331-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Knowing the ridge was foggy, we stayed below the tree line.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L331-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "I saw a waymark pointing towards the old quarry.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L331-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Hearing that the footpath was closed, our guide chose a detour.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 63
+    },
+    {
+      "id": "L331-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "The map shows a cairn beside the stream.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 40
+    },
+    {
+      "id": "L331-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Seeing fresh stones across the slope, we stopped.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L331-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Was the landslide near the upper switchback?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 44
+    },
+    {
+      "id": "L331-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Yes, so we followed the valley route instead.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L331-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Good choice. The cloud is already covering the summit.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L331-en-vocab-switchback",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "switchback. Knowing the switchback was icy, we slowed down.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L331-en-vocab-ravine",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "ravine. Seeing the ravine below, the walkers stayed on the path.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 64
+    },
+    {
+      "id": "L331-en-vocab-waymark",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "waymark. Noticing a waymark on the stone, we turned left.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L331-en-vocab-ridge",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "ridge. Knowing the ridge was foggy, we chose the valley route.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L331-en-vocab-cairn",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "cairn. Seeing a cairn ahead, I checked the paper map.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L331-en-vocab-landslide",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "landslide. Hearing about the landslide, the group avoided the eastern track.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 76
+    },
+    {
+      "id": "L331-en-vocab-detour",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "detour. Finding a detour on the sign, we changed our plan.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L331-en-vocab-summit",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "summit. Expecting rain near the summit, they packed dry socks.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L331-en-vocab-footpath",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "footpath. Knowing the footpath was narrow, we walked in single file.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 68
+    },
+    {
+      "id": "L331-en-vocab-scree",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "scree. Seeing loose scree, the guide chose a safer slope.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L331-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Knowing the ridge was foggy, we chose the lower path.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L331-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Seeing the bridge closed, they followed the detour.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L331-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Because the guide knew the route, the group stayed calm.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L331-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Seeing the dark clouds, the hikers packed their maps.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L331-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Knowing the footpath was closed, we took the road beside the river.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 67
+    },
+    {
+      "id": "L331-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Because the bridge was icy, the driver waited near the gate.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L331-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Hearing a warning from the guide, Mara checked the waymark.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L331-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "The walking group had planned to cross the ridge before lunch. Knowing that low cloud was moving in, the guide checked the map again. A waymark near the old quarry pointed towards a narrow track, but fresh stones covered part of it. Seeing the slope shift, the guide asked everyone to wait behind a wall. Because the footpath was unsafe, the group chose a longer detour through the valley. They reached a small shelter before the rain began. Later, the walkers said the extra hour had been worthwhile: the lower route was clear, and the summit disappeared completely in the fog.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 578
+    },
+    {
+      "id": "L331-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L331)",
+      "tts_text": "به نقشه و وضعیت هوا فکر کنید و یک دلیل برای تغییر مسیر بیان کنید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L331-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L331)",
+      "tts_text": "بند ing می‌تواند علت تصمیم جملهٔ اصلی را بدهد، به شرطی که فاعل مشترک باشد.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L331-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L331)",
+      "tts_text": "به گفت‌وگوی راهنمایان گوش دهید و دلیل دوری از خط‌الرأس را پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L331-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L331)",
+      "tts_text": "اگر فاعل‌ها یکی نیستند، پیوند «because» و یک بند کامل جمله را روشن می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L331-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L331)",
+      "tts_text": "برای انتخاب مسیر، دلیل‌های دیداری و شنیداری را با جمله‌های روشن بیان کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L331-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L331)",
+      "tts_text": "از خود بپرسید چه کسی بند آغازین را می‌داند، می‌بیند یا می‌شنود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    }
+  ]
+}

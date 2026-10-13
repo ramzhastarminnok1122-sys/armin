@@ -1,0 +1,362 @@
+{
+  "lesson": "L327",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L327-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Is this the line for the ferry stopping at Dunbar?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L327-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Yes, the boat standing behind the blue marker is yours.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L327-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "I have a case needing a stronger luggage tag.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L327-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Ask the worker carrying a roll of labels.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 41
+    },
+    {
+      "id": "L327-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "The board showing our return time is hard to read.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L327-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "I can point out the row listing the afternoon crossing.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L327-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "The ferry leaving at six uses the lower gate.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L327-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "I see a board showing two departure times.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 42
+    },
+    {
+      "id": "L327-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "The boat waiting beside the red crane is ours.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L327-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Is a deckhand checking the tickets there?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 41
+    },
+    {
+      "id": "L327-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Yes, ask the sailor carrying a small scanner.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L327-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "My suitcase has a tag lying near the handle.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 44
+    },
+    {
+      "id": "L327-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Good. The crew loading bicycles uses the other ramp.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L327-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "We should reach the gangway before the line grows.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L327-en-listening-9",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "The crossing takes about twenty minutes when the tide is calm.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L327-en-vocab-gangway",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "gangway. The gangway opens after the crew checks the deck.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L327-en-vocab-deckhand",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "deckhand. A deckhand carrying a scanner checked our tickets.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L327-en-vocab-berth",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "berth. Our ferry has a berth beside the red crane.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L327-en-vocab-mooring",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "mooring. The mooring beside the pier is being repaired.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L327-en-vocab-tide",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "tide. The tide rising after lunch may slow the crossing.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L327-en-vocab-crossing",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "crossing. The crossing usually takes about twenty minutes.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L327-en-vocab-luggagetag",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "luggage tag. I found a luggage tag lying near the gate.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L327-en-vocab-slipway",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "slipway. The slipway shown on the harbour map is closed.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L327-en-vocab-dockside",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "dockside. A café standing dockside serves breakfast early.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L327-en-vocab-foghorn",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "foghorn. We heard the foghorn sounding across the harbour.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L327-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "The passenger carrying a red case is first in line.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L327-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "The ferry leaving at six stops at pier three.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L327-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ask the clerk showing the route map.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 36
+    },
+    {
+      "id": "L327-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "The passengers waiting beside the lower gate have blue tickets.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 63
+    },
+    {
+      "id": "L327-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "We spoke to a sailor checking the ropes near the bow.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L327-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "The boat carrying bicycles leaves after the school group.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L327-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "A family travelling with a dog needs a larger cabin.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L327-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "At the harbour, the family carrying two bicycles joined the queue beside the stone wall. A guide holding a yellow folder explained that the ferry stopping at the small island would leave first. The board showing the weather warning had been moved indoors, so a worker standing near the ticket desk answered questions. Children wearing bright coats waited with their grandparents, while a dog sleeping beneath a bench ignored the announcement. The crew loading boxes used a separate ramp. Before boarding, everyone checked the tag attached to each suitcase and followed the passengers walking towards the upper deck.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 615
+    },
+    {
+      "id": "L327-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L327)",
+      "tts_text": "به تابلوی حرکت نگاه کنید و از مسافر دربارهٔ قایق و ورودی درست بپرسید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L327-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L327)",
+      "tts_text": "وقتی اسم خودش کاری را انجام می‌دهد، می‌توانیم بند موصولی را با فعل ing کوتاه کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L327-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L327)",
+      "tts_text": "به گفت‌وگوی دو مسافر گوش دهید و ببینید کدام خدمه می‌تواند کمک کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L327-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L327)",
+      "tts_text": "عبارت کوتاه پس از اسم می‌آید و زمان را به‌تنهایی تعیین نمی‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L327-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L327)",
+      "tts_text": "یک مسیر را توضیح دهید و دست‌کم چهار اسم را با عبارت فعال ing مشخص کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L327-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L327)",
+      "tts_text": "در پایان، مطمئن شوید فاعل عبارت کوتاه و اسم توصیف‌شده یکی هستند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    }
+  ]
+}

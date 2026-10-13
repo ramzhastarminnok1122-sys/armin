@@ -1,0 +1,353 @@
+{
+  "lesson": "L330",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L330-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Having put the brushes away, I cleaned the sink.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L330-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "I have checked the window beside the workbench.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L330-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Having signed the sheet, you can return the key.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L330-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "I will place it inside the metal box.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 37
+    },
+    {
+      "id": "L330-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "The last bus leaves after the community choir finishes.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L330-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Good; having locked the door, we can catch it.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L330-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Having counted the chisels, I put them in the blue drawer.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L330-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "I have finished the inventory and signed the ledger.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L330-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Having checked the fuse box, did you lower the shutter?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L330-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Yes, but I have not filled in the sign-out sheet.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L330-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Do that before we leave for the bus stop.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 41
+    },
+    {
+      "id": "L330-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Having written down the missing clamp, I can lock the door.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L330-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Great. The treasurer has filed the invoice already.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L330-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Then, having switched off the lights, we can go.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L330-en-vocab-padlock",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "padlock. Having checked the padlock, Suri left the studio.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L330-en-vocab-ledger",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "ledger. Having signed the ledger, I returned the spare key.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L330-en-vocab-fusebox",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "fuse box. Having switched off the fuse box, Niko locked the room.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 65
+    },
+    {
+      "id": "L330-en-vocab-inventory",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "inventory. Having counted the inventory, we closed the storeroom.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 65
+    },
+    {
+      "id": "L330-en-vocab-workbench",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "workbench. Having cleared the workbench, Mara put away the clamps.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 66
+    },
+    {
+      "id": "L330-en-vocab-clamp",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "clamp. Having tightened the clamp, Jo tested the wooden frame.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L330-en-vocab-invoice",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "invoice. Having filed the invoice, the treasurer locked the cabinet.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 68
+    },
+    {
+      "id": "L330-en-vocab-shutter",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "shutter. Having lowered the shutter, we walked to the bus stop.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 63
+    },
+    {
+      "id": "L330-en-vocab-offcut",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "offcut. Having labelled each offcut, Lina stored the useful pieces.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 67
+    },
+    {
+      "id": "L330-en-vocab-signoutsheet",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "sign-out sheet. Having completed the sign-out sheet, we turned off the lights.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 78
+    },
+    {
+      "id": "L330-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Having checked the fuse box, we closed the workshop.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L330-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Having signed the ledger, Mara handed over the keys.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L330-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "After the team had left, the caretaker locked the gate.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L330-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Having checked the alarm, Ravi switched off the lights.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L330-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Having signed the visitor book, we joined the evening class.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L330-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "The caretaker locked the gate after the musicians had left.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L330-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Having stored the paints, Jo swept the floor near the sink.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L330-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "Having finished the evening class, the volunteers began their closing routine. One person checked the notices while another counted the brushes. Having returned each key to its hook, Mara filled in the sign-out sheet. The treasurer, having placed the invoices in a folder, checked the cabinet latch. A student still looking for a missing glove found it under the workbench. Once the group had switched off the lights, the caretaker tested the outer lock. Having made sure every window was shut, they walked together to the bus stop. The next morning, the room was ready for a new group.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 586
+    },
+    {
+      "id": "L330-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L330)",
+      "tts_text": "کارهای پایانی کلاس را به ترتیب نام ببرید و بگویید کدام کار زودتر تمام می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L330-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L330)",
+      "tts_text": "برای نشان دادن عمل کامل‌شدهٔ پیش از جملهٔ اصلی از ساختِ «having» و شکل سوم استفاده کنید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 88
+    },
+    {
+      "id": "L330-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L330)",
+      "tts_text": "به گفت‌وگوی دو همکار گوش دهید و برگه‌ای را که باید تکمیل شود پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L330-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L330)",
+      "tts_text": "فاعل بندِ «having» و جملهٔ اصلی باید یکی باشد؛ برای فاعل متفاوت بند کامل بیاورید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 81
+    },
+    {
+      "id": "L330-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L330)",
+      "tts_text": "ترتیب بستن اتاق را با دست‌کم سه بندِ «having» توضیح دهید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L330-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L330)",
+      "tts_text": "بند آغازین را بررسی کنید تا عمل آن واقعاً پیش از فعل اصلی کامل شده باشد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "lesson": "L001",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L001-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Bonjour, vous êtes nouvelle au café des langues ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L001-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, je suis Mina. Je m’appelle Mina.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L001-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Enchantée ! Moi, c’est Nora.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L001-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Vous êtes la professeure ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L001-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Non, je suis bénévole. Je m’appelle Nora.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L001-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Merci, Nora. Je peux m’asseoir ici ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L001-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Bien sûr. Le groupe commence bientôt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L001-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Très bien. Au revoir, à tout à l’heure !",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L001-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour ! C’est votre première visite au café des langues ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L001-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, je m’appelle Mina. Je découvre le groupe aujourd’hui.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L001-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Enchantée, Mina. Moi, c’est Nora.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L001-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Vous êtes étudiante ici ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L001-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Non, je suis bénévole. Je parle français le jeudi soir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L001-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Merci. Je peux m’asseoir à cette table ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L001-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Bien sûr. Vous préférez le thé ou le café ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L001-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Un thé, s’il vous plaît.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L001-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Voilà. Notre groupe commence dans quelques minutes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L001-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Au revoir à mon ancien groupe, bonjour au nouveau !",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L001-fr-vocab-bonjour",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "bonjour. Bonjour, madame. Je suis Léa.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L001-fr-vocab-bonsoir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "bonsoir. Bonsoir, monsieur. Vous êtes ici pour le cours ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L001-fr-vocab-salut",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "salut. Salut, Nora ! Tu es déjà au café ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L001-fr-vocab-aurevoir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "au revoir. Au revoir, madame. À demain !",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L001-fr-vocab-merci",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "merci. Merci pour votre aide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L001-fr-vocab-silvousplait",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "s’il vous plaît. Un thé, s’il vous plaît.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L001-fr-vocab-prenom",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "prénom. Mon prénom est Léa.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L001-fr-vocab-etre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "être. Je suis au café des langues.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L001-fr-vocab-je",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "je. Je suis nouvelle dans ce groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L001-fr-vocab-vous",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "vous. Vous êtes madame Martin ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L001-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Bonjour, madame. Je suis Léa.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L001-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Je m’appelle Léa.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 17
+    },
+    {
+      "id": "L001-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Vous êtes monsieur Bernard ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L001-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Merci et au revoir !",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L001-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je suis Lina.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 13
+    },
+    {
+      "id": "L001-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Vous êtes madame Dupont ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L001-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Je m’appelle Amir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L001-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Bonjour, monsieur. Un thé, s’il vous plaît.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L001-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Merci pour votre aide. Au revoir !",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L001-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Bonjour ! Je m’appelle Aïcha et je suis nouvelle au café des langues. Chaque mercredi, je retrouve un petit groupe dans ce café. Léa est bénévole ; elle accueille les participants et prépare les tables. Un soir, j’arrive avec mon ami Sami. Je dis bonjour à la responsable, puis je donne mon prénom. Elle me demande si je suis étudiante ici. Je réponds que je suis dessinatrice, mais j’aime apprendre le français. Nous commandons deux thés. Avant de partir, je remercie Léa pour son aide et je dis au revoir au groupe. La prochaine fois, je viendrai plus tôt et je présenterai Sami aux autres participants.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 605
+    },
+    {
+      "id": "L001-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L001)",
+      "tts_text": "پیش از شنیدن، دربارهٔ سلام رسمی و دوستانه در یک کافه فکر کن و یک روش کوتاه برای معرفی نامت آماده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 100
+    },
+    {
+      "id": "L001-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L001)",
+      "tts_text": "در این درس یاد می‌گیری چگونه با «bonjour» سلام کنی، با «je suis» خودت را معرفی کنی و برای گفتن نام از عبارت «je m’appelle» کمک بگیری. برای فرد ناآشنا از شکل مؤدبانهٔ «vous êtes» استفاده کن. واژهٔ «salut» دوستانه است و برای همهٔ موقعیت‌ها مناسب نیست.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 249
+    },
+    {
+      "id": "L001-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L001)",
+      "tts_text": "به گفت‌وگوی دو نفر در یک کافه گوش کن. توجه کن که گوینده برای فرد ناآشنا از کدام شکل مؤدبانه استفاده می‌کند، سپس به پرسش پاسخ بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 129
+    },
+    {
+      "id": "L001-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L001)",
+      "tts_text": "ضمیر «je» با شکل «suis» می‌آید؛ برای خطاب مؤدبانه از «vous êtes» استفاده کن. عبارت «je m’appelle» نام را معرفی می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 118
+    },
+    {
+      "id": "L001-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L001)",
+      "tts_text": "در یک کافه نقش خودت و میزبان را بازی کن: سلام کن، نامت را بگو، سفارش مؤدبانه بده و در پایان خداحافظی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 104
+    },
+    {
+      "id": "L001-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L001)",
+      "tts_text": "امروز یک سلام رسمی، یک معرفی و یک خداحافظی را تمرین کردی. در دیدار بعدی، اول به رسمی یا دوستانه بودن موقعیت توجه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 116
+    }
+  ]
+}

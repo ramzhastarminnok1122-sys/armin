@@ -1,0 +1,353 @@
+{
+  "lesson": "L337",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L337-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "I am at school to help with the tour.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 37
+    },
+    {
+      "id": "L337-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Which room is open to visitors?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 31
+    },
+    {
+      "id": "L337-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "The room beside the canteen is the art studio.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L337-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Can we visit the science building too?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 38
+    },
+    {
+      "id": "L337-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Yes, meet me at the science building entrance.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L337-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "I will wait there after the lecture.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 36
+    },
+    {
+      "id": "L337-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Are you at school already, or outside the building?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L337-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "I am outside the school near the river gate.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 44
+    },
+    {
+      "id": "L337-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "The open day begins in the courtyard.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 37
+    },
+    {
+      "id": "L337-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "I found a notice beside the canteen.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 36
+    },
+    {
+      "id": "L337-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Does the notice show where the lecture hall is?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L337-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Yes, the hall is above the old library.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 39
+    },
+    {
+      "id": "L337-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "The caretaker is opening the chapel for visitors.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L337-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Then I will meet you at the school entrance.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 44
+    },
+    {
+      "id": "L337-en-vocab-campus",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "campus. The campus opens before the first class.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L337-en-vocab-canteen",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "canteen. The canteen beside the library serves soup.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L337-en-vocab-chapel",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "chapel. A chapel stands near the old school gate.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L337-en-vocab-dormitory",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "dormitory. The dormitory closes during the summer break.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L337-en-vocab-lecturehall",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "lecture hall. A lecture hall is available for the open day.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L337-en-vocab-playground",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "playground. The playground behind the school has a new fence.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 61
+    },
+    {
+      "id": "L337-en-vocab-courtyard",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "courtyard. Visitors waited in the courtyard before the tour.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L337-en-vocab-admission",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "admission. Admission to the open day is free.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L337-en-vocab-caretaker",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "caretaker. The caretaker unlocked the science building.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L337-en-vocab-openday",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "open day. The open day begins with a short welcome.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L337-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "The children are at school until three.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 39
+    },
+    {
+      "id": "L337-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Meet me at the school near the river.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 37
+    },
+    {
+      "id": "L337-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "A visitor found a room; the room was unlocked.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L337-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Nadia is at school until the afternoon concert.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L337-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "The parents are waiting outside the school on Maple Road.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L337-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "A new student joined the tour; the student asked about the library.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 67
+    },
+    {
+      "id": "L337-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Admission to the chapel is free on open day.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 44
+    },
+    {
+      "id": "L337-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "On Saturday, a new family arrived for the school's open day. Their daughter was at school for the first time, so a student guide met them at the main building. A notice near the entrance listed the canteen, chapel, and lecture hall. The family first visited a classroom, then the classroom used by the science club. They waited in the courtyard while the caretaker unlocked a second building. Admission was free, but visitors needed a badge. At lunchtime, they ate in the canteen and asked about the dormitory. By the end of the tour, the daughter knew which building she would visit on Monday.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 594
+    },
+    {
+      "id": "L337-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L337)",
+      "tts_text": "به یک دانش‌آموز و یک بازدیدکننده فکر کنید و تفاوت محل حضورشان را توضیح دهید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L337-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L337)",
+      "tts_text": "حرف تعریف می‌تواند نشان دهد منظور نهاد است یا ساختمان مشخص آن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L337-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L337)",
+      "tts_text": "به گفت‌وگو گوش دهید و محل دیدار دو نفر را پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L337-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L337)",
+      "tts_text": "برای اشارهٔ نخست a یا an و برای مورد قابل‌شناسایی the را در نظر بگیرید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L337-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L337)",
+      "tts_text": "مسیر مدرسه را توضیح دهید و نهاد را از ساختمان مشخص جدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L337-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L337)",
+      "tts_text": "در کاربردهای نهادی به گونهٔ انگلیسی و معنای موقعیت توجه کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    }
+  ]
+}

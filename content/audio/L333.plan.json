@@ -1,0 +1,353 @@
+{
+  "lesson": "L333",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L333-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Polishing the fretboard is easier with this cloth.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L333-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "I am worried about removing the soundpost.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 42
+    },
+    {
+      "id": "L333-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Watching the luthier first should help.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 39
+    },
+    {
+      "id": "L333-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "The tuning peg also needs a little attention.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L333-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Turning it gently keeps the string from slipping.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L333-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Thanks; practising this adjustment feels worthwhile.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L333-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Repairing the cello takes more patience than I expected.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L333-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Checking the soundpost is the first careful job.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L333-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "I am interested in learning how the bridge pin fits.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L333-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Holding the instrument steady makes the work easier.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L333-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "The luthier says listening for resonance can reveal a loose joint.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 66
+    },
+    {
+      "id": "L333-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Applying rosin is useful, but it will not fix the peg.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L333-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Then we should start by cleaning the fretboard.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L333-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Yes, and following the woodgrain will protect the surface.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L333-en-vocab-soundboard",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "soundboard. Cleaning the soundboard gently protects the varnish.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 64
+    },
+    {
+      "id": "L333-en-vocab-fretboard",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "fretboard. Polishing the fretboard takes a soft cloth.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L333-en-vocab-intonation",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "intonation. Checking the intonation improves each note.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L333-en-vocab-resonance",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "resonance. Listening for resonance helps the repairer find a loose joint.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 73
+    },
+    {
+      "id": "L333-en-vocab-tuningpeg",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "tuning peg. Turning the tuning peg slowly changes the string's pitch.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 69
+    },
+    {
+      "id": "L333-en-vocab-luthier",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "luthier. A luthier works with wood and careful measurements.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L333-en-vocab-soundpost",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "soundpost. Replacing the soundpost requires a steady hand.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L333-en-vocab-rosin",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "rosin. Applying rosin helps the bow grip the strings.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L333-en-vocab-bridgepin",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "bridge pin. Removing a bridge pin can be difficult.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L333-en-vocab-woodgrain",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "woodgrain. Following the woodgrain prevents a rough cut.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L333-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Repairing the cello takes patience.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 35
+    },
+    {
+      "id": "L333-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mara is interested in learning the violin.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 42
+    },
+    {
+      "id": "L333-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "The adjustment took less than an hour.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 38
+    },
+    {
+      "id": "L333-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Cleaning the strings after practice protects their surface.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L333-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mina is interested in learning how the soundpost works.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L333-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "The careful repair of the bridge pin took one afternoon.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L333-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Listening for a clear tone helps the luthier.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L333-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "At the community music centre, repairing old instruments is part of the evening course. The tutor begins by checking the soundboard and listening for changes in resonance. Students practise cleaning each fretboard before touching a tuning peg. Learning to follow the woodgrain helps them avoid rough edges. One learner is interested in replacing a soundpost, while another prefers polishing the bridge. The luthier explains that careful listening often reveals a problem before any tool is used. By the end of the course, the group understands that patience matters as much as technical skill. Their first adjustment takes nearly an hour, but the clear tone is worth the effort.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 678
+    },
+    {
+      "id": "L333-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L333)",
+      "tts_text": "یک ساز را انتخاب کنید و چند فعالیت لازم برای مراقبت از آن را نام ببرید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L333-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L333)",
+      "tts_text": "عبارت ing می‌تواند خودِ فعالیت را فاعل جمله کند و مانند فعل مفعول بگیرد.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L333-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L333)",
+      "tts_text": "به گفت‌وگوی هنرجویان گوش دهید و کاری را که نخست انجام می‌دهند پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L333-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L333)",
+      "tts_text": "پس از حرف اضافه شکل ing می‌آید و عبارت فعالیتی معمولاً فعل مفرد می‌گیرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L333-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L333)",
+      "tts_text": "مراحل تعمیر یک ساز را با نام فعالیت‌ها و یک اسم فرایند توضیح دهید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L333-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L333)",
+      "tts_text": "بررسی کنید عبارت شما خودِ فعالیت را بیان می‌کند یا یک فرایند نام‌گذاری‌شده است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 79
+    }
+  ]
+}

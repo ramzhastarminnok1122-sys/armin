@@ -1,0 +1,362 @@
+{
+  "lesson": "L340",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L340-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "The path marked in blue stays above the nesting area.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L340-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Both teams have gloves, but neither has a tally sheet.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L340-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "What we need is a spare clipboard.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 34
+    },
+    {
+      "id": "L340-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "I can bring one from the lockkeeper's office.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L340-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Having checked the sacks, I will mark each label.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L340-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "It was the ranger who approved the upper route.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L340-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Having attended the safety briefing, we can choose a route.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L340-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Both banks are open, but neither has a refill station.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L340-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "The path marked in blue passes the nesting shorebirds.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L340-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Then either team can take the upper lane instead.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L340-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Sorting the glass will need a separate collection sack.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L340-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "The lockkeeper has offered a safe access point.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L340-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "What we need now is a clear tally sheet.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 40
+    },
+    {
+      "id": "L340-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Once the briefing is finished, we can begin the clean-up.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L340-en-vocab-tallysheet",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "tally sheet. The tally sheet recorded every full sack.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L340-en-vocab-biodegradable",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "biodegradable. Biodegradable bags break down more easily.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L340-en-vocab-shorebird",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "shorebird. A shorebird nesting near the canal needs space.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L340-en-vocab-refillstation",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "refill station. Both teams filled their bottles at the refill station.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 70
+    },
+    {
+      "id": "L340-en-vocab-litterpicker",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "litter picker. The litter picker beside the gate was missing a handle.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 70
+    },
+    {
+      "id": "L340-en-vocab-disposable",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "disposable. The group avoided disposable cups during the event.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 63
+    },
+    {
+      "id": "L340-en-vocab-safetybriefing",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "safety briefing. Having attended the safety briefing, we checked the gloves.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 76
+    },
+    {
+      "id": "L340-en-vocab-collectionsack",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "collection sack. The collection sack labelled glass stayed near the path.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 73
+    },
+    {
+      "id": "L340-en-vocab-sediment",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "sediment. Both banks held a thin layer of sediment.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L340-en-vocab-lockkeeper",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "lockkeeper. The lockkeeper showed us the safest access point.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 61
+    },
+    {
+      "id": "L340-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Both teams checked the banks before starting.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L340-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Having attended the briefing, we collected the sacks.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L340-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "What we needed was a safer access point.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 40
+    },
+    {
+      "id": "L340-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Having attended the safety briefing, both teams collected the sacks.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 68
+    },
+    {
+      "id": "L340-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "The sacks labelled for glass were placed beside the gate.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L340-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Sorting the bottles took longer than expected.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L340-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "What the volunteers needed was a safer access point.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L340-en-examples-5",
+      "role": "EN-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Neither bank was safe for the nesting shorebird.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L340-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "Having attended the safety briefing, the volunteers compared both sides of the canal. The path marked in blue passed close to a nesting shorebird, so neither team used it. A lockkeeper suggested an upper lane that reached the water safely. Sorting glass required a separate collection sack, while a refill station kept plastic bottles out of the rubbish. What the group needed was a clear tally sheet for each team. The volunteers chose reusable gloves and avoided disposable cups. By midday, both banks had been checked, and the report listed the sediment removed from the access steps. The clean-up ended before the rain arrived.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 631
+    },
+    {
+      "id": "L340-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L340)",
+      "tts_text": "پیش از پاک‌سازی دو مسیر را بسنجید و اطلاعات لازم برای انتخاب را نام ببرید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L340-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L340)",
+      "tts_text": "ساخت‌های مختلف را بر اساس نقش اسم، ترتیب عمل و تعداد گزینه‌ها انتخاب کنید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L340-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L340)",
+      "tts_text": "به برنامهٔ پاک‌سازی گوش دهید و مدرکی را که هنوز لازم است پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L340-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L340)",
+      "tts_text": "در ویرایش، فاعل بندهای آغازین و مرجع اسم‌ها را بررسی کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L340-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L340)",
+      "tts_text": "برای دو گروه برنامه بسازید و ساخت‌های آموخته‌شده را در یک گزارش پیوند دهید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L340-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L340)",
+      "tts_text": "یک بار دیگر مطمئن شوید هر کمیت‌نما و حرف تعریف به گزینهٔ درست اشاره می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 75
+    }
+  ]
+}

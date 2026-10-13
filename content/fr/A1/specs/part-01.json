@@ -1,0 +1,454 @@
+{
+  "language": "fr",
+  "level": "A1",
+  "batch": 1,
+  "note": "French-native pilot lesson L001. Test the language-aware build and plan pipeline in isolation before expanding the language.",
+  "lessons": [
+    {
+      "n": 1,
+      "title": "Bonjour, je m’appelle Léa",
+      "subtitle": "Saluer et donner son nom",
+      "desc": "Faites connaissance dans un café de quartier et choisissez entre une salutation amicale et une formule polie.",
+      "min": 15,
+      "topic": "سلام و معرفی در کافهٔ گفت‌وگوی زبان",
+      "obj": [
+        "سلام رسمی و دوستانه را از هم تشخیص دهید",
+        "خود را با je suis و je m’appelle معرفی کنید",
+        "برای خطاب مؤدبانه از vous استفاده کنید"
+      ],
+      "notes": "Pilot only. Native-language content is schema-validated; voice audio is not present and remains in the audio backlog.",
+      "warm": {
+        "p": "پیش از شروع، به دیدار کوتاهی در یک کافه فکر کنید. چه زمانی رسمی‌تر سلام می‌کنید و چگونه نام خود را روشن و مؤدبانه می‌گویید؟",
+        "q": [
+          [
+            "در چه موقعیتی از یک سلام رسمی‌تر استفاده می‌کنید؟",
+            "به فرد ناآشنا یا مسئول یک مکان فکر کنید."
+          ],
+          [
+            "برای پایان یک گفت‌وگوی کوتاه چه می‌گویید؟",
+            "از یک عبارت خداحافظی مناسب استفاده کنید."
+          ]
+        ]
+      },
+      "expl": {
+        "title": "سلام و معرفی کوتاه",
+        "body": "در نخستین دیدار، یک سلام کوتاه و معرفی ساده کافی است. در زبان فرانسوی، ضمیر فاعلی معمولاً پیش از فعل می‌آید و شکل فعل با ضمیر تغییر می‌کند. برای گفتن «من هستم» می‌گوییم «je suis» و برای خطاب مؤدبانه یا جمع از «vous êtes» استفاده می‌کنیم. عبارت «je m’appelle» هم راهی رایج برای گفتن نام است و بهتر است آن را یک‌جا تمرین کنید. در آغاز روز، «bonjour» را به‌کار ببرید؛ عصرها «bonsoir» مناسب است. «salut» دوستانه و غیررسمی است، پس برای فرد ناآشنا یا موقعیت رسمی از آن استفاده نکنید. برای پایان گفت‌وگو می‌توانید «au revoir» بگویید و پس از دریافت کمک «merci» اضافه کنید. در تمرین، اول نوع رابطه را بسنجید و سپس ضمیر و سلام مناسب را انتخاب کنید.",
+        "kp": [
+          "ضمیر فاعلی را پیش از فعل بیاورید.",
+          "برای موقعیت مؤدبانه، vous را انتخاب کنید.",
+          "سلام دوستانه را با موقعیت رسمی اشتباه نگیرید."
+        ]
+      },
+      "vocab": [
+        [
+          "bonjour",
+          "/bɔ̃.ʒuʁ/",
+          "سلام، روز بخیر",
+          "Bonjour, madame. Je suis Léa.",
+          "سلام، خانم. من لئا هستم.",
+          "عبارت"
+        ],
+        [
+          "bonsoir",
+          "/bɔ̃.swaʁ/",
+          "عصر بخیر، شب بخیر هنگام دیدار",
+          "Bonsoir, monsieur. Vous êtes ici pour le cours ?",
+          "عصر بخیر، آقا. شما برای کلاس اینجا هستید؟",
+          "عبارت"
+        ],
+        [
+          "salut",
+          "/sa.ly/",
+          "سلام دوستانه، خداحافظ دوستانه",
+          "Salut, Nora ! Tu es déjà au café ?",
+          "سلام نورا! تو از قبل در کافه هستی؟",
+          "عبارت"
+        ],
+        [
+          "au revoir",
+          "/o ʁə.vwaʁ/",
+          "خداحافظ",
+          "Au revoir, madame. À demain !",
+          "خداحافظ، خانم. تا فردا!",
+          "عبارت"
+        ],
+        [
+          "merci",
+          "/mɛʁ.si/",
+          "متشکرم",
+          "Merci pour votre aide.",
+          "برای کمک شما متشکرم.",
+          "عبارت"
+        ],
+        [
+          "s’il vous plaît",
+          "/sil vu plɛ/",
+          "لطفاً، خواهش می‌کنم",
+          "Un thé, s’il vous plaît.",
+          "یک چای، لطفاً.",
+          "عبارت"
+        ],
+        [
+          "prénom",
+          "/pʁe.nɔ̃/",
+          "نام کوچک",
+          "Mon prénom est Léa.",
+          "نام کوچک من لئا است.",
+          "اسم"
+        ],
+        [
+          "être",
+          "/ɛtʁ/",
+          "بودن",
+          "Je suis au café des langues.",
+          "من در کافهٔ گفت‌وگوی زبان هستم.",
+          "فعل"
+        ],
+        [
+          "je",
+          "/ʒə/",
+          "من؛ ضمیر فاعلی",
+          "Je suis nouvelle dans ce groupe.",
+          "من در این گروه تازه‌وارد هستم.",
+          "ضمیر"
+        ],
+        [
+          "vous",
+          "/vu/",
+          "شما؛ خطاب مؤدبانه یا جمع",
+          "Vous êtes madame Martin ?",
+          "شما خانم مارتن هستید؟",
+          "ضمیر"
+        ]
+      ],
+      "gram": {
+        "title": "ضمیر فاعلی با فعل être",
+        "exp": "در جملهٔ فرانسوی، ضمیر فاعلی معمولاً حذف نمی‌شود: «je suis» یعنی من هستم و «vous êtes» برای شما هستید به‌کار می‌رود. فعل «être» در زمان حال با شخص هماهنگ می‌شود؛ این درس دو شکل پرکاربرد suis و êtes را تمرین می‌کند. در معرفی نام، عبارت ثابت «je m’appelle» طبیعی است. برای یک دوست می‌توان از «tu» استفاده کرد، اما با فرد ناآشنا، بزرگسال یا در موقعیت مؤدبانه «vous» را برگزینید. «salut» صمیمی است؛ «bonjour» انتخاب امن‌تری برای شروع است. در فرانسوی میان واژه‌ها معمولاً فاصله می‌آید و در جملهٔ پرسشی نشانهٔ سؤال را فراموش نکنید.",
+        "pattern": "je + suis · vous + êtes · je m’appelle + prénom",
+        "rows": [
+          [
+            "سلام رسمی",
+            "Bonjour, madame. Je suis Léa.",
+            "سلام، خانم. من لئا هستم."
+          ],
+          [
+            "معرفی نام",
+            "Je m’appelle Léa.",
+            "نام من لئا است."
+          ],
+          [
+            "خطاب مؤدبانه",
+            "Vous êtes monsieur Bernard ?",
+            "شما آقای برنار هستید؟"
+          ],
+          [
+            "پایان گفت‌وگو",
+            "Merci et au revoir !",
+            "ممنون و خداحافظ!"
+          ]
+        ],
+        "pit": [
+          "برای «من هستم» نگویید je es؛ شکل درست je suis است.",
+          "در موقعیت رسمی، tu را با vous جایگزین کنید."
+        ]
+      },
+      "ex": [
+        [
+          "Je suis Lina.",
+          "من لینا هستم.",
+          "ضمیر je پیش از شکل درست فعل être آمده است."
+        ],
+        [
+          "Vous êtes madame Dupont ?",
+          "شما خانم دوپون هستید؟",
+          "vous در اینجا خطاب مؤدبانه است."
+        ],
+        [
+          "Je m’appelle Amir.",
+          "نام من امیر است.",
+          "این عبارت رایج برای معرفی نام است."
+        ],
+        [
+          "Bonjour, monsieur. Un thé, s’il vous plaît.",
+          "سلام، آقا. یک چای، لطفاً.",
+          "سلام و درخواست مؤدبانه در یک موقعیت روزمره آمده‌اند."
+        ],
+        [
+          "Merci pour votre aide. Au revoir !",
+          "برای کمک شما متشکرم. خداحافظ!",
+          "merci برای سپاسگزاری و au revoir برای خداحافظی است."
+        ]
+      ],
+      "lst": {
+        "t": "Une rencontre au café des langues",
+        "script": "Nora: Bonjour ! C’est votre première visite au café des langues ?\nMina: Oui, je m’appelle Mina. Je découvre le groupe aujourd’hui.\nNora: Enchantée, Mina. Moi, c’est Nora.\nMina: Vous êtes étudiante ici ?\nNora: Non, je suis bénévole. Je parle français le jeudi soir.\nMina: Merci. Je peux m’asseoir à cette table ?\nNora: Bien sûr. Vous préférez le thé ou le café ?\nMina: Un thé, s’il vous plaît.\nNora: Voilà. Notre groupe commence dans quelques minutes.\nMina: Au revoir à mon ancien groupe, bonjour au nouveau !",
+        "script_fa": "نورا: سلام! این نخستین بازدید شما از کافهٔ گفت‌وگوی زبان است؟\nمینا: بله، نامم میناست. امروز با گروه آشنا می‌شوم.\nنورا: از آشنایی با شما خوشحالم، مینا. من نورا هستم.\nمینا: شما اینجا دانشجو هستید؟\nنورا: نه، من داوطلبم. پنجشنبه‌شب‌ها فرانسوی صحبت می‌کنم.\nمینا: ممنون. می‌توانم پشت این میز بنشینم؟\nنورا: البته. چای ترجیح می‌دهید یا قهوه؟\nمینا: یک چای، لطفاً.\nنورا: بفرمایید. گروه ما چند دقیقهٔ دیگر شروع می‌شود.\nمینا: با گروه قبلی‌ام خداحافظ، و به گروه تازه سلام!",
+        "q": "Comment s’appelle la nouvelle participante ?",
+        "a": "Elle s’appelle Mina."
+      },
+      "listening_roles": {
+        "Nora": "FR-CHAR-A",
+        "Mina": "FR-CHAR-B"
+      },
+      "dlg": {
+        "t": "Faire connaissance au café",
+        "lines": [
+          [
+            "A",
+            "Bonjour, vous êtes nouvelle au café des langues ?",
+            "سلام، شما در کافهٔ گفت‌وگوی زبان تازه‌وارد هستید؟"
+          ],
+          [
+            "B",
+            "Oui, je suis Mina. Je m’appelle Mina.",
+            "بله، من مینا هستم. نامم میناست."
+          ],
+          [
+            "A",
+            "Enchantée ! Moi, c’est Nora.",
+            "از آشنایی خوشحالم! من نورا هستم."
+          ],
+          [
+            "B",
+            "Vous êtes la professeure ?",
+            "شما معلم هستید؟"
+          ],
+          [
+            "A",
+            "Non, je suis bénévole. Je m’appelle Nora.",
+            "نه، من داوطلبم. نامم نوراست."
+          ],
+          [
+            "B",
+            "Merci, Nora. Je peux m’asseoir ici ?",
+            "ممنون، نورا. می‌توانم اینجا بنشینم؟"
+          ],
+          [
+            "A",
+            "Bien sûr. Le groupe commence bientôt.",
+            "البته. گروه به‌زودی شروع می‌شود."
+          ],
+          [
+            "B",
+            "Très bien. Au revoir, à tout à l’heure !",
+            "خیلی خوب. خداحافظ، تا کمی بعد!"
+          ]
+        ]
+      },
+      "spk": {
+        "task": "در نقش زبان‌آموز یا میزبان در یک کافه، گفت‌وگویی کوتاه برای آشنایی اجرا کنید. با سلام مناسب شروع کنید، نام خود را بگویید، با ضمیر مؤدبانه یک پرسش بپرسید، یک نوشیدنی سفارش دهید و گفت‌وگو را محترمانه پایان دهید.",
+        "ph": [
+          [
+            "Bonjour, je m’appelle Léa.",
+            "سلام، نام من لئا است."
+          ],
+          [
+            "Vous êtes ici pour le cours ?",
+            "شما برای کلاس اینجا هستید؟"
+          ],
+          [
+            "Un thé, s’il vous plaît.",
+            "یک چای، لطفاً."
+          ],
+          [
+            "Merci, au revoir !",
+            "ممنون، خداحافظ!"
+          ]
+        ],
+        "sec": 180
+      },
+      "read": {
+        "title": "Une première visite au café des langues",
+        "text": "Bonjour ! Je m’appelle Aïcha et je suis nouvelle au café des langues. Chaque mercredi, je retrouve un petit groupe dans ce café. Léa est bénévole ; elle accueille les participants et prépare les tables. Un soir, j’arrive avec mon ami Sami. Je dis bonjour à la responsable, puis je donne mon prénom. Elle me demande si je suis étudiante ici. Je réponds que je suis dessinatrice, mais j’aime apprendre le français. Nous commandons deux thés. Avant de partir, je remercie Léa pour son aide et je dis au revoir au groupe. La prochaine fois, je viendrai plus tôt et je présenterai Sami aux autres participants.",
+        "gloss": [
+          [
+            "bénévole",
+            "داوطلب"
+          ],
+          [
+            "accueillir",
+            "پذیرایی یا استقبال کردن"
+          ],
+          [
+            "responsable",
+            "مسئول"
+          ],
+          [
+            "dessinatrice",
+            "طراح یا نقاش زن"
+          ]
+        ],
+        "qs": [
+          [
+            "آیشا هر چهارشنبه کجا می‌رود؟",
+            "Au café des langues."
+          ],
+          [
+            "لئا چه نقشی دارد؟",
+            "Elle est bénévole."
+          ],
+          [
+            "چه کسی همراه آیشا می‌آید؟",
+            "Son ami Sami."
+          ]
+        ]
+      },
+      "exr": [
+        [
+          "mcq",
+          "شکل درست فعل را انتخاب کنید.",
+          "Je ___ nouvelle au café.",
+          [
+            "suis",
+            "es",
+            "êtes"
+          ],
+          "suis",
+          "با ضمیر je شکل suis از فعل être می‌آید."
+        ],
+        [
+          "mcq",
+          "برای خطاب مؤدبانه کدام ضمیر را به‌کار می‌برید؟",
+          "___ êtes madame Martin ?",
+          [
+            "Vous",
+            "Tu",
+            "Je"
+          ],
+          "Vous",
+          "vous برای خطاب مؤدبانه یا جمع به‌کار می‌رود."
+        ],
+        [
+          "truefalse",
+          "درست یا نادرست؟",
+          "در موقعیت رسمی می‌توان به فرد ناآشنا گفت «Salut»؟",
+          "False",
+          "«salut» دوستانه و غیررسمی است."
+        ],
+        [
+          "mcq",
+          "شکل مناسب فعل را برای خطاب مؤدبانه انتخاب کنید.",
+          "Vous ___ au café.",
+          [
+            "êtes",
+            "suis",
+            "es"
+          ],
+          "êtes",
+          "با vous در این جمله شکل êtes از فعل être می‌آید."
+        ],
+        [
+          "fill",
+          "شکل درست être را بنویسید.",
+          "Vous ___ ici pour le cours ?",
+          [
+            "êtes"
+          ],
+          "با vous در این مثال شکل êtes می‌آید."
+        ],
+        [
+          "short",
+          "با عبارت معرفی نام پاسخ دهید.",
+          "Comment vous appelez-vous ?",
+          [
+            "Je m’appelle Mina.",
+            "Je m’appelle Léa."
+          ],
+          "Je m’appelle راه رایج معرفی نام است."
+        ]
+      ],
+      "quiz": [
+        [
+          "Quelle formule convient à une première rencontre polie ?",
+          [
+            "Bonjour",
+            "Salut",
+            "À plus"
+          ],
+          0,
+          "Bonjour convient à une rencontre polie et reste naturel dans ce contexte."
+        ],
+        [
+          "Complétez : « Je ___ Mina. »",
+          [
+            "suis",
+            "êtes",
+            "es"
+          ],
+          0,
+          "Le sujet je se conjugue avec suis."
+        ],
+        [
+          "Quel pronom peut marquer la politesse ?",
+          [
+            "vous",
+            "tu seulement",
+            "je"
+          ],
+          0,
+          "Vous s’emploie pour une personne que l’on vouvoie ou pour plusieurs personnes."
+        ],
+        [
+          "Que signifie « s’il vous plaît » ?",
+          [
+            "لطفاً",
+            "خداحافظ",
+            "نام کوچک"
+          ],
+          0,
+          "Cette expression rend une demande plus polie."
+        ],
+        [
+          "Quelle expression présente son prénom ?",
+          [
+            "Je m’appelle Mina.",
+            "Au revoir Mina.",
+            "Merci Mina."
+          ],
+          0,
+          "Je m’appelle est une formule usuelle pour donner son nom."
+        ]
+      ],
+      "ai": {
+        "task": "نقش میزبان یک کافهٔ گفت‌وگوی زبان را بگیرید و از زبان‌آموزی که تازه وارد شده استقبال کنید. سلام مناسب بگویید، نام او را بپرسید، خودتان را معرفی کنید و برای یک سفارش ساده کمکش کنید. اگر زبان‌آموز میان خطاب دوستانه و مؤدبانه اشتباه کرد، تفاوت را کوتاه و روشن توضیح دهید.",
+        "prompts": [
+          "Accueillez une nouvelle personne au café.",
+          "Demandez son prénom avec politesse.",
+          "Aidez-la à commander un thé.",
+          "Terminez la rencontre avec une formule adaptée."
+        ],
+        "focus": [
+          "سلام رسمی و دوستانه",
+          "ضمیر فاعلی و فعل être",
+          "معرفی نام و سفارش مؤدبانه"
+        ]
+      },
+      "fa": [
+        [
+          "warmup",
+          "پیش از شنیدن، دربارهٔ سلام رسمی و دوستانه در یک کافه فکر کن و یک روش کوتاه برای معرفی نامت آماده کن."
+        ],
+        [
+          "explanation",
+          "در این درس یاد می‌گیری چگونه با «bonjour» سلام کنی، با «je suis» خودت را معرفی کنی و برای گفتن نام از عبارت «je m’appelle» کمک بگیری. برای فرد ناآشنا از شکل مؤدبانهٔ «vous êtes» استفاده کن. واژهٔ «salut» دوستانه است و برای همهٔ موقعیت‌ها مناسب نیست."
+        ],
+        [
+          "listening-intro",
+          "به گفت‌وگوی دو نفر در یک کافه گوش کن. توجه کن که گوینده برای فرد ناآشنا از کدام شکل مؤدبانه استفاده می‌کند، سپس به پرسش پاسخ بده."
+        ],
+        [
+          "grammar-note",
+          "ضمیر «je» با شکل «suis» می‌آید؛ برای خطاب مؤدبانه از «vous êtes» استفاده کن. عبارت «je m’appelle» نام را معرفی می‌کند."
+        ],
+        [
+          "speaking",
+          "در یک کافه نقش خودت و میزبان را بازی کن: سلام کن، نامت را بگو، سفارش مؤدبانه بده و در پایان خداحافظی کن."
+        ],
+        [
+          "closing",
+          "امروز یک سلام رسمی، یک معرفی و یک خداحافظی را تمرین کردی. در دیدار بعدی، اول به رسمی یا دوستانه بودن موقعیت توجه کن."
+        ]
+      ]
+    }
+  ]
+}

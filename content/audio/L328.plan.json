@@ -1,0 +1,353 @@
+{
+  "lesson": "L328",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L328-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "I found a scarf folded on the back row.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 39
+    },
+    {
+      "id": "L328-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Can you describe the pattern stitched near its edge?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L328-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "It has a green leaf embroidered on one corner.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L328-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "That matches the scarf brought to the desk yesterday.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L328-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "A receipt tucked inside the pocket has my name.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L328-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Then the item can be returned after a quick check.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L328-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "The keyring found beside the stage has three keys.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L328-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Is there a name engraved on the largest one?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 44
+    },
+    {
+      "id": "L328-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "No, but the brooch recovered after the show has initials.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L328-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "The claimant waiting by the cloakroom described a silver clasp.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 63
+    },
+    {
+      "id": "L328-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "The lanyard left in the dressing room belongs to a visitor.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L328-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "What about the parcel wrapped in green paper?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L328-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Its counterfoil was kept by the box office.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 43
+    },
+    {
+      "id": "L328-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Then we can return the labelled items before the doors open again.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 66
+    },
+    {
+      "id": "L328-en-vocab-keyring",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "keyring. The keyring found beside the stage has three brass keys.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 65
+    },
+    {
+      "id": "L328-en-vocab-engraving",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "engraving. The engraving on the clasp names the owner.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L328-en-vocab-claimant",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "claimant. The claimant described a tiny scratch near the ring.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L328-en-vocab-lanyard",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "lanyard. A lanyard left in the dressing room was blue.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L328-en-vocab-brooch",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "brooch. The brooch recovered after the show belonged to Mina.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 61
+    },
+    {
+      "id": "L328-en-vocab-inscription",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "inscription. An inscription hidden inside the case gave a date.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 63
+    },
+    {
+      "id": "L328-en-vocab-unclaimed",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "unclaimed. Unclaimed coats are kept until the end of the month.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 63
+    },
+    {
+      "id": "L328-en-vocab-counterfoil",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "counterfoil. Keep the counterfoil given at the cloakroom desk.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L328-en-vocab-cloakroom",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "cloakroom. The scarf found in the cloakroom was folded neatly.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L328-en-vocab-labelled",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "labelled. Every labelled parcel is stored in a locked cabinet.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L328-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "The keys found beneath the bench were returned.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L328-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "The chair repaired by Jo is back in the lobby.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L328-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "The notice posted beside the box lists the opening hours.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L328-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "The umbrella left beside the ticket desk belongs to me.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L328-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "A parcel wrapped in brown paper arrived this morning.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L328-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "The programme printed for the matinee has a blue cover.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L328-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Names written inside the books helped the volunteers.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L328-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "When the curtain fell, volunteers placed every item found in the auditorium on a long table. A notebook covered with green cloth was opened only after its owner described a silver sticker. The scarf left near the orchestra seats had a name stitched inside, while the glasses discovered beneath a programme were still warm. A parcel wrapped in newspaper contained a costume badge, not a wallet. The manager posted a list of unclaimed objects beside the entrance and asked visitors to speak to the assistant wearing a yellow ribbon. By closing time, almost everything had been returned to its owner.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 597
+    },
+    {
+      "id": "L328-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L328)",
+      "tts_text": "به وسیله‌های روی میز نگاه کنید و از صاحب احتمالی هرکدام نشانه‌ای بپرسید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L328-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L328)",
+      "tts_text": "شکل سوم بعد از اسم می‌آید و نشان می‌دهد عمل بر آن اسم انجام شده است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L328-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L328)",
+      "tts_text": "به گفت‌وگوی داوطلبان گوش دهید و وسیله‌ای را که حروف اول دارد پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L328-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L328)",
+      "tts_text": "اگر اسم عمل را دریافت می‌کند، بند مجهول را با شکل سوم کوتاه کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L328-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L328)",
+      "tts_text": "وسایل گمشده را دقیق توصیف کنید و از صاحبان احتمالی پرسش کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L328-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L328)",
+      "tts_text": "پیش از انتخاب ing یا شکل سوم، نقش اسم را در عمل بررسی کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    }
+  ]
+}

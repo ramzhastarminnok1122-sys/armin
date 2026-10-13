@@ -1,0 +1,353 @@
+{
+  "lesson": "L334",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L334-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "The inspection of the balcony begins at noon.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L334-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Who will inspect the seats near the stage?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 42
+    },
+    {
+      "id": "L334-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "The caretaker will check them with the repair team.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L334-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "The replacement of the old carpet is finished.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L334-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "The committee approved the colour after a short meeting.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L334-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Then we can announce the hall's reopening.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 42
+    },
+    {
+      "id": "L334-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "The restoration of the hall is nearly complete.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L334-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Did the inspection find any serious damage?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 43
+    },
+    {
+      "id": "L334-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Only one loose hinge needed replacement.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 40
+    },
+    {
+      "id": "L334-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "The committee's approval arrived yesterday.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 43
+    },
+    {
+      "id": "L334-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Attendance for the first concert is already strong.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L334-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Has registration opened for the next performance?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L334-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Yes, but regular maintenance will continue after reopening.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L334-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Good. The careful adjustment of the stage lights improved the acoustics.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 72
+    },
+    {
+      "id": "L334-en-vocab-restoration",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "restoration. The restoration of the hall preserved its warm sound.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 66
+    },
+    {
+      "id": "L334-en-vocab-adjustment",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "adjustment. A small adjustment improved the stage lights.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L334-en-vocab-attendance",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "attendance. Attendance increased after the hall reopened.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L334-en-vocab-replacement",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "replacement. The replacement of the front doors reduced outside noise.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 70
+    },
+    {
+      "id": "L334-en-vocab-maintenance",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "maintenance. Regular maintenance protects the wooden floor.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L334-en-vocab-inspection",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "inspection. The inspection found two loose seat hinges.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L334-en-vocab-approval",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "approval. The committee's approval arrived before the concert.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L334-en-vocab-refusal",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "refusal. Her refusal to remove the old mural saved it.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L334-en-vocab-shipment",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "shipment. The shipment of new chairs arrived on Monday.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L334-en-vocab-registration",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "registration. Registration for the opening concert is free.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L334-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "The team inspected the hall.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 28
+    },
+    {
+      "id": "L334-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "The inspection of the hall took two hours.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 42
+    },
+    {
+      "id": "L334-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "The committee's approval arrived on Friday.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 43
+    },
+    {
+      "id": "L334-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "The replacement of the cracked window improved the room.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L334-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "The crew replaced the window before the concert.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L334-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Regular maintenance keeps the stage floor safe.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L334-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "The committee approved the plan after one meeting.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L334-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "The village committee approved a three-month restoration of the concert hall. The first inspection found loose hinges and a damaged panel beside the stage. The replacement of those parts reduced noise from the street. Attendance had fallen in recent years, but registration for the reopening concert filled quickly. Regular maintenance is now included in the annual budget. The report also records the committee's refusal to remove the painted ceiling, which local residents value. Some paragraphs use nouns such as approval and replacement to summarise work, while others name the team that completed it. This balance keeps the report both concise and clear.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 659
+    },
+    {
+      "id": "L334-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L334)",
+      "tts_text": "برای گزارش تعمیر سالن، چند فرایند و نتیجهٔ آن‌ها را نام ببرید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L334-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L334)",
+      "tts_text": "اسم مشتق می‌تواند فرایند را خلاصه کند، اما همیشه جای فعل روشن را نمی‌گیرد.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L334-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L334)",
+      "tts_text": "به گفت‌وگوی برگزارکنندگان گوش دهید و قطعه‌ای را که باید جایگزین شود پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L334-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L334)",
+      "tts_text": "اسم‌هایی با پسوندهای گوناگون را در بافت یاد بگیرید؛ شکل همهٔ آن‌ها قابل حدس نیست.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 81
+    },
+    {
+      "id": "L334-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L334)",
+      "tts_text": "گزارش تعمیر را با تعادل میان اسم فرایند و جملهٔ فعلی ارائه دهید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L334-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L334)",
+      "tts_text": "اگر عامل عمل مهم است، آن را با فاعل و فعل آشکار بیان کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    }
+  ]
+}

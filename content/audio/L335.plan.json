@@ -1,0 +1,353 @@
+{
+  "lesson": "L335",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L335-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "It was the keeper who found the boathouse key.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L335-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "I thought you found it near the cove.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 37
+    },
+    {
+      "id": "L335-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "No, it was beside the wooden marker.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 36
+    },
+    {
+      "id": "L335-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "And was it the lantern that lit the path?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 41
+    },
+    {
+      "id": "L335-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Yes, the beacon was out that evening.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 37
+    },
+    {
+      "id": "L335-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "That explains why the light looked so faint.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 44
+    },
+    {
+      "id": "L335-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "It was the lantern that showed me the path.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 43
+    },
+    {
+      "id": "L335-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "I thought the beacon near the inlet had guided you.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L335-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "No, it was the keeper who carried the lantern.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L335-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "When did you reach the boathouse?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 33
+    },
+    {
+      "id": "L335-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "It was just after dusk that we saw the faint glow.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L335-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Was the path beside the reed bed?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 33
+    },
+    {
+      "id": "L335-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Yes, but it was the wooden marker that kept us from turning back.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 65
+    },
+    {
+      "id": "L335-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Then the lamplight was more useful than the map.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L335-en-vocab-boathouse",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "boathouse. The boathouse stands beyond the old stone steps.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L335-en-vocab-wick",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "wick. The wick burned low before we reached the shore.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L335-en-vocab-tinderbox",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "tinderbox. A tinderbox kept the spare matches dry.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L335-en-vocab-beacon",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "beacon. The beacon flashed above the narrow inlet.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L335-en-vocab-faint",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "faint. A faint glow appeared beyond the reed beds.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L335-en-vocab-shoreline",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "shoreline. Walking along the shoreline, we found a wooden marker.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 65
+    },
+    {
+      "id": "L335-en-vocab-lamplight",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "lamplight. The lamplight reached the path but not the water.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L335-en-vocab-cove",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "cove. A quiet cove sheltered the rowing boat.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L335-en-vocab-oarlock",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "oarlock. The oarlock needed oil before the crossing.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L335-en-vocab-reedbed",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "reed bed. A reed bed hid the path from the road.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L335-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "It was the lantern that showed us the shore.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 44
+    },
+    {
+      "id": "L335-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "It was Jo who found the boathouse key.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 38
+    },
+    {
+      "id": "L335-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "It was after dusk that the beacon appeared.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 43
+    },
+    {
+      "id": "L335-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "It was the keeper who lit the lantern before sunset.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L335-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "It was the beacon that guided the rowers through the cove.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L335-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "It was on Friday that the boathouse reopened.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L335-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "The lantern showed us the way to the shore.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 43
+    },
+    {
+      "id": "L335-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "The rowing group reached the shoreline after dusk and could not see the boathouse. A faint light appeared beyond a bed of reeds. One visitor believed that the beacon had flashed, but it was the keeper who had carried a lantern along the path. The wooden marker, not the map, showed the final turn. It was the lamplight that helped the group avoid the rocks near the cove. Once everyone was inside, the keeper explained that the beacon had failed earlier that evening. The next morning, the volunteers repaired it. The story was simple, but the group remembered exactly which light had guided them.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 597
+    },
+    {
+      "id": "L335-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L335)",
+      "tts_text": "در یک داستان شبانه، بگویید چه وسیله‌ای یا چه کسی مسیر را روشن کرد.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L335-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L335)",
+      "tts_text": "برای برجسته کردن یک بخش می‌توان it و فعل be را پیش از آن آورد.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L335-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L335)",
+      "tts_text": "به گفت‌وگو گوش دهید و وسیله‌ای را که واقعاً مسیر را نشان داد پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L335-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L335)",
+      "tts_text": "ساخت تأکیدی را برای پاسخ یا اصلاح یک برداشت به کار ببرید، نه در هر جمله.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L335-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L335)",
+      "tts_text": "یک روایت را با تأکید بر شخص، شیء و زمان اصلاح کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L335-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L335)",
+      "tts_text": "اگر تأکید لازم نیست، جملهٔ ساده و کوتاه را انتخاب کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    }
+  ]
+}

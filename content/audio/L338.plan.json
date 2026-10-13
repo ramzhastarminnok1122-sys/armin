@@ -1,0 +1,362 @@
+{
+  "lesson": "L338",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L338-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Both trails start beside the visitor centre.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 44
+    },
+    {
+      "id": "L338-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Does either one pass the pond?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 30
+    },
+    {
+      "id": "L338-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Yes, either route reaches the pond after the gate.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L338-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Are neither of the lookout shelters open?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 41
+    },
+    {
+      "id": "L338-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Both are closed, but the ranger is nearby.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 42
+    },
+    {
+      "id": "L338-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Then none of us should walk alone.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 34
+    },
+    {
+      "id": "L338-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Both routes are open, but neither is clearly marked.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 52
+    },
+    {
+      "id": "L338-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Is either boardwalk safe after the rain?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 40
+    },
+    {
+      "id": "L338-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "The western one is dry; the eastern one is muddy.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L338-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "What about the footbridges near the marsh?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 42
+    },
+    {
+      "id": "L338-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Both are stable, although neither has a handrail.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 49
+    },
+    {
+      "id": "L338-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "None of the marker posts show the shorter route.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L338-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "We can ask the ranger before choosing.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 38
+    },
+    {
+      "id": "L338-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Good. Either path should reach the lookout before dusk.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L338-en-vocab-culvert",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "culvert. Both paths cross a culvert near the marsh.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L338-en-vocab-sluice",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "sluice. Either trail reaches the sluice gate.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L338-en-vocab-boardwalk",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "boardwalk. Neither boardwalk is open after sunset.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L338-en-vocab-marsh",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "marsh. The marsh fills during the spring rain.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L338-en-vocab-footbridge",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "footbridge. Both footbridges are safe in dry weather.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L338-en-vocab-waypoint",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "waypoint. Either route passes a waypoint beside the pond.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L338-en-vocab-lookout",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "lookout. Neither lookout has a roof.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 36
+    },
+    {
+      "id": "L338-en-vocab-boundary",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "boundary. Both signs show the reserve boundary.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L338-en-vocab-wildlife",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "wildlife. None of the wildlife should be fed.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 45
+    },
+    {
+      "id": "L338-en-vocab-markerpost",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "marker post. A marker post stands beside each fork.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L338-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Both paths lead to the visitor centre.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 38
+    },
+    {
+      "id": "L338-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Either route is suitable for a short walk.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 42
+    },
+    {
+      "id": "L338-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Neither of the signs is easy to read.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 37
+    },
+    {
+      "id": "L338-en-grammar-row-4",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "None of the birds are nesting here.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 35
+    },
+    {
+      "id": "L338-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Both gates open onto the western path.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 38
+    },
+    {
+      "id": "L338-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Either of the two boardwalks is open today.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 43
+    },
+    {
+      "id": "L338-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Neither lookout offers a clear view in heavy rain.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L338-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "None of the wildlife should be approached.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 42
+    },
+    {
+      "id": "L338-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "At the reserve gate, a notice described two walking routes. Both paths passed through woodland, but neither reached the lake directly. Either route offered a view from a lookout, although one was shorter. The ranger explained that both footbridges had been checked that morning. None of the marker posts showed the new detour, so visitors needed to follow the blue arrows. A family chose the western path because it stayed close to the visitor centre. Another group took the eastern route and stopped beside the marsh. By late afternoon, both groups had returned safely, and neither had disturbed the nesting birds.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 615
+    },
+    {
+      "id": "L338-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L338)",
+      "tts_text": "دو مسیر را مقایسه کنید و بگویید هر دو، یکی از آن‌ها یا هیچ‌کدام مناسب است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L338-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L338)",
+      "tts_text": "برای دو گزینه، معنای هر دو، یکی از دو و هیچ‌کدام را از هم جدا کنید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L338-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L338)",
+      "tts_text": "به گفت‌وگوی راهنماها گوش دهید و مشکل مشترک دو مسیر را پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L338-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L338)",
+      "tts_text": "واژهٔ «both» با فعل جمع می‌آید؛ در ساخت‌های دیگر اسم و سطح رسمی بودن را بررسی کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 83
+    },
+    {
+      "id": "L338-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L338)",
+      "tts_text": "دو مسیر را مقایسه کنید و برای هر انتخاب یک دلیل بدهید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L338-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L338)",
+      "tts_text": "تعداد گزینه‌ها را پیش از انتخاب کمیت‌نما و فعل در نظر بگیرید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    }
+  ]
+}

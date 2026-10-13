@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "learner_language": "fa",
+  "levels": ["A1", "A2", "B1", "B2"],
+  "languages": {
+    "en": {
+      "code": "en",
+      "name": "English",
+      "lesson_root": "content/en",
+      "audio_root": "content/audio",
+      "plans_meta": "content/audio/plans-meta.json",
+      "voice_prefix": "EN",
+      "voice_registry": "content/audio/voices.json"
+    },
+    "fr": {
+      "code": "fr",
+      "name": "French",
+      "lesson_root": "content/fr",
+      "audio_root": "content/audio/fr",
+      "plans_meta": "content/audio/fr/plans-meta.json",
+      "voice_prefix": "FR",
+      "voice_registry": "content/audio/fr/voices.json"
+    },
+    "es": {
+      "code": "es",
+      "name": "Spanish",
+      "lesson_root": "content/es",
+      "audio_root": "content/audio/es",
+      "plans_meta": "content/audio/es/plans-meta.json",
+      "voice_prefix": "ES",
+      "voice_registry": "content/audio/es/voices.json"
+    }
+  }
+}

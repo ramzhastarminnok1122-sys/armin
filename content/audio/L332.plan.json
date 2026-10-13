@@ -1,0 +1,353 @@
+{
+  "lesson": "L332",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L332-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "The stones stacked beside the gate came from the old quarry.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L332-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Was the narrow arch repaired last year?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 39
+    },
+    {
+      "id": "L332-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Yes, strengthened by local builders after the winter flood.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L332-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "The notice fixed near the railing lists the next inspection.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L332-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "I can read it once we cross the temporary path.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L332-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Good. The bridge closed for repairs will reopen tomorrow.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L332-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Built from local stone, the footbridge is older than the mill.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L332-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Was the archway damaged by the flood?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 37
+    },
+    {
+      "id": "L332-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "No, but the railing fitted last spring came loose.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L332-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "The survey completed this morning found a small crack.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L332-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "The abutment inspected by the engineers is stable.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L332-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "What about the stones stacked beside the path?",
+      "priority": "P1",
+      "language": "en",
+      "chars": 46
+    },
+    {
+      "id": "L332-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Those were taken from the quarry for the repair.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 48
+    },
+    {
+      "id": "L332-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Good. The heritage group will meet here on Friday.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L332-en-vocab-masonry",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "masonry. Built with careful masonry, the arch held firm.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L332-en-vocab-archway",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "archway. The archway damaged by the flood was closed.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L332-en-vocab-quarry",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "quarry. Stone taken from the quarry matches the old wall.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L332-en-vocab-railing",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "railing. The railing fitted last spring is still secure.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 56
+    },
+    {
+      "id": "L332-en-vocab-mortar",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "mortar. Mortar mixed by hand fills the narrow gaps.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L332-en-vocab-stonework",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "stonework. The stonework repaired after the storm looks even.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 61
+    },
+    {
+      "id": "L332-en-vocab-foundation",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "foundation. The foundation strengthened by engineers supports the arch.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 71
+    },
+    {
+      "id": "L332-en-vocab-survey",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "survey. A survey completed in May recorded two loose stones.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L332-en-vocab-heritage",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "heritage. The heritage group protects the bridge built by local workers.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 72
+    },
+    {
+      "id": "L332-en-vocab-abutment",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "abutment. The abutment inspected after the flood showed no cracks.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 66
+    },
+    {
+      "id": "L332-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Built from granite, the bridge survived the flood.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L332-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Inspected after the storm, the arch showed no damage.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L332-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Because the bridge was built by local workers, the village maintains it.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 72
+    },
+    {
+      "id": "L332-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Designed for heavy rain, the footbridge drains quickly.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L332-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Repaired by local craftspeople, the wall now looks stronger.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L332-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Built beside the old mill, the crossing serves two villages.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L332-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Checked after the storm, the railing remained safe.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L332-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "Built from stone taken from the nearby quarry, the footbridge has served the village for generations. After a severe flood, a survey completed by local engineers found that one abutment needed attention. The archway, inspected from both banks, remained firm, but a railing loosened during the storm. Workers mixed fresh mortar and replaced several blocks. The heritage group recorded each change before reopening the path. A notice placed beside the mill explains which parts were restored. Visitors can now cross safely, although the team will inspect the bridge again after the winter rains.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 593
+    },
+    {
+      "id": "L332-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L332)",
+      "tts_text": "مصالح و تعمیرهای پل را نام ببرید و توضیح دهید چه چیزی بررسی شده است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L332-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L332)",
+      "tts_text": "شکل سوم در ابتدای جمله می‌تواند عمل انجام‌شده بر اسم را کوتاه و روشن کند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L332-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L332)",
+      "tts_text": "به گزارش تعمیر پل گوش دهید و نتیجهٔ بررسی صبح را پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L332-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L332)",
+      "tts_text": "اسم جملهٔ اصلی باید همان چیزی باشد که عمل شکل سوم را دریافت کرده است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L332-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L332)",
+      "tts_text": "تاریخچهٔ پل را با بندهای مجهول کوتاه برای بازدیدکننده تعریف کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L332-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L332)",
+      "tts_text": "پس از بند آغازین، اسم را بررسی کنید تا جمله فاعل آویزان نداشته باشد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "lesson": "L339",
+  "language": "en",
+  "level": "B1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "نقش هر خط شنیداری از برچسب همان خط در script گرفته می‌شود؛ در مونولوگ، راوی = نقش متن خواندن.",
+  "clips": [
+    {
+      "id": "L339-en-dialogue-1",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "The display case cleaned this morning is ready.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L339-en-dialogue-2",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Having placed the catalogue there, I will check the door.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L339-en-dialogue-3",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "What we need is a caption for the second portrait.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L339-en-dialogue-4",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "The curator approved one before lunch.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 38
+    },
+    {
+      "id": "L339-en-dialogue-5",
+      "role": "EN-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Both volunteers are here, but neither has a visitor list.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L339-en-dialogue-6",
+      "role": "EN-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "It was Rae who printed a spare copy.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 36
+    },
+    {
+      "id": "L339-en-listening-1",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Having checked the catalogue, I found one missing caption.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L339-en-listening-2",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "The portrait restored by Lina is in the last room.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 50
+    },
+    {
+      "id": "L339-en-listening-3",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "A steward carrying a silver badge can ask the curator.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L339-en-listening-4",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "What we need is a label beside the archive box.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 47
+    },
+    {
+      "id": "L339-en-listening-5",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Both display cases are clean, but neither has a light.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L339-en-listening-6",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "The donation received yesterday will pay for two lamps.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L339-en-listening-7",
+      "role": "EN-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Although the doors open soon, we can finish the label.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 54
+    },
+    {
+      "id": "L339-en-listening-8",
+      "role": "EN-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Then it was the curator who approved the final display.",
+      "priority": "P1",
+      "language": "en",
+      "chars": 55
+    },
+    {
+      "id": "L339-en-vocab-exhibit",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "exhibit. The exhibit repaired by volunteers will go near the entrance.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 70
+    },
+    {
+      "id": "L339-en-vocab-caption",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "caption. Writing a caption takes more care than expected.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L339-en-vocab-steward",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "steward. The steward carrying a silver badge welcomed each group.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 65
+    },
+    {
+      "id": "L339-en-vocab-displaycase",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "display case. The display case cleaned before noon holds old maps.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 66
+    },
+    {
+      "id": "L339-en-vocab-curator",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "curator. The curator approved the label beside the portrait.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 60
+    },
+    {
+      "id": "L339-en-vocab-donation",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "donation. A donation made by the baker paid for new lights.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L339-en-vocab-catalogue",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "catalogue. The catalogue printed last week contains the full list.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 66
+    },
+    {
+      "id": "L339-en-vocab-conservation",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "conservation. Conservation of the paper requires low light.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 59
+    },
+    {
+      "id": "L339-en-vocab-archivebox",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "archive box. An archive box found under the desk held letters.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 62
+    },
+    {
+      "id": "L339-en-vocab-openingnight",
+      "role": "EN-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "opening night. Both volunteers will guide visitors on opening night.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 68
+    },
+    {
+      "id": "L339-en-grammar-row-1",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "The volunteer carrying the frame is here.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 41
+    },
+    {
+      "id": "L339-en-grammar-row-2",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "The frame repaired yesterday is ready.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 38
+    },
+    {
+      "id": "L339-en-grammar-row-3",
+      "role": "EN-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "What we need is a label beside the map.",
+      "priority": "P2",
+      "language": "en",
+      "chars": 39
+    },
+    {
+      "id": "L339-en-examples-1",
+      "role": "EN-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "The portrait restored by a local artist hangs near the entrance.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 64
+    },
+    {
+      "id": "L339-en-examples-2",
+      "role": "EN-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Carrying the archive box, Jo walked into the gallery.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 53
+    },
+    {
+      "id": "L339-en-examples-3",
+      "role": "EN-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Having checked the captions, the curator opened the doors.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 58
+    },
+    {
+      "id": "L339-en-examples-4",
+      "role": "EN-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "What surprised the visitors was the small donation.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 51
+    },
+    {
+      "id": "L339-en-examples-5",
+      "role": "EN-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "The team completed the conservation before opening night.",
+      "priority": "P3",
+      "language": "en",
+      "chars": 57
+    },
+    {
+      "id": "L339-en-reading",
+      "role": "EN-READ-F",
+      "source": "reading.text",
+      "tts_text": "Having checked every display case, the volunteers began the final tour. A map repaired by a local artist was placed near the entrance. The curator, carrying a new catalogue, asked for one clearer caption. What the team needed was a label for the archive box. Both stewards were ready, although neither had a list of the evening guests. The conservation work had taken several weeks, but the portraits were now safe under soft lights. It was the donation from a neighbourhood shop that paid for the final display. Before the doors opened, the team reviewed the signs and welcomed the first visitors.",
+      "priority": "P4",
+      "language": "en",
+      "chars": 598
+    },
+    {
+      "id": "L339-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (لایهٔ توضیح فارسی درس L339)",
+      "tts_text": "کارهای انجام‌شده و کارهای باقی‌ماندهٔ نمایشگاه را از هم جدا کنید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L339-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (لایهٔ توضیح فارسی درس L339)",
+      "tts_text": "برای هر معنا ساخت مناسب را انتخاب کنید و فاعل بندها را روشن نگه دارید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L339-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (لایهٔ توضیح فارسی درس L339)",
+      "tts_text": "به بررسی نهایی گوش دهید و چیزی را که هنوز کم است پیدا کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L339-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (لایهٔ توضیح فارسی درس L339)",
+      "tts_text": "بندهای کوتاه، اسم‌های فرایندی، حروف تعریف و ساخت‌های تأکیدی را مرور کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L339-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (لایهٔ توضیح فارسی درس L339)",
+      "tts_text": "گروهی را برای بازدید آماده کنید و چند ساخت آموخته‌شده را پیوند دهید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L339-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (لایهٔ توضیح فارسی درس L339)",
+      "tts_text": "پیش از پایان، مرجع هر اسم و هدف هر ساخت را دوباره بررسی کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    }
+  ]
+}
