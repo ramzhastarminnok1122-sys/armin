@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 36,
+    "title": "Mon anniversaire, c’est le quatorze juin",
+    "subtitle": "Dire une date et l’heure d’une fête",
+    "description": "Annoncez une date d’anniversaire fictive et invitez une amie à une petite fête.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "گفتن تاریخ تولد و ساعت جشن با حروف اضافهٔ زمان",
+      "objectives": [
+        "برای تاریخ مشخص از le استفاده کنید",
+        "برای ماه یا سال از en استفاده کنید",
+        "ساعت شروع یک رویداد را با à بیان کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور تاریخ یک جشن را به دوستتان می‌گویید و ساعت شروع آن را مشخص می‌کنید؟ برای تمرین می‌توانید از تاریخ خیالی استفاده کنید.",
+      "questions": [
+        {
+          "q": "برای گفتن «در ساعت شش» از کدام حرف اضافه استفاده می‌کنید؟",
+          "hint_fa": "حرف اضافه‌ای که در گفتن ساعت می‌آید."
+        },
+        {
+          "q": "برای معرفی ماه جشن چه حرف اضافه‌ای پیش از نام ماه می‌آید؟",
+          "hint_fa": "در فرانسوی پیش از نام ماه از en استفاده می‌کنیم."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Le, en et à pour situer une fête",
+      "body_fa": "برای گفتن تاریخ دقیق می‌گوییم «le quatorze juin»؛ le پیش از عدد روز می‌آید. برای ماه یا سال از en استفاده می‌کنیم: «en juin», «en deux mille vingt-six». ساعت را با à معرفی می‌کنیم: «à dix-huit heures». بنابراین می‌توان گفت «je fête mon anniversaire le quatorze juin» و «la fête commence à dix-huit heures». اگر رویداد در یک ماه اتفاق می‌افتد، نام ماه را با en بیاورید؛ برای تاریخ دقیق، le را فراموش نکنید. این عبارت‌ها برای دعوت و تعیین زمان دورهمی کاربرد دارند. در گفت‌وگو از تاریخ نمونه استفاده کنید و تاریخ تولد خصوصی را در فضای عمومی منتشر نکنید. برای برنامهٔ واقعی، روز و ساعت را دوباره با مهمان هماهنگ کنید.",
+      "key_points": [
+        "le + عدد روز برای تاریخ مشخص است.",
+        "en + ماه یا سال، زمان کلی را بیان می‌کند.",
+        "à + ساعت، زمان دقیق شروع را می‌گوید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "anniversaire",
+          "ipa": "/a.ni.vɛʁ.sɛʁ/",
+          "translation_fa": "تولد؛ سالگرد تولد",
+          "example": "Mon anniversaire est en juin.",
+          "example_fa": "تولدم در ماه ژوئن است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "fête",
+          "ipa": "/fɛt/",
+          "translation_fa": "جشن",
+          "example": "La fête commence à six heures.",
+          "example_fa": "جشن ساعت شش شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "invitation",
+          "ipa": "/ɛ̃.vi.ta.sjɔ̃/",
+          "translation_fa": "دعوت‌نامه؛ دعوت",
+          "example": "Je reçois une invitation pour samedi.",
+          "example_fa": "برای شنبه دعوت‌نامه‌ای دریافت می‌کنم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "invité",
+          "ipa": "/ɛ̃.vi.te/",
+          "translation_fa": "مهمان",
+          "example": "Chaque invité apporte une petite carte.",
+          "example_fa": "هر مهمان کارت کوچکی می‌آورد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "bougie",
+          "ipa": "/bu.ʒi/",
+          "translation_fa": "شمع",
+          "example": "Il y a trois bougies sur le gâteau.",
+          "example_fa": "سه شمع روی کیک است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "gâteau",
+          "ipa": "/ɡa.to/",
+          "translation_fa": "کیک",
+          "example": "Le gâteau est au chocolat.",
+          "example_fa": "کیک شکلاتی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cadeau",
+          "ipa": "/ka.do/",
+          "translation_fa": "هدیه",
+          "example": "J’offre un cadeau à mon amie.",
+          "example_fa": "به دوستم هدیه‌ای می‌دهم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "heure",
+          "ipa": "/œʁ/",
+          "translation_fa": "ساعت",
+          "example": "À quelle heure est la fête ?",
+          "example_fa": "جشن چه ساعتی است؟",
+          "tag": "اسم"
+        },
+        {
+          "term": "célébrer",
+          "ipa": "/se.le.bʁe/",
+          "translation_fa": "جشن گرفتن",
+          "example": "Nous célébrons son anniversaire en juin.",
+          "example_fa": "در ماه ژوئن تولدش را جشن می‌گیریم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "date",
+          "ipa": "/dat/",
+          "translation_fa": "تاریخ",
+          "example": "La date est écrite sur l’invitation.",
+          "example_fa": "تاریخ روی دعوت‌نامه نوشته شده است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le, en et à pour le temps",
+      "explanation_fa": "در زبان فرانسوی، حرف اضافه به نوع زمان بستگی دارد. برای تاریخ مشخص از le استفاده می‌کنیم: «le quatorze juin», «le trois octobre». برای ماه یا سال می‌گوییم en: «en juin», «en deux mille vingt-six». برای ساعت دقیق از à استفاده کنید: «à dix-huit heures». کنار هم می‌آیند: «la fête est le quatorze juin à dix-huit heures». برای پرسیدن تاریخ می‌گوییم «c’est quand ?» و برای ساعت «à quelle heure ?». در این ساخت، نام ماه معمولاً پس از عدد روز می‌آید و حرف تعریف le با تاریخ کامل می‌شود. یک تاریخ فرضی را در دعوت‌نامه بنویسید و ساعت را با مهمان تأیید کنید. روز تولد شخصی را بدون رضایت او در پیام عمومی منتشر نکنید.",
+      "pattern": "le + date · en + mois / année · à + heure",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "تاریخ دقیق",
+            "C’est le quatorze juin.",
+            "چهاردهم ژوئن است."
+          ],
+          [
+            "ماه",
+            "Je fête ça en juin.",
+            "این را در ماه ژوئن جشن می‌گیرم."
+          ],
+          [
+            "سال",
+            "On fête ça en deux mille vingt-six.",
+            "آن را در سال دو هزار و بیست و شش جشن می‌گیریم."
+          ],
+          [
+            "ساعت",
+            "La fête commence à dix-huit heures.",
+            "جشن ساعت هجده شروع می‌شود."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای تاریخ مشخص از le، برای ماه از en استفاده کنید.",
+        "پیش از ساعت دقیق، حرف اضافهٔ à می‌آید."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je fête mon anniversaire le quatorze juin.",
+          "fa": "تولدم را چهاردهم ژوئن جشن می‌گیرم.",
+          "note_fa": "le تاریخ دقیق را معرفی می‌کند."
+        },
+        {
+          "target": "La fête est en juin.",
+          "fa": "جشن در ماه ژوئن است.",
+          "note_fa": "en پیش از نام ماه آمده است."
+        },
+        {
+          "target": "Les invités arrivent à dix-huit heures.",
+          "fa": "مهمان‌ها ساعت هجده می‌رسند.",
+          "note_fa": "à ساعت دقیق را معرفی می‌کند."
+        },
+        {
+          "target": "Nous célébrons son anniversaire en deux mille vingt-sept.",
+          "fa": "در سال دو هزار و بیست و هفت تولدش را جشن می‌گیریم.",
+          "note_fa": "برای سال نیز en به‌کار می‌رود."
+        },
+        {
+          "target": "L’invitation indique la date et l’heure.",
+          "fa": "دعوت‌نامه تاریخ و ساعت را نشان می‌دهد.",
+          "note_fa": "دو دادهٔ زمانی در دعوت‌نامه آمده‌اند."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Une invitation pour un anniversaire",
+      "script": "Mila: Mon anniversaire est le quatorze juin.\nSami: Tu fais une fête cette année ?\nMila: Oui, la fête commence à dix-huit heures.\nSami: C’est en juin, alors ?\nMila: Oui, le quatorze juin, dans le jardin.\nSami: Est-ce que j’apporte un dessert ?\nMila: Merci ! J’ai aussi des bougies.\nSami: Je note la date sur mon calendrier.\nMila: Parfait. Tu peux venir avec une amie.\nSami: D’accord, je confirme demain.",
+      "script_fa": "میلا: تولدم چهاردهم ژوئن است.\nسامی: امسال جشن می‌گیری؟\nمیلا: بله، جشن ساعت هجده شروع می‌شود.\nسامی: پس در ماه ژوئن است؟\nمیلا: بله، چهاردهم ژوئن، در باغ.\nسامی: کیک بیاورم؟\nمیلا: ممنون! چند شمع هم دارم.\nسامی: تاریخ را در تقویمم یادداشت می‌کنم.\nمیلا: عالی است. می‌توانی با دوستی بیایی.\nسامی: قبول، فردا تأیید می‌کنم.",
+      "question_fa": "À quelle heure commence la fête ?",
+      "answer": "À dix-huit heures.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Choisir une date fictive",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu organises une petite fête ?",
+          "fa": "جشن کوچکی برگزار می‌کنی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, le trois octobre.",
+          "fa": "بله، سوم اکتبر."
+        },
+        {
+          "speaker": "A",
+          "target": "À quelle heure est-ce que je viens ?",
+          "fa": "چه ساعتی بیایم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "À dix-sept heures, dans le jardin.",
+          "fa": "ساعت هفده، در باغ."
+        },
+        {
+          "speaker": "A",
+          "target": "Je peux apporter un cadeau.",
+          "fa": "می‌توانم هدیه‌ای بیاورم."
+        },
+        {
+          "speaker": "B",
+          "target": "Merci, et je prépare un gâteau.",
+          "fa": "ممنون، من هم کیکی آماده می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "Je note la date sur l’invitation.",
+          "fa": "تاریخ را روی دعوت‌نامه یادداشت می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Parfait, c’est en octobre.",
+          "fa": "عالی است، در ماه اکتبر است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در زندگی روزمره، دوستتان را به جشن تولدی با تاریخ ساختگی دعوت کنید. تاریخ را با le، ماه را با en و ساعت را با à بیان کنید و از او بپرسید می‌تواند بیاید یا نه.",
+      "useful_phrases": [
+        {
+          "target": "C’est le quatorze juin.",
+          "fa": "چهاردهم ژوئن است."
+        },
+        {
+          "target": "La fête est en juin.",
+          "fa": "جشن در ماه ژوئن است."
+        },
+        {
+          "target": "Elle commence à dix-huit heures.",
+          "fa": "ساعت هجده شروع می‌شود."
+        },
+        {
+          "target": "Tu peux venir ?",
+          "fa": "می‌توانی بیایی؟"
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une date dans l’agenda",
+      "text": "Lina prépare une petite fête pour son anniversaire. Elle choisit une date fictive : le quatorze juin, à dix-huit heures. Elle écrit l’invitation et indique le lieu, un jardin public. Son ami Karim demande si la fête a lieu en juin ; Lina répond oui. Il apporte un gâteau et une carte, tandis que Lina prépare quelques bougies. Les invités confirment leur présence avant le vendredi. Lina vérifie l’heure avec chacun et garde son propre calendrier à jour. Pour apprendre les dates, le groupe utilise des exemples inventés. Personne n’a besoin de publier sa véritable date de naissance dans une conversation publique.",
+      "glossary": [
+        {
+          "term": "avoir lieu",
+          "fa": "برگزار شدن"
+        },
+        {
+          "term": "présence",
+          "fa": "حضور"
+        },
+        {
+          "term": "à jour",
+          "fa": "به‌روز"
+        },
+        {
+          "term": "véritable",
+          "fa": "واقعی"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "جشن در چه تاریخی برگزار می‌شود؟",
+          "a": "Le quatorze juin."
+        },
+        {
+          "q_fa": "ساعت شروع جشن چیست؟",
+          "a": "À dix-huit heures."
+        },
+        {
+          "q_fa": "چرا از تاریخ ساختگی استفاده می‌کنند؟",
+          "a": "Pour protéger la date de naissance privée."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "حرف اضافهٔ تاریخ دقیق را انتخاب کنید.",
+          "question": "___ quatorze juin",
+          "options": [
+            "le",
+            "en",
+            "à"
+          ],
+          "answer": "le",
+          "explanation_fa": "برای تاریخ مشخص از le استفاده می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "پیش از نام ماه کدام حرف اضافه می‌آید؟",
+          "question": "___ juin",
+          "options": [
+            "en",
+            "le",
+            "à"
+          ],
+          "answer": "en",
+          "explanation_fa": "ماه با en معرفی می‌شود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "برای گفتن ساعت دقیق از à استفاده می‌کنیم.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "à ساعت مشخص را معرفی می‌کند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کنید.",
+          "question": "La fête commence ___ dix-huit heures.",
+          "options": [
+            "à",
+            "en",
+            "le"
+          ],
+          "answer": "à",
+          "explanation_fa": "ساعت دقیق با à می‌آید."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "حرف اضافهٔ مناسب برای ماه را بنویسید.",
+          "question": "Mon anniversaire est ___ juin.",
+          "answer": [
+            "en"
+          ],
+          "explanation_fa": "پیش از ماه از en استفاده می‌شود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "دوستت را به جشنی با تاریخ و ساعت ساختگی دعوت کن.",
+          "question": "Vous envoyez une invitation.",
+          "answer": [
+            "La fête est le quatorze juin à dix-huit heures. Tu peux venir ?",
+            "Je célèbre mon anniversaire en juin. La fête commence à dix-sept heures."
+          ],
+          "explanation_fa": "le را برای تاریخ، en را برای ماه و à را برای ساعت به‌کار ببر."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle préposition introduit une date précise ?",
+          "options": [
+            "le",
+            "en",
+            "à"
+          ],
+          "answer": "le",
+          "explanation_fa": "On dit le quatorze juin pour une date du calendrier."
+        },
+        {
+          "type": "mcq",
+          "question": "Comment indique-t-on le mois de juin ?",
+          "options": [
+            "en juin",
+            "à juin",
+            "le juin"
+          ],
+          "answer": "en juin",
+          "explanation_fa": "en précède le nom du mois."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle préposition précède une heure exacte ?",
+          "options": [
+            "à",
+            "le",
+            "en"
+          ],
+          "answer": "à",
+          "explanation_fa": "On dit à dix-huit heures."
+        },
+        {
+          "type": "mcq",
+          "question": "Quand commence la fête de Mila ?",
+          "options": [
+            "ساعت هجده",
+            "ساعت هشت",
+            "ظهر"
+          ],
+          "answer": "ساعت هجده",
+          "explanation_fa": "Mila indique que la fête commence à dix-huit heures."
+        },
+        {
+          "type": "mcq",
+          "question": "Pourquoi choisir une date fictive dans l’exercice ?",
+          "options": [
+            "برای حفظ حریم خصوصی",
+            "برای تغییر ماه",
+            "برای حذف ساعت"
+          ],
+          "answer": "برای حفظ حریم خصوصی",
+          "explanation_fa": "Une date inventée évite de publier une information personnelle."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "یک دعوت‌نامهٔ تولد خیالی بسازید. با le تاریخ دقیق، با en ماه و با à ساعت را بگویید، سپس با یک دوست آمدنش را هماهنگ کنید؛ از تاریخ تولد واقعی استفاده نکنید.",
+      "suggested_prompts": [
+        "Choisissez une date fictive en juin ou en octobre.",
+        "Annoncez le jour et le mois.",
+        "Indiquez l’heure avec à.",
+        "Invitez un ami et demandez s’il peut venir."
+      ],
+      "focus": [
+        "le + تاریخ",
+        "en + ماه",
+        "à + ساعت"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Birthday dates and event times are fictional; learners should not post private birth dates in public spaces."
+  }
+}
