@@ -4,7 +4,7 @@ Updated: 2026-10-15
 
 ## Content
 
-- Installed and validated: French L001–L070 (70 of 340).
+- Installed and validated: French L001–L073 (73 of 340).
 - L002–L004: age with `avoir`; spelling names and French diacritics; country of origin and residence.
 - L005–L007: language names and `ne...pas`; family vocabulary and possessives; regular present-tense `-er` verbs and weekly schedules.
 - L008–L010: adjective agreement in respectful descriptions; café orders and partitive articles; food preferences with definite articles.
@@ -28,13 +28,15 @@ Updated: 2026-10-15
 - L062–L064: `ne...jamais` for habits; `pourquoi/parce que` for reasons versus `pour + infinitif` for purpose; identify with `c’est + nom` and describe with `il/elle est + adjectif`.
 - L065–L067: `on` as a singular-conjugated subject for “we” or people generally; `ce sont` for plural identification; `avoir besoin de + nom/infinitif` for needs.
 - L068–L070: imperatives for `tu/nous/vous` (including the regular `-er` tu form); plural direct-object pronoun `les`; irregular futur simple stems `ser-/aur-/ir-/fer-`.
+- L071–L073: recent past with `venir de + infinitif`; stressed pronouns after prepositions; `savoir/pouvoir + infinitif` for skills versus possibility or permission.
 - Range validations: L044–L046, 3 lessons / 3,617 checks / 0 errors; L047–L049, 3 / 3,619 / 0; L050–L052, 3 / 3,630 / 0; L053–L055, 3 / 3,729 / 0; L056–L058, 3 / 3,649 / 0.
 - Combined L044–L058 validation against L001–L043: 15 lessons, 18,244 checks, 0 errors.
 - L059–L061 validation against L001–L058: 3 lessons, 3,694 checks, 0 errors.
 - L062–L064 validation against L001–L061: 3 lessons, 3,674 checks, 0 errors.
 - L065–L067 validation against L001–L064: 3 lessons, 3,681 checks, 0 errors.
 - L068–L070 validation against L001–L067: 3 lessons, 3,711 checks, 0 errors.
-- Full French validation: 70 lessons, 83,886 checks, 0 errors.
+- L071–L073 validation against L001–L070: 3 lessons, 3,697 checks, 0 errors.
+- Full French validation: 73 lessons, 87,583 checks, 0 errors.
 - Verified L001–L043 lesson bytes, plan files, and metadata entries remain unchanged. English content was not modified.
 - Spanish production lessons: 0.
 
@@ -42,9 +44,9 @@ Updated: 2026-10-15
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 70; plan manifests: 70; planned clips: 3,087 (133 added for L068–L070: 45, 44, and 44 respectively).
-- Verified physical MP3s: 0; lesson audio references: 0; missing planned clips: 3,087.
-- Lessons with complete real audio: 0; lessons without real audio: 70.
+- French lessons: 73; plan manifests: 73; planned clips: 3,219 (132 added for L071–L073: 44 each).
+- Verified physical MP3s: 0; lesson audio references: 0; missing planned clips: 3,219.
+- Lessons with complete real audio: 0; lessons without real audio: 73.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
 
@@ -55,4 +57,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue sequentially from French L071: author French-native specifications, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against L001–L070, run continuity/content QA, and install only after zero-error validation.
+Continue sequentially from French L074: author French-native specifications, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against L001–L073, run continuity/content QA, and install only after zero-error validation.
