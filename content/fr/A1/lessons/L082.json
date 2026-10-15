@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 82,
+    "title": "Nous voyons les planètes au planétarium",
+    "subtitle": "Le présent du verbe voir",
+    "description": "Décrivez ce que vous observez pendant une visite au planétarium.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف بی‌قاعدهٔ فعل voir در زمان حال و نام اجرام آسمانی",
+      "objectives": [
+        "شش شکل فعل voir را در زمان حال به‌کار ببرید",
+        "تفاوت vois/voit و voyons/voyez/voient را تشخیص دهید",
+        "با چند واژهٔ نجومی ساده دربارهٔ آسمان صحبت کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در سیاره‌نما می‌خواهید بگویید «من سیاره‌ای را می‌بینم» و «ما یک صورت فلکی می‌بینیم». فعل voir در زمان حال بی‌قاعده است.",
+      "questions": [
+        {
+          "q": "برای nous، شکل فعل voir چیست؟",
+          "hint_fa": "به شکل «nous voyons» فکر کنید."
+        },
+        {
+          "q": "در شکل سوم‌شخص مفرد، حرف پایانی فعل چیست؟",
+          "hint_fa": "«il voit» با t نوشته می‌شود."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Voir au présent",
+      "body_fa": "فعل voir در زمان حال بی‌قاعده است: je vois, tu vois, il/elle voit, nous voyons, vous voyez, ils/elles voient. در je و tu شکل vois یکسان است؛ برای il یا elle حرف t در پایان می‌آید: voit. در جمع، پایهٔ فعل به voy- تغییر می‌کند: nous voyons، vous voyez و ils voient. این تغییر را با شکل مفرد vois اشتباه نگیرید. voir معمولاً پیش از چیزی که می‌بینیم می‌آید: voir une planète، voir les étoiles. در هر جمله فاعل را مشخص کنید و سپس شکل فعل را انتخاب کنید. در این درس، دانش‌آموزان در سیاره‌نما اجرام آسمانی را روی نمایشگر می‌بینند.",
+      "key_points": [
+        "je/tu: vois؛ il/elle: voit.",
+        "nous voyons؛ vous voyez؛ ils/elles voient.",
+        "پس از voir نام چیز دیده‌شده می‌آید: voir une planète."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "télescope",
+          "ipa": "/te.lɛ.skɔp/",
+          "translation_fa": "تلسکوپ",
+          "example": "Le télescope est près de la fenêtre.",
+          "example_fa": "تلسکوپ نزدیک پنجره است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "étoile",
+          "ipa": "/e.twal/",
+          "translation_fa": "ستاره",
+          "example": "Une étoile brille dans le ciel.",
+          "example_fa": "ستاره‌ای در آسمان می‌درخشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "planète",
+          "ipa": "/pla.nɛt/",
+          "translation_fa": "سیاره",
+          "example": "Nous voyons une planète bleue.",
+          "example_fa": "سیاره‌ای آبی می‌بینیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "constellation",
+          "ipa": "/kɔ̃s.tɛ.la.sjɔ̃/",
+          "translation_fa": "صورت فلکی",
+          "example": "La constellation est sur l’écran.",
+          "example_fa": "صورت فلکی روی نمایشگر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cratère",
+          "ipa": "/kʁa.tɛʁ/",
+          "translation_fa": "دهانهٔ برخوردی",
+          "example": "Une image montre un cratère sur la planète.",
+          "example_fa": "تصویری دهانهٔ برخوردی‌ای روی سیاره را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "astronome",
+          "ipa": "/as.tʁɔ.nɔm/",
+          "translation_fa": "اخترشناس",
+          "example": "L’astronome parle aux enfants.",
+          "example_fa": "اخترشناس با بچه‌ها صحبت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "satellite",
+          "ipa": "/sa.te.lit/",
+          "translation_fa": "ماهواره",
+          "example": "Le satellite passe près de la planète.",
+          "example_fa": "ماهواره از نزدیکی سیاره می‌گذرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "comète",
+          "ipa": "/kɔ.mɛt/",
+          "translation_fa": "دنباله‌دار",
+          "example": "La comète a une longue queue.",
+          "example_fa": "دنباله‌دار دمی بلند دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "galaxie",
+          "ipa": "/ɡa.lak.si/",
+          "translation_fa": "کهکشان",
+          "example": "Nous voyons une galaxie lointaine.",
+          "example_fa": "کهکشانی دوردست می‌بینیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "planétarium",
+          "ipa": "/pla.ne.ta.ʁjɔm/",
+          "translation_fa": "سیاره‌نما",
+          "example": "Le planétarium présente le ciel nocturne.",
+          "example_fa": "سیاره‌نما آسمان شب را نمایش می‌دهد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Je vois, nous voyons, ils voient",
+      "explanation_fa": "voir یک فعل بی‌قاعده است. در زمان حال می‌گوییم je vois، tu vois، il/elle voit، nous voyons، vous voyez و ils/elles voient. در اول‌شخص و دوم‌شخص مفرد پایان فعل -s است؛ در سوم‌شخص مفرد -t می‌آید. در جمع، شکل‌ها با voy- آغاز می‌شوند: voyons، voyez، voient. برای توصیف چیزی که می‌بینیم، voir را پیش از اسم می‌آوریم: «je vois une étoile» یا «nous voyons les planètes». شکل vous voyez را از nous voyons جداگانه تمرین کنید؛ پایان‌های آن‌ها متفاوت است. فاعل جمله تعیین می‌کند که کدام صورت فعل به کار برود.",
+      "pattern": "je vois · tu vois · il/elle voit · nous voyons · vous voyez · ils/elles voient",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je vois une étoile. Tu vois une planète.",
+            "ستاره‌ای می‌بینم. تو سیاره‌ای می‌بینی."
+          ],
+          [
+            "il / elle",
+            "L’astronome voit une comète.",
+            "اخترشناس دنباله‌داری می‌بیند."
+          ],
+          [
+            "nous / vous",
+            "Nous voyons la galaxie. Vous voyez le satellite.",
+            "کهکشان را می‌بینیم. شما ماهواره را می‌بینید."
+          ],
+          [
+            "ils / elles",
+            "Ils voient une constellation.",
+            "آن‌ها صورت فلکی‌ای می‌بینند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای il/elle بنویسید voit؛ برای nous از voyons استفاده کنید.",
+        "vous voyez با y و ez نوشته می‌شود؛ ils voient به -ent ختم می‌شود."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je vois une planète sur l’écran.",
+          "fa": "روی نمایشگر سیاره‌ای می‌بینم.",
+          "note_fa": "شکل voir برای je برابر vois است."
+        },
+        {
+          "target": "Tu vois la comète près de l’étoile.",
+          "fa": "تو دنباله‌دار را نزدیک ستاره می‌بینی.",
+          "note_fa": "شکل tu نیز vois است."
+        },
+        {
+          "target": "L’astronome voit un satellite.",
+          "fa": "اخترشناس ماهواره‌ای می‌بیند.",
+          "note_fa": "برای elle یا il شکل voit می‌آید."
+        },
+        {
+          "target": "Nous voyons une constellation.",
+          "fa": "صورت فلکی‌ای می‌بینیم.",
+          "note_fa": "برای nous شکل voyons به کار می‌رود."
+        },
+        {
+          "target": "Elles voient une galaxie lointaine.",
+          "fa": "آن‌ها کهکشانی دوردست می‌بینند.",
+          "note_fa": "برای elles شکل voient نوشته می‌شود."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Une séance au planétarium",
+      "script": "Nora: Tu vois la planète près de l’étoile ?\nMalo: Oui, je vois une planète bleue sur l’écran.\nNora: L’astronome voit la comète aussi ?\nMalo: Oui, elle voit la comète au télescope.\nNora: Nous voyons quelle constellation ?\nMalo: Nous voyons la constellation d’Orion sur l’écran.\nNora: Et vous voyez le satellite ?\nMalo: Oui, nous voyons un satellite et une autre étoile.\nNora: Les enfants voient le cratère ?\nMalo: Ils voient une grande image du cratère.",
+      "script_fa": "نورا: سیارهٔ نزدیک ستاره را می‌بینی؟\nمالو: بله، سیاره‌ای آبی روی نمایشگر می‌بینم.\nنورا: اخترشناس دنباله‌دار را هم می‌بیند؟\nمالو: بله، او دنباله‌دار را با تلسکوپ می‌بیند.\nنورا: ما کدام صورت فلکی را می‌بینیم؟\nمالو: صورت فلکی اوریون را روی نمایشگر می‌بینیم.\nنورا: شما ماهواره را می‌بینید؟\nمالو: بله، ماهواره و ستارهٔ دیگری می‌بینیم.\nنورا: بچه‌ها دهانهٔ روی سیاره را می‌بینند؟\nمالو: آن‌ها تصویر بزرگی از دهانه را می‌بینند.",
+      "question_fa": "Que voient les enfants à la fin ?",
+      "answer": "Une grande image du cratère.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Dans la salle des étoiles",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Je vois une planète bleue.",
+          "fa": "سیاره‌ای آبی می‌بینم."
+        },
+        {
+          "speaker": "B",
+          "target": "Tu vois la comète aussi ?",
+          "fa": "دنباله‌دار را هم می‌بینی؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, je vois sa longue queue.",
+          "fa": "بله، دم بلندش را می‌بینم."
+        },
+        {
+          "speaker": "B",
+          "target": "L’astronome voit la constellation ?",
+          "fa": "اخترشناس صورت فلکی را می‌بیند؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, elle voit les étoiles au télescope.",
+          "fa": "بله، او ستاره‌ها را با تلسکوپ می‌بیند."
+        },
+        {
+          "speaker": "B",
+          "target": "Nous voyons la galaxie sur l’écran.",
+          "fa": "کهکشان را روی نمایشگر می‌بینیم."
+        },
+        {
+          "speaker": "A",
+          "target": "Vous voyez le satellite ?",
+          "fa": "ماهواره را می‌بینید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, nous le voyons près de la planète.",
+          "fa": "بله، آن را نزدیک سیاره می‌بینیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در مدرسه با هم‌گروهی خود دربارهٔ بازدید از سیاره‌نما گفت‌وگو کنید. بگویید هر نفر چه چیزی می‌بیند و شکل‌های مختلف فعل voir را به‌کار ببرید.",
+      "useful_phrases": [
+        {
+          "target": "Je vois une planète.",
+          "fa": "سیاره‌ای می‌بینم."
+        },
+        {
+          "target": "Elle voit une comète.",
+          "fa": "او دنباله‌داری می‌بیند."
+        },
+        {
+          "target": "Nous voyons la galaxie.",
+          "fa": "کهکشان را می‌بینیم."
+        },
+        {
+          "target": "Ils voient une constellation.",
+          "fa": "آن‌ها صورت فلکی‌ای می‌بینند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une soirée au planétarium",
+      "text": "La classe de Nora visite le planétarium après les cours. Sur le grand écran, les élèves voient des étoiles, une planète bleue et une galaxie lointaine. Un astronome montre une comète et parle de sa longue queue. Avec un télescope, le groupe voit aussi un petit satellite près d’une constellation. Les enfants posent des questions et regardent chaque image. À la fin, ils voient un cratère à la surface d’une planète. Nora raconte ensuite la visite à sa famille : « Je vois une comète, nous voyons des étoiles et vous voyez le satellite. » Le verbe voir change selon le sujet : vois, voit, voyons, voyez ou voient.",
+      "glossary": [
+        {
+          "term": "grand écran",
+          "fa": "نمایشگر بزرگ"
+        },
+        {
+          "term": "surface",
+          "fa": "سطح"
+        },
+        {
+          "term": "poser une question",
+          "fa": "سؤال پرسیدن"
+        },
+        {
+          "term": "raconter",
+          "fa": "تعریف کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "کلاس کجا را بازدید می‌کند؟",
+          "a": "Le planétarium."
+        },
+        {
+          "q_fa": "با تلسکوپ چه چیزی می‌بینند؟",
+          "a": "Un petit satellite près d’une constellation."
+        },
+        {
+          "q_fa": "شکل voir برای vous چیست؟",
+          "a": "Vous voyez."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل فعل را برای je انتخاب کنید.",
+          "question": "Je ___ une étoile.",
+          "options": [
+            "vois",
+            "voit",
+            "voyons"
+          ],
+          "answer": "vois",
+          "explanation_fa": "برای je شکل voir برابر vois است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کنید.",
+          "question": "Nous ___ une constellation.",
+          "options": [
+            "voyons",
+            "voyez",
+            "voient"
+          ],
+          "answer": "voyons",
+          "explanation_fa": "فعل voir برای nous به شکل voyons می‌آید."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "در شکل «il voit»، فعل با t نوشته می‌شود.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "شکل سوم‌شخص مفرد voir برابر voit است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل مناسب برای vous را پیدا کنید.",
+          "question": "Vous ___ le satellite.",
+          "options": [
+            "voyez",
+            "voyons",
+            "vois"
+          ],
+          "answer": "voyez",
+          "explanation_fa": "برای vous از شکل voyez استفاده می‌کنیم."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای elles کامل کنید.",
+          "question": "Elles ___ une galaxie. (voir)",
+          "answer": [
+            "voient"
+          ],
+          "explanation_fa": "voient"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "با je، nous و elles سه جمله دربارهٔ آسمان بنویس.",
+          "question": "در هر جمله از شکل درست voir استفاده کن.",
+          "answer": [
+            "Je vois une étoile. Nous voyons une planète. Elles voient la galaxie.",
+            "Je vois une comète. Nous voyons un satellite. Elles voient une constellation."
+          ],
+          "explanation_fa": "فعل را با فاعل جمله هماهنگ کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle forme de voir accompagne «nous» ?",
+          "options": [
+            "voyons",
+            "voyez",
+            "voient"
+          ],
+          "answer": "voyons",
+          "explanation_fa": "On dit nous voyons."
+        },
+        {
+          "type": "mcq",
+          "question": "Complète la phrase du planétarium : «Je ___ une planète.»",
+          "options": [
+            "vois",
+            "voit",
+            "voyons"
+          ],
+          "answer": "vois",
+          "explanation_fa": "je vois."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle forme de voir va avec «vous» ?",
+          "options": [
+            "voyez",
+            "voyons",
+            "voient"
+          ],
+          "answer": "voyez",
+          "explanation_fa": "vous voyez."
+        },
+        {
+          "type": "mcq",
+          "question": "Complète : «Les enfants ___ la comète.»",
+          "options": [
+            "voient",
+            "voit",
+            "voyons"
+          ],
+          "answer": "voient",
+          "explanation_fa": "ils voient."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase décrit l’observation de l’astronome ?",
+          "options": [
+            "L’astronome voit une comète.",
+            "L’astronome vois une comète.",
+            "L’astronome voyons une comète."
+          ],
+          "answer": "L’astronome voit une comète.",
+          "explanation_fa": "l’astronome correspond à il/elle voit."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در مدرسه، از یک بازدید گروهی در سیاره‌نما گفت‌وگو کنید. دربارهٔ چیزهایی که افراد می‌بینند سؤال بپرسید و فعل voir را برای فاعل‌های مختلف صرف کنید.",
+      "suggested_prompts": [
+        "Dites ce que vous voyez sur l’écran.",
+        "Parlez d’une chose que voit une personne.",
+        "Dites ce que vous voyez ensemble.",
+        "Parlez de ce que voient les élèves."
+      ],
+      "focus": [
+        "voir au présent",
+        "vois / voit / voyons / voyez / voient",
+        "voir + nom pour décrire une observation"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Teach the irregular present forms of voir in a simple planetarium visit; keep the astronomical vocabulary supported by context and Persian translations."
+  }
+}
