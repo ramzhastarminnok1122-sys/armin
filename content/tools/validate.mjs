@@ -54,7 +54,9 @@ const ITEM_KEYS = {
 const TAGS = ['فعل', 'اسم', 'صفت', 'قید', 'عبارت', 'حرف اضافه', 'ضمیر']
 const EX_TYPES = ['mcq', 'truefalse', 'fill', 'short']
 const SCENARIOS = ['کافه', 'سفر', 'فرودگاه', 'رستوران', 'خرید', 'مصاحبه کاری', 'مدرسه', 'آشنایی', 'زندگی روزمره']
-const TECH = /\b(Supabase|Groq|Myket|API|Backend|Database|RLS|Schema|SKU|Token|Server|Migration|JSON|GitHub|Git|Deploy|CLI|Endpoint)\b/i
+// Unicode-aware word boundaries prevent English technical terms from matching
+// inside accented French words such as «réserver».
+const TECH = /(?<![\p{L}\p{N}_])(Supabase|Groq|Myket|API|Backend|Database|RLS|Schema|SKU|Token|Server|Migration|JSON|GitHub|Git|Deploy|CLI|Endpoint)(?![\p{L}\p{N}_])/iu
 const EMOJI = /[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{FE0F}\u{2B00}-\u{2BFF}]/u
 const ARABIC_YK = /[\u064A\u0643]/
 const MARKDOWN = /\*\*|`|^#{1,6}\s|^\s*[-*]\s|\[[^\]]*\]\([^)]+\)/m

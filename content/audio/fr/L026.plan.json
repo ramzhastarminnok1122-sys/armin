@@ -1,0 +1,407 @@
+{
+  "lesson": "L026",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L026-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Bonjour, je voudrais un timbre pour cette carte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L026-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Vous l’envoyez en France ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L026-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui, à une amie à Lille.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L026-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "L’adresse est déjà sur l’enveloppe ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L026-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, j’utilise une adresse fictive.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L026-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Très bien. Le timbre est ici.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L026-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Merci. Je peux payer par carte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L026-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, le terminal est à côté du guichet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L026-fr-listening-1",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour, je voudrais expédier ce colis à Lyon.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L026-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Bien sûr. Quel est le poids du paquet ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L026-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Un kilo environ. Il contient des livres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L026-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "D’accord. Vous voulez un envoi standard ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L026-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "Oui. Combien coûte l’envoi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L026-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Cela coûte cinq euros. Il faut aussi écrire le destinataire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L026-fr-listening-7",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "J’utilise une adresse fictive pour cet exercice.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L026-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Très bien. Voici une enveloppe et un timbre pour votre lettre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L026-fr-listening-9",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[8]",
+      "tts_text": "Merci. Le colis part aujourd’hui ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L026-fr-listening-10",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, il part cet après-midi du bureau de poste.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L026-fr-vocab-poste",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "poste. La poste ferme à six heures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L026-fr-vocab-lettre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "lettre. J’envoie une lettre à ma cousine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L026-fr-vocab-colis",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "colis. Le colis est léger et bien fermé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L026-fr-vocab-timbre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "timbre. Il faut un timbre pour la lettre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L026-fr-vocab-enveloppe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "enveloppe. L’adresse fictive est sur l’enveloppe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L026-fr-vocab-guichet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "guichet. Le guichet numéro deux est ouvert.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L026-fr-vocab-poids",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "poids. Quel est le poids du paquet ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L026-fr-vocab-destination",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "destination. La destination est une ville voisine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L026-fr-vocab-destinataire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "destinataire. Le destinataire reçoit la lettre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L026-fr-vocab-expedier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "expédier. Nous allons expédier le colis demain.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L026-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je voudrais envoyer une lettre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L026-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Un colis pour Nora.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 19
+    },
+    {
+      "id": "L026-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "La destination est Lyon.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L026-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Combien coûte l’envoi ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L026-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je voudrais envoyer cette lettre à Léa.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L026-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Le destinataire habite dans une ville voisine.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L026-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Quel est le poids du colis ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L026-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Il faut un timbre sur l’enveloppe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L026-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Je demande le prix au guichet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L026-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora va à la poste pour envoyer une carte à une amie. Elle achète un timbre au guichet et place la carte dans une enveloppe. Pour l’activité de français, elle écrit une adresse inventée sur une feuille de travail. L’employé demande la destination et le poids du colis qui accompagne la carte. Nora répond qu’il part pour une ville voisine et qu’il contient un petit livre. Elle demande le prix, puis choisit un envoi standard. Avant de quitter le bureau de poste, elle vérifie le nom du destinataire. Le groupe rappelle qu’il ne faut pas écrire une vraie adresse privée sur une fiche de classe.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 594
+    },
+    {
+      "id": "L026-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L026)",
+      "tts_text": "برای فرستادن نامه‌ای خیالی، نوع بسته و مقصدی ساختگی انتخاب کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L026-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L026)",
+      "tts_text": "در ادارهٔ پست می‌توانی درخواست ارسال بدهی و دربارهٔ وزن و هزینه سؤال کنی؛ برای تمرین نشانی واقعی ننویس.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 103
+    },
+    {
+      "id": "L026-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L026)",
+      "tts_text": "به گفت‌وگو گوش کن و هزینهٔ ارسال بسته را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L026-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L026)",
+      "tts_text": "پس از «je voudrais» مصدر می‌آید. برای گفتن گیرنده از «à» استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L026-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L026)",
+      "tts_text": "یک نامه یا بستهٔ ساختگی را در باجه سفارش بده و دربارهٔ وزن و قیمت بپرس.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L026-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L026)",
+      "tts_text": "در تمرین پستی از اطلاعات ساختگی استفاده کن تا حریم خصوصی حفظ شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    }
+  ]
+}

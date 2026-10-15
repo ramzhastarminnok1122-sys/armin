@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 27,
+    "title": "J’ai une réservation pour deux nuits",
+    "subtitle": "Arriver à l’hôtel et demander un renseignement",
+    "description": "Confirmez une réservation fictive, demandez votre clé et vérifiez les services de l’hôtel.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "ورود به هتل، تأیید رزرو و پرسیدن دربارهٔ اتاق و صبحانه",
+      "objectives": [
+        "رزرو سادهٔ هتل را تأیید کنید",
+        "مدت اقامت و طبقه را بگویید",
+        "دربارهٔ صبحانه و آسانسور پرسش کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "هنگام رسیدن به هتل، چگونه می‌گویید اتاقی را برای دو شب رزرو کرده‌اید؟ چه چیزی را باید از پذیرش بپرسید؟",
+      "questions": [
+        {
+          "q": "برای دریافت کلید معمولاً به کجا می‌روید؟",
+          "hint_fa": "به محل خوشامدگویی و ثبت ورود فکر کنید."
+        },
+        {
+          "q": "چطور می‌پرسید آیا صبحانه در هزینهٔ اقامت هست؟",
+          "hint_fa": "یک پرسش ساده دربارهٔ خدمات بسازید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Confirmer une réservation",
+      "body_fa": "برای گفتن اینکه اتاقی رزرو کرده‌اید، می‌گوییم «j’ai une réservation». مدت اقامت را با «pour» بیان می‌کنیم: «pour deux nuits». برای درخواست اتاق می‌توان گفت «je voudrais réserver une chambre»؛ پس از voudrais فعل در مصدر می‌آید. در هتل ابتدا به «la réception» مراجعه می‌کنید، نام رزرو را می‌گویید و دربارهٔ «la clé» و «l’étage» می‌پرسید. اگر ساختمان چند طبقه دارد، می‌توانید بپرسید «où est l’ascenseur ?». برای خدمات صبحگاهی سؤال کنید «le petit-déjeuner est inclus ?». پاسخ‌ها می‌توانند کوتاه باشند: «oui, au rez-de-chaussée» یا «non, il coûte huit euros». در تمرین از نام ساختگی استفاده کنید و شمارهٔ رزرو یا اطلاعات هویتی واقعی را در گروه نفرستید. اگر چیزی را متوجه نشدید، از کارمند بخواهید آهسته‌تر توضیح دهد.",
+      "key_points": [
+        "j’ai une réservation برای اعلام رزرو به‌کار می‌رود.",
+        "pour + مدت زمان، تعداد شب‌های اقامت را بیان می‌کند.",
+        "برای پرسیدن دربارهٔ خدمات از یک پرسش کوتاه استفاده کنید و اطلاعات واقعی رزرو را منتشر نکنید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "réserver",
+          "ipa": "/ʁe.zɛʁ.ve/",
+          "translation_fa": "رزرو کردن",
+          "example": "Je voudrais réserver une chambre.",
+          "example_fa": "می‌خواهم اتاقی رزرو کنم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "réservation",
+          "ipa": "/ʁe.zɛʁ.va.sjɔ̃/",
+          "translation_fa": "رزرو",
+          "example": "J’ai une réservation pour deux nuits.",
+          "example_fa": "برای دو شب رزرو دارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "réception",
+          "ipa": "/ʁe.sɛp.sjɔ̃/",
+          "translation_fa": "پذیرش",
+          "example": "La réception est près de l’entrée.",
+          "example_fa": "پذیرش نزدیک ورودی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "hôtel",
+          "ipa": "/o.tɛl/",
+          "translation_fa": "هتل",
+          "example": "L’hôtel est au centre-ville.",
+          "example_fa": "هتل در مرکز شهر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "clé",
+          "ipa": "/kle/",
+          "translation_fa": "کلید",
+          "example": "Voici la clé de votre chambre.",
+          "example_fa": "این کلید اتاق شماست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "étage",
+          "ipa": "/e.taʒ/",
+          "translation_fa": "طبقه",
+          "example": "La chambre est au deuxième étage.",
+          "example_fa": "اتاق در طبقهٔ دوم است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ascenseur",
+          "ipa": "/a.sɑ̃.sœʁ/",
+          "translation_fa": "آسانسور",
+          "example": "L’ascenseur est à gauche.",
+          "example_fa": "آسانسور سمت چپ است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "nuit",
+          "ipa": "/nɥi/",
+          "translation_fa": "شب",
+          "example": "Nous restons trois nuits.",
+          "example_fa": "سه شب می‌مانیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "petit-déjeuner",
+          "ipa": "/pə.ti de.ʒø.ne/",
+          "translation_fa": "صبحانه",
+          "example": "Le petit-déjeuner commence à sept heures.",
+          "example_fa": "صبحانه ساعت هفت شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "disponible",
+          "ipa": "/dis.pɔ.nibl/",
+          "translation_fa": "در دسترس؛ خالی",
+          "example": "Une chambre est disponible ce soir.",
+          "example_fa": "امشب یک اتاق خالی است.",
+          "tag": "صفت"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "J’ai une réservation pour…",
+      "explanation_fa": "برای اعلام رزرو از avoir استفاده می‌کنیم: «j’ai une réservation». در خطاب مؤدبانه، می‌گوییم «vous avez une réservation ?». برای مشخص کردن مدت، «pour» را پیش از تعداد شب‌ها می‌آوریم: pour une nuit، pour deux nuits. این عبارت در پاسخ به پرسش «pour combien de nuits ?» کاربرد دارد. اگر هنوز اتاق نگرفته‌اید، درخواست را با «je voudrais réserver» بسازید؛ پس از voudrais مصدر réserver می‌آید. برای پرسیدن دربارهٔ صبحانه می‌گوییم «le petit-déjeuner est inclus ?». برای مسیر یا محل خدمات از où استفاده کنید: «où est l’ascenseur ?». در پذیرش از نام ساختگی تمرین استفاده کنید و هیچ شمارهٔ رزرو یا مدرک واقعی را در فضای عمومی منتشر نکنید.",
+      "pattern": "j’ai une réservation · pour + durée · je voudrais + infinitif",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "رزرو",
+            "J’ai une réservation.",
+            "رزرو دارم."
+          ],
+          [
+            "مدت اقامت",
+            "J’ai une réservation pour deux nuits.",
+            "برای دو شب رزرو دارم."
+          ],
+          [
+            "درخواست",
+            "Je voudrais réserver une chambre.",
+            "می‌خواهم اتاقی رزرو کنم."
+          ],
+          [
+            "پرسش خدمات",
+            "Le petit-déjeuner est inclus ?",
+            "صبحانه شامل هزینه است؟"
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای مدت اقامت از pour استفاده کنید.",
+        "پس از voudrais فعل در مصدر می‌آید."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "J’ai une réservation au nom de Martin.",
+          "fa": "به نام مارتن رزرو دارم.",
+          "note_fa": "نام ساختگی برای اعلام رزرو آمده است."
+        },
+        {
+          "target": "La chambre est disponible pour deux nuits.",
+          "fa": "اتاق برای دو شب خالی است.",
+          "note_fa": "مدت اقامت با pour بیان می‌شود."
+        },
+        {
+          "target": "Je voudrais demander la clé à la réception.",
+          "fa": "می‌خواهم کلید را از پذیرش بگیرم.",
+          "note_fa": "پس از voudrais مصدر demander آمده است."
+        },
+        {
+          "target": "Le petit-déjeuner est au rez-de-chaussée.",
+          "fa": "صبحانه در طبقهٔ همکف است.",
+          "note_fa": "محل یک خدمت در هتل مشخص شده است."
+        },
+        {
+          "target": "L’ascenseur est près de l’entrée.",
+          "fa": "آسانسور نزدیک ورودی است.",
+          "note_fa": "برای پیدا کردن آسانسور از یک نشانهٔ مکانی استفاده شده است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "À la réception de l’hôtel",
+      "script": "Employée: Bonjour, bienvenue à l’hôtel. Vous avez une réservation ?\nSamir: Oui, au nom de Martin, pour deux nuits.\nEmployée: Très bien. Vous avez une chambre au troisième étage.\nSamir: Où est l’ascenseur, s’il vous plaît ?\nEmployée: Il est à droite de la réception. Voici votre clé.\nSamir: Merci. Le petit-déjeuner est inclus ?\nEmployée: Oui, il est servi de sept à dix heures.\nSamir: Est-ce qu’il y a une chambre disponible pour mon amie ?\nEmployée: Je vais vérifier. Une chambre est libre pour une nuit.\nSamir: Parfait, elle va demander à la réception.",
+      "script_fa": "کارمند: سلام، به هتل خوش آمدید. رزرو دارید؟\nسمیر: بله، به نام مارتن، برای دو شب.\nکارمند: بسیار خوب. اتاق شما در طبقهٔ سوم است.\nسمیر: آسانسور کجاست، لطفاً؟\nکارمند: سمت راست پذیرش است. این هم کلید شما.\nسمیر: ممنون. صبحانه شامل هزینه است؟\nکارمند: بله، از ساعت هفت تا ده سرو می‌شود.\nسمیر: آیا برای دوستم اتاق خالی هست؟\nکارمند: بررسی می‌کنم. برای یک شب اتاق خالی هست.\nسمیر: عالی است، او به پذیرش مراجعه می‌کند.",
+      "question_fa": "À quel étage se trouve la chambre de Samir ?",
+      "answer": "Au troisième étage.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Une question sur le petit-déjeuner",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "J’ai une réservation pour une nuit.",
+          "fa": "برای یک شب رزرو دارم."
+        },
+        {
+          "speaker": "B",
+          "target": "Bienvenue. Voici la clé de votre chambre.",
+          "fa": "خوش آمدید. این کلید اتاق شماست."
+        },
+        {
+          "speaker": "A",
+          "target": "Le petit-déjeuner est à quelle heure ?",
+          "fa": "صبحانه چه ساعتی است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Il commence à sept heures.",
+          "fa": "ساعت هفت شروع می‌شود."
+        },
+        {
+          "speaker": "A",
+          "target": "Où est l’ascenseur ?",
+          "fa": "آسانسور کجاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "À gauche de la réception.",
+          "fa": "سمت چپ پذیرش."
+        },
+        {
+          "speaker": "A",
+          "target": "Merci. La chambre est à quel étage ?",
+          "fa": "ممنون. اتاق در کدام طبقه است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Au deuxième étage, près de l’escalier.",
+          "fa": "طبقهٔ دوم، نزدیک پله‌ها."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سفر، در نقش مهمان یا کارمند پذیرش یک هتل تمرینی، رزروی ساختگی را تأیید کنید. مدت اقامت را بگویید، کلید و طبقه را بپرسید و دربارهٔ صبحانه یا آسانسور سؤال کنید. اطلاعات رزرو واقعی را به اشتراک نگذارید.",
+      "useful_phrases": [
+        {
+          "target": "J’ai une réservation pour deux nuits.",
+          "fa": "برای دو شب رزرو دارم."
+        },
+        {
+          "target": "Où est l’ascenseur ?",
+          "fa": "آسانسور کجاست؟"
+        },
+        {
+          "target": "Le petit-déjeuner est inclus ?",
+          "fa": "صبحانه شامل هزینه است؟"
+        },
+        {
+          "target": "Voici une clé pour votre chambre.",
+          "fa": "این کلید اتاق شماست."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une arrivée à l’hôtel",
+      "text": "Mina arrive dans un hôtel du centre-ville avec une réservation fictive pour deux nuits. À la réception, elle donne le nom utilisé pour l’exercice et demande sa clé. L’employé indique le troisième étage et montre l’ascenseur, à droite du comptoir. Mina demande si le petit-déjeuner est inclus. Il répond qu’il est servi de sept à dix heures dans la salle du rez-de-chaussée. Une amie de Mina cherche aussi une chambre pour une nuit. L’employé vérifie les disponibilités avant de répondre. Le groupe joue les rôles avec des noms inventés et ne partage aucune référence de réservation réelle.",
+      "glossary": [
+        {
+          "term": "comptoir",
+          "fa": "پیشخوان"
+        },
+        {
+          "term": "rez-de-chaussée",
+          "fa": "طبقهٔ همکف"
+        },
+        {
+          "term": "disponibilité",
+          "fa": "موجود بودن"
+        },
+        {
+          "term": "référence",
+          "fa": "شماره یا کد پیگیری"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "مینا برای چند شب رزرو دارد؟",
+          "a": "Pour deux nuits."
+        },
+        {
+          "q_fa": "آسانسور کجاست؟",
+          "a": "À droite du comptoir."
+        },
+        {
+          "q_fa": "صبحانه چه زمانی سرو می‌شود؟",
+          "a": "De sept à dix heures."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "مدت اقامت را انتخاب کنید.",
+          "question": "Une réservation ___ deux nuits.",
+          "options": [
+            "pour",
+            "dans",
+            "chez"
+          ],
+          "answer": "pour",
+          "explanation_fa": "برای بیان مدت از pour استفاده می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "در هتل کلید را از کجا می‌گیریم؟",
+          "question": "À la ___.",
+          "options": [
+            "réception",
+            "destination",
+            "enveloppe"
+          ],
+          "answer": "réception",
+          "explanation_fa": "پذیرش محل دریافت کلید و اطلاعات است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "پس از je voudrais از مصدر استفاده می‌کنیم.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "ساخت درخواست با je voudrais + مصدر می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "کدام جمله دربارهٔ صبحانه سؤال می‌کند؟",
+          "question": "___ inclus ?",
+          "options": [
+            "Le petit-déjeuner est",
+            "Où est le guichet",
+            "Quel est le poids"
+          ],
+          "answer": "Le petit-déjeuner est",
+          "explanation_fa": "این پرسش دربارهٔ خدمات هتل است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "کلمهٔ مناسب برای بالا رفتن بین طبقات را بنویسید.",
+          "question": "Où est l’___ ?",
+          "answer": [
+            "ascenseur"
+          ],
+          "explanation_fa": "ascenseur یعنی آسانسور."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "رزرو ساختگی برای دو شب را اعلام کن و دربارهٔ آسانسور بپرس.",
+          "question": "Vous arrivez à l’hôtel.",
+          "answer": [
+            "J’ai une réservation pour deux nuits. Où est l’ascenseur ?",
+            "Bonjour, j’ai une réservation pour deux nuits. Le petit-déjeuner est inclus ?"
+          ],
+          "explanation_fa": "برای مدت از pour استفاده کن و اطلاعات واقعی رزرو را ننویس."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Que signifie une réservation ?",
+          "options": [
+            "رزرو",
+            "تمبر",
+            "تخته"
+          ],
+          "answer": "رزرو",
+          "explanation_fa": "Une réservation est une chambre ou un service réservé à l’avance."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel mot désigne le lieu où l’on s’adresse au personnel de l’hôtel ?",
+          "options": [
+            "réception",
+            "destination",
+            "poids"
+          ],
+          "answer": "réception",
+          "explanation_fa": "On demande la clé et des renseignements à la réception."
+        },
+        {
+          "type": "mcq",
+          "question": "Complétez : «une réservation ___ deux nuits».",
+          "options": [
+            "pour",
+            "sous",
+            "avec"
+          ],
+          "answer": "pour",
+          "explanation_fa": "pour introduit ici la durée du séjour."
+        },
+        {
+          "type": "mcq",
+          "question": "Où trouve-t-on un ascenseur ?",
+          "options": [
+            "در هتل",
+            "در پاکت نامه",
+            "در باجهٔ پست"
+          ],
+          "answer": "در هتل",
+          "explanation_fa": "L’ascenseur permet de changer d’étage dans un bâtiment."
+        },
+        {
+          "type": "mcq",
+          "question": "Que faut-il garder privé ?",
+          "options": [
+            "شمارهٔ رزرو واقعی",
+            "ساعت صبحانه",
+            "نام طبقه"
+          ],
+          "answer": "شمارهٔ رزرو واقعی",
+          "explanation_fa": "Une référence de réservation peut contenir des informations personnelles."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش مهمان در هتل یا کارمند پذیرش، یک رزرو خیالی را تأیید کنید. برای تعداد شب‌ها از pour استفاده کنید، دربارهٔ صبحانه یا آسانسور سؤال بپرسید و نام یا کد رزرو واقعی را فاش نکنید.",
+      "suggested_prompts": [
+        "Confirmez une réservation fictive pour deux nuits.",
+        "Demandez où se trouve l’ascenseur.",
+        "Posez une question sur le petit-déjeuner.",
+        "Utilisez un nom inventé, jamais une référence réelle."
+      ],
+      "focus": [
+        "j’ai une réservation",
+        "pour + مدت",
+        "اطلاعات رزرو و حریم خصوصی"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Use an invented booking name; do not disclose real booking references or identification numbers."
+  }
+}

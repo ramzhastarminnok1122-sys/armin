@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 26,
+    "title": "Je voudrais envoyer un colis",
+    "subtitle": "Demander un service au bureau de poste",
+    "description": "Préparez un petit envoi fictif et posez une question sur le poids ou le prix au guichet.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "فرستادن نامه یا بسته و پرسیدن هزینه در ادارهٔ پست",
+      "objectives": [
+        "برای ارسال نامه یا بسته درخواست مؤدبانه بسازید",
+        "نام فرستنده و گیرنده را تشخیص دهید",
+        "دربارهٔ وزن و هزینهٔ ارسال پرسش کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "اگر بخواهید برای دوستی در شهر دیگری نامه یا بسته بفرستید، در ادارهٔ پست چه می‌پرسید؟",
+      "questions": [
+        {
+          "q": "برای رساندن نامه از چه چیزی استفاده می‌کنید؟",
+          "hint_fa": "نام وسیله‌ای را بگویید که نامه داخل آن قرار می‌گیرد."
+        },
+        {
+          "q": "چه کسی بسته را دریافت می‌کند؟",
+          "hint_fa": "به واژهٔ گیرنده فکر کنید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Envoyer une lettre ou un colis",
+      "body_fa": "در ادارهٔ پست می‌توان گفت «je voudrais envoyer une lettre» یا «je voudrais expédier un colis». نامه در یک «enveloppe» قرار می‌گیرد و بسته را معمولاً بر اساس وزن و مقصد بررسی می‌کنند. «l’expéditeur» کسی است که می‌فرستد و «le destinataire» کسی است که دریافت می‌کند. در باجه می‌توانید بپرسید «quel est le poids ?» یا «combien coûte l’envoi ?». اگر نمی‌دانید چه تمبری لازم است، از کارمند پست درخواست راهنمایی کنید. برای نوشتن نشانی از اطلاعات ساختگی استفاده کنید؛ نشانی واقعی خانه یا شمارهٔ شخصی را در تمرین گروهی ننویسید. سپس نوع ارسال را انتخاب کنید و از کارمند بخواهید هزینه و زمان تقریبی را توضیح دهد. پاسخ کوتاه و دقیق کمک می‌کند بسته درست ارسال شود.",
+      "key_points": [
+        "envoyer یا expédier برای فرستادن نامه و بسته به‌کار می‌روند.",
+        "فرستنده expéditeur و دریافت‌کننده destinataire است.",
+        "برای هزینه و وزن، در باجه پرسش روشن و مؤدبانه بپرسید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "poste",
+          "ipa": "/pɔst/",
+          "translation_fa": "ادارهٔ پست",
+          "example": "La poste ferme à six heures.",
+          "example_fa": "ادارهٔ پست ساعت شش می‌بندد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "lettre",
+          "ipa": "/lɛtʁ/",
+          "translation_fa": "نامه",
+          "example": "J’envoie une lettre à ma cousine.",
+          "example_fa": "برای دخترخاله‌ام نامه می‌فرستم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "colis",
+          "ipa": "/kɔ.li/",
+          "translation_fa": "بستهٔ پستی",
+          "example": "Le colis est léger et bien fermé.",
+          "example_fa": "بسته سبک و خوب بسته‌بندی شده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "timbre",
+          "ipa": "/tɛ̃bʁ/",
+          "translation_fa": "تمبر",
+          "example": "Il faut un timbre pour la lettre.",
+          "example_fa": "برای نامه یک تمبر لازم است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "enveloppe",
+          "ipa": "/ɑ̃.vlɔp/",
+          "translation_fa": "پاکت",
+          "example": "L’adresse fictive est sur l’enveloppe.",
+          "example_fa": "نشانی ساختگی روی پاکت است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "guichet",
+          "ipa": "/ɡi.ʃe/",
+          "translation_fa": "باجه",
+          "example": "Le guichet numéro deux est ouvert.",
+          "example_fa": "باجهٔ شمارهٔ دو باز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "poids",
+          "ipa": "/pwa/",
+          "translation_fa": "وزن",
+          "example": "Quel est le poids du paquet ?",
+          "example_fa": "وزن بسته چقدر است؟",
+          "tag": "اسم"
+        },
+        {
+          "term": "destination",
+          "ipa": "/dɛs.ti.na.sjɔ̃/",
+          "translation_fa": "مقصد",
+          "example": "La destination est une ville voisine.",
+          "example_fa": "مقصد شهری نزدیک است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "destinataire",
+          "ipa": "/dɛs.ti.na.tɛʁ/",
+          "translation_fa": "گیرنده",
+          "example": "Le destinataire reçoit la lettre.",
+          "example_fa": "گیرنده نامه را دریافت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "expédier",
+          "ipa": "/ɛk.spe.dje/",
+          "translation_fa": "ارسال کردن",
+          "example": "Nous allons expédier le colis demain.",
+          "example_fa": "قرار است فردا بسته را ارسال کنیم.",
+          "tag": "فعل"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Demander un envoi au guichet",
+      "explanation_fa": "برای سفارش خدمات در باجه می‌توان گفت «je voudrais envoyer une lettre» یا «je voudrais expédier un colis». پس از voudrais از مصدر استفاده می‌شود. برای پرسیدن اطلاعات می‌گوییم «quel est le poids ?», «quelle est la destination ?» یا «combien coûte l’envoi ?». در پرسش، quel با اسم هماهنگ می‌شود: quel poids، quelle destination. برای گفتن گیرنده از à استفاده کنید: envoyer une lettre à Nora. «pour» نیز مقصد کلی یا هدف را معرفی می‌کند: un colis pour Lyon. کارمند ممکن است وزن را بررسی کند و هزینه را بگوید. اگر پاسخ را نفهمیدید، از او بخواهید آن را تکرار کند. برای تمرین، از نام و نشانی ساختگی استفاده کنید و نشانی خصوصی واقعی را در کلاس ننویسید.",
+      "pattern": "je voudrais + infinitif · envoyer quelque chose à / pour quelqu’un",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "درخواست",
+            "Je voudrais envoyer une lettre.",
+            "می‌خواهم نامه‌ای بفرستم."
+          ],
+          [
+            "دریافت‌کننده",
+            "Un colis pour Nora.",
+            "یک بسته برای نورا."
+          ],
+          [
+            "مقصد",
+            "La destination est Lyon.",
+            "مقصد لیون است."
+          ],
+          [
+            "پرسش هزینه",
+            "Combien coûte l’envoi ?",
+            "هزینهٔ ارسال چقدر است؟"
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "پس از voudrais از مصدر استفاده کنید.",
+        "در تمرین از نشانی ساختگی استفاده کنید، نه اطلاعات خصوصی واقعی."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je voudrais envoyer cette lettre à Léa.",
+          "fa": "می‌خواهم این نامه را برای لئا بفرستم.",
+          "note_fa": "پس از voudrais مصدر envoyer آمده است."
+        },
+        {
+          "target": "Le destinataire habite dans une ville voisine.",
+          "fa": "گیرنده در شهری نزدیک زندگی می‌کند.",
+          "note_fa": "destinataire دریافت‌کنندهٔ نامه است."
+        },
+        {
+          "target": "Quel est le poids du colis ?",
+          "fa": "وزن بسته چقدر است؟",
+          "note_fa": "پرسش دربارهٔ وزن است."
+        },
+        {
+          "target": "Il faut un timbre sur l’enveloppe.",
+          "fa": "روی پاکت یک تمبر لازم است.",
+          "note_fa": "تمبر برای ارسال نامه استفاده می‌شود."
+        },
+        {
+          "target": "Je demande le prix au guichet.",
+          "fa": "هزینه را در باجه می‌پرسم.",
+          "note_fa": "guichet محل گرفتن خدمات پستی است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un colis au bureau de poste",
+      "script": "Client: Bonjour, je voudrais expédier ce colis à Lyon.\nEmployée: Bien sûr. Quel est le poids du paquet ?\nClient: Un kilo environ. Il contient des livres.\nEmployée: D’accord. Vous voulez un envoi standard ?\nClient: Oui. Combien coûte l’envoi ?\nEmployée: Cela coûte cinq euros. Il faut aussi écrire le destinataire.\nClient: J’utilise une adresse fictive pour cet exercice.\nEmployée: Très bien. Voici une enveloppe et un timbre pour votre lettre.\nClient: Merci. Le colis part aujourd’hui ?\nEmployée: Oui, il part cet après-midi du bureau de poste.",
+      "script_fa": "مشتری: سلام، می‌خواهم این بسته را به لیون بفرستم.\nکارمند: البته. وزن بسته چقدر است؟\nمشتری: حدود یک کیلو. داخلش کتاب است.\nکارمند: قبول. ارسال عادی می‌خواهید؟\nمشتری: بله. هزینهٔ ارسال چقدر است؟\nکارمند: پنج یورو می‌شود. باید نام گیرنده را هم بنویسید.\nمشتری: برای این تمرین از نشانی ساختگی استفاده می‌کنم.\nکارمند: بسیار خوب. این هم پاکت و تمبر برای نامه‌تان.\nمشتری: ممنون. بسته امروز ارسال می‌شود؟\nکارمند: بله، امروز بعدازظهر از ادارهٔ پست می‌رود.",
+      "question_fa": "Combien coûte l’envoi du colis ?",
+      "answer": "Cinq euros.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Acheter un timbre pour une carte",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Bonjour, je voudrais un timbre pour cette carte.",
+          "fa": "سلام، برای این کارت یک تمبر می‌خواهم."
+        },
+        {
+          "speaker": "B",
+          "target": "Vous l’envoyez en France ?",
+          "fa": "آن را به فرانسه می‌فرستید؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, à une amie à Lille.",
+          "fa": "بله، برای دوستی در لیل."
+        },
+        {
+          "speaker": "B",
+          "target": "L’adresse est déjà sur l’enveloppe ?",
+          "fa": "نشانی از قبل روی پاکت نوشته شده؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, j’utilise une adresse fictive.",
+          "fa": "بله، از نشانی ساختگی استفاده می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Très bien. Le timbre est ici.",
+          "fa": "بسیار خوب. تمبر اینجاست."
+        },
+        {
+          "speaker": "A",
+          "target": "Merci. Je peux payer par carte ?",
+          "fa": "ممنون. می‌توانم با کارت پرداخت کنم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, le terminal est à côté du guichet.",
+          "fa": "بله، دستگاه کنار باجه است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در نقش مشتری یا کارمند ادارهٔ پست در موقعیت خرید، ارسال یک نامه یا بسته را تمرین کنید. نوع بسته، وزن و مقصد را بگویید، دربارهٔ هزینه بپرسید و فقط از نام و نشانی ساختگی استفاده کنید.",
+      "useful_phrases": [
+        {
+          "target": "Je voudrais envoyer un colis.",
+          "fa": "می‌خواهم بسته‌ای بفرستم."
+        },
+        {
+          "target": "Quel est le poids ?",
+          "fa": "وزن چقدر است؟"
+        },
+        {
+          "target": "Combien coûte l’envoi ?",
+          "fa": "هزینهٔ ارسال چقدر است؟"
+        },
+        {
+          "target": "Voici une adresse fictive.",
+          "fa": "این یک نشانی ساختگی است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Envoyer une lettre sans partager son adresse",
+      "text": "Nora va à la poste pour envoyer une carte à une amie. Elle achète un timbre au guichet et place la carte dans une enveloppe. Pour l’activité de français, elle écrit une adresse inventée sur une feuille de travail. L’employé demande la destination et le poids du colis qui accompagne la carte. Nora répond qu’il part pour une ville voisine et qu’il contient un petit livre. Elle demande le prix, puis choisit un envoi standard. Avant de quitter le bureau de poste, elle vérifie le nom du destinataire. Le groupe rappelle qu’il ne faut pas écrire une vraie adresse privée sur une fiche de classe.",
+      "glossary": [
+        {
+          "term": "accompagner",
+          "fa": "همراه بودن"
+        },
+        {
+          "term": "inventé",
+          "fa": "ساختگی"
+        },
+        {
+          "term": "feuille de travail",
+          "fa": "برگهٔ تمرین"
+        },
+        {
+          "term": "rappeler",
+          "fa": "یادآوری کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "نورا در باجه چه چیزی می‌خرد؟",
+          "a": "Un timbre."
+        },
+        {
+          "q_fa": "بسته برای کجا می‌رود؟",
+          "a": "Pour une ville voisine."
+        },
+        {
+          "q_fa": "چرا از نشانی ساختگی استفاده می‌کند؟",
+          "a": "Pour protéger une vraie adresse privée."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "مصدر را پس از voudrais کامل کنید.",
+          "question": "Je voudrais ___ un colis.",
+          "options": [
+            "expédier",
+            "expédie",
+            "expédiez"
+          ],
+          "answer": "expédier",
+          "explanation_fa": "پس از voudrais از مصدر استفاده می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "گیرندهٔ نامه چه کسی است؟",
+          "question": "Le ___.",
+          "options": [
+            "destinataire",
+            "expéditeur",
+            "guichet"
+          ],
+          "answer": "destinataire",
+          "explanation_fa": "destinataire نامه را دریافت می‌کند."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "در یک تمرین گروهی بهتر است از نشانی ساختگی استفاده کنیم.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "نشانی ساختگی از اطلاعات خصوصی محافظت می‌کند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "کدام عبارت دربارهٔ وزن می‌پرسد؟",
+          "question": "___ du colis ?",
+          "options": [
+            "Quel est le poids",
+            "Où est la poste",
+            "Qui est le timbre"
+          ],
+          "answer": "Quel est le poids",
+          "explanation_fa": "poids یعنی وزن."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "حرف تعریف را کامل کنید.",
+          "question": "Je voudrais envoyer une lettre ___ Nora.",
+          "answer": [
+            "à"
+          ],
+          "explanation_fa": "برای گفتن گیرنده از à استفاده می‌شود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "یک بستهٔ ساختگی را با وزن و مقصد توصیف کن.",
+          "question": "Vous êtes au guichet.",
+          "answer": [
+            "Je voudrais envoyer un colis d’un kilo à Lyon.",
+            "Le destinataire habite à Nantes et le colis est léger."
+          ],
+          "explanation_fa": "از اطلاعات خیالی استفاده کن و دربارهٔ مقصد روشن بگو."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Que fait un destinataire ?",
+          "options": [
+            "یک نامه یا بسته دریافت می‌کند",
+            "تمبر می‌فروشد",
+            "وزن را می‌سنجد"
+          ],
+          "answer": "یک نامه یا بسته دریافت می‌کند",
+          "explanation_fa": "Le destinataire est la personne qui reçoit l’envoi."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel mot désigne une petite vignette postale ?",
+          "options": [
+            "timbre",
+            "guichet",
+            "poids"
+          ],
+          "answer": "timbre",
+          "explanation_fa": "On colle un timbre sur une lettre."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie le poids ?",
+          "options": [
+            "وزن",
+            "نشانی",
+            "گیرنده"
+          ],
+          "answer": "وزن",
+          "explanation_fa": "Le poids indique combien pèse un colis."
+        },
+        {
+          "type": "mcq",
+          "question": "Que faut-il faire avant d’écrire l’adresse en classe ?",
+          "options": [
+            "از نشانی ساختگی استفاده کردن",
+            "شمارهٔ واقعی را منتشر کردن",
+            "نشانی همسایه را نوشتن"
+          ],
+          "answer": "از نشانی ساختگی استفاده کردن",
+          "explanation_fa": "Une adresse inventée protège les informations privées."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle formule demande le prix ?",
+          "options": [
+            "Combien coûte l’envoi ?",
+            "Où habite le timbre ?",
+            "Qui est le colis ?"
+          ],
+          "answer": "Combien coûte l’envoi ?",
+          "explanation_fa": "La question demande le coût du service postal."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش کارمند یا مشتری در ادارهٔ پست، ارسال یک نامه یا بستهٔ ساختگی را تمرین کنید. دربارهٔ وزن، مقصد و هزینه سؤال کنید، و مطمئن شوید هیچ نشانی خصوصی واقعی وارد گفت‌وگو نمی‌شود.",
+      "suggested_prompts": [
+        "Demandez quel type d’envoi la personne souhaite.",
+        "Faites préciser le poids et la destination.",
+        "Indiquez le prix avec une somme fictive.",
+        "Rappelez d’utiliser une adresse inventée en classe."
+      ],
+      "focus": [
+        "واژگان ادارهٔ پست",
+        "پرسش دربارهٔ وزن و هزینه",
+        "حفاظت از نشانی خصوصی"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Postal vocabulary is practiced with invented details; never use a real private address in the exercise."
+  }
+}

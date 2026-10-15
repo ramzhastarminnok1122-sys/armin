@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 28,
+    "title": "À quelle heure part le train ?",
+    "subtitle": "Lire un horaire et trouver le quai",
+    "description": "Demandez l’heure de départ et le quai, puis comprenez une annonce simple en gare.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "پرسیدن ساعت حرکت قطار، پیدا کردن سکو و فهمیدن اعلام تأخیر",
+      "objectives": [
+        "زمان حرکت و رسیدن را با فعل‌های partir و arriver بپرسید",
+        "سکوی قطار و اعلام تأخیر را تشخیص دهید",
+        "بلیت یک‌طرفه یا رفت‌وبرگشت درخواست کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در ایستگاه قطار اگر ساعت حرکت یا شمارهٔ سکو را ندانید، چه می‌پرسید؟ چگونه می‌فهمید قطار مستقیم است یا تأخیر دارد؟",
+      "questions": [
+        {
+          "q": "برای دانستن ساعت حرکت چه پرسشی می‌سازید؟",
+          "hint_fa": "از عبارت «à quelle heure» کمک بگیرید."
+        },
+        {
+          "q": "اگر روی تابلو واژهٔ retard ببینید، چه معنایی دارد؟",
+          "hint_fa": "به احتمال وجود تأخیر فکر کنید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Comprendre les horaires en gare",
+      "body_fa": "برای پرسیدن زمان حرکت می‌گوییم «à quelle heure est-ce que le train part ?» و برای رسیدن از فعل arriver استفاده می‌کنیم. در پاسخ، ساعت را با «à» می‌آوریم: «il part à huit heures». برای پیدا کردن سکو بپرسید «quel est le quai ?» یا «où est la voie numéro quatre ?». «un train direct» بدون تعویض حرکت می‌کند؛ در سفر دارای «une correspondance» باید وسیله یا قطار دیگری عوض کنید. «un aller simple» فقط یک مسیر است و «un aller-retour» رفت‌وبرگشت را شامل می‌شود. اگر برنامه تغییر کند، در ایستگاه ممکن است اعلام «un retard» را بشنوید؛ زمان را از تابلو یا کارمند دوباره بررسی کنید. ساعت‌ها و مسیرهای این درس نمونه هستند و برای سفر واقعی باید اطلاعات همان روز را ببینید.",
+      "key_points": [
+        "à quelle heure est-ce que ... ? زمان را می‌پرسد.",
+        "partir برای حرکت و arriver برای رسیدن است.",
+        "aller simple یک‌طرفه و aller-retour رفت‌وبرگشت است."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "départ",
+          "ipa": "/de.paʁ/",
+          "translation_fa": "حرکت؛ عزیمت",
+          "example": "Le départ est à neuf heures.",
+          "example_fa": "حرکت ساعت نه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "arrivée",
+          "ipa": "/a.ʁi.ve/",
+          "translation_fa": "رسیدن؛ ورود",
+          "example": "L’arrivée est prévue à midi.",
+          "example_fa": "رسیدن برای ظهر برنامه‌ریزی شده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "quai",
+          "ipa": "/kɛ/",
+          "translation_fa": "سکوی ایستگاه",
+          "example": "Le train part du quai numéro deux.",
+          "example_fa": "قطار از سکوی شمارهٔ دو حرکت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "retard",
+          "ipa": "/ʁə.taʁ/",
+          "translation_fa": "تأخیر",
+          "example": "Le train a dix minutes de retard.",
+          "example_fa": "قطار ده دقیقه تأخیر دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "correspondance",
+          "ipa": "/kɔ.ʁɛs.pɔ̃.dɑ̃s/",
+          "translation_fa": "تعویض وسیله یا قطار",
+          "example": "J’ai une correspondance à Lille.",
+          "example_fa": "در لیل باید قطار عوض کنم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "direct",
+          "ipa": "/di.ʁɛkt/",
+          "translation_fa": "مستقیم",
+          "example": "Ce train est direct pour Lyon.",
+          "example_fa": "این قطار مستقیم به لیون می‌رود.",
+          "tag": "صفت"
+        },
+        {
+          "term": "aller simple",
+          "ipa": "/a.le sɛ̃pl/",
+          "translation_fa": "بلیت یک‌طرفه",
+          "example": "Je voudrais un aller simple pour Rouen.",
+          "example_fa": "یک بلیت یک‌طرفه به روآن می‌خواهم.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "aller-retour",
+          "ipa": "/a.le ʁə.tuʁ/",
+          "translation_fa": "بلیت رفت‌وبرگشت",
+          "example": "Nous prenons un aller-retour pour samedi.",
+          "example_fa": "برای شنبه بلیت رفت‌وبرگشت می‌گیریم.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "annonce",
+          "ipa": "/a.nɔ̃s/",
+          "translation_fa": "اعلام ایستگاه",
+          "example": "L’annonce indique un changement de quai.",
+          "example_fa": "اعلام ایستگاه از تغییر سکو خبر می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "voie",
+          "ipa": "/vwa/",
+          "translation_fa": "خط یا مسیر ریل",
+          "example": "Le train arrive sur la voie quatre.",
+          "example_fa": "قطار به خط چهار می‌رسد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Partir, arriver et demander l’heure",
+      "explanation_fa": "در زمان حال می‌گوییم «le train part» و «le train arrive». برای پرسیدن ساعت، از الگوی «à quelle heure est-ce que + sujet + verbe ?» استفاده کنید: «à quelle heure est-ce que le train part ?». برای پرسیدن مسیر یا شمارهٔ سکو به‌کار ببرید: «où est le quai ?», «quelle est la voie ?». پاسخ ساعت با حرف اضافهٔ à می‌آید: «le départ est à neuf heures». برای درخواست بلیت می‌توانید بگویید «je voudrais un aller simple» یا «un aller-retour». واژهٔ direct صفت است و با قطار مذکر می‌آید؛ می‌گوییم «un train direct». اگر قطار تأخیر داشته باشد، برنامه را دوباره بررسی کنید و به اعلام ایستگاه گوش دهید. ساعت‌های نمونهٔ این تمرین، برنامهٔ واقعی سفر نیستند.",
+      "pattern": "À quelle heure est-ce que + sujet + partir / arriver ?",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "پرسیدن حرکت",
+            "À quelle heure est-ce que le train part ?",
+            "قطار چه ساعتی حرکت می‌کند؟"
+          ],
+          [
+            "پرسیدن رسیدن",
+            "À quelle heure est-ce que le train arrive ?",
+            "قطار چه ساعتی می‌رسد؟"
+          ],
+          [
+            "گفتن زمان",
+            "Le départ est à neuf heures.",
+            "حرکت ساعت نه است."
+          ],
+          [
+            "درخواست بلیت",
+            "Je voudrais un aller-retour.",
+            "یک بلیت رفت‌وبرگشت می‌خواهم."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای زمان حرکت یا رسیدن از à استفاده کنید.",
+        "برنامهٔ واقعی قطار را از تابلو یا منبع رسمی همان روز بررسی کنید."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "À quelle heure est-ce que le train arrive ?",
+          "fa": "قطار چه ساعتی می‌رسد؟",
+          "note_fa": "arriver برای زمان رسیدن استفاده می‌شود."
+        },
+        {
+          "target": "Le train part à huit heures quinze.",
+          "fa": "قطار ساعت هشت و پانزده حرکت می‌کند.",
+          "note_fa": "حرف اضافهٔ à زمان را معرفی می‌کند."
+        },
+        {
+          "target": "Nous avons une correspondance à Paris.",
+          "fa": "در پاریس باید قطار عوض کنیم.",
+          "note_fa": "correspondance یعنی تعویض وسیله در مسیر."
+        },
+        {
+          "target": "Je voudrais un aller simple pour Dijon.",
+          "fa": "یک بلیت یک‌طرفه به دیژون می‌خواهم.",
+          "note_fa": "aller simple سفر یک‌طرفه را مشخص می‌کند."
+        },
+        {
+          "target": "Le train direct part du quai quatre.",
+          "fa": "قطار مستقیم از سکوی چهار حرکت می‌کند.",
+          "note_fa": "direct مسیر بدون تعویض را توصیف می‌کند."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un billet à la gare",
+      "script": "Voyageuse: Bonjour, je voudrais un aller-retour pour Lyon.\nAgent: Pour aujourd’hui ?\nVoyageuse: Oui. À quelle heure est-ce que le train part ?\nAgent: Il part à quinze heures quarante du quai six.\nVoyageuse: Est-ce que le train est direct ?\nAgent: Non, il y a une correspondance à Dijon.\nVoyageuse: Et à quelle heure est-ce qu’il arrive ?\nAgent: L’arrivée est prévue à dix-huit heures.\nVoyageuse: Merci. Je vais regarder l’annonce sur le tableau.\nAgent: D’accord. Le train peut avoir un léger retard.",
+      "script_fa": "مسافر: سلام، یک بلیت رفت‌وبرگشت به لیون می‌خواهم.\nکارمند: برای امروز؟\nمسافر: بله. قطار چه ساعتی حرکت می‌کند؟\nکارمند: ساعت پانزده و چهل از سکوی شش حرکت می‌کند.\nمسافر: قطار مستقیم است؟\nکارمند: نه، در دیژون باید قطار عوض کنید.\nمسافر: و چه ساعتی می‌رسد؟\nکارمند: رسیدن برای ساعت هجده برنامه‌ریزی شده است.\nمسافر: ممنون. اعلام را روی تابلو نگاه می‌کنم.\nکارمند: بسیار خوب. ممکن است قطار کمی تأخیر داشته باشد.",
+      "question_fa": "À quelle heure le train arrive-t-il à Lyon ?",
+      "answer": "À dix-huit heures.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Vérifier le quai",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Où est le train pour Nantes ?",
+          "fa": "قطار نانت کجاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Il part de la voie trois.",
+          "fa": "از خط سه حرکت می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "Le départ est à quelle heure ?",
+          "fa": "حرکت چه ساعتی است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "À onze heures vingt.",
+          "fa": "ساعت یازده و بیست."
+        },
+        {
+          "speaker": "A",
+          "target": "Je vois une annonce sur le tableau.",
+          "fa": "یک اعلام روی تابلو می‌بینم."
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, le train a cinq minutes de retard.",
+          "fa": "بله، قطار پنج دقیقه تأخیر دارد."
+        },
+        {
+          "speaker": "A",
+          "target": "Merci, je vais attendre près du quai.",
+          "fa": "ممنون، نزدیک سکو منتظر می‌مانم."
+        },
+        {
+          "speaker": "B",
+          "target": "Le train est direct, sans correspondance.",
+          "fa": "قطار مستقیم است و تعویض ندارد."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "برای سفر، در نقش مسافر یا کارمند ایستگاه قطار ساعت حرکت و شمارهٔ سکو را بپرسید. یک بلیت یک‌طرفه یا رفت‌وبرگشت بخواهید و دربارهٔ مستقیم بودن مسیر یا تأخیر احتمالی اطلاعات بگیرید.",
+      "useful_phrases": [
+        {
+          "target": "À quelle heure part le train ?",
+          "fa": "قطار چه ساعتی حرکت می‌کند؟"
+        },
+        {
+          "target": "Quel est le quai ?",
+          "fa": "سکو کدام است؟"
+        },
+        {
+          "target": "Je voudrais un aller-retour.",
+          "fa": "یک بلیت رفت‌وبرگشت می‌خواهم."
+        },
+        {
+          "target": "Le train a dix minutes de retard.",
+          "fa": "قطار ده دقیقه تأخیر دارد."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une annonce en gare",
+      "text": "Les voyageurs attendent le train pour Dijon. Le tableau indique un départ à quinze heures quarante, voie six. Une annonce informe les voyageurs d’un retard de dix minutes. Le train ne va pas directement à Lyon : il faut prendre une correspondance à Dijon. Nora demande à un agent si le billet aller-retour est valable pour le retour de dimanche. L’agent vérifie l’horaire et lui répond que le train arrive à Lyon à dix-huit heures. Nora écoute une nouvelle annonce avant de monter. Les horaires changent parfois ; elle vérifie le quai sur le tableau au lieu de se fier à une ancienne information.",
+      "glossary": [
+        {
+          "term": "voyageur",
+          "fa": "مسافر"
+        },
+        {
+          "term": "valable",
+          "fa": "معتبر"
+        },
+        {
+          "term": "se fier à",
+          "fa": "اعتماد کردن به"
+        },
+        {
+          "term": "monter",
+          "fa": "سوار شدن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "قطار از کدام خط حرکت می‌کند؟",
+          "a": "La voie six."
+        },
+        {
+          "q_fa": "چقدر تأخیر دارد؟",
+          "a": "Dix minutes."
+        },
+        {
+          "q_fa": "در کجا باید قطار عوض کرد؟",
+          "a": "À Dijon."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "پرسش زمان حرکت را کامل کنید.",
+          "question": "À quelle heure est-ce que le train ___ ?",
+          "options": [
+            "part",
+            "suis",
+            "avons"
+          ],
+          "answer": "part",
+          "explanation_fa": "partir با فاعل le train به شکل part می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "کدام عبارت بلیت رفت‌وبرگشت است؟",
+          "question": "Je voudrais un ___.",
+          "options": [
+            "aller-retour",
+            "aller simple",
+            "retard"
+          ],
+          "answer": "aller-retour",
+          "explanation_fa": "aller-retour شامل رفتن و برگشتن است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "یک قطار مستقیم به تعویض قطار نیاز ندارد.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "direct مسیر بدون correspondance است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "در ایستگاه، کجا سوار قطار می‌شویم؟",
+          "question": "Au ___.",
+          "options": [
+            "quai",
+            "poids",
+            "timbre"
+          ],
+          "answer": "quai",
+          "explanation_fa": "quai سکوی سوارشدن به قطار است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "حرف اضافه را کامل کنید.",
+          "question": "Le train part ___ neuf heures.",
+          "answer": [
+            "à"
+          ],
+          "explanation_fa": "برای معرفی ساعت از à استفاده می‌شود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "دربارهٔ ساعت حرکت و سکو سؤال کن.",
+          "question": "Vous êtes en gare.",
+          "answer": [
+            "À quelle heure est-ce que le train part ? Quel est le quai ?",
+            "Le train pour Lille part à dix heures. Il est direct ?"
+          ],
+          "explanation_fa": "از یک پرسش زمانی و یک پرسش دربارهٔ سکو استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Que signifie un aller simple ?",
+          "options": [
+            "بلیت یک‌طرفه",
+            "بلیت رفت‌وبرگشت",
+            "تأخیر قطار"
+          ],
+          "answer": "بلیت یک‌طرفه",
+          "explanation_fa": "Un aller simple ne comprend pas le trajet de retour."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel mot indique le lieu où l’on attend un train ?",
+          "options": [
+            "quai",
+            "timbre",
+            "réception"
+          ],
+          "answer": "quai",
+          "explanation_fa": "Le quai est la plateforme où les voyageurs montent dans le train."
+        },
+        {
+          "type": "mcq",
+          "question": "Que veut dire retard ?",
+          "options": [
+            "تأخیر",
+            "رسیدن زودهنگام",
+            "بلیت"
+          ],
+          "answer": "تأخیر",
+          "explanation_fa": "Un train en retard arrive ou part après l’heure prévue."
+        },
+        {
+          "type": "mcq",
+          "question": "Comment demander l’heure de départ ?",
+          "options": [
+            "À quelle heure est-ce que le train part ?",
+            "Quel est le poids du train ?",
+            "Où est le timbre ?"
+          ],
+          "answer": "À quelle heure est-ce que le train part ?",
+          "explanation_fa": "La question emploie à quelle heure et le verbe partir."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie une correspondance ?",
+          "options": [
+            "تعویض وسیله در مسیر",
+            "بلیت یک‌طرفه",
+            "سکوی خالی"
+          ],
+          "answer": "تعویض وسیله در مسیر",
+          "explanation_fa": "Une correspondance permet de continuer le voyage avec un autre train ou véhicule."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش مسافر در ایستگاه، دربارهٔ زمان حرکت قطار و شمارهٔ سکو بپرسید. سپس نوع بلیت را مشخص کنید و یک اعلام ساده دربارهٔ تأخیر یا تعویض قطار را بفهمید. اطلاعات زمانی مکالمه خیالی است.",
+      "suggested_prompts": [
+        "Demandez à quelle heure le train part.",
+        "Vérifiez le quai et si le train est direct.",
+        "Choisissez un aller simple ou un aller-retour.",
+        "Réagissez à une annonce de retard."
+      ],
+      "focus": [
+        "partir و arriver",
+        "زمان حرکت و سکو",
+        "بلیت یک‌طرفه و رفت‌وبرگشت"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Railway information is fictional; check local station signage when traveling."
+  }
+}
