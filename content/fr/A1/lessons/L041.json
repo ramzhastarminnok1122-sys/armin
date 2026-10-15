@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 41,
+    "title": "On se voit mardi à onze heures",
+    "subtitle": "Confirmer un rendez-vous prévu",
+    "description": "Fixez le lieu et l’heure d’une visite et vérifiez si le plan est confirmé.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "هماهنگ‌کردن قرار قطعی در آینده با زمان حال و قید زمان",
+      "objectives": [
+        "برای برنامهٔ قطعی از زمان حال همراه با زمان آینده استفاده کنید",
+        "ساعت و مکان قرار را تأیید کنید",
+        "دربارهٔ تغییر برنامه یا تأخیر پیام بدهید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور به دوستتان می‌گویید سه‌شنبه همدیگر را می‌بینید و ساعت قرار را مشخص می‌کنید؟",
+      "questions": [
+        {
+          "q": "در جملهٔ «On se voit mardi», فعل زمان حال است یا آینده؟",
+          "hint_fa": "فعل صرف‌شده زمان حال است؛ mardi نشان می‌دهد قرار برای آینده است."
+        },
+        {
+          "q": "چطور می‌پرسید آیا قرار نهایی شده است؟",
+          "hint_fa": "از confirmer استفاده کنید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Le présent pour un plan fixé",
+      "body_fa": "در فرانسوی، برای یک قرار یا برنامهٔ قطعی نزدیک می‌توان از زمان حال همراه با نشانهٔ زمانی آینده استفاده کرد: «on se voit mardi», «je viens à onze heures». این ساخت به‌ویژه برای هماهنگی روز و ساعت طبیعی است. قید زمانی مانند demain، mardi یا la semaine prochaine روشن می‌کند که رویداد هنوز در آینده است. جدول رفت‌وآمد یا ساعت بازگشایی نیز اغلب با زمان حال بیان می‌شود: «le musée ouvre à dix heures». برای تأکید بر برنامهٔ شخصی می‌توان از futur proche هم استفاده کرد؛ اما در این درس روی قرارِ ازپیش‌تعیین‌شده تمرکز می‌کنیم. بعد از هماهنگی، مکان و زمان را تکرار کنید و بپرسید آیا قرار تأیید شده است.",
+      "key_points": [
+        "زمان حال با نشانهٔ زمانی می‌تواند برنامهٔ قطعی آینده را بیان کند.",
+        "ساعت‌های رسمی و برنامه‌های ثابت نیز معمولاً در زمان حال گفته می‌شوند.",
+        "برای تأیید قرار، روز، ساعت و محل را دوباره روشن کنید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "rendez-vous",
+          "ipa": "/ʁɑ̃.de.vu/",
+          "translation_fa": "قرار",
+          "example": "Notre rendez-vous est mardi matin.",
+          "example_fa": "قرار ما سه‌شنبه صبح است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "prévu",
+          "ipa": "/pʁe.vy/",
+          "translation_fa": "برنامه‌ریزی‌شده",
+          "example": "La visite est prévue à onze heures.",
+          "example_fa": "بازدید برای ساعت یازده برنامه‌ریزی شده است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "confirmer",
+          "ipa": "/kɔ̃.fiʁ.me/",
+          "translation_fa": "تأیید کردن",
+          "example": "Je confirme le rendez-vous par message.",
+          "example_fa": "قرار را با پیام تأیید می‌کنم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "annuler",
+          "ipa": "/a.ny.le/",
+          "translation_fa": "لغو کردن",
+          "example": "Nous n’annulons pas la visite.",
+          "example_fa": "بازدید را لغو نمی‌کنیم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "retard",
+          "ipa": "/ʁə.taʁ/",
+          "translation_fa": "تأخیر",
+          "example": "Le tram a cinq minutes de retard.",
+          "example_fa": "تراموا پنج دقیقه تأخیر دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "horaire",
+          "ipa": "/ɔ.ʁɛʁ/",
+          "translation_fa": "برنامهٔ زمانی",
+          "example": "L’horaire du musée est affiché.",
+          "example_fa": "برنامهٔ زمانی موزه نصب شده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "finalement",
+          "ipa": "/fi.nal.mɑ̃/",
+          "translation_fa": "در نهایت؛ سرانجام",
+          "example": "Finalement, nous arrivons à dix heures.",
+          "example_fa": "در نهایت ساعت ده می‌رسیم.",
+          "tag": "قید"
+        },
+        {
+          "term": "ponctuel",
+          "ipa": "/pɔ̃k.tɥɛl/",
+          "translation_fa": "وقت‌شناس",
+          "example": "Mina est toujours ponctuelle.",
+          "example_fa": "مینا همیشه وقت‌شناس است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "déplacer",
+          "ipa": "/de.pla.se/",
+          "translation_fa": "جابه‌جا کردن",
+          "example": "Je peux déplacer le rendez-vous à mercredi.",
+          "example_fa": "می‌توانم قرار را به چهارشنبه منتقل کنم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "arriver à l’heure",
+          "ipa": "/a.ʁi.ve a lœʁ/",
+          "translation_fa": "به‌موقع رسیدن",
+          "example": "Nous arrivons à l’heure au musée.",
+          "example_fa": "به‌موقع به موزه می‌رسیم.",
+          "tag": "عبارت"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent avec un repère futur",
+      "explanation_fa": "یک برنامهٔ آیندهٔ قطعی را می‌توان با فعل زمان حال و یک نشانگر زمانی بیان کرد: «on se voit mardi», «je viens demain». خودِ فعل در زمان حال صرف می‌شود؛ mardi یا demain نشان می‌دهد قرار در آینده است. این ساخت در گفت‌وگوهای دوستانه و برنامه‌های ثابت رایج است. برای ساعت رسمی می‌گوییم «le musée ouvre à dix heures» یا «le train part à neuf heures». اگر بخواهید بر قصد شخصی تأکید کنید، می‌توانید از ساخت futur proche آموخته‌شده نیز استفاده کنید. هنگام تأیید، روز، ساعت و مکان را دوباره تکرار کنید: «on se voit mardi à onze heures, devant l’entrée». اگر قرار جابه‌جا شود، زمان تازه را با نشانهٔ روز روشن کنید و از طرف مقابل تأیید بگیرید.",
+      "pattern": "présent conjugué + repère futur (demain / mardi / la semaine prochaine)",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "قرار دوستانه",
+            "On se voit mardi à onze heures.",
+            "سه‌شنبه ساعت یازده همدیگر را می‌بینیم."
+          ],
+          [
+            "برنامهٔ شخصی",
+            "Je viens demain matin.",
+            "فردا صبح می‌آیم."
+          ],
+          [
+            "ساعت رسمی",
+            "Le musée ouvre à dix heures.",
+            "موزه ساعت ده باز می‌شود."
+          ],
+          [
+            "وسیلهٔ نقلیه",
+            "Le tram part à neuf heures.",
+            "تراموا ساعت نه حرکت می‌کند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "زمان فعل حال است؛ قید روز یا زمان، آینده‌بودن برنامه را روشن می‌کند.",
+        "برای برنامهٔ ثابت، ساعت و مکان را دوباره تأیید کنید."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "On se voit mercredi après le cours.",
+          "fa": "چهارشنبه بعد از کلاس همدیگر را می‌بینیم.",
+          "note_fa": "نشانهٔ روز برنامه را برای آینده مشخص می‌کند."
+        },
+        {
+          "target": "Je viens à l’entrée à dix heures.",
+          "fa": "ساعت ده به ورودی می‌آیم.",
+          "note_fa": "فعل حال با نشانهٔ زمانی آینده آمده است."
+        },
+        {
+          "target": "La bibliothèque ferme à dix-huit heures.",
+          "fa": "کتابخانه ساعت هجده بسته می‌شود.",
+          "note_fa": "ساعت بازگشایی با زمان حال بیان شده است."
+        },
+        {
+          "target": "Le rendez-vous est prévu vendredi matin.",
+          "fa": "قرار برای جمعهٔ صبح برنامه‌ریزی شده است.",
+          "note_fa": "prévu برنامهٔ ازپیش‌تعیین‌شده را توصیف می‌کند."
+        },
+        {
+          "target": "Nous confirmons le lieu par un message.",
+          "fa": "محل را با یک پیام تأیید می‌کنیم.",
+          "note_fa": "confirmer جزئیات برنامه را قطعی می‌کند."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Une visite prévue au musée",
+      "script": "Léa: Notre visite au musée est prévue mardi.\nMina: Oui, on se voit devant l’entrée à onze heures ?\nLéa: D’accord. Le musée ouvre à dix heures.\nMina: Je viens en tram et j’arrive à dix heures quarante.\nLéa: Moi, je pars de chez moi à dix heures.\nMina: Si le tram a du retard, je t’envoie un message.\nLéa: Le rendez-vous est bien confirmé pour mardi ?\nMina: Oui, je ne le change pas.\nLéa: Parfait, j’arrive à l’heure.\nMina: À mardi, devant la grande porte !",
+      "script_fa": "لئا: بازدید ما از موزه برای سه‌شنبه برنامه‌ریزی شده است.\nمینا: بله، ساعت یازده جلوی ورودی همدیگر را می‌بینیم؟\nلئا: قبول. موزه ساعت ده باز می‌شود.\nمینا: با تراموا می‌آیم و ساعت ده و چهل می‌رسم.\nلئا: من ساعت ده از خانه راه می‌افتم.\nمینا: اگر تراموا تأخیر داشته باشد، برایت پیام می‌فرستم.\nلئا: قرار سه‌شنبه قطعی است؟\nمینا: بله، آن را تغییر نمی‌دهم.\nلئا: عالی، به‌موقع می‌رسم.\nمینا: سه‌شنبه، جلوی در بزرگ!",
+      "question_fa": "Quelle est l’heure d’arrivée de Mina ?",
+      "answer": "À dix heures quarante.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Déplacer une rencontre",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "On se retrouve jeudi devant le café ?",
+          "fa": "پنج‌شنبه جلوی کافه همدیگر را می‌بینیم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Jeudi, je termine le travail à six heures.",
+          "fa": "پنج‌شنبه کارم ساعت شش تمام می‌شود."
+        },
+        {
+          "speaker": "A",
+          "target": "Alors, on se voit à six heures trente.",
+          "fa": "پس ساعت شش و نیم همدیگر را می‌بینیم."
+        },
+        {
+          "speaker": "B",
+          "target": "D’accord, je confirme le rendez-vous.",
+          "fa": "قبول، قرار را تأیید می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "Si le tram est en retard, écris-moi.",
+          "fa": "اگر تراموا تأخیر داشت، برایم بنویس."
+        },
+        {
+          "speaker": "B",
+          "target": "Oui. L’horaire est affiché à la station.",
+          "fa": "بله. برنامهٔ زمانی در ایستگاه نصب شده است."
+        },
+        {
+          "speaker": "A",
+          "target": "Parfait, à jeudi alors.",
+          "fa": "عالی، پس تا پنج‌شنبه."
+        },
+        {
+          "speaker": "B",
+          "target": "À jeudi, j’arrive à l’heure.",
+          "fa": "تا پنج‌شنبه، به‌موقع می‌رسم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در زندگی روزمره، با دوستی برای بازدید از یک مکان عمومی قرار بگذارید. با زمان حال و یک نشانهٔ زمانی آینده، روز، ساعت و محل را مشخص کنید؛ سپس قرار را تأیید کنید و دربارهٔ تأخیر احتمالی پیام هماهنگ کنید.",
+      "useful_phrases": [
+        {
+          "target": "On se voit mardi à onze heures.",
+          "fa": "سه‌شنبه ساعت یازده همدیگر را می‌بینیم."
+        },
+        {
+          "target": "Je viens demain matin.",
+          "fa": "فردا صبح می‌آیم."
+        },
+        {
+          "target": "Le rendez-vous est confirmé.",
+          "fa": "قرار تأیید شده است."
+        },
+        {
+          "target": "J’arrive à l’heure.",
+          "fa": "به‌موقع می‌رسم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une visite confirmée",
+      "text": "Mina et Léa organisent une visite dans un musée public. Elles se retrouvent mardi devant l’entrée à onze heures. Le musée ouvre à dix heures, alors Mina vient un peu plus tôt en tram. Léa part de chez elle à dix heures et arrive à l’heure. La veille, elles confirment le lieu par message. L’horaire du tram est affiché à la station ; si le véhicule a du retard, Mina prévient son amie. Leurs phrases sont au présent, mais les mots mardi et demain situent le rendez-vous dans le futur. Elles vérifient les heures du musée avant de partir.",
+      "glossary": [
+        {
+          "term": "la veille",
+          "fa": "روز قبل"
+        },
+        {
+          "term": "prévenir",
+          "fa": "خبر دادن"
+        },
+        {
+          "term": "situer",
+          "fa": "جایابی کردن"
+        },
+        {
+          "term": "véhicule",
+          "fa": "وسیلهٔ نقلیه"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "مینا و لئا چه روزی همدیگر را می‌بینند؟",
+          "a": "Mardi."
+        },
+        {
+          "q_fa": "چرا مینا زودتر می‌آید؟",
+          "a": "Le musée ouvre à dix heures."
+        },
+        {
+          "q_fa": "اگر تراموا تأخیر داشته باشد، مینا چه می‌کند؟",
+          "a": "Elle prévient son amie."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "برای برنامهٔ قطعی آینده کدام جمله زمان حال دارد؟",
+          "question": "___ mardi devant le musée.",
+          "options": [
+            "On se retrouve",
+            "On se retrouvera",
+            "On s’est retrouvé"
+          ],
+          "answer": "On se retrouve",
+          "explanation_fa": "زمان روز مشخص می‌کند که قرار برای آینده است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "زمان بازگشایی موزه را کامل کنید.",
+          "question": "Le musée ___ à dix heures.",
+          "options": [
+            "ouvre",
+            "ouvrira",
+            "a ouvert"
+          ],
+          "answer": "ouvre",
+          "explanation_fa": "ساعت رسمی با زمان حال بیان شده است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "نشانهٔ زمانی مثل mardi می‌تواند یک قرار آینده را مشخص کند.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "فعل حال با نشانهٔ زمانی برای برنامهٔ قطعی به‌کار می‌رود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "کدام عبارت یعنی قرار را قطعی می‌کنم؟",
+          "question": "Je ___ le rendez-vous.",
+          "options": [
+            "confirme",
+            "annule",
+            "déplace"
+          ],
+          "answer": "confirme",
+          "explanation_fa": "confirmer جزئیات قرار را تأیید می‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "نشانگر روز را کامل کنید.",
+          "question": "On se voit ___ à onze heures. (mardi)",
+          "answer": [
+            "mardi"
+          ],
+          "explanation_fa": "نام روز، زمان آیندهٔ قرار را مشخص می‌کند."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "یک قرار قطعی را با روز، ساعت و محل اعلام کن.",
+          "question": "Vous organisez une visite.",
+          "answer": [
+            "On se retrouve vendredi à dix heures devant le musée.",
+            "Je viens mardi matin à l’entrée de la bibliothèque."
+          ],
+          "explanation_fa": "از فعل زمان حال و یک نشانهٔ زمانی آینده استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle phrase fixe un rendez-vous futur ?",
+          "options": [
+            "On se voit mardi.",
+            "On se voyait mardi.",
+            "On se voit hier."
+          ],
+          "answer": "On se voit mardi.",
+          "explanation_fa": "Le présent est accompagné d’un repère futur, mardi."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel mot confirme un rendez-vous ?",
+          "options": [
+            "confirmer",
+            "annuler",
+            "retard"
+          ],
+          "answer": "confirmer",
+          "explanation_fa": "confirmer rend le plan explicite entre les personnes."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle est l’heure d’arrivée de Mina au musée ?",
+          "options": [
+            "ساعت ده و چهل",
+            "ساعت یازده و نیم",
+            "ساعت دوازده"
+          ],
+          "answer": "ساعت ده و چهل",
+          "explanation_fa": "Mina dit qu’elle arrive à dix heures quarante."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel temps utilise-t-on souvent pour un horaire officiel ?",
+          "options": [
+            "حال",
+            "آیندهٔ دور",
+            "گذشتهٔ کامل"
+          ],
+          "answer": "حال",
+          "explanation_fa": "Les horaires fixes sont souvent formulés au présent."
+        },
+        {
+          "type": "mcq",
+          "question": "Que faire si le tram a du retard ?",
+          "options": [
+            "به دوست پیام دادن",
+            "لغو همهٔ برنامه‌ها",
+            "منتظر ماندن بدون خبر"
+          ],
+          "answer": "به دوست پیام دادن",
+          "explanation_fa": "Mina prévient son amie si le tram est en retard."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در زندگی روزمره، یک قرار عمومی را با دوستتان قطعی کنید. با زمان حال و قید روز آینده، مکان و ساعت را بگویید؛ سپس دربارهٔ تأیید یا تأخیر احتمالی هماهنگ شوید.",
+      "suggested_prompts": [
+        "Proposez un jour pour une visite.",
+        "Confirmez l’heure et le lieu.",
+        "Utilisez un verbe au présent avec mardi ou demain.",
+        "Dites comment prévenir en cas de retard."
+      ],
+      "focus": [
+        "زمان حال برای برنامهٔ قطعی",
+        "تأیید زمان و مکان",
+        "هماهنگی در صورت تأخیر"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Fixed plans and opening times use fictional schedules; check actual hours before traveling."
+  }
+}
