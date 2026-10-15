@@ -1,0 +1,407 @@
+{
+  "lesson": "L078",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L078-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Je prends une carte à la bibliothèque.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L078-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Tu prends aussi un abonnement ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L078-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui, je prends un abonnement pour un an.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L078-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Quel livre prends-tu ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L078-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Je prends un exemplaire de ce roman.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L078-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Nous prenons une prolongation si le livre nous plaît.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L078-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Et les autres lecteurs ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L078-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Ils prennent des livres dans cette collection.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L078-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Tu prends une carte de lecteur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L078-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, je prends aussi un abonnement pour un an.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L078-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Quel livre tu prends ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L078-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Je prends un roman de cette collection.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L078-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "La bibliothécaire prend les demandes au comptoir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L078-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, elle prend les cartes et explique l’emprunt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L078-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Nous prenons deux livres pour notre groupe ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L078-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "D’accord. Vous prenez le catalogue et je choisis les titres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L078-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Et les autres ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 15
+    },
+    {
+      "id": "L078-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Ils prennent une collection de contes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L078-fr-vocab-bibliothecaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "bibliothécaire. La bibliothécaire parle avec une famille.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L078-fr-vocab-emprunt",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "emprunt. L’emprunt du livre dure trois semaines.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L078-fr-vocab-prolongation",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "prolongation. La prolongation est possible en ligne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L078-fr-vocab-catalogue",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "catalogue. Le catalogue est près de l’accueil.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L078-fr-vocab-abonnement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "abonnement. Mon abonnement dure un an.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L078-fr-vocab-rayonnage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "rayonnage. Le rayonnage est à gauche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L078-fr-vocab-auteur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "auteur. Cet auteur écrit des romans courts.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L078-fr-vocab-collection",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "collection. Cette collection présente des histoires faciles.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L078-fr-vocab-cartedelecteur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "carte de lecteur. Je prends une carte de lecteur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L078-fr-vocab-exemplaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "exemplaire. Il reste un exemplaire de ce livre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L078-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je prends une carte. Tu prends un livre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L078-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle prend un exemplaire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L078-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous prenons deux livres. Vous prenez une carte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L078-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils prennent un abonnement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L078-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je prends une carte de lecteur à l’accueil.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L078-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu prends un livre dans le catalogue.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L078-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La bibliothécaire prend un exemplaire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L078-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous prenons un abonnement pour un an.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L078-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ils prennent deux livres.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L078-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina visite la bibliothèque avec son frère. À l’accueil, elle prend une carte de lecteur et choisit un abonnement d’un an. Le catalogue présente plusieurs collections. Mina prend un roman et son frère prend un guide. La bibliothécaire leur explique la durée de l’emprunt : trois semaines. Si le livre est encore nécessaire, une prolongation est possible. Il reste aussi un exemplaire du livre préféré de Mina. Les deux visiteurs prennent leurs livres et vérifient la date de retour. Pour parler de leurs choix, ils utilisent prendre : je prends, tu prends, nous prenons et ils prennent. À la bibliothèque, prendre un livre signifie le choisir ou le prendre avec soi ; emprunter précise qu’on le garde temporairement.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 716
+    },
+    {
+      "id": "L078-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L078)",
+      "tts_text": "برای گفتن «من کارت می‌گیرم» از «je prends» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L078-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L078)",
+      "tts_text": "فعل «prendre» بی‌قاعده است: «je prends»، «nous prenons» و «ils prennent».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L078-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L078)",
+      "tts_text": "به گفت‌وگوی کتابخانه گوش کن و بفهم هر نفر چه چیزی برمی‌دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L078-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L078)",
+      "tts_text": "به تغییر «prends» به «prenons» و دو n در «prennent» توجه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L078-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L078)",
+      "tts_text": "در یک موقعیت روزمره دربارهٔ کارت عضویت و انتخاب کتاب صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L078-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L078)",
+      "tts_text": "با توجه به فاعل، یکی از شکل‌های «prends», «prend», «prenons», «prenez» یا «prennent» را انتخاب کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 98
+    }
+  ]
+}

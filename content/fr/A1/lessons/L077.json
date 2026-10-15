@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 77,
+    "title": "Nous faisons le ménage le samedi",
+    "subtitle": "Conjuguer le verbe faire au présent",
+    "description": "Partagez les tâches de la maison avec les formes de faire.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف بی‌قاعدهٔ فعل faire در زمان حال برای کارهای خانه",
+      "objectives": [
+        "شش شکل فعل faire را در زمان حال به‌کار ببرید",
+        "فاعل را با شکل fais/fait/faisons/faites/font هماهنگ کنید",
+        "کارهای خانه را با faire + اسم بیان کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در خانه می‌خواهید بگویید «ما شنبه نظافت می‌کنیم». فعل faire در فرانسوی بی‌قاعده است و شکل آن با فاعل تغییر می‌کند.",
+      "questions": [
+        {
+          "q": "شکل فعل faire برای nous چیست؟",
+          "hint_fa": "به عبارت «nous faisons» فکر کنید."
+        },
+        {
+          "q": "برای il یا elle، فعل faire چه شکلی دارد؟",
+          "hint_fa": "شکل کوتاه fait را به یاد بیاورید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Faire au présent",
+      "body_fa": "فعل faire بی‌قاعده است و شکل‌های زمان حال آن را جداگانه یاد می‌گیریم: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. شکل nous به صورت faisons نوشته می‌شود و vous faites و ils font نیز با مصدر faire قابل حدس کامل نیستند. در عبارت‌های روزمره، faire اغلب با اسم می‌آید: faire le ménage, faire la lessive, faire du sport. در این درس از آن برای تقسیم کارهای خانه استفاده می‌کنیم: «je fais la lessive», «nous faisons le ménage». فاعل را پیدا کنید و شکل درست را انتخاب کنید؛ مصدر faire را با پسوندهای منظم -er صرف نکنید.",
+      "key_points": [
+        "je/tu: fais؛ il/elle: fait.",
+        "nous: faisons؛ vous: faites؛ ils/elles: font.",
+        "عبارت‌های رایج: faire le ménage، faire la lessive."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "ménage",
+          "ipa": "/me.naʒ/",
+          "translation_fa": "نظافت خانه",
+          "example": "Nous faisons le ménage le samedi.",
+          "example_fa": "شنبه خانه را نظافت می‌کنیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "lessive",
+          "ipa": "/lɛ.siv/",
+          "translation_fa": "لباس‌شویی",
+          "example": "La lessive est dans le lave-linge.",
+          "example_fa": "لباس‌ها در ماشین لباس‌شویی هستند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "balai",
+          "ipa": "/ba.lɛ/",
+          "translation_fa": "جارو",
+          "example": "Le balai est près de la porte.",
+          "example_fa": "جارو نزدیک در است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "chiffon",
+          "ipa": "/ʃi.fɔ̃/",
+          "translation_fa": "دستمال نظافت",
+          "example": "Le chiffon est sur la table.",
+          "example_fa": "دستمال نظافت روی میز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "lavabo",
+          "ipa": "/la.va.bo/",
+          "translation_fa": "روشویی",
+          "example": "Le lavabo est propre.",
+          "example_fa": "روشویی تمیز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "balayer",
+          "ipa": "/ba.le.je/",
+          "translation_fa": "جارو کردن",
+          "example": "Je vais balayer la cuisine.",
+          "example_fa": "می‌خواهم آشپزخانه را جارو کنم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "repasser",
+          "ipa": "/ʁə.pa.se/",
+          "translation_fa": "اتو کردن",
+          "example": "Je vais repasser une chemise.",
+          "example_fa": "می‌خواهم پیراهنی را اتو کنم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "poussière",
+          "ipa": "/pu.sjɛʁ/",
+          "translation_fa": "گردوغبار",
+          "example": "Il y a de la poussière sur l’étagère.",
+          "example_fa": "روی قفسه گردوغبار است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "lave-linge",
+          "ipa": "/lav.lɛ̃ʒ/",
+          "translation_fa": "ماشین لباس‌شویی",
+          "example": "Le lave-linge est dans la buanderie.",
+          "example_fa": "ماشین لباس‌شویی در رخت‌شوی‌خانه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "aspirateur",
+          "ipa": "/as.pi.ʁa.tœʁ/",
+          "translation_fa": "جاروبرقی",
+          "example": "L’aspirateur est derrière le canapé.",
+          "example_fa": "جاروبرقی پشت مبل است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Je fais, nous faisons, ils font",
+      "explanation_fa": "faire را در زمان حال با این شش شکل می‌سازیم: je fais, tu fais, il/elle fait, nous faisons, vous faites, ils/elles font. این صورت‌ها نامنظم‌اند؛ به‌ویژه faisons، faites و font را با هم تمرین کنید. در بسیاری از فعالیت‌های روزمره، faire پیش از اسم می‌آید: faire le ménage، faire la lessive، faire le lit. برای گفتن کاری که گروه انجام می‌دهد می‌گوییم «nous faisons le ménage»؛ برای یک نفر «elle fait la lessive». فاعل و فعل باید هماهنگ باشند، اما پس از fait یا font مصدر نمی‌آید مگر اینکه ساخت دیگری داشته باشیم. این درس بر حال ساده و کارهای خانه تمرکز دارد.",
+      "pattern": "je fais · tu fais · il/elle fait · nous faisons · vous faites · ils/elles font",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je fais la lessive. Tu fais le ménage.",
+            "لباس می‌شویم. تو خانه را نظافت می‌کنی."
+          ],
+          [
+            "il / elle",
+            "Elle fait la poussière.",
+            "او گردوغبار را پاک می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous faisons le ménage. Vous faites le lit.",
+            "نظافت می‌کنیم. شما تخت را مرتب می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Ils font les tâches ensemble.",
+            "آن‌ها کارها را با هم انجام می‌دهند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "nous faisons، vous faites و ils font را جداگانه به خاطر بسپارید.",
+        "در «faire le ménage»، پس از faire اسم می‌آید."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je fais la lessive le samedi.",
+          "fa": "شنبه لباس می‌شویم.",
+          "note_fa": "faire با je به fais صرف می‌شود."
+        },
+        {
+          "target": "Tu fais le ménage avec ton frère.",
+          "fa": "با برادرت خانه را نظافت می‌کنی.",
+          "note_fa": "فاعل tu شکل fais می‌گیرد."
+        },
+        {
+          "target": "Elle fait la poussière dans le salon.",
+          "fa": "او در اتاق نشیمن گردوغبار را پاک می‌کند.",
+          "note_fa": "شکل سوم‌شخص مفرد fait است."
+        },
+        {
+          "target": "Nous faisons le ménage ensemble.",
+          "fa": "با هم خانه را نظافت می‌کنیم.",
+          "note_fa": "برای nous شکل faisons می‌آید."
+        },
+        {
+          "target": "Ils font les tâches avant le dîner.",
+          "fa": "آن‌ها پیش از شام کارها را انجام می‌دهند.",
+          "note_fa": "برای ils از font استفاده می‌شود."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Partager les tâches à la maison",
+      "script": "Camille: Vous faites le ménage aujourd’hui ?\nNora: Oui, nous faisons le ménage avant l’arrivée des amis.\nCamille: Qui fait la lessive ?\nNora: Mon frère fait la lessive ; il utilise le lave-linge.\nCamille: Et toi, tu fais quoi ?\nNora: Je passe l’aspirateur dans le salon.\nCamille: Tu repasses aussi les chemises ?\nNora: Non, je ne repasse pas aujourd’hui ; je nettoie le lavabo.\nCamille: Vous faites tout le travail ?\nNora: Non, les enfants enlèvent la poussière avec un chiffon.",
+      "script_fa": "کامی: امروز خانه را نظافت می‌کنید؟\nنورا: بله، پیش از رسیدن دوستان نظافت می‌کنیم.\nکامی: چه کسی لباس‌ها را می‌شوید؟\nنورا: برادرم لباس‌ها را می‌شوید؛ از ماشین لباس‌شویی استفاده می‌کند.\nکامی: تو چه کار می‌کنی؟\nنورا: در اتاق نشیمن جاروبرقی می‌کشم.\nکامی: پیراهن‌ها را هم اتو می‌کنی؟\nنورا: نه، امروز اتو نمی‌کنم؛ روشویی را تمیز می‌کنم.\nکامی: همهٔ کارها را شما انجام می‌دهید؟\nنورا: نه، بچه‌ها با دستمال گردوغبار را پاک می‌کنند.",
+      "question_fa": "Qui fait la lessive ?",
+      "answer": "Le frère de Nora.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Un samedi matin",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu fais le ménage avant le déjeuner ?",
+          "fa": "پیش از ناهار خانه را نظافت می‌کنی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, je fais la poussière dans ma chambre.",
+          "fa": "بله، در اتاقم گردوغبار را پاک می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "Et le lave-linge ?",
+          "fa": "ماشین لباس‌شویی چطور؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Nous faisons une lessive après le petit-déjeuner.",
+          "fa": "پس از صبحانه لباس می‌شوییم."
+        },
+        {
+          "speaker": "A",
+          "target": "Vous faites le repas aussi ?",
+          "fa": "غذا را هم آماده می‌کنید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, ma sœur fait le déjeuner.",
+          "fa": "نه، خواهرم ناهار را آماده می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "Les enfants font quelque chose ?",
+          "fa": "بچه‌ها کاری انجام می‌دهند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, ils font leur lit.",
+          "fa": "بله، تختشان را مرتب می‌کنند."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در زندگی روزمره، با هم‌گروهی خود دربارهٔ کارهای خانه صحبت کنید. بگویید چه کسی نظافت می‌کند، لباس می‌شوید یا گردوغبار را پاک می‌کند و شکل‌های مختلف faire را به‌کار ببرید.",
+      "useful_phrases": [
+        {
+          "target": "Je fais la lessive.",
+          "fa": "لباس می‌شویم."
+        },
+        {
+          "target": "Elle fait le ménage.",
+          "fa": "او خانه را نظافت می‌کند."
+        },
+        {
+          "target": "Nous faisons les tâches ensemble.",
+          "fa": "کارها را با هم انجام می‌دهیم."
+        },
+        {
+          "target": "Ils font la poussière.",
+          "fa": "آن‌ها گردوغبار را پاک می‌کنند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Les tâches de la colocation",
+      "text": "Dans leur appartement, Camille et Nora partagent les tâches du samedi. Camille fait la lessive et met les vêtements dans le lave-linge. Nora fait le ménage dans la cuisine et passe l’aspirateur dans le salon. Leur frère fait la poussière avec un chiffon et nettoie le lavabo. Les deux amies font le lit avant l’arrivée de leurs visiteurs. Elles ne font pas tout le travail seules : chacun aide un peu. Pour parler de ces activités, elles utilisent le verbe faire au présent : je fais, elle fait, nous faisons et ils font. Les formes changent selon le sujet, alors elles les vérifient dans chaque phrase.",
+      "glossary": [
+        {
+          "term": "colocation",
+          "fa": "خانهٔ اشتراکی"
+        },
+        {
+          "term": "vêtement",
+          "fa": "لباس"
+        },
+        {
+          "term": "visiteur",
+          "fa": "بازدیدکننده"
+        },
+        {
+          "term": "vérifier",
+          "fa": "بررسی کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "چه کسی لباس‌ها را داخل ماشین می‌گذارد؟",
+          "a": "Camille."
+        },
+        {
+          "q_fa": "برادر چه کاری انجام می‌دهد؟",
+          "a": "Il enlève la poussière et nettoie le lavabo."
+        },
+        {
+          "q_fa": "کدام فعل برای کارهای خانه به کار می‌رود؟",
+          "a": "Faire."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل فعل را برای nous انتخاب کنید.",
+          "question": "Nous ___ le ménage le samedi.",
+          "options": [
+            "faisons",
+            "faites",
+            "font"
+          ],
+          "answer": "faisons",
+          "explanation_fa": "faire با nous به faisons تبدیل می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کنید.",
+          "question": "Elle ___ la lessive.",
+          "options": [
+            "fait",
+            "fais",
+            "font"
+          ],
+          "answer": "fait",
+          "explanation_fa": "برای elle شکل فعل fait است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«vous faites» شکل زمان حال فعل faire برای vous است.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "شکل vous faites بی‌قاعده است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "کدام جمله با ils درست است؟",
+          "question": "Ils ___ les tâches ensemble.",
+          "options": [
+            "font",
+            "fait",
+            "faisons"
+          ],
+          "answer": "font",
+          "explanation_fa": "فعل faire با ils به font تبدیل می‌شود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای je کامل کنید.",
+          "question": "Je ___ le ménage. (faire)",
+          "answer": [
+            "fais"
+          ],
+          "explanation_fa": "fais"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "چهار جمله دربارهٔ کارهای خانه بساز و در آن‌ها je، elle، nous و ils را به کار ببر.",
+          "question": "از شستن لباس، نظافت یا گردوغبار استفاده کن.",
+          "answer": [
+            "Je fais la lessive. Elle fait le ménage. Nous faisons les tâches ensemble. Ils font la poussière.",
+            "Je fais le lit. Il fait le repas. Nous faisons le ménage. Elles font la lessive."
+          ],
+          "explanation_fa": "شکل faire را با فاعل هماهنگ کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle forme de faire accompagne «nous» ?",
+          "options": [
+            "faisons",
+            "faites",
+            "font"
+          ],
+          "answer": "faisons",
+          "explanation_fa": "On dit nous faisons."
+        },
+        {
+          "type": "mcq",
+          "question": "Complète : «Elle ___ le ménage.»",
+          "options": [
+            "fait",
+            "fais",
+            "font"
+          ],
+          "answer": "fait",
+          "explanation_fa": "elle fait."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle forme du verbe faire va avec «vous» ?",
+          "options": [
+            "faites",
+            "font",
+            "fais"
+          ],
+          "answer": "faites",
+          "explanation_fa": "vous faites."
+        },
+        {
+          "type": "mcq",
+          "question": "Complète : «Ils ___ la lessive.»",
+          "options": [
+            "font",
+            "faisons",
+            "fait"
+          ],
+          "answer": "font",
+          "explanation_fa": "ils font."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase décrit bien les tâches du samedi ?",
+          "options": [
+            "Je fais la lessive.",
+            "Je fait la lessive.",
+            "Je faisons la lessive."
+          ],
+          "answer": "Je fais la lessive.",
+          "explanation_fa": "je fais est la forme correcte au présent."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در زندگی روزمره و در خانه، با هم‌گروهی خود کارهای شنبه را تقسیم کنید. برای هر نفر شکل درست فعل faire را به‌کار ببرید.",
+      "suggested_prompts": [
+        "Dites ce que vous faites le samedi.",
+        "Parlez d’une personne qui fait la lessive.",
+        "Dites ce que vous faites ensemble.",
+        "Parlez de deux personnes qui font une tâche."
+      ],
+      "focus": [
+        "faire au présent",
+        "fais / fait / faisons / faites / font",
+        "faire + nom pour une activité"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Faire is irregular; learn its present forms as a set and use it in common expressions such as faire le ménage."
+  }
+}
