@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 16,
+    "title": "Il fait beau aujourd’hui",
+    "subtitle": "Parler du temps et préparer une sortie",
+    "description": "Consultez la météo avant une promenade et dites ce qu’il faut apporter s’il pleut ou s’il fait froid.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "گفتن وضعیت هوا و آماده شدن برای گردش در شهر",
+      "objectives": [
+        "با il fait وضعیت گرمی و خوبی هوا را بیان کنید",
+        "برای پدیده‌ها از il pleut و il y a استفاده کنید",
+        "برای باران یا سرما وسیلهٔ مناسب انتخاب کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای برنامه‌ریزی گردش، پیش‌بینی هوا را می‌خوانید و تصمیم می‌گیرید چه لباسی همراه ببرید. چطور می‌گویید هوا گرم، سرد یا بارانی است؟",
+      "questions": [
+        {
+          "q": "اگر باران ببارد چه چیزی همراه می‌برید؟",
+          "hint_fa": "نام وسیله‌ای را بگویید که از باران محافظت می‌کند."
+        },
+        {
+          "q": "در فرانسوی عبارت il fait دربارهٔ چه چیزی است؟",
+          "hint_fa": "برای توصیف وضعیت هوا کاربرد دارد."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Les phrases météo avec il",
+      "body_fa": "برای توصیف هوا در فرانسوی از فاعل غیرشخصی «il» استفاده می‌کنیم؛ این il به مرد یا شیء خاصی اشاره نمی‌کند. با صفت می‌گوییم «il fait chaud», «il fait froid» یا «il fait beau». برای بعضی پدیده‌ها فعل می‌آید: «il pleut» یعنی باران می‌بارد و «il neige» یعنی برف می‌آید. برای بیان وجود باد یا ابر از «il y a» استفاده می‌کنیم: «il y a du vent», «il y a des nuages». اگر احتمال باران هست، می‌توانید بگویید «s’il pleut, je prends un parapluie». صفت‌های هوا پس از il fait تغییر جنس و شمار نمی‌کنند. پیش از بیرون رفتن، وضعیت فعلی و چیزی را که باید همراه ببرید در دو جملهٔ کوتاه بیان کنید.",
+      "key_points": [
+        "il در عبارت‌های هوا فاعل غیرشخصی است.",
+        "il fait با صفت‌هایی مانند chaud، froid و beau می‌آید.",
+        "il pleut با فعل و il y a با اسم‌هایی مانند vent استفاده می‌شود."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "météo",
+          "ipa": "/me.te.o/",
+          "translation_fa": "هواشناسی؛ وضع هوا",
+          "example": "La météo annonce du soleil cet après-midi.",
+          "example_fa": "هواشناسی برای بعدازظهر آفتاب پیش‌بینی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "soleil",
+          "ipa": "/sɔ.lɛj/",
+          "translation_fa": "خورشید؛ آفتاب",
+          "example": "Le soleil brille sur la place.",
+          "example_fa": "آفتاب بر میدان می‌تابد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pluie",
+          "ipa": "/plɥi/",
+          "translation_fa": "باران",
+          "example": "La pluie commence après le déjeuner.",
+          "example_fa": "باران بعد از ناهار شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "vent",
+          "ipa": "/vɑ̃/",
+          "translation_fa": "باد",
+          "example": "Il y a du vent près du pont.",
+          "example_fa": "نزدیک پل باد می‌آید.",
+          "tag": "اسم"
+        },
+        {
+          "term": "nuage",
+          "ipa": "/nɥaʒ/",
+          "translation_fa": "ابر",
+          "example": "Un nuage cache le soleil.",
+          "example_fa": "ابری آفتاب را می‌پوشاند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "chaud",
+          "ipa": "/ʃo/",
+          "translation_fa": "گرم؛ مذکر",
+          "example": "En été, il fait chaud dans la ville.",
+          "example_fa": "تابستان در شهر هوا گرم است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "froid",
+          "ipa": "/fʁwa/",
+          "translation_fa": "سرد؛ مذکر",
+          "example": "Le matin, il fait parfois froid.",
+          "example_fa": "صبح‌ها گاهی هوا سرد است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "pleuvoir",
+          "ipa": "/plø.vwaʁ/",
+          "translation_fa": "باران باریدن",
+          "example": "S’il pleut, nous restons au café.",
+          "example_fa": "اگر باران ببارد، در کافه می‌مانیم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "parapluie",
+          "ipa": "/pa.ʁa.plɥi/",
+          "translation_fa": "چتر",
+          "example": "Je prends un parapluie quand il pleut.",
+          "example_fa": "وقتی باران می‌بارد چتر برمی‌دارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "manteau",
+          "ipa": "/mɑ̃.to/",
+          "translation_fa": "پالتو",
+          "example": "Elle porte un manteau quand il fait froid.",
+          "example_fa": "وقتی هوا سرد است پالتو می‌پوشد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Il fait, il pleut, il y a",
+      "explanation_fa": "در جمله‌های آب‌وهوا، il فاعل غیرشخصی است و شکل فعل با شخص یا جنس اسم تغییر نمی‌کند. از il fait همراه صفت استفاده کنید: il fait beau، il fait chaud، il fait froid. باران را با فعل می‌گوییم: il pleut؛ برای برف می‌گوییم il neige. برای گفتن اینکه چیزی در هوا وجود دارد، il y a به‌کار می‌رود: il y a du vent، il y a des nuages. برای برنامهٔ بیرون می‌توان دو جمله را با si وصل کرد: s’il pleut, je prends un parapluie. شکل s’il از si + il ساخته می‌شود. صفت‌های chaud و froid در عبارت il fait ثابت می‌مانند. پیش‌بینی را ساده بیان کنید و سپس لباس یا وسیلهٔ لازم را پیشنهاد دهید.",
+      "pattern": "il fait + adjectif · il pleut / il neige · il y a + nom",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "هوای خوب",
+            "Il fait beau aujourd’hui.",
+            "امروز هوا خوب است."
+          ],
+          [
+            "باران",
+            "Il pleut près du marché.",
+            "نزدیک بازار باران می‌بارد."
+          ],
+          [
+            "باد",
+            "Il y a du vent.",
+            "باد می‌آید."
+          ],
+          [
+            "پیشنهاد",
+            "S’il pleut, prenez un parapluie.",
+            "اگر باران ببارد، چتر بردارید."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای باران می‌گوییم il pleut، نه il fait pluie.",
+        "il در عبارت هوا فاعل غیرشخصی است و به فرد مشخصی اشاره نمی‌کند."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Aujourd’hui, il fait beau et le soleil brille.",
+          "fa": "امروز هوا خوب است و آفتاب می‌تابد.",
+          "note_fa": "il fait beau یک عبارت رایج هواشناسی است."
+        },
+        {
+          "target": "Il y a du vent près de la gare.",
+          "fa": "نزدیک ایستگاه باد می‌آید.",
+          "note_fa": "وجود باد با il y a بیان شده است."
+        },
+        {
+          "target": "S’il pleut, je prends mon parapluie.",
+          "fa": "اگر باران ببارد، چترم را برمی‌دارم.",
+          "note_fa": "s’il pleut شرط ساده‌ای می‌سازد."
+        },
+        {
+          "target": "Le matin, il fait froid ; je porte un manteau.",
+          "fa": "صبح هوا سرد است؛ پالتو می‌پوشم.",
+          "note_fa": "جملهٔ دوم واکنش مناسب به هوا را می‌گوید."
+        },
+        {
+          "target": "Il y a des nuages, mais pas de pluie.",
+          "fa": "ابرهایی هستند، اما بارانی نیست.",
+          "note_fa": "il y a با اسم جمع des nuages آمده است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Une promenade selon la météo",
+      "script": "Léa: Tu veux faire une promenade avant le cours ?\nOmar: Oui. Tu as regardé la météo ?\nLéa: Il fait beau maintenant et il y a du soleil.\nOmar: Je vois aussi quelques nuages près du pont.\nLéa: La météo annonce de la pluie cet après-midi.\nOmar: Alors, je prends mon parapluie et mon manteau.\nLéa: Il ne fait pas froid aujourd’hui.\nOmar: Non, mais il y a du vent près de la place.\nLéa: Nous pouvons marcher jusqu’au café et rentrer s’il pleut.\nOmar: D’accord. Le ciel est clair pour le moment.",
+      "script_fa": "لئا: می‌خواهی پیش از کلاس کمی پیاده‌روی کنیم؟\nعمر: بله. هواشناسی را نگاه کردی؟\nلئا: حالا هوا خوب است و آفتاب می‌تابد.\nعمر: نزدیک پل چند ابر هم می‌بینم.\nلئا: هواشناسی برای بعدازظهر باران پیش‌بینی می‌کند.\nعمر: پس چتر و پالتویم را برمی‌دارم.\nلئا: امروز هوا سرد نیست.\nعمر: نه، اما نزدیک میدان باد می‌آید.\nلئا: می‌توانیم تا کافه پیاده برویم و اگر باران گرفت برگردیم.\nعمر: قبول. فعلاً آسمان صاف است.",
+      "question_fa": "Qu’est-ce qu’Omar prend avant la promenade ?",
+      "answer": "Son parapluie et son manteau.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Choisir ses vêtements pour la journée",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Il fait froid ce matin ?",
+          "fa": "امروز صبح هوا سرد است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, et il y a du vent.",
+          "fa": "بله، و باد هم می‌آید."
+        },
+        {
+          "speaker": "A",
+          "target": "Je prends mon manteau, alors.",
+          "fa": "پس پالتویم را برمی‌دارم."
+        },
+        {
+          "speaker": "B",
+          "target": "Tu as un parapluie ?",
+          "fa": "چتر داری؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, il pleut près de chez moi.",
+          "fa": "بله، نزدیک خانه‌ام باران می‌بارد."
+        },
+        {
+          "speaker": "B",
+          "target": "La météo annonce du soleil cet après-midi.",
+          "fa": "هواشناسی برای بعدازظهر آفتاب پیش‌بینی می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "Parfait, nous pouvons marcher après le cours.",
+          "fa": "عالی است، می‌توانیم بعد از کلاس پیاده‌روی کنیم."
+        },
+        {
+          "speaker": "B",
+          "target": "D’accord, je garde le parapluie avec moi.",
+          "fa": "قبول، چتر را همراهم نگه می‌دارم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در نقش دوستی در کافهٔ گفت‌وگوی زبان، دربارهٔ هوای امروز و برنامهٔ بیرون صحبت کنید. از il fait، il pleut یا il y a استفاده کنید و در پایان یک پیشنهاد برای لباس یا وسیلهٔ مناسب بدهید.",
+      "useful_phrases": [
+        {
+          "target": "Il fait chaud aujourd’hui.",
+          "fa": "امروز هوا گرم است."
+        },
+        {
+          "target": "Il y a du vent près du pont.",
+          "fa": "نزدیک پل باد می‌آید."
+        },
+        {
+          "target": "S’il pleut, prenez un parapluie.",
+          "fa": "اگر باران ببارد، چتر بردارید."
+        },
+        {
+          "target": "Je porte un manteau.",
+          "fa": "پالتو می‌پوشم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Le temps change dans l’après-midi",
+      "text": "Le matin, la météo annonce du soleil pour la promenade du groupe. Léa met un manteau léger, car il fait encore froid. Omar prend son parapluie : des nuages arrivent au-dessus de la ville. Après le déjeuner, il y a du vent près de la place et il commence à pleuvoir. Les amis marchent jusqu’au café des langues et attendent à l’intérieur. Aïcha regarde le ciel ; il fait moins froid maintenant, mais la pluie continue. Le groupe décide de rester au café et de parler de ses projets. Quand le soleil revient, ils peuvent rentrer à pied sans parapluie.",
+      "glossary": [
+        {
+          "term": "léger",
+          "fa": "سبک"
+        },
+        {
+          "term": "au-dessus de",
+          "fa": "بالایِ"
+        },
+        {
+          "term": "à l’intérieur",
+          "fa": "در داخل"
+        },
+        {
+          "term": "revenir",
+          "fa": "بازگشتن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "چرا لئا پالتوی سبک می‌پوشد؟",
+          "a": "Parce qu’il fait encore froid."
+        },
+        {
+          "q_fa": "چه چیزی نزدیک میدان شروع می‌شود؟",
+          "a": "Il commence à pleuvoir."
+        },
+        {
+          "q_fa": "گروه کجا منتظر می‌ماند؟",
+          "a": "À l’intérieur du café."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت درست هواشناسی را انتخاب کنید.",
+          "question": "Il ___ beau aujourd’hui.",
+          "options": [
+            "fait",
+            "pleut",
+            "y a"
+          ],
+          "answer": "fait",
+          "explanation_fa": "برای صفت beau از il fait استفاده می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "برای گفتن باران می‌بارد کدام عبارت درست است؟",
+          "question": "___ près du marché.",
+          "options": [
+            "Il pleut",
+            "Il fait pluie",
+            "Il est pluie"
+          ],
+          "answer": "Il pleut",
+          "explanation_fa": "باران با فعل pleuvoir و عبارت il pleut بیان می‌شود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "در جملهٔ «Il y a du vent»، عبارت il y a وجود باد را بیان می‌کند.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "il y a برای بیان وجود یک چیز به‌کار می‌رود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "اگر هوا سرد باشد چه چیزی مناسب است؟",
+          "question": "Il fait froid, je prends ___.",
+          "options": [
+            "un manteau",
+            "une salade",
+            "un billet"
+          ],
+          "answer": "un manteau",
+          "explanation_fa": "مردم در هوای سرد پالتو می‌پوشند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای باران کامل کنید.",
+          "question": "S’il ___, nous restons au café. (pleuvoir)",
+          "answer": [
+            "pleut"
+          ],
+          "explanation_fa": "il pleut شکل زمان حال فعل pleuvoir است."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "هوای امروز را توصیف کن و وسیله‌ای مناسب پیشنهاد بده.",
+          "question": "Quel temps fait-il ?",
+          "answer": [
+            "Il y a du vent, prenez un manteau.",
+            "Il pleut, je prends mon parapluie."
+          ],
+          "explanation_fa": "از عبارت هواشناسی و پیشنهاد ساده استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Complétez : «Il ___ froid ce matin».",
+          "options": [
+            "fait",
+            "pleut",
+            "y a"
+          ],
+          "answer": "fait",
+          "explanation_fa": "با صفت «froid» از ساخت «il fait» استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie il pleut ?",
+          "options": [
+            "باران می‌بارد",
+            "هوا گرم است",
+            "آفتاب می‌تابد"
+          ],
+          "answer": "باران می‌بارد",
+          "explanation_fa": "«pleuvoir» بارش باران را توصیف می‌کند."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase indique la présence de vent ?",
+          "options": [
+            "Il y a du vent.",
+            "Il fait vent.",
+            "Il est vent."
+          ],
+          "answer": "Il y a du vent.",
+          "explanation_fa": "«il y a» برای بیان وجود اسمی مانند «du vent» می‌آید."
+        },
+        {
+          "type": "mcq",
+          "question": "Que prend-on s’il pleut ?",
+          "options": [
+            "un parapluie",
+            "un billet",
+            "un panier"
+          ],
+          "answer": "un parapluie",
+          "explanation_fa": "چتر از باران محافظت می‌کند."
+        },
+        {
+          "type": "mcq",
+          "question": "À quoi renvoie le il dans une phrase météo ?",
+          "options": [
+            "به فاعل غیرشخصی",
+            "به یک مرد مشخص",
+            "به یک وسیله"
+          ],
+          "answer": "به فاعل غیرشخصی",
+          "explanation_fa": "«il» در عبارت‌های هواشناسی فاعل غیرشخصی است و به فرد مشخصی اشاره نمی‌کند."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش همراه یک دوست پیش از گردش، وضعیت هوا را به زبان ساده گزارش کنید و او را برای لباس مناسب راهنمایی کنید. از il fait، il y a یا il pleut استفاده کنید و اگر هوا تغییر کرد، برنامه را عوض کنید.",
+      "suggested_prompts": [
+        "Décrivez le temps aujourd’hui.",
+        "Dites s’il y a du soleil, du vent ou des nuages.",
+        "Proposez un manteau ou un parapluie.",
+        "Adaptez la promenade si la pluie commence."
+      ],
+      "focus": [
+        "عبارت‌های غیرشخصی هواشناسی",
+        "il fait / il y a / il pleut",
+        "پیشنهاد لباس متناسب با هوا"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Impersonal weather phrases are practiced while making a simple outdoor plan."
+  }
+}

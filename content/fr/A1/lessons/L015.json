@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 15,
+    "title": "On se retrouve samedi prochain",
+    "subtitle": "Lire une date et choisir un jour",
+    "description": "Consultez un calendrier avec les autres participants et choisissez un jour pour la prochaine séance.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "خواندن تقویم و هماهنگ کردن روز جلسه به زبان فرانسوی",
+      "objectives": [
+        "روز و ماه را در ساختار تاریخ فرانسوی بخوانید",
+        "برای عادت هفتگی و روز مشخص از le استفاده کنید",
+        "prochain و prochaine را با اسم هماهنگ کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای هماهنگی جلسهٔ بعد، باید بدانید چه روزی برای هرکس آزاد است و تاریخ چگونه نوشته می‌شود. از تقویم چه اطلاعاتی می‌خوانید؟",
+      "questions": [
+        {
+          "q": "نام روز و ماه در تاریخ فرانسوی به چه ترتیبی می‌آید؟",
+          "hint_fa": "ابتدا روز ماه را می‌گوییم."
+        },
+        {
+          "q": "برای گفتن شنبهٔ آینده چه صفتی به کار می‌رود؟",
+          "hint_fa": "شکل صفت باید با samedi هماهنگ باشد."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Les jours, les mois et les dates",
+      "body_fa": "برای گفتن تاریخ در فرانسوی، ابتدا روز ماه و سپس نام ماه را می‌آوریم: «le quinze mai». روزهای هفته و نام ماه‌ها با حرف کوچک نوشته می‌شوند. برای گفتن عادت هفتگی از حرف تعریف استفاده کنید: «le lundi» یعنی دوشنبه‌ها؛ «lundi prochain» به دوشنبهٔ آینده اشاره می‌کند. صفت «prochain» پس از اسم می‌آید و با آن هماهنگ می‌شود: «samedi prochain» برای اسم مذکر و «la semaine prochaine» برای اسم مؤنث. برای پرسیدن زمان جلسه می‌توان گفت «quel jour ?» یا «c’est quelle date ?». «aujourd’hui» روز فعلی را نشان می‌دهد و «le mois prochain» به ماه آینده اشاره دارد. در تقویم، ابتدا روز مناسب را پیدا کنید، سپس عدد و ماه را بخوانید و در پایان زمان را با گروه تأیید کنید.",
+      "key_points": [
+        "تاریخ به شکل روز ماه + نام ماه بیان می‌شود.",
+        "نام روزها و ماه‌ها در فرانسوی با حرف کوچک‌اند.",
+        "prochain و prochaine با اسم پس از خود هماهنگ می‌شوند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "calendrier",
+          "ipa": "/ka.lɑ̃.dʁi.je/",
+          "translation_fa": "تقویم",
+          "example": "Je regarde le calendrier avant de choisir.",
+          "example_fa": "پیش از انتخاب به تقویم نگاه می‌کنم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "semaine",
+          "ipa": "/sə.mɛn/",
+          "translation_fa": "هفته",
+          "example": "La semaine prochaine, nous avons un atelier.",
+          "example_fa": "هفتهٔ آینده کارگاه داریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "date",
+          "ipa": "/dat/",
+          "translation_fa": "تاریخ",
+          "example": "Quelle est la date de la séance ?",
+          "example_fa": "تاریخ جلسه چه روزی است؟",
+          "tag": "اسم"
+        },
+        {
+          "term": "jour",
+          "ipa": "/ʒuʁ/",
+          "translation_fa": "روز",
+          "example": "Quel jour sommes-nous aujourd’hui ?",
+          "example_fa": "امروز چه روزی است؟",
+          "tag": "اسم"
+        },
+        {
+          "term": "lundi",
+          "ipa": "/lœ̃.di/",
+          "translation_fa": "دوشنبه",
+          "example": "Le lundi, le groupe se retrouve au café.",
+          "example_fa": "دوشنبه‌ها گروه در کافه دور هم جمع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mercredi",
+          "ipa": "/mɛʁ.kʁə.di/",
+          "translation_fa": "چهارشنبه",
+          "example": "Je suis libre mercredi après-midi.",
+          "example_fa": "چهارشنبه بعدازظهر وقت دارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "samedi",
+          "ipa": "/sa.mə.di/",
+          "translation_fa": "شنبه",
+          "example": "Nous choisissons samedi prochain.",
+          "example_fa": "شنبهٔ آینده را انتخاب می‌کنیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mois",
+          "ipa": "/mwa/",
+          "translation_fa": "ماه",
+          "example": "Le mois de mai est agréable.",
+          "example_fa": "ماه مه دلپذیر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "prochain",
+          "ipa": "/pʁɔ.ʃɛ̃/",
+          "translation_fa": "آینده؛ بعدی؛ مذکر",
+          "example": "Le prochain cours est samedi.",
+          "example_fa": "کلاس بعدی شنبه است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "disponible",
+          "ipa": "/dis.pɔ.nibl/",
+          "translation_fa": "آزاد؛ در دسترس",
+          "example": "Êtes-vous disponible jeudi ?",
+          "example_fa": "پنجشنبه وقت دارید؟",
+          "tag": "صفت"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "La date et prochain / prochaine",
+      "explanation_fa": "در تاریخ فرانسوی، روز ماه پیش از نام ماه می‌آید: le quinze mai. نام ماه‌ها و روزهای هفته با حرف کوچک نوشته می‌شوند. وقتی دربارهٔ یک روز تکراری حرف می‌زنیم، le پیش از نام روز می‌آید: le samedi به معنی شنبه‌هاست. برای یک تاریخ مشخص یا روز آینده می‌گوییم samedi prochain. صفت prochain پس از اسم می‌آید و از نظر جنس و شمار هماهنگ می‌شود: le mois prochain، la semaine prochaine، les jours prochains. اگر جلسه‌ای را هماهنگ می‌کنید، روز را روشن نام ببرید و سپس بپرسید آیا طرف مقابل disponible است. در گفتار می‌توان برای تاریخ اول ماه از le premier استفاده کرد؛ برای تاریخ‌های دیگر شکل عددیِ اصلی می‌آید.",
+      "pattern": "jour + prochain · semaine + prochaine · le + jour (habitude)",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "روز آینده",
+            "samedi prochain",
+            "شنبهٔ آینده"
+          ],
+          [
+            "هفتهٔ آینده",
+            "la semaine prochaine",
+            "هفتهٔ آینده"
+          ],
+          [
+            "عادت هفتگی",
+            "le lundi",
+            "دوشنبه‌ها"
+          ],
+          [
+            "تاریخ",
+            "le quinze mai",
+            "پانزدهم ماه مه"
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "prochain پس از اسم می‌آید و با جنس آن هماهنگ می‌شود.",
+        "روزهای هفته و ماه‌ها با حرف کوچک نوشته می‌شوند."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Nous sommes le quinze mai.",
+          "fa": "امروز پانزدهم ماه مه است.",
+          "note_fa": "ابتدا روز ماه و سپس نام ماه می‌آید."
+        },
+        {
+          "target": "Le lundi, je travaille le matin.",
+          "fa": "دوشنبه‌ها صبح کار می‌کنم.",
+          "note_fa": "le lundi عادت هفتگی را نشان می‌دهد."
+        },
+        {
+          "target": "On se retrouve samedi prochain.",
+          "fa": "شنبهٔ آینده همدیگر را می‌بینیم.",
+          "note_fa": "prochain پس از اسم مذکر می‌آید."
+        },
+        {
+          "target": "La semaine prochaine, Aïcha est disponible.",
+          "fa": "هفتهٔ آینده عایشه وقت دارد.",
+          "note_fa": "prochaine با اسم مؤنث semaine هماهنگ شده است."
+        },
+        {
+          "target": "Quel jour choisissez-vous pour la séance ?",
+          "fa": "برای جلسه چه روزی را انتخاب می‌کنید؟",
+          "note_fa": "پرسش با نام روز پاسخ داده می‌شود."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Choisir le jour de la prochaine séance",
+      "script": "Aïcha: Bonjour Léa, quel jour es-tu disponible pour le prochain atelier ?\nLéa: Je regarde le calendrier. Je ne peux pas mercredi.\nAïcha: Et samedi prochain, est-ce possible ?\nLéa: Oui, je peux venir après le déjeuner.\nAïcha: Le mois prochain, je travaille le lundi.\nLéa: Samedi me convient aussi.\nAïcha: Très bien. Nous choisissons donc samedi prochain.\nLéa: Quelle est la date ?\nAïcha: C’est le vingt-deux juin. Je l’écris dans le groupe.\nLéa: Merci. Je vérifie mon calendrier et je confirme ce soir.",
+      "script_fa": "عایشه: سلام لئا، برای کارگاه بعدی چه روزی وقت داری؟\nلئا: تقویم را نگاه می‌کنم. چهارشنبه نمی‌توانم.\nعایشه: شنبهٔ آینده چطور، امکانش هست؟\nلئا: بله، بعد از ناهار می‌توانم بیایم.\nعایشه: ماه آینده دوشنبه کار می‌کنم.\nلئا: شنبه برای من هم مناسب است.\nعایشه: خیلی خوب. پس شنبهٔ آینده را انتخاب می‌کنیم.\nلئا: تاریخش چه روزی است؟\nعایشه: بیست‌ودوم ژوئن است. در گروه می‌نویسم.\nلئا: ممنون. تقویمم را بررسی می‌کنم و امشب تأیید می‌کنم.",
+      "question_fa": "Quelle date Aïcha écrit-elle dans le groupe ?",
+      "answer": "Le vingt-deux juin.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Vérifier une date avec une amie",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu es disponible la semaine prochaine ?",
+          "fa": "هفتهٔ آینده وقت داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, quel jour veux-tu choisir ?",
+          "fa": "بله، چه روزی را می‌خواهی انتخاب کنی؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Mercredi, le douze juin, si tu peux.",
+          "fa": "چهارشنبه، دوازدهم ژوئن، اگر بتوانی."
+        },
+        {
+          "speaker": "B",
+          "target": "Je regarde mon calendrier. C’est bon.",
+          "fa": "تقویمم را نگاه می‌کنم. مناسب است."
+        },
+        {
+          "speaker": "A",
+          "target": "Alors, nous nous retrouvons mercredi prochain.",
+          "fa": "پس چهارشنبهٔ آینده همدیگر را می‌بینیم."
+        },
+        {
+          "speaker": "B",
+          "target": "À quelle heure est la séance ?",
+          "fa": "جلسه چه ساعتی است؟"
+        },
+        {
+          "speaker": "A",
+          "target": "À six heures, comme d’habitude.",
+          "fa": "ساعت شش، مثل همیشه."
+        },
+        {
+          "speaker": "B",
+          "target": "D’accord, je note la date.",
+          "fa": "قبول، تاریخ را یادداشت می‌کنم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در نقش عضو کافهٔ گفت‌وگوی زبان، روزی را برای جلسهٔ بعد پیشنهاد دهید و در تقویم طرف مقابل بررسی کنید. نام روز، اگر لازم است تاریخ، و آزاد بودن هر دو نفر را بپرسید؛ سپس قرار را با جمله‌ای روشن تأیید کنید.",
+      "useful_phrases": [
+        {
+          "target": "Quel jour es-tu disponible ?",
+          "fa": "چه روزی وقت داری؟"
+        },
+        {
+          "target": "Samedi prochain, cela te va ?",
+          "fa": "شنبهٔ آینده برایت مناسب است؟"
+        },
+        {
+          "target": "Je regarde mon calendrier.",
+          "fa": "به تقویمم نگاه می‌کنم."
+        },
+        {
+          "target": "Nous confirmons la date.",
+          "fa": "تاریخ را تأیید می‌کنیم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Le calendrier du groupe",
+      "text": "Le groupe écrit les prochaines séances sur un calendrier commun. La réunion de juin est le vingt-deux juin, un samedi. Léa travaille le lundi et le mercredi, mais elle est disponible le samedi matin. Omar peut venir le samedi après le déjeuner. Aïcha propose aussi une sortie le mois prochain. Elle vérifie d’abord la date avec les autres participants. Ils choisissent finalement le premier dimanche de juillet. Le mot prochain change selon le nom : le prochain atelier, la semaine prochaine. Chacun note le jour et le mois dans son téléphone pour ne pas oublier le rendez-vous. Si le calendrier change, une personne envoie un message au groupe.",
+      "glossary": [
+        {
+          "term": "commun",
+          "fa": "مشترک"
+        },
+        {
+          "term": "sortie",
+          "fa": "گردش"
+        },
+        {
+          "term": "d’abord",
+          "fa": "ابتدا"
+        },
+        {
+          "term": "oublier",
+          "fa": "فراموش کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "جلسهٔ ماه ژوئن چه روزی است؟",
+          "a": "Un samedi."
+        },
+        {
+          "q_fa": "لئا چه روزی در دسترس است؟",
+          "a": "Le samedi matin."
+        },
+        {
+          "q_fa": "اعضا تاریخ را کجا یادداشت می‌کنند؟",
+          "a": "Dans leur téléphone."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "ترتیب درست تاریخ را انتخاب کنید.",
+          "question": "___ mai",
+          "options": [
+            "le quinze",
+            "mai le quinze",
+            "quinze le"
+          ],
+          "answer": "le quinze",
+          "explanation_fa": "روز ماه پیش از نام ماه می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل مؤنث صفت را انتخاب کنید.",
+          "question": "La semaine ___.",
+          "options": [
+            "prochaine",
+            "prochain",
+            "prochains"
+          ],
+          "answer": "prochaine",
+          "explanation_fa": "semaine مؤنث مفرد است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "نام ماه‌ها در فرانسوی با حرف کوچک نوشته می‌شوند.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "نام ماه‌ها در جمله معمولاً حرف کوچک می‌گیرند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "برای عادت هر دوشنبه کدام عبارت درست است؟",
+          "question": "___ lundi",
+          "options": [
+            "le",
+            "la",
+            "un"
+          ],
+          "answer": "le",
+          "explanation_fa": "برای روز تکرارشونده از le lundi استفاده می‌شود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "صفت مذکر را کامل کنید.",
+          "question": "samedi ___. (next)",
+          "answer": [
+            "prochain"
+          ],
+          "explanation_fa": "samedi مذکر مفرد است."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "یک روز برای جلسهٔ بعد پیشنهاد کن.",
+          "question": "Quel jour choisis-tu ?",
+          "answer": [
+            "Samedi prochain, si tu es disponible.",
+            "La semaine prochaine, le mercredi après-midi."
+          ],
+          "explanation_fa": "روز را با prochain یا prochaine درست هماهنگ کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Comment écrire le nom d’un mois en français ?",
+          "options": [
+            "با حرف کوچک",
+            "همیشه با حرف بزرگ",
+            "فقط با عدد"
+          ],
+          "answer": "با حرف کوچک",
+          "explanation_fa": "نام ماه‌ها در فرانسوی با حرف کوچک نوشته می‌شود."
+        },
+        {
+          "type": "mcq",
+          "question": "Complétez : «la semaine ___».",
+          "options": [
+            "prochaine",
+            "prochain",
+            "prochains"
+          ],
+          "answer": "prochaine",
+          "explanation_fa": "«semaine» مؤنث مفرد است و با «prochaine» هماهنگ می‌شود."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie le lundi ?",
+          "options": [
+            "دوشنبه‌ها",
+            "ماه آینده",
+            "شنبهٔ آینده"
+          ],
+          "answer": "دوشنبه‌ها",
+          "explanation_fa": "«le» همراه با نام یک روز می‌تواند عادت هفتگی را نشان دهد."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel ordre suit-on pour une date en français ?",
+          "options": [
+            "روز ماه، سپس نام ماه",
+            "نام ماه، سپس روز هفته",
+            "ابتدا سال"
+          ],
+          "answer": "روز ماه، سپس نام ماه",
+          "explanation_fa": "برای تاریخ، ابتدا روز ماه و سپس نام ماه را می‌آوریم."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel mot convient à samedi ?",
+          "options": [
+            "prochain",
+            "prochaine",
+            "prochaines"
+          ],
+          "answer": "prochain",
+          "explanation_fa": "«samedi» مذکر مفرد است و با «prochain» می‌آید."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش هماهنگ‌کنندهٔ کافهٔ گفت‌وگوی زبان، روز جلسهٔ بعد را با دو نفر تنظیم کنید. از تقویم کمک بگیرید، در دسترس بودن هر شخص را بپرسید و تاریخ را به ترتیب فرانسوی با روز ماه و نام ماه تأیید کنید.",
+      "suggested_prompts": [
+        "Demandez quel jour convient au groupe.",
+        "Proposez samedi prochain ou la semaine prochaine.",
+        "Faites vérifier la date sur un calendrier.",
+        "Confirmez le jour et le mois à voix haute."
+      ],
+      "focus": [
+        "تاریخ فرانسوی",
+        "le + روز برای عادت",
+        "هماهنگی prochain / prochaine"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. French date order and planning a group meeting build on known days and schedules."
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "lesson": "L015",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L015-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu es disponible la semaine prochaine ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L015-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, quel jour veux-tu choisir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L015-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Mercredi, le douze juin, si tu peux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L015-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je regarde mon calendrier. C’est bon.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L015-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Alors, nous nous retrouvons mercredi prochain.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L015-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "À quelle heure est la séance ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L015-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "À six heures, comme d’habitude.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L015-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "D’accord, je note la date.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L015-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour Léa, quel jour es-tu disponible pour le prochain atelier ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L015-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je regarde le calendrier. Je ne peux pas mercredi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L015-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Et samedi prochain, est-ce possible ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L015-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, je peux venir après le déjeuner.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L015-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Le mois prochain, je travaille le lundi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L015-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Samedi me convient aussi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L015-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Très bien. Nous choisissons donc samedi prochain.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L015-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Quelle est la date ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L015-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "C’est le vingt-deux juin. Je l’écris dans le groupe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L015-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Merci. Je vérifie mon calendrier et je confirme ce soir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L015-fr-vocab-calendrier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "calendrier. Je regarde le calendrier avant de choisir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L015-fr-vocab-semaine",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "semaine. La semaine prochaine, nous avons un atelier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L015-fr-vocab-date",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "date. Quelle est la date de la séance ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L015-fr-vocab-jour",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "jour. Quel jour sommes-nous aujourd’hui ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L015-fr-vocab-lundi",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "lundi. Le lundi, le groupe se retrouve au café.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L015-fr-vocab-mercredi",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "mercredi. Je suis libre mercredi après-midi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L015-fr-vocab-samedi",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "samedi. Nous choisissons samedi prochain.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L015-fr-vocab-mois",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "mois. Le mois de mai est agréable.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L015-fr-vocab-prochain",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "prochain. Le prochain cours est samedi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L015-fr-vocab-disponible",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "disponible. Êtes-vous disponible jeudi ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L015-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "samedi prochain",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 15
+    },
+    {
+      "id": "L015-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "la semaine prochaine",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L015-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "le lundi",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 8
+    },
+    {
+      "id": "L015-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "le quinze mai",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 13
+    },
+    {
+      "id": "L015-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Nous sommes le quinze mai.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L015-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Le lundi, je travaille le matin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L015-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "On se retrouve samedi prochain.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L015-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La semaine prochaine, Aïcha est disponible.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L015-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Quel jour choisissez-vous pour la séance ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L015-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Le groupe écrit les prochaines séances sur un calendrier commun. La réunion de juin est le vingt-deux juin, un samedi. Léa travaille le lundi et le mercredi, mais elle est disponible le samedi matin. Omar peut venir le samedi après le déjeuner. Aïcha propose aussi une sortie le mois prochain. Elle vérifie d’abord la date avec les autres participants. Ils choisissent finalement le premier dimanche de juillet. Le mot prochain change selon le nom : le prochain atelier, la semaine prochaine. Chacun note le jour et le mois dans son téléphone pour ne pas oublier le rendez-vous. Si le calendrier change, une personne envoie un message au groupe.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 645
+    },
+    {
+      "id": "L015-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L015)",
+      "tts_text": "یک روز مناسب برای جلسهٔ بعد انتخاب کن و از تقویم مطمئن شو که با برنامهٔ دوستت هماهنگ است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 89
+    },
+    {
+      "id": "L015-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L015)",
+      "tts_text": "در تاریخ فرانسوی ابتدا روز ماه و سپس نام ماه می‌آید. صفت «prochain» یا «prochaine» با اسمی که پس از آن می‌آید هماهنگ می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 124
+    },
+    {
+      "id": "L015-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L015)",
+      "tts_text": "به گفت‌وگو گوش کن و تاریخی را که عایشه در گروه می‌نویسد پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L015-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L015)",
+      "tts_text": "برای عادت هفتگی می‌گوییم «le lundi». برای هفتهٔ آینده، اسم مؤنث «semaine» با «prochaine» می‌آید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 96
+    },
+    {
+      "id": "L015-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L015)",
+      "tts_text": "روز جلسهٔ بعد را با دوستانت هماهنگ کن و تاریخ را دوباره تأیید کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L015-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L015)",
+      "tts_text": "برای جلوگیری از اشتباه، روز و ماه را با صدای بلند تکرار کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    }
+  ]
+}
