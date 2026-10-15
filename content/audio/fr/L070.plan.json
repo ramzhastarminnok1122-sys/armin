@@ -1,0 +1,407 @@
+{
+  "lesson": "L070",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L070-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Pour les vacances, tu iras à la campagne ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L070-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, je serai dans une cabane avec ma cousine.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L070-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Vous aurez une carte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L070-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, nous aurons une carte du village.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L070-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Que ferez-vous le matin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L070-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Nous ferons une petite randonnée dans la forêt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L070-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Et après ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 10
+    },
+    {
+      "id": "L070-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Nous irons au lac pour déjeuner.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L070-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Où serons-nous samedi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L070-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Nous serons dans un village près du lac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L070-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu auras une carte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L070-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, j’aurai la carte de la forêt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L070-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nous irons à la cascade à pied ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L070-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, le sentier commence derrière la cabane.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L070-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Vous ferez une randonnée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L070-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, nous ferons une randonnée courte et nous aurons un pique-nique.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L070-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Et dimanche ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 13
+    },
+    {
+      "id": "L070-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Nous serons à la campagne et nous irons au bord de la rivière.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L070-fr-vocab-campagne",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "campagne. Nous passons le week-end à la campagne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L070-fr-vocab-village",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "village. Le village est près d’un lac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L070-fr-vocab-foret",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "forêt. La forêt commence derrière la maison.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L070-fr-vocab-riviere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "rivière. La rivière est froide en été.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L070-fr-vocab-randonnee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "randonnée. La randonnée dure deux heures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L070-fr-vocab-sentier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "sentier. Le sentier traverse la forêt.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L070-fr-vocab-cabane",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "cabane. La cabane est près du lac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L070-fr-vocab-cascade",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "cascade. La cascade tombe sur les rochers.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L070-fr-vocab-paysage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "paysage. Le paysage est très beau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L070-fr-vocab-lac",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "lac. Nous nageons dans le lac en été.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L070-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je serai à la campagne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L070-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Tu auras une carte du village.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L070-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous irons près de la rivière.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L070-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Elles feront une randonnée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L070-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je serai au village samedi.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L070-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu auras une carte de la forêt.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L070-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous irons à la cascade.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L070-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Elles feront une randonnée près du lac.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L070-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous serez dans la cabane ce soir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L070-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "L’an prochain, Nora et sa sœur seront à la campagne pendant un week-end. Elles auront une petite cabane près d’un lac. Le matin, elles iront dans la forêt par un sentier. Elles feront une randonnée jusqu’à une cascade. Nora aura une carte du village et sa sœur aura un sac. Après la marche, elles seront fatiguées mais contentes. Elles feront un pique-nique près de la rivière et regarderont le paysage. Le soir, elles iront à la cabane. Pour parler de ce projet, elles utilisent les futurs irréguliers de être, avoir, aller et faire : ser-, aur-, ir- et fer-.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 560
+    },
+    {
+      "id": "L070-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L070)",
+      "tts_text": "برای گفتن «در روستا خواهیم بود» از شکل آیندهٔ «être» با ریشهٔ «ser-» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 80
+    },
+    {
+      "id": "L070-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L070)",
+      "tts_text": "ریشه‌های آیندهٔ «être»، «avoir»، «aller» و «faire» بی‌قاعده‌اند؛ پسوندها ثابت می‌مانند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 87
+    },
+    {
+      "id": "L070-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L070)",
+      "tts_text": "به برنامهٔ آخر هفته گوش کن و محل اقامت سمیر و نورا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L070-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L070)",
+      "tts_text": "چهار ریشهٔ آینده عبارت‌اند از «ser-»، «aur-»، «ir-» و «fer-».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L070-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L070)",
+      "tts_text": "در سفر برای آخر هفته‌ای آینده برنامه‌ریزی کن و از چهار فعل آینده استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L070-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L070)",
+      "tts_text": "ریشهٔ ویژه را با پسوند معمول آینده ترکیب کن: «nous irons», «vous ferez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    }
+  ]
+}

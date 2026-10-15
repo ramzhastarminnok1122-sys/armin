@@ -1,0 +1,416 @@
+{
+  "lesson": "L068",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L068-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu veux planter une graine ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L068-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui. Je prends quelle pelle ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L068-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Prends la petite pelle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L068-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Et après ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 10
+    },
+    {
+      "id": "L068-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Mets un peu de terre dans le pot.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L068-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Je plante la graine maintenant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L068-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, plante la graine au centre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L068-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "D’accord, j’ajoute de l’engrais.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L068-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "D’abord, prenez une pelle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L068-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Comme ça ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 10
+    },
+    {
+      "id": "L068-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui. Creusez un petit trou près de la tige.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L068-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Ensuite, je mets la graine dans le pot ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L068-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, plantez la graine, puis ajoutez de la terre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L068-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Et l’engrais ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 14
+    },
+    {
+      "id": "L068-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Ajoutez un peu d’engrais, puis arrosez la graine.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L068-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Je pose le pot près de la fenêtre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L068-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, posez le pot au soleil.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L068-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Je peux arroser la pelouse aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L068-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Oui, mais prenez l’arrosoir vert.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L068-fr-vocab-graine",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "graine. La graine est dans la terre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L068-fr-vocab-pot",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "pot. Le pot est près de la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L068-fr-vocab-terre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "terre. La terre est humide ce matin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L068-fr-vocab-engrais",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "engrais. On ajoute de l’engrais à la terre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L068-fr-vocab-racine",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "racine. La racine est sous la terre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L068-fr-vocab-tige",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "tige. La tige est longue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L068-fr-vocab-pelouse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "pelouse. La pelouse est verte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L068-fr-vocab-jardinier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "jardinier. Le jardinier plante des graines.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L068-fr-vocab-pelle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "pelle. La pelle est dans le jardin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L068-fr-vocab-arrosoir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "arrosoir. L’arrosoir est plein.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L068-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Plante la graine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 17
+    },
+    {
+      "id": "L068-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Plantons les graines ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L068-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Arrosez le pot, s’il vous plaît.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L068-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Prends la pelle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 16
+    },
+    {
+      "id": "L068-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Plante la graine dans le pot.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L068-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Plantons les graines ensemble.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L068-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Arrosez la pelouse, s’il vous plaît.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L068-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Prends la pelle et creuse un petit trou.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L068-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ajoutez un peu d’engrais à la terre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L068-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "À l’école, les élèves travaillent dans un petit jardin. Le jardinier leur donne des consignes. « Prenez une pelle et creusez un trou dans la terre. Plantez une graine dans chaque pot. Ajoutez un peu d’engrais, puis arrosez doucement. » Les élèves suivent les étapes. Une racine pousse sous la terre et une tige sort bientôt du pot. Le groupe met les pots près de la fenêtre et arrose la pelouse. Le jardinier explique aussi une consigne à un élève : « Plante la graine au centre. » Dans ces instructions, le sujet n’est pas répété. Pour les verbes réguliers en -er, l’ordre avec tu se termine sans s.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 600
+    },
+    {
+      "id": "L068-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L068)",
+      "tts_text": "برای دستور «دانه را بکار» ضمیر فاعلی را حذف کن و بگو «plante la graine».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L068-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L068)",
+      "tts_text": "در امر، فاعل نوشته نمی‌شود؛ فعل را در صورت «tu»، «nous» یا «vous» می‌آوریم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L068-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L068)",
+      "tts_text": "به دستورهای باغبان گوش کن و رنگ آب‌پاش را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L068-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L068)",
+      "tts_text": "در امرِ tu برای فعل منظم «-er»، s پایانی حذف می‌شود؛ اما «prends» s دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L068-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L068)",
+      "tts_text": "در کارگاه باغبانی مدرسه، دستورهای کوتاهی برای کاشت و آب‌دادن بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L068-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L068)",
+      "tts_text": "در جملهٔ امری ضمیر فاعلی را حذف کن؛ برای فعل منظم -er، صورت tu بدون s پایانی است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 81
+    }
+  ]
+}

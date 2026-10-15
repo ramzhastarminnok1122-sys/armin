@@ -1,0 +1,407 @@
+{
+  "lesson": "L069",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L069-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu regardes les tulipes ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L069-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, je les trouve très jolies.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L069-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Et le rosier ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 14
+    },
+    {
+      "id": "L069-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je le taille samedi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L069-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Tu vois les bourgeons ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L069-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, je les vois sur la branche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L069-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Tu parles aux jardiniers ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L069-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, je leur demande conseil.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L069-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Les tulipes sont ouvertes ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L069-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, je les arrose chaque matin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L069-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu regardes le rosier ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L069-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, je le regarde près de la haie.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L069-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Et les branches du pommier ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L069-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Le jardinier les coupe, car elles sont sèches.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L069-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Les jonquilles poussent près du buisson ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L069-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, nous les voyons au printemps.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L069-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Tu touches les bourgeons ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L069-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Non, je ne les touche pas.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L069-fr-vocab-tulipe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "tulipe. Les tulipes sont rouges.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L069-fr-vocab-jonquille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "jonquille. La jonquille fleurit au printemps.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L069-fr-vocab-rosier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "rosier. Le rosier pousse près de la haie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L069-fr-vocab-branche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "branche. La branche est longue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L069-fr-vocab-buisson",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "buisson. Le buisson cache un petit oiseau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L069-fr-vocab-haie",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "haie. La haie est près du chemin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L069-fr-vocab-herbe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "herbe. L’herbe est humide ce matin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L069-fr-vocab-bourgeon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "bourgeon. Un bourgeon apparaît sur la branche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L069-fr-vocab-arbuste",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "arbuste. Cet arbuste est jeune.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L069-fr-vocab-pommier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "pommier. Le pommier donne des pommes en automne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L069-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’arrose les tulipes. → Je les arrose.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L069-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Le jardinier taille les rosiers. → Il les taille.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L069-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous regardons les branches. → Nous les regardons.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L069-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les jonquilles sont jaunes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L069-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’arrose les tulipes. Je les arrose chaque matin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L069-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous regardons les jonquilles. Nous les regardons près de la haie.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L069-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Le jardinier taille les rosiers. Il les taille au printemps.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L069-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les branches sont longues. Je les coupe avec soin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L069-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Le jardinier parle aux élèves. Il leur montre les bourgeons.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L069-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Au printemps, les élèves observent le jardin de l’école. Les tulipes poussent près de la haie et les jonquilles fleurissent autour d’un petit arbuste. Camille regarde les bourgeons sur une branche ; elle les photographie pour son cahier. Nora arrose les tulipes et les jonquilles. Elle les arrose tôt le matin, avant le cours. Le jardinier taille les rosiers, mais il ne coupe pas les branches du pommier aujourd’hui. Les élèves regardent le buisson et l’herbe humide. Quand ils parlent de plusieurs fleurs ou branches une deuxième fois, ils peuvent utiliser les avant le verbe au lieu de répéter le nom. Le pronom reste le même pour un groupe masculin ou féminin.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 664
+    },
+    {
+      "id": "L069-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L069)",
+      "tts_text": "برای اینکه نام گل‌های جمع را تکرار نکنی، آن‌ها را با «les» جایگزین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L069-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L069)",
+      "tts_text": "ضمیر مفعولی «les» پیش از فعل صرف‌شده می‌آید و برای جمع مذکر و مؤنث یکسان است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L069-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L069)",
+      "tts_text": "به گفت‌وگو گوش کن و بفهم باغبان چه چیزی را می‌بُرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L069-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L069)",
+      "tts_text": "«les» پیش از اسم حرف تعریف است، اما پیش از فعل می‌تواند ضمیر مفعولی باشد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L069-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L069)",
+      "tts_text": "در باغچه چند گل را نام ببر و سپس با «les» از تکرار نامشان جلوگیری کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L069-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L069)",
+      "tts_text": "مفعول مستقیم جمع را با «les» جایگزین کن و ضمیر را پیش از فعل بگذار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    }
+  ]
+}
