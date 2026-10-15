@@ -1,0 +1,407 @@
+{
+  "lesson": "L007",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L007-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu travailles le matin ou le soir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L007-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je travaille le matin et j’étudie l’après-midi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L007-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu participes souvent au cours ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L007-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, nous parlons français le jeudi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L007-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "À quelle heure commence la séance ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L007-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Elle commence à neuf heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L007-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Merci, je cherche un groupe pour le samedi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L007-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Le cours du samedi commence à dix heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L007-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour, quel est ton horaire le jeudi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L007-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je travaille le matin. Je commence à neuf heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L007-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Et l’après-midi, tu participes au café des langues ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L007-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui. Le soir, j’écoute un podcast français.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L007-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Tu viens souvent le jeudi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L007-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "D’habitude, oui, mais je cherche aussi un cours le samedi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L007-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Le groupe commence à dix heures le samedi matin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L007-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Merci, cet horaire me convient. Je travaille aussi le mardi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L007-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Alors, tu peux venir samedi avec ton amie Aïcha.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L007-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Très bien. Je confirme ma place après le cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L007-fr-vocab-travailler",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "travailler. Je travaille le matin et j’étudie le soir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L007-fr-vocab-ecouter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "écouter. Nous écoutons un podcast ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L007-fr-vocab-participer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "participer. Vous participez au cours le jeudi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L007-fr-vocab-chercher",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "chercher. Je cherche un cours le samedi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L007-fr-vocab-matin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "matin. Le matin, le café est très calme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L007-fr-vocab-apresmidi",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "après-midi. L’après-midi, nous parlons français.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L007-fr-vocab-soir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "soir. Le soir, elle écoute la radio.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L007-fr-vocab-horaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "horaire. Mon horaire change chaque semaine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L007-fr-vocab-souvent",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "souvent. Omar vient souvent le jeudi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L007-fr-vocab-dhabitude",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "d’habitude. D’habitude, le cours commence à neuf heures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L007-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "je travaille",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 12
+    },
+    {
+      "id": "L007-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "nous travaillons",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 16
+    },
+    {
+      "id": "L007-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "vous travaillez",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 15
+    },
+    {
+      "id": "L007-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "ils travaillent",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 15
+    },
+    {
+      "id": "L007-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je travaille le matin et j’écoute la radio le soir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L007-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous participons au cours à neuf heures.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L007-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Vous cherchez un autre horaire ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L007-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Ils travaillent le jeudi, mais ils viennent le samedi.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L007-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "D’habitude, le café ouvre le matin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L007-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Léa travaille dans une librairie le matin. Elle commence à huit heures et écoute la radio en rangeant les livres. L’après-midi, elle prépare le café des langues avec Omar. Ils accueillent le groupe le jeudi à neuf heures. Le samedi, la séance commence à dix heures pour les personnes qui travaillent en semaine. Omar participe souvent, mais son horaire change parfois. Il cherche donc les heures dans le message du groupe. Après le cours, Léa et Omar parlent ensemble et choisissent le thème de la semaine suivante. Le soir, Léa étudie l’espagnol chez elle.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 557
+    },
+    {
+      "id": "L007-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L007)",
+      "tts_text": "یک کار صبحگاهی و یک کار عصرگاهی خود را به یاد بیاور و برای هماهنگی کلاس یک ساعت پیشنهاد کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 91
+    },
+    {
+      "id": "L007-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L007)",
+      "tts_text": "فعل‌های منظم پایان «-er» برای «je»، «nous» و «vous» شناسه‌های نوشتاری متفاوت دارند. برای ساعت دقیق از «à» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 117
+    },
+    {
+      "id": "L007-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L007)",
+      "tts_text": "به گفت‌وگو گوش کن و ساعت شروع گروه در روز شنبه را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L007-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L007)",
+      "tts_text": "پایان «-ent» در سوم‌شخص جمع نوشته می‌شود اما تلفظ نمی‌شود. بخش روز و ساعت دقیق را جداگانه بیان کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 98
+    },
+    {
+      "id": "L007-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L007)",
+      "tts_text": "برنامهٔ هفتگی‌ات را با یک دوست مقایسه کن و روز و ساعت جلسه را مشخص کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L007-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L007)",
+      "tts_text": "برای هماهنگی روشن، فعل صرف‌شده را با روز و ساعت همراه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    }
+  ]
+}

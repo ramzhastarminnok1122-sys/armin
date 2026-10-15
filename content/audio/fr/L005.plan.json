@@ -1,0 +1,416 @@
+{
+  "lesson": "L005",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L005-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Salut, tu parles quelles langues ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L005-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je parle néerlandais et un peu français.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L005-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu comprends le français quand on parle vite ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L005-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Pas toujours. Vous pouvez parler lentement ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L005-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Bien sûr. Je ne parle pas espagnol, moi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L005-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Merci, je peux vous aider en néerlandais.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L005-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Parfait, nous échangeons nos langues.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L005-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "D’accord. Je commence par une question.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L005-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour, quelle langue veux-tu pratiquer aujourd’hui ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L005-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je parle anglais, mais je ne comprends pas encore tout en français.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L005-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "C’est normal. Tu comprends les consignes du jeu ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L005-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Un peu. Vous pouvez répéter la première règle lentement ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L005-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Bien sûr. Je parle très bien espagnol ; je peux t’aider.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L005-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Merci. Je ne parle pas espagnol, mais je comprends quelques mots.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L005-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Nous pouvons parler doucement et changer de langue si nécessaire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L005-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "D’accord. Je veux parler français, même si je fais des erreurs.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L005-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Parfait. Ici, tout le monde apprend à son rythme.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L005-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Alors, je commence avec une question simple.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L005-fr-vocab-parler",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "parler. Je parle français au café le jeudi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L005-fr-vocab-comprendre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "comprendre. Je comprends la question, merci.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L005-fr-vocab-langue",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "langue. Quelle langue parlez-vous à la maison ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L005-fr-vocab-anglais",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "anglais. Je parle anglais avec ma collègue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L005-fr-vocab-espagnol",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "espagnol. Omar comprend un peu espagnol.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L005-fr-vocab-japonais",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "japonais. Je ne parle pas japonais.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L005-fr-vocab-unpeu",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un peu. Je parle un peu néerlandais.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L005-fr-vocab-tresbien",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "très bien. Camille parle très bien français.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L005-fr-vocab-lentement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "lentement. Vous pouvez parler plus lentement ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L005-fr-vocab-repeter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "répéter. Pouvez-vous répéter le dernier mot ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L005-fr-vocab-encore",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[10]",
+      "tts_text": "encore. Je ne parle pas encore couramment.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L005-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je parle espagnol.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L005-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Je ne parle pas japonais.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L005-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Je n’habite pas ici.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L005-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Vous pouvez répéter plus lentement ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L005-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je viens des Pays-Bas, mais je ne parle pas encore japonais.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L005-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Vous comprenez le français, mais vous ne le parlez pas.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L005-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Je n’habite pas à Paris ; j’habite à Amsterdam.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L005-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Merci, pouvez-vous répéter plus lentement ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L005-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Je parle un peu espagnol et très bien français.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L005-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Le jeudi, le café des langues accueille des personnes qui veulent pratiquer. Léa parle français et anglais ; elle comprend aussi un peu néerlandais. Omar parle anglais, mais il ne comprend pas encore toutes les conversations en français. Camille parle très bien espagnol et aide les nouveaux participants. Quand une consigne est difficile, quelqu’un la répète lentement. Les personnes peuvent demander une explication ou changer de langue quelques minutes. Personne ne se moque des erreurs : elles font partie de l’apprentissage. À la fin, Omar dit qu’il comprend davantage qu’au début. Il ne parle pas encore couramment, mais il continue à pratiquer chaque semaine.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 666
+    },
+    {
+      "id": "L005-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L005)",
+      "tts_text": "پیش از شنیدن، یک زبان را که صحبت می‌کنی و یک زبان را که هنوز خوب نمی‌فهمی نام ببر.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L005-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L005)",
+      "tts_text": "برای منفی کردن جمله، «ne» را پیش از فعل و «pas» را پس از آن بیاور. نام زبان را پس از «parler» معمولاً بدون حرف تعریف می‌گوییم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 126
+    },
+    {
+      "id": "L005-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L005)",
+      "tts_text": "به گفت‌وگوی چندزبانه گوش کن و زبانی را که عمر می‌خواهد تمرین کند پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L005-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L005)",
+      "tts_text": "در جملهٔ منفی، فعل میان «ne» و «pas» قرار می‌گیرد. پیش از واکه، «ne» به «n’» کوتاه می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 90
+    },
+    {
+      "id": "L005-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L005)",
+      "tts_text": "در کافه دربارهٔ زبان‌هایی که صحبت می‌کنی حرف بزن و اگر چیزی را نفهمیدی درخواست تکرار کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 88
+    },
+    {
+      "id": "L005-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L005)",
+      "tts_text": "درخواست کمک نشانهٔ مشارکت است؛ با جمله‌ای کوتاه مکالمه را ادامه بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    }
+  ]
+}

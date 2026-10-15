@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 7,
+    "title": "Je travaille le matin",
+    "subtitle": "Parler de ses activités et de son horaire",
+    "description": "Comparez votre matinée et votre soirée avec un autre participant, puis indiquez quand vous venez au cours.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "برنامهٔ روزانه و ساعت کلاس در کافهٔ گفت‌وگوی زبان",
+      "objectives": [
+        "کارهای روزانه را با فعل‌های پرکاربرد en -er بیان کنید",
+        "صرف حال سادهٔ فعل‌های منظم en -er را به کار ببرید",
+        "ساعت و بخش‌های روز را در برنامهٔ هفتگی بگویید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای هماهنگی یک جلسه، باید بدانید چه زمانی کار می‌کنید و چه ساعتی فرصت دارید. برنامهٔ صبح و عصر خود را چطور به فرانسوی می‌گویید؟",
+      "questions": [
+        {
+          "q": "صبح معمولاً چه کاری انجام می‌دهید؟",
+          "hint_fa": "یک فعل ساده مثل کار کردن یا گوش دادن انتخاب کنید."
+        },
+        {
+          "q": "در فرانسوی برای گفتن زمان کلاس چه حرف اضافه‌ای می‌آید؟",
+          "hint_fa": "ساعت را پس از حرف اضافهٔ کوتاه بیان کنید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "برنامهٔ روزانه و فعل‌های منظم en -er",
+      "body_fa": "بسیاری از فعل‌های پرکاربرد فرانسوی به -er ختم می‌شوند. در زمان حال، شناسه‌های نوشتاری آن‌ها عبارت‌اند از -e، -es، -e، -ons، -ez و -ent: je travaille، tu travailles، il travaille، nous travaillons، vous travaillez، ils travaillent. در تلفظ، پایان -ent در سوم‌شخص جمع خوانده نمی‌شود؛ بنابراین ils travaillent با il travaille هم‌آواست. برای گفتن بخش روز از le matin، l’après-midi و le soir استفاده کنید. ساعت دقیق با حرف اضافهٔ «à» می‌آید: «le cours commence à neuf heures». معمولاً برای عادت هفتگی «le jeudi» و برای بسامد «souvent» یا «d’habitude» می‌گوییم. در یک برنامهٔ واقعی، ساعت و روز را جدا و روشن بیان کنید تا کسی بتواند دعوت را بپذیرد یا زمان دیگری پیشنهاد دهد.",
+      "key_points": [
+        "فعل‌های منظم en -er شناسه‌های نوشتاری ثابتی دارند.",
+        "پایان -ent در سوم‌شخص جمع خوانده نمی‌شود.",
+        "برای ساعت دقیق از à و برای بخش روز از le matin، l’après-midi یا le soir استفاده کنید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "travailler",
+          "ipa": "/tʁa.va.je/",
+          "translation_fa": "کار کردن",
+          "example": "Je travaille le matin et j’étudie le soir.",
+          "example_fa": "صبح کار می‌کنم و عصر درس می‌خوانم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "écouter",
+          "ipa": "/e.ku.te/",
+          "translation_fa": "گوش دادن",
+          "example": "Nous écoutons un podcast ensemble.",
+          "example_fa": "با هم به یک پادکست گوش می‌دهیم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "participer",
+          "ipa": "/paʁ.ti.si.pe/",
+          "translation_fa": "شرکت کردن",
+          "example": "Vous participez au cours le jeudi.",
+          "example_fa": "پنجشنبه در کلاس شرکت می‌کنید.",
+          "tag": "فعل"
+        },
+        {
+          "term": "chercher",
+          "ipa": "/ʃɛʁ.ʃe/",
+          "translation_fa": "جست‌وجو کردن",
+          "example": "Je cherche un cours le samedi.",
+          "example_fa": "دنبال یک کلاس در روز شنبه می‌گردم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "matin",
+          "ipa": "/ma.tɛ̃/",
+          "translation_fa": "صبح",
+          "example": "Le matin, le café est très calme.",
+          "example_fa": "صبح، کافه خیلی آرام است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "après-midi",
+          "ipa": "/a.pʁɛ.mi.di/",
+          "translation_fa": "بعدازظهر",
+          "example": "L’après-midi, nous parlons français.",
+          "example_fa": "بعدازظهر فرانسوی صحبت می‌کنیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "soir",
+          "ipa": "/swaʁ/",
+          "translation_fa": "عصر؛ شب",
+          "example": "Le soir, elle écoute la radio.",
+          "example_fa": "او عصرها به رادیو گوش می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "horaire",
+          "ipa": "/ɔ.ʁɛʁ/",
+          "translation_fa": "برنامهٔ زمانی",
+          "example": "Mon horaire change chaque semaine.",
+          "example_fa": "برنامهٔ زمانی من هر هفته تغییر می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "souvent",
+          "ipa": "/su.vɑ̃/",
+          "translation_fa": "اغلب",
+          "example": "Omar vient souvent le jeudi.",
+          "example_fa": "عمر اغلب پنجشنبه‌ها می‌آید.",
+          "tag": "قید"
+        },
+        {
+          "term": "d’habitude",
+          "ipa": "/da.bi.tyd/",
+          "translation_fa": "معمولاً",
+          "example": "D’habitude, le cours commence à neuf heures.",
+          "example_fa": "معمولاً کلاس ساعت نه شروع می‌شود.",
+          "tag": "قید"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent des verbes réguliers en -er",
+      "explanation_fa": "برای صرف یک فعل منظم en -er در زمان حال، ریشه را از صورت مصدر با حذف -er به‌دست می‌آوریم و پایان مناسب را اضافه می‌کنیم: travailler ← travaill-. می‌گوییم je travaille، tu travailles، il travaille، nous travaillons، vous travaillez و ils travaillent. پایان -ent در نوشتار سوم‌شخص جمع دیده می‌شود، اما تلفظ نمی‌شود. برای برنامه، «à neuf heures» ساعت دقیق را می‌گوید؛ «le matin» و «le soir» بخش روز را نشان می‌دهند. برای عادت هفتگی می‌توان گفت «je travaille le mardi» یا «nous participons souvent». فعل commencer الگوی نوشتاری دیگری در nous دارد؛ در این درس روی فعل‌های منظم مثل travailler و écouter تمرکز می‌کنیم.",
+      "pattern": "radical + e / es / e / ons / ez / ent",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je",
+            "je travaille",
+            "من کار می‌کنم"
+          ],
+          [
+            "nous",
+            "nous travaillons",
+            "ما کار می‌کنیم"
+          ],
+          [
+            "vous",
+            "vous travaillez",
+            "شما کار می‌کنید"
+          ],
+          [
+            "ils",
+            "ils travaillent",
+            "آن‌ها کار می‌کنند؛ پایان ent خوانده نمی‌شود"
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "پایان سوم‌شخص جمع -ent نوشته می‌شود اما تلفظ نمی‌شود.",
+        "برای ساعت دقیق à می‌آید؛ برای بخش روز از le matin و le soir استفاده کنید."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je travaille le matin et j’écoute la radio le soir.",
+          "fa": "صبح کار می‌کنم و عصر به رادیو گوش می‌دهم.",
+          "note_fa": "دو فعل منظم، برنامهٔ روز را توصیف می‌کنند."
+        },
+        {
+          "target": "Nous participons au cours à neuf heures.",
+          "fa": "ما ساعت نه در کلاس شرکت می‌کنیم.",
+          "note_fa": "nous با پایان نوشتاری -ons صرف شده است."
+        },
+        {
+          "target": "Vous cherchez un autre horaire ?",
+          "fa": "دنبال برنامهٔ زمانی دیگری می‌گردید؟",
+          "note_fa": "vous با پایان نوشتاری -ez می‌آید."
+        },
+        {
+          "target": "Ils travaillent le jeudi, mais ils viennent le samedi.",
+          "fa": "آن‌ها پنجشنبه کار می‌کنند، اما شنبه می‌آیند.",
+          "note_fa": "پایان -ent نوشته می‌شود و تلفظ نمی‌شود."
+        },
+        {
+          "target": "D’habitude, le café ouvre le matin.",
+          "fa": "معمولاً کافه صبح باز می‌شود.",
+          "note_fa": "قید بسامد پیش از بخش روز آمده است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Trouver une heure pour le cours",
+      "script": "Léa: Bonjour, quel est ton horaire le jeudi ?\nOmar: Je travaille le matin. Je commence à neuf heures.\nLéa: Et l’après-midi, tu participes au café des langues ?\nOmar: Oui. Le soir, j’écoute un podcast français.\nLéa: Tu viens souvent le jeudi ?\nOmar: D’habitude, oui, mais je cherche aussi un cours le samedi.\nLéa: Le groupe commence à dix heures le samedi matin.\nOmar: Merci, cet horaire me convient. Je travaille aussi le mardi.\nLéa: Alors, tu peux venir samedi avec ton amie Aïcha.\nOmar: Très bien. Je confirme ma place après le cours.",
+      "script_fa": "لئا: سلام، برنامهٔ زمانی‌ات پنجشنبه چطور است؟\nعمر: صبح کار می‌کنم. ساعت نه شروع می‌کنم.\nلئا: و بعدازظهر در کافهٔ گفت‌وگوی زبان شرکت می‌کنی؟\nعمر: بله. عصر به یک پادکست فرانسوی گوش می‌دهم.\nلئا: اغلب پنجشنبه‌ها می‌آیی؟\nعمر: معمولاً بله، اما برای شنبه هم دنبال کلاس می‌گردم.\nلئا: گروه شنبه صبح ساعت ده شروع می‌شود.\nعمر: ممنون، این زمان برایم مناسب است. سه‌شنبه هم کار می‌کنم.\nلئا: پس شنبه می‌توانی همراه دوستت عایشه بیایی.\nعمر: خیلی خوب. بعد از کلاس جایم را تأیید می‌کنم.",
+      "question_fa": "À quelle heure commence le groupe le samedi ?",
+      "answer": "À dix heures.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Comparer deux horaires",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu travailles le matin ou le soir ?",
+          "fa": "صبح کار می‌کنی یا عصر؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Je travaille le matin et j’étudie l’après-midi.",
+          "fa": "صبح کار می‌کنم و بعدازظهر درس می‌خوانم."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu participes souvent au cours ?",
+          "fa": "اغلب در کلاس شرکت می‌کنی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, nous parlons français le jeudi.",
+          "fa": "بله، پنجشنبه فرانسوی صحبت می‌کنیم."
+        },
+        {
+          "speaker": "A",
+          "target": "À quelle heure commence la séance ?",
+          "fa": "جلسه چه ساعتی شروع می‌شود؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Elle commence à neuf heures.",
+          "fa": "ساعت نه شروع می‌شود."
+        },
+        {
+          "speaker": "A",
+          "target": "Merci, je cherche un groupe pour le samedi.",
+          "fa": "ممنون، دنبال یک گروه برای شنبه می‌گردم."
+        },
+        {
+          "speaker": "B",
+          "target": "Le cours du samedi commence à dix heures.",
+          "fa": "کلاس شنبه ساعت ده شروع می‌شود."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در نقش زبان‌آموز کافهٔ گفت‌وگوی زبان، برنامهٔ هفتگی خود را با یک دوست مقایسه کنید. از دست‌کم سه فعل منظم en -er در زمان حال، یک روز هفته، یک ساعت دقیق و دو بخش روز استفاده کنید.",
+      "useful_phrases": [
+        {
+          "target": "Je travaille le matin.",
+          "fa": "صبح کار می‌کنم."
+        },
+        {
+          "target": "Nous écoutons un podcast le soir.",
+          "fa": "عصر به یک پادکست گوش می‌دهیم."
+        },
+        {
+          "target": "Vous participez au cours à neuf heures.",
+          "fa": "ساعت نه در کلاس شرکت می‌کنید."
+        },
+        {
+          "target": "Ils cherchent un horaire différent.",
+          "fa": "آن‌ها دنبال برنامهٔ زمانی متفاوتی می‌گردند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "L’horaire de la semaine",
+      "text": "Léa travaille dans une librairie le matin. Elle commence à huit heures et écoute la radio en rangeant les livres. L’après-midi, elle prépare le café des langues avec Omar. Ils accueillent le groupe le jeudi à neuf heures. Le samedi, la séance commence à dix heures pour les personnes qui travaillent en semaine. Omar participe souvent, mais son horaire change parfois. Il cherche donc les heures dans le message du groupe. Après le cours, Léa et Omar parlent ensemble et choisissent le thème de la semaine suivante. Le soir, Léa étudie l’espagnol chez elle.",
+      "glossary": [
+        {
+          "term": "librairie",
+          "fa": "کتاب‌فروشی"
+        },
+        {
+          "term": "ranger",
+          "fa": "مرتب کردن"
+        },
+        {
+          "term": "en semaine",
+          "fa": "در روزهای کاری هفته"
+        },
+        {
+          "term": "parfois",
+          "fa": "گاهی"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "لئا صبح کجا کار می‌کند؟",
+          "a": "Dans une librairie."
+        },
+        {
+          "q_fa": "جلسهٔ شنبه چه ساعتی شروع می‌شود؟",
+          "a": "À dix heures."
+        },
+        {
+          "q_fa": "عمر کجا ساعت کلاس را پیدا می‌کند؟",
+          "a": "Dans le message du groupe."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صورت درست برای nous را انتخاب کنید.",
+          "question": "Nous ___ au cours le jeudi. (participer)",
+          "options": [
+            "participons",
+            "participez",
+            "participent"
+          ],
+          "answer": "participons",
+          "explanation_fa": "nous با پایان نوشتاری -ons می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "صورت درست برای vous را انتخاب کنید.",
+          "question": "Vous ___ un podcast. (écouter)",
+          "options": [
+            "écoutez",
+            "écoutons",
+            "écoutent"
+          ],
+          "answer": "écoutez",
+          "explanation_fa": "vous با پایان نوشتاری -ez صرف می‌شود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "پایان -ent در «ils travaillent» نوشته می‌شود اما خوانده نمی‌شود.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "در پایان سوم‌شخص جمع فعل‌های en -er، t پایانی تلفظ نمی‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "برای بیان ساعت دقیق کدام حرف اضافه می‌آید؟",
+          "question": "Le cours commence ___ neuf heures.",
+          "options": [
+            "à",
+            "en",
+            "de"
+          ],
+          "answer": "à",
+          "explanation_fa": "برای ساعت دقیق از à استفاده می‌کنیم."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای je صرف کنید.",
+          "question": "Je ___ le matin. (travailler)",
+          "answer": [
+            "travaille"
+          ],
+          "explanation_fa": "برای je پایان -e اضافه می‌شود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "یک برنامهٔ کوتاه برای روزت بنویس.",
+          "question": "Quand travailles-tu et quand étudies-tu ?",
+          "answer": [
+            "Je travaille le matin et j’étudie le soir.",
+            "Je participe au cours à neuf heures le jeudi."
+          ],
+          "explanation_fa": "از فعل زمان حال و قید یا عبارت زمان استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle terminaison écrite accompagne nous pour un verbe régulier en -er ?",
+          "options": [
+            "-ons",
+            "-ez",
+            "-ent"
+          ],
+          "answer": "-ons",
+          "explanation_fa": "La forme nous prend la terminaison écrite -ons."
+        },
+        {
+          "type": "mcq",
+          "question": "Complétez : «Vous ___ un podcast».",
+          "options": [
+            "écoutez",
+            "écoutons",
+            "écoutent"
+          ],
+          "answer": "écoutez",
+          "explanation_fa": "Avec vous, le verbe régulier prend -ez."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase indique une heure précise ?",
+          "options": [
+            "Le cours commence à neuf heures.",
+            "Le cours commence le matin.",
+            "Le cours commence souvent."
+          ],
+          "answer": "Le cours commence à neuf heures.",
+          "explanation_fa": "La préposition à introduit l’heure exacte."
+        },
+        {
+          "type": "mcq",
+          "question": "Comment prononce-t-on la terminaison -ent de «ils travaillent» ?",
+          "options": [
+            "Elle est muette.",
+            "On prononce t.",
+            "On prononce ent."
+          ],
+          "answer": "Elle est muette.",
+          "explanation_fa": "La terminaison -ent est écrite mais ne se prononce pas."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie d’habitude ?",
+          "options": [
+            "معمولاً",
+            "بعدازظهر",
+            "به‌آرامی"
+          ],
+          "answer": "معمولاً",
+          "explanation_fa": "d’habitude indique une action habituelle."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش هم‌کلاسی در کافهٔ گفت‌وگوی زبان، از طرف مقابل دربارهٔ برنامهٔ کاری و زمان آزادش بپرسید. فعل‌های منظم en -er را با شناسهٔ درست به‌کار ببرید و برای پیشنهاد جلسه از روز و ساعت دقیق استفاده کنید.",
+      "suggested_prompts": [
+        "Demandez à quelle heure la personne travaille.",
+        "Comparez le matin et le soir.",
+        "Proposez une séance à une heure précise.",
+        "Reformulez une habitude avec d’habitude ou souvent."
+      ],
+      "focus": [
+        "شناسه‌های زمان حال فعل‌های منظم en -er",
+        "زمان روز و ساعت دقیق",
+        "بیان عادت هفتگی"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. The present tense of regular -er verbs is practiced through practical times of day and a course schedule."
+  }
+}

@@ -340,8 +340,13 @@ function lessonFilesIn(dir) {
   const walk = (current) => {
     for (const entry of readdirSync(current, { withFileTypes: true })) {
       const path = join(current, entry.name)
-      if (entry.isDirectory()) walk(path)
-      else if (entry.isFile() && /^L\d{3}\.json$/i.test(entry.name)) found.push(path)
+      // Context roots may include both lesson outputs and authoring specs. Specs use
+      // the same L### filenames, so scanning them can overwrite the installed lesson
+      // with a non-lesson record and silently drop continuity context.
+      if (entry.isDirectory()) {
+        if (entry.name.toLowerCase() === 'specs') continue
+        walk(path)
+      } else if (entry.isFile() && /^L\d{3}\.json$/i.test(entry.name)) found.push(path)
     }
   }
   walk(dir)

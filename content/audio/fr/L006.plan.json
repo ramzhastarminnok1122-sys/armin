@@ -1,0 +1,407 @@
+{
+  "lesson": "L006",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L006-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Voici ma famille au bord de la mer.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L006-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Qui est ton amie, près de ta sœur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L006-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "C’est mon amie Aïcha. Elle habite à Bruxelles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L006-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Et tes parents, ils habitent où ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L006-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Mon père habite à Lyon et ma mère à Paris.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L006-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Tu as des cousins en France ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L006-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, mes cousins sont près de Lyon.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L006-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Merci, ta famille a l’air très sympathique.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L006-fr-listening-1",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour, voici une photo de ma famille.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L006-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Merci. Qui est cette personne près de toi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L006-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "C’est ma sœur, Lina. Elle habite à Rabat avec mes parents.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L006-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "Et le garçon à côté d’elle ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L006-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "C’est mon frère. Il s’appelle Sami et il parle anglais.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L006-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Tu as aussi une amie dans le groupe ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L006-fr-listening-7",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, mon amie Aïcha vient de Rabat, mais elle habite ici.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L006-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Ta famille parle français ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L006-fr-listening-9",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[8]",
+      "tts_text": "Ma sœur comprend le français ; mon père le parle un peu.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L006-fr-listening-10",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[9]",
+      "tts_text": "Merci de partager la photo. Elle est très belle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L006-fr-vocab-famille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "famille. Ma famille habite près d’Utrecht.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L006-fr-vocab-parent",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "parent. Mes parents parlent deux langues.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L006-fr-vocab-mere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "mère. Voici ma mère, Nadia.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L006-fr-vocab-pere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "père. Mon père comprend un peu français.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L006-fr-vocab-frere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "frère. Mon frère habite à Lille.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L006-fr-vocab-sur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "sœur. Ma sœur s’appelle Lina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L006-fr-vocab-fille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "fille. Leur fille est à l’université.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L006-fr-vocab-fils",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "fils. Son fils parle anglais.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L006-fr-vocab-amie",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "amie. Mon amie Aïcha vient de Rabat.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L006-fr-vocab-cousin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "cousin. Mon cousin habite en Belgique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L006-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "mon frère",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 9
+    },
+    {
+      "id": "L006-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "ma sœur",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 7
+    },
+    {
+      "id": "L006-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "mes parents",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 11
+    },
+    {
+      "id": "L006-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "mon amie",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 8
+    },
+    {
+      "id": "L006-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Voici ma sœur et mon frère.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L006-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mes parents habitent à Amsterdam.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L006-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Mon amie Aïcha parle plusieurs langues.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L006-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Voici mon père et ma mère.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L006-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Son fils habite près de sa sœur.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L006-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Lina apporte une photo de famille au café des langues. Elle présente d’abord sa mère et son père, puis son frère Sami. Ses parents habitent à Rabat, mais Lina vit à Amsterdam pour ses études. Son amie Aïcha habite dans le même quartier ; elles parlent souvent français ensemble. Sur une autre photo, Lina montre ses cousins près de la mer. Sa famille habite dans le même pays, mais dans une autre ville. Elle explique que mon, ma et mes changent selon le nom qui suit. Elle dit aussi mon amie : le mot amie est féminin, mais commence par une voyelle. Les participants écoutent et demandent parfois le prénom d’une personne. Lina répond avec plaisir, sans donner de détails privés.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 680
+    },
+    {
+      "id": "L006-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L006)",
+      "tts_text": "برای معرفی سه نفر از خانواده‌ات آماده شو و به جنس و شمار اسم فرانسوی توجه کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L006-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L006)",
+      "tts_text": "شکل «mon»، «ma» یا «mes» با اسمی که پس از آن می‌آید هماهنگ می‌شود؛ در «mon amie»، اسم مؤنث با واکه آغاز شده است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 112
+    },
+    {
+      "id": "L006-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L006)",
+      "tts_text": "به گفت‌وگو گوش کن و شهر محل زندگی خواهر عمر را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L006-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L006)",
+      "tts_text": "«mon amie» یعنی دوست مؤنث من. شکل «mon» به خاطر واکهٔ آغازین «amie» است و جنس اسم را عوض نمی‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 97
+    },
+    {
+      "id": "L006-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L006)",
+      "tts_text": "یک عکس خیالی را معرفی کن و چند عضو خانواده را با شکل ملکی مناسب نام ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L006-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L006)",
+      "tts_text": "برای انتخاب mon، ma یا mes به اسم بعدی نگاه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    }
+  ]
+}
