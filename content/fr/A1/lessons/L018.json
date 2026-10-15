@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 18,
+    "title": "Mon appartement a deux chambres",
+    "subtitle": "Présenter les pièces et les meubles",
+    "description": "Présentez votre logement à un ami et dites ce qu’il y a dans les différentes pièces.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "توصیف اتاق‌ها و وسایل خانه به زبان فرانسوی",
+      "objectives": [
+        "نام چند اتاق و وسیلهٔ خانه را به‌کار ببرید",
+        "برای معرفی از c’est و il y a استفاده کنید",
+        "جای وسایل را با dans و sur بیان کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "دوستی برای نخستین بار به خانه‌تان آمده است. چطور اتاق‌ها را معرفی می‌کنید و می‌گویید هر وسیله کجا قرار دارد؟",
+      "questions": [
+        {
+          "q": "برای گفتن «یک آشپزخانه هست» چه ساختی به کار می‌رود؟",
+          "hint_fa": "وجود یک چیز را با il y a بیان کنید."
+        },
+        {
+          "q": "اگر شیئی روی میز باشد، کدام حرف اضافه کمک می‌کند؟",
+          "hint_fa": "به معنای «روی» فکر کنید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Les pièces et les meubles",
+      "body_fa": "برای معرفی یک اتاق یا وسیله می‌توان گفت «c’est une cuisine» یا «c’est un lit». برای بیان وجود چیزی در فضا از «il y a» استفاده می‌کنیم: «il y a deux chambres», «il y a une table». این ساخت برای یک یا چند چیز ثابت می‌ماند. برای گفتن جای وسیله، «dans» به معنی «داخل»، «sur» به معنی «روی» و «près de» به معنی «نزدیک» است: «la chaise est près de la fenêtre». نام اتاق‌ها و وسایل را همراه حرف تعریف یاد بگیرید، چون جنس دستوری آن‌ها با فارسی یکسان نیست. هنگام معرفی خانه، ابتدا بگویید چه اتاقی است، سپس با il y a چند وسیله را نام ببرید و در پایان جای یک وسیله را توضیح دهید. برای رعایت حریم خصوصی، در گفت‌وگو نیازی به گفتن نشانی دقیق خانه نیست.",
+      "key_points": [
+        "c’est برای معرفی یا شناسایی یک چیز است.",
+        "il y a برای گفتن اینکه چیزی در فضا وجود دارد به‌کار می‌رود.",
+        "dans، sur و près de جای وسیله را مشخص می‌کنند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "appartement",
+          "ipa": "/a.paʁ.tə.mɑ̃/",
+          "translation_fa": "آپارتمان",
+          "example": "Mon appartement est près du parc.",
+          "example_fa": "آپارتمان من نزدیک پارک است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "chambre",
+          "ipa": "/ʃɑ̃bʁ/",
+          "translation_fa": "اتاق خواب",
+          "example": "La chambre est au bout du couloir.",
+          "example_fa": "اتاق خواب انتهای راهرو است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cuisine",
+          "ipa": "/kɥi.zin/",
+          "translation_fa": "آشپزخانه",
+          "example": "La cuisine est petite, mais claire.",
+          "example_fa": "آشپزخانه کوچک اما روشن است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "salon",
+          "ipa": "/sa.lɔ̃/",
+          "translation_fa": "اتاق نشیمن",
+          "example": "Nous prenons le thé dans le salon.",
+          "example_fa": "در اتاق نشیمن چای می‌خوریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "salle de bains",
+          "ipa": "/sal də bɛ̃/",
+          "translation_fa": "حمام",
+          "example": "La salle de bains est près de la chambre.",
+          "example_fa": "حمام نزدیک اتاق خواب است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "fenêtre",
+          "ipa": "/fə.nɛtʁ/",
+          "translation_fa": "پنجره",
+          "example": "La fenêtre donne sur le jardin.",
+          "example_fa": "پنجره رو به باغ باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "porte",
+          "ipa": "/pɔʁt/",
+          "translation_fa": "در",
+          "example": "La porte du salon est ouverte.",
+          "example_fa": "در اتاق نشیمن باز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "table",
+          "ipa": "/tabl/",
+          "translation_fa": "میز",
+          "example": "Il y a une table dans la cuisine.",
+          "example_fa": "یک میز در آشپزخانه هست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "chaise",
+          "ipa": "/ʃɛz/",
+          "translation_fa": "صندلی",
+          "example": "La chaise est près de la fenêtre.",
+          "example_fa": "صندلی نزدیک پنجره است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "lit",
+          "ipa": "/li/",
+          "translation_fa": "تخت",
+          "example": "Le lit est dans la chambre.",
+          "example_fa": "تخت در اتاق خواب است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "C’est ou il y a ?",
+      "explanation_fa": "از «c’est» برای معرفی یا شناسایی یک چیز مفرد استفاده می‌کنیم: «c’est une chambre», «c’est un lit». از «il y a» برای گفتن اینکه چیزی در مکان وجود دارد بهره می‌بریم: «il y a une cuisine», «il y a deux chaises». شکل il y a با مفرد و جمع تغییر نمی‌کند. برای جای اشیا از حرف اضافه استفاده کنید: dans یعنی داخل، sur یعنی روی، و près de یعنی نزدیک. در جملهٔ «la table est dans la cuisine»، حرف تعریف با اسم هماهنگ است. پرسش «qu’est-ce qu’il y a dans le salon ?» دربارهٔ چیزهای موجود در اتاق می‌پرسد. هنگام معرفی خانه، c’est را برای نام‌گذاری و il y a را برای فهرست کردن به‌کار ببرید.",
+      "pattern": "c’est + nom singulier · il y a + nom singulier / pluriel",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "معرفی",
+            "C’est une cuisine.",
+            "این یک آشپزخانه است."
+          ],
+          [
+            "وجود مفرد",
+            "Il y a un lit.",
+            "یک تخت هست."
+          ],
+          [
+            "وجود جمع",
+            "Il y a deux chaises.",
+            "دو صندلی هست."
+          ],
+          [
+            "مکان",
+            "La table est dans le salon.",
+            "میز در اتاق نشیمن است."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای فهرست‌کردن چند چیز از il y a استفاده کنید.",
+        "شکل il y a برای اسم مفرد و جمع یکسان می‌ماند."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "C’est une chambre avec une fenêtre.",
+          "fa": "این اتاق خوابی با یک پنجره است.",
+          "note_fa": "c’est اتاق را معرفی می‌کند."
+        },
+        {
+          "target": "Il y a deux chaises dans le salon.",
+          "fa": "دو صندلی در اتاق نشیمن هست.",
+          "note_fa": "il y a با اسم جمع تغییر نمی‌کند."
+        },
+        {
+          "target": "La table est dans la cuisine.",
+          "fa": "میز در آشپزخانه است.",
+          "note_fa": "dans مکان داخل را نشان می‌دهد."
+        },
+        {
+          "target": "Le lit est près de la fenêtre.",
+          "fa": "تخت نزدیک پنجره است.",
+          "note_fa": "près de فاصلهٔ کم را نشان می‌دهد."
+        },
+        {
+          "target": "Il y a une porte entre le salon et la cuisine.",
+          "fa": "یک در میان اتاق نشیمن و آشپزخانه هست.",
+          "note_fa": "وجود یک وسیله با il y a بیان شده است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "La visite de l’appartement",
+      "script": "Léa: Bienvenue chez moi, Omar. Tu veux voir l’appartement ?\nOmar: Oui, merci. C’est la cuisine ?\nLéa: Oui, et il y a une table près de la fenêtre.\nOmar: La pièce est lumineuse. Où est le salon ?\nLéa: Juste à côté. Il y a deux chaises et un canapé.\nOmar: Et la chambre, elle est au bout du couloir ?\nLéa: Oui. Le lit est près de la porte.\nOmar: La salle de bains est aussi près de la chambre ?\nLéa: Oui, elle est juste en face.\nOmar: Merci pour la visite. Ton appartement est très agréable.",
+      "script_fa": "لئا: عمر، به خانه‌ام خوش آمدی. می‌خواهی آپارتمان را ببینی؟\nعمر: بله، ممنون. این آشپزخانه است؟\nلئا: بله، و یک میز نزدیک پنجره هست.\nعمر: اتاق روشن است. اتاق نشیمن کجاست؟\nلئا: درست کنار آن است. دو صندلی و یک کاناپه هست.\nعمر: و اتاق خواب انتهای راهرو است؟\nلئا: بله. تخت نزدیک در است.\nعمر: حمام هم نزدیک اتاق خواب است؟\nلئا: بله، درست روبروست.\nعمر: ممنون از بازدید. آپارتمانت خیلی دلپذیر است.",
+      "question_fa": "Où se trouve le lit ?",
+      "answer": "Près de la porte.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Chercher une chaise dans le salon",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Il y a une chaise libre dans la cuisine ?",
+          "fa": "یک صندلی خالی در آشپزخانه هست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, mais il y en a une dans le salon.",
+          "fa": "نه، اما یکی در اتاق نشیمن هست."
+        },
+        {
+          "speaker": "A",
+          "target": "La porte du salon est ouverte ?",
+          "fa": "در اتاق نشیمن باز است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, juste à côté de la table.",
+          "fa": "بله، درست کنار میز."
+        },
+        {
+          "speaker": "A",
+          "target": "Merci. Je pose mon sac sur la chaise.",
+          "fa": "ممنون. کیفم را روی صندلی می‌گذارم."
+        },
+        {
+          "speaker": "B",
+          "target": "Il y a aussi une fenêtre près du canapé.",
+          "fa": "یک پنجره هم نزدیک کاناپه هست."
+        },
+        {
+          "speaker": "A",
+          "target": "C’est une pièce très claire.",
+          "fa": "اتاق خیلی روشنی است."
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, le soleil entre par la fenêtre.",
+          "fa": "بله، آفتاب از پنجره داخل می‌شود."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در نقش میزبان یا مهمان در کافهٔ گفت‌وگوی زبان، خانه‌ای خیالی را توصیف کنید. با c’est اتاق‌ها یا وسایل را معرفی کنید، با il y a تعدادشان را بگویید و با dans یا sur مکان یک وسیله را روشن کنید.",
+      "useful_phrases": [
+        {
+          "target": "C’est le salon.",
+          "fa": "این اتاق نشیمن است."
+        },
+        {
+          "target": "Il y a une table dans la cuisine.",
+          "fa": "یک میز در آشپزخانه هست."
+        },
+        {
+          "target": "La chaise est près de la fenêtre.",
+          "fa": "صندلی نزدیک پنجره است."
+        },
+        {
+          "target": "Le lit est dans la chambre.",
+          "fa": "تخت در اتاق خواب است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Un petit appartement bien organisé",
+      "text": "Omar habite dans un appartement près du parc. Il y a une cuisine claire avec une petite table et deux chaises. Le salon est à côté de la cuisine ; il y a un canapé et une grande fenêtre. La chambre se trouve au bout du couloir. Le lit est près de la porte et une lampe est sur la table. La salle de bains est en face de la chambre. Omar range ses livres dans le salon et garde son manteau près de l’entrée. Quand ses amis viennent, il les accueille dans le salon. Il ne donne pas son adresse exacte dans les messages du groupe.",
+      "glossary": [
+        {
+          "term": "organisé",
+          "fa": "مرتب"
+        },
+        {
+          "term": "au bout de",
+          "fa": "در انتهایِ"
+        },
+        {
+          "term": "ranger",
+          "fa": "مرتب کردن"
+        },
+        {
+          "term": "entrée",
+          "fa": "ورودی"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "آشپزخانه چند صندلی دارد؟",
+          "a": "Deux chaises."
+        },
+        {
+          "q_fa": "تخت کجاست؟",
+          "a": "Près de la porte."
+        },
+        {
+          "q_fa": "عمر نشانی دقیق را کجا نمی‌دهد؟",
+          "a": "Dans les messages du groupe."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "برای فهرست کردن وسایل کدام ساخت درست است؟",
+          "question": "___ une table dans la cuisine.",
+          "options": [
+            "Il y a",
+            "C’est",
+            "Je suis"
+          ],
+          "answer": "Il y a",
+          "explanation_fa": "il y a وجود یک وسیله را بیان می‌کند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "برای معرفی اتاق کدام جمله درست است؟",
+          "question": "___ une chambre.",
+          "options": [
+            "C’est",
+            "Il sont",
+            "Nous est"
+          ],
+          "answer": "C’est",
+          "explanation_fa": "c’est یک اسم مفرد را معرفی می‌کند."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "il y a برای اسم مفرد و جمع یکسان است.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "il y a تغییر نمی‌کند؛ اسم پس از آن می‌تواند جمع باشد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "برای گفتن «روی میز» کدام حرف اضافه درست است؟",
+          "question": "Le livre est ___ la table.",
+          "options": [
+            "sur",
+            "dans",
+            "sous"
+          ],
+          "answer": "sur",
+          "explanation_fa": "sur یعنی روی."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "ساخت وجود را کامل کنید.",
+          "question": "___ deux chaises dans le salon.",
+          "answer": [
+            "Il y a"
+          ],
+          "explanation_fa": "برای وجود دو صندلی از il y a استفاده می‌کنیم."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "یک اتاق و دو وسیله را توصیف کن.",
+          "question": "Qu’est-ce qu’il y a dans ta chambre ?",
+          "answer": [
+            "C’est une chambre calme. Il y a un lit et une chaise.",
+            "Il y a une fenêtre et une table dans ma chambre."
+          ],
+          "explanation_fa": "از il y a برای شمردن وسایل و از dans برای مکان استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle phrase présente une pièce ?",
+          "options": [
+            "C’est une cuisine.",
+            "Il y a une cuisine.",
+            "Je vais une cuisine."
+          ],
+          "answer": "C’est une cuisine.",
+          "explanation_fa": "«c’est» برای شناسایی یا معرفی یک اسم مفرد است."
+        },
+        {
+          "type": "mcq",
+          "question": "Comment dire there are two chairs ?",
+          "options": [
+            "Il y a deux chaises.",
+            "C’est deux chaises.",
+            "Il sont deux chaise."
+          ],
+          "answer": "Il y a deux chaises.",
+          "explanation_fa": "«il y a» با اسم جمع هم تغییر نمی‌کند."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie dans ?",
+          "options": [
+            "داخلِ",
+            "رویِ",
+            "نزدیکِ"
+          ],
+          "answer": "داخلِ",
+          "explanation_fa": "«dans» جای چیزی را درون یک فضا نشان می‌دهد."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase décrit correctement la position de la table ?",
+          "options": [
+            "La table est dans le salon.",
+            "La table est dans salon.",
+            "La table est il y a salon."
+          ],
+          "answer": "La table est dans le salon.",
+          "explanation_fa": "پس از «dans» اسم همراه حرف تعریفش می‌آید."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie près de la fenêtre ?",
+          "options": [
+            "نزدیک پنجره",
+            "داخل پنجره",
+            "روی پنجره"
+          ],
+          "answer": "نزدیک پنجره",
+          "explanation_fa": "«près de» نشان می‌دهد چیزی به یک نشانه نزدیک است."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش میزبان کافهٔ گفت‌وگوی زبان، خانه‌ای خیالی را برای مهمان توصیف کنید. تفاوت c’est برای معرفی و il y a برای گفتن وجود را تمرین کنید و جای چند وسیله را با dans یا sur بگویید.",
+      "suggested_prompts": [
+        "Présentez la cuisine avec c’est.",
+        "Nommez plusieurs meubles avec il y a.",
+        "Situez un objet avec dans ou sur.",
+        "Posez une question sur une autre pièce."
+      ],
+      "focus": [
+        "c’est برای معرفی",
+        "il y a برای وجود",
+        "حروف اضافهٔ مکان"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Rooms and furniture are introduced through a friendly, non-invasive home tour."
+  }
+}
