@@ -1,0 +1,407 @@
+{
+  "lesson": "L002",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L002-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu veux participer au jeu après le cours ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L002-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, avec plaisir. Quel âge faut-il avoir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L002-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Il faut avoir au moins dix-huit ans.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L002-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Alors, j’ai vingt ans, je peux jouer.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L002-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui. Tu as quel âge, toi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L002-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Je préfère garder cette information pour moi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L002-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Bien sûr, merci de me le dire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L002-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Je peux tout de même aider à préparer la salle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L002-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour, vous avez déjà votre fiche ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L002-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, merci. Vous demandez l’âge à tout le monde ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L002-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Seulement si vous voulez répondre. Quel âge avez-vous ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L002-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "J’ai vingt-quatre ans. Et vous ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L002-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "J’ai trente ans aujourd’hui ; c’est mon anniversaire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L002-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Bon anniversaire ! Vous fêtez cela ici ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L002-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Après le cours, avec deux amis. Ils ont vingt-six et vingt-huit ans.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L002-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Je peux apporter un gâteau ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L002-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "C’est gentil. Demandez à Léa ; elle organise la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L002-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Très bien, merci. Je lui dis bonjour en arrivant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L002-fr-vocab-avoir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "avoir. J’ai vingt ans.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L002-fr-vocab-age",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "âge. Quel âge avez-vous ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L002-fr-vocab-quelage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "quel âge. Quel âge as-tu, Léa ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L002-fr-vocab-an",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "an. Il a un an de plus que moi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L002-fr-vocab-ans",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "ans. Mina a vingt et un ans.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L002-fr-vocab-combien",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "combien. Combien d’années avez-vous étudié ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L002-fr-vocab-anniversaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "anniversaire. C’est mon anniversaire aujourd’hui.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L002-fr-vocab-numero",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "numéro. Quel est le numéro de la salle ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L002-fr-vocab-vingt",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "vingt. J’ai vingt ans et je travaille ici.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L002-fr-vocab-trente",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "trente. Elle fête ses trente ans avec ses amis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L002-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Quel âge as-tu ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 16
+    },
+    {
+      "id": "L002-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Quel âge avez-vous ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L002-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Il a un an.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 11
+    },
+    {
+      "id": "L002-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "J’ai vingt ans.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 15
+    },
+    {
+      "id": "L002-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’ai vingt ans et je parle français au café.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L002-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Quel âge avez-vous, madame ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L002-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Il a un an, mais sa sœur a quatre ans.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L002-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "C’est son anniversaire ; elle a trente ans aujourd’hui.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L002-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Merci, je préfère ne pas répondre à cette question.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L002-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après le cours, Léa prépare une petite fête pour Camille. C’est son anniversaire, et elle a trente ans. Noé arrive avec un gâteau ; il a vingt-quatre ans et connaît déjà le groupe. Deux nouvelles participantes demandent si l’âge est nécessaire pour le jeu. Léa répond que non : chacune peut choisir de répondre ou non. Une participante dit qu’elle a vingt ans ; l’autre préfère garder cette information privée. Tout le monde respecte son choix. Avant de partir, Camille remercie les amis et leur souhaite une bonne soirée. Le groupe promet de revenir la semaine suivante pour continuer à parler français.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 604
+    },
+    {
+      "id": "L002-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L002)",
+      "tts_text": "پیش از شنیدن، به موقعیتی فکر کن که در آن پرسیدن سن طبیعی یا نامناسب است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L002-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L002)",
+      "tts_text": "در فرانسوی سن را با «avoir» بیان می‌کنیم: «j’ai vingt ans». برای خطاب مؤدبانه می‌گوییم «quel âge avez-vous ?». اگر پاسخ‌دادن را نمی‌خواهی، می‌توانی محترمانه از پاسخ صرف‌نظر کنی.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 177
+    },
+    {
+      "id": "L002-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L002)",
+      "tts_text": "به گفت‌وگو گوش کن و سن کمیل را پیدا کن. دقت کن که پرسش با اجازه و احترام مطرح می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 85
+    },
+    {
+      "id": "L002-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L002)",
+      "tts_text": "برای سن از «avoir» استفاده کن، نه از فعل «être». پس از «un» شکل مفرد «an» و پس از عددهای دیگر «ans» می‌آید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 107
+    },
+    {
+      "id": "L002-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L002)",
+      "tts_text": "در کافه دربارهٔ جشن تولد حرف بزن، سن را بگو یا مؤدبانه از پاسخ‌دادن صرف‌نظر کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L002-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L002)",
+      "tts_text": "عددها را با حروف تمرین کن و پیش از پرسیدن سن، مناسب بودن موقعیت را بسنج.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    }
+  ]
+}

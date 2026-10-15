@@ -1,0 +1,398 @@
+{
+  "lesson": "L003",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L003-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Bonjour, votre nom est déjà sur la liste ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L003-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Pas encore. Je peux l’écrire ici ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L003-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui. Vous pouvez épeler votre prénom ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L003-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Z, O, E avec un accent aigu.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L003-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Zoé Martin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 11
+    },
+    {
+      "id": "L003-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "C’est exact. Mon nom prend une majuscule.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L003-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Voilà, la fiche est prête.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L003-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Merci, je dis bonjour au groupe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L003-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour, vous remplissez la fiche pour le nouveau groupe ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L003-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui. Mon prénom est Aïcha. Comment ça s’écrit ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L003-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "A, I tréma, C, H, A ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L003-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Exactement. Et mon nom de famille est Benali.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L003-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Il y a un accent dans Benali ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L003-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Non, mais le prénom de Zoé prend un accent aigu.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L003-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Merci. Vous préférez écrire en majuscules ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L003-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, c’est plus lisible. Jean-Luc a un trait d’union.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L003-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "D’accord. Je vérifie chaque lettre avant d’imprimer la liste.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L003-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Merci, Léa. Je dis bonjour à Camille en attendant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L003-fr-vocab-epeler",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "épeler. Pouvez-vous épeler votre nom ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L003-fr-vocab-lettre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "lettre. La première lettre de Zoé est un Z.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L003-fr-vocab-accentaigu",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "accent aigu. Zoé s’écrit avec un accent aigu.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L003-fr-vocab-accentgrave",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "accent grave. J’écris Ève avec un accent grave.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L003-fr-vocab-trema",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "tréma. Aïcha prend un tréma sur le i.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L003-fr-vocab-majuscule",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "majuscule. Écrivez le prénom avec une majuscule.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L003-fr-vocab-minuscule",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "minuscule. Le nom s’écrit en minuscules après la première lettre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L003-fr-vocab-traitdunion",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "trait d’union. Jean-Luc porte un trait d’union.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L003-fr-vocab-double",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "double. Dans Camille, le l est doublé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L003-fr-vocab-nomdefamille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "nom de famille. Mon nom de famille est Benali.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L003-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Comment ça s’écrit ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L003-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Ça s’écrit A, I tréma, C, H, A.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L003-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Jean-Luc prend un trait d’union.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L003-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Comment ça s’écrit, Aïcha ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L003-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Ça s’écrit Zoé, avec un accent aigu.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L003-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Mon nom de famille prend un trait d’union.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L003-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Vous pouvez répéter la dernière lettre, s’il vous plaît ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L003-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Écrivez mon prénom en majuscules, puis vérifiez-le.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L003-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Au café des langues, Léa prépare la liste du jeudi. Elle demande à chaque personne son prénom, puis relit les lettres à voix haute. Aïcha précise que son prénom contient un tréma sur le i. Zoé ajoute un accent aigu sur le e, tandis que Jean-Luc garde son trait d’union. Le nom de famille de Camille s’écrit avec deux lettres identiques au milieu. Léa note les noms en majuscule au début et laisse le reste en minuscule. Avant d’imprimer la feuille, elle montre la liste au groupe. Chacun vérifie seulement son propre nom et peut corriger une erreur. La fiche reste sur le comptoir pendant la séance.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 599
+    },
+    {
+      "id": "L003-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L003)",
+      "tts_text": "به نامی فکر کن که نوشتنش برای دیگران دشوار است و روش روشن کردن املایش را آماده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L003-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L003)",
+      "tts_text": "برای پرسیدن املا می‌گوییم «comment ça s’écrit ?». نشانه‌های «accent aigu»، «accent grave» و «tréma» را از هم جدا کن و پس از نوشتن نام، آن را دوباره بخوان.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 154
+    },
+    {
+      "id": "L003-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L003)",
+      "tts_text": "به ثبت‌نام در کافه گوش کن و نشانه‌ای را که در نام عایشه می‌آید پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L003-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L003)",
+      "tts_text": "در عبارت «ça s’écrit»، فعل با فاعل ça مفرد است. برای درخواست تکرار، جمله‌ای مؤدبانه به‌کار ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 95
+    },
+    {
+      "id": "L003-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L003)",
+      "tts_text": "در کافه نام زبان‌آموز را ثبت کن، املایش را بپرس و حروف را برای تأیید دوباره بخوان.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L003-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L003)",
+      "tts_text": "حروف را آرام بگو و نشانه‌های نام را جا نینداز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    }
+  ]
+}

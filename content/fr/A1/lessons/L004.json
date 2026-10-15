@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 4,
+    "title": "Je viens des Pays-Bas",
+    "subtitle": "Dire d’où l’on vient et où l’on habite",
+    "description": "Présentez votre ville et votre pays au groupe, puis choisissez la préposition qui convient au nom du pays.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "معرفی شهر و کشور در کافهٔ گفت‌وگوی زبان",
+      "objectives": [
+        "با venir de مبدأ را بیان کنید",
+        "برای محل زندگی از habiter à استفاده کنید",
+        "en، au و aux را با نام کشور هماهنگ کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در یک گروه تازه، افراد ممکن است از کشورها و شهرهای گوناگون آمده باشند. چطور می‌گویید اهل کجا هستید و اکنون کجا زندگی می‌کنید؟",
+      "questions": [
+        {
+          "q": "نام کشور خود را به زبان فرانسوی چطور می‌گویید؟",
+          "hint_fa": "به حرف تعریف و حرف اضافه توجه کنید."
+        },
+        {
+          "q": "آیا شهر محل زندگی همیشه همان شهر زادگاه است؟",
+          "hint_fa": "می‌توانید دو جملهٔ جدا بسازید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "مبدأ، محل زندگی و ملیت",
+      "body_fa": "برای گفتن مبدأ از «venir de» استفاده می‌کنیم و برای محل زندگی از «habiter à». حرف اضافهٔ کشور به شکل نام کشور بستگی دارد: «en France» برای نام مؤنث، «au Canada» برای نام مذکر و «aux Pays-Bas» برای نام جمع. در بیان مبدأ، این صورت‌ها به «de France»، «du Canada» و «des Pays-Bas» تغییر می‌کنند. نام ملیت معمولاً با شخص هماهنگ می‌شود؛ برای نمونه، یک زن می‌گوید «je suis néerlandaise» و یک مرد «je suis néerlandais». در فرانسوی نام ملیت به‌عنوان صفت معمولاً با حرف کوچک نوشته می‌شود. کشور محل تولد، تابعیت و شهر محل زندگی یک مفهوم نیستند؛ اگر لازم است هرکدام را جداگانه بیان کنید.",
+      "key_points": [
+        "برای مبدأ از venir de و برای محل زندگی از habiter à استفاده کنید.",
+        "en، au و aux با ساختار نام کشور هماهنگ‌اند.",
+        "صفت ملیت با شخص هماهنگ می‌شود و معمولاً با حرف کوچک نوشته می‌شود."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "venir",
+          "ipa": "/və.niʁ/",
+          "translation_fa": "آمدن؛ مبدأ داشتن",
+          "example": "Je viens des Pays-Bas.",
+          "example_fa": "من اهل هلند هستم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "habiter",
+          "ipa": "/a.bi.te/",
+          "translation_fa": "ساکن بودن؛ زندگی کردن",
+          "example": "J’habite à Amsterdam, près du canal.",
+          "example_fa": "من در آمستردام، نزدیک کانال، زندگی می‌کنم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "pays",
+          "ipa": "/pɛ.i/",
+          "translation_fa": "کشور",
+          "example": "Quel pays voulez-vous visiter ?",
+          "example_fa": "می‌خواهید از کدام کشور دیدن کنید؟",
+          "tag": "اسم"
+        },
+        {
+          "term": "ville",
+          "ipa": "/vil/",
+          "translation_fa": "شهر",
+          "example": "Ma ville est calme le dimanche.",
+          "example_fa": "شهر من یکشنبه‌ها آرام است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "nationalité",
+          "ipa": "/na.sjɔ.na.li.te/",
+          "translation_fa": "ملیت",
+          "example": "Sa nationalité est néerlandaise.",
+          "example_fa": "ملیت او هلندی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "néerlandais",
+          "ipa": "/ne.ɛʁ.lɑ̃.dɛ/",
+          "translation_fa": "هلندی؛ مذکر",
+          "example": "Il est néerlandais et il habite à Paris.",
+          "example_fa": "او هلندی است و در پاریس زندگی می‌کند.",
+          "tag": "صفت"
+        },
+        {
+          "term": "française",
+          "ipa": "/fʁɑ̃.sɛz/",
+          "translation_fa": "فرانسوی؛ مؤنث",
+          "example": "Léa est française, mais elle vient d’Amsterdam.",
+          "example_fa": "لئا فرانسوی است، اما اهل آمستردام است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "en",
+          "ipa": "/ɑ̃/",
+          "translation_fa": "در؛ پیش از برخی نام کشورهای مؤنث",
+          "example": "Elle habite en France.",
+          "example_fa": "او در فرانسه زندگی می‌کند.",
+          "tag": "حرف اضافه"
+        },
+        {
+          "term": "au",
+          "ipa": "/o/",
+          "translation_fa": "در؛ پیش از بسیاری از نام‌های مذکر کشور",
+          "example": "Il habite au Canada.",
+          "example_fa": "او در کانادا زندگی می‌کند.",
+          "tag": "حرف اضافه"
+        },
+        {
+          "term": "aux",
+          "ipa": "/o/",
+          "translation_fa": "در؛ پیش از نام کشورهای جمع",
+          "example": "Nous venons aux Pays-Bas pour le cours.",
+          "example_fa": "ما برای کلاس به هلند می‌آییم.",
+          "tag": "حرف اضافه"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Venir de, habiter à et les pays",
+      "explanation_fa": "برای بیان مبدأ، صرف «venir» را با حرف اضافهٔ مناسب می‌آوریم: «je viens de France», «je viens du Canada», «je viens des Pays-Bas». برای محل زندگی از «habiter à» استفاده می‌کنیم، اما پیش از نام کشور صورت به «en», «au» یا «aux» تغییر می‌کند: «en France», «au Canada», «aux Pays-Bas». یاد گرفتن جنسیت یا شکل جمع نام کشور به حفظ این حرف اضافه‌ها کمک می‌کند. صفت ملیت هم با شخص هماهنگ می‌شود: «néerlandais» برای مذکر و «néerlandaise» برای مؤنث. این صفت‌ها در فرانسوی معمولاً با حرف کوچک نوشته می‌شوند. برای جلوگیری از خلط مفهوم‌ها، کشور مبدأ، تابعیت و محل سکونت را در جمله‌های جداگانه بیان کنید.",
+      "pattern": "venir de / du / des + pays · habiter en / au / aux + pays",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "مبدأ مؤنث",
+            "Je viens de France.",
+            "من اهل فرانسه هستم."
+          ],
+          [
+            "زندگی در کشور مذکر",
+            "J’habite au Canada.",
+            "من در کانادا زندگی می‌کنم."
+          ],
+          [
+            "زندگی در کشور جمع",
+            "Vous habitez aux Pays-Bas.",
+            "شما در هلند زندگی می‌کنید."
+          ],
+          [
+            "هماهنگی ملیت",
+            "Elle est néerlandaise.",
+            "او هلندی است."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای کشور جمع نگویید en Pays-Bas؛ بگویید aux Pays-Bas.",
+        "venirs de و habiter à پاسخ دو پرسش متفاوت‌اند: مبدأ و محل زندگی."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je viens des Pays-Bas, mais j’habite en France.",
+          "fa": "من اهل هلند هستم، اما در فرانسه زندگی می‌کنم.",
+          "note_fa": "مبدأ و محل زندگی از هم جدا شده‌اند."
+        },
+        {
+          "target": "Vous habitez au Canada ou en Belgique ?",
+          "fa": "شما در کانادا زندگی می‌کنید یا بلژیک؟",
+          "note_fa": "نام کشور شکل حرف اضافه را تعیین می‌کند."
+        },
+        {
+          "target": "Léa est française et Camille est néerlandaise.",
+          "fa": "لئا فرانسوی است و کمیل هلندی است.",
+          "note_fa": "صفت ملیت با جنس دستوری شخص هماهنگ شده است."
+        },
+        {
+          "target": "Bonjour, je viens du Maroc et ma ville est Rabat.",
+          "fa": "سلام، من اهل مراکش هستم و شهرم رباط است.",
+          "note_fa": "مبدأ با venir de بیان شده است."
+        },
+        {
+          "target": "Merci, nous habitons aux Pays-Bas depuis longtemps.",
+          "fa": "ممنون، ما مدت زیادی است در هلند زندگی می‌کنیم.",
+          "note_fa": "نام کشور جمع با aux می‌آید."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Les origines du groupe",
+      "script": "Léa: Bonjour, vous venez d’où ?\nOmar: Je viens du Maroc, mais j’habite à Amsterdam.\nLéa: Vous êtes marocain et vous parlez français ?\nOmar: Oui. Ma sœur est française ; elle habite en Belgique.\nLéa: Et Camille, elle vient de quel pays ?\nOmar: Elle vient des Pays-Bas et elle est néerlandaise.\nLéa: Elle habite toujours à Rotterdam ?\nOmar: Non, elle habite au Canada pour ses études.\nLéa: Merci, c’est intéressant. Chaque personne a une histoire différente.\nOmar: Oui, et nous parlons tous français au café le jeudi.",
+      "script_fa": "لئا: سلام، اهل کجا هستید؟\nعمر: اهل مراکش هستم، اما در آمستردام زندگی می‌کنم.\nلئا: مراکشی هستید و فرانسوی صحبت می‌کنید؟\nعمر: بله. خواهرم فرانسوی است؛ در بلژیک زندگی می‌کند.\nلئا: و کمیل اهل کدام کشور است؟\nعمر: اهل هلند است و هلندی است.\nلئا: هنوز در روتردام زندگی می‌کند؟\nعمر: نه، برای تحصیل در کانادا زندگی می‌کند.\nلئا: ممنون، جالب است. هرکس داستان متفاوتی دارد.\nعمر: بله، و پنجشنبه‌ها همه در کافه فرانسوی صحبت می‌کنیم.",
+      "question_fa": "Où habite la sœur d’Omar ?",
+      "answer": "Elle habite en Belgique.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Parler de sa ville et de son pays",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Salut, tu viens de quel pays ?",
+          "fa": "سلام، اهل کدام کشوری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Je viens des Pays-Bas et j’habite à Utrecht.",
+          "fa": "اهل هلندم و در اوترخت زندگی می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu es néerlandaise ?",
+          "fa": "هلندی هستی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui. Et toi, tu habites en France ?",
+          "fa": "بله. و تو، در فرانسه زندگی می‌کنی؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Non, je viens de France, mais j’habite au Maroc.",
+          "fa": "نه، اهل فرانسه‌ام، اما در مراکش زندگی می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "C’est intéressant. Ta ville est près de la mer ?",
+          "fa": "جالب است. شهرت نزدیک دریاست؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, merci. Je dis bonjour au groupe en arrivant.",
+          "fa": "بله، ممنون. وقتی می‌رسم به گروه سلام می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "À jeudi, alors !",
+          "fa": "پس تا پنجشنبه!"
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در نقش زبان‌آموز یا میزبان در کافهٔ گفت‌وگوی زبان، دربارهٔ مبدأ و محل زندگی دو نفر صحبت کنید. کشور را با حرف اضافهٔ مناسب بیاورید، ملیت را با شخص هماهنگ کنید و اگر شهر فعلی با کشور مبدأ فرق دارد، آن را در جمله‌ای جدا بگویید.",
+      "useful_phrases": [
+        {
+          "target": "Je viens des Pays-Bas.",
+          "fa": "من اهل هلند هستم."
+        },
+        {
+          "target": "J’habite au Canada.",
+          "fa": "من در کانادا زندگی می‌کنم."
+        },
+        {
+          "target": "Elle est française.",
+          "fa": "او فرانسوی است."
+        },
+        {
+          "target": "Vous venez d’où ?",
+          "fa": "اهل کجا هستید؟"
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une carte du monde au café",
+      "text": "Au café des langues, chaque personne ajoute une petite carte au mur. Léa vient de France et habite à Amsterdam depuis peu. Omar vient du Maroc ; sa sœur est française et vit en Belgique. Camille est néerlandaise, mais elle habite au Canada pendant ses études. Aïcha vient d’Algérie et habite à Bruxelles. Le groupe remarque que le pays d’origine ne dit pas toujours où une personne vit aujourd’hui. Après la séance, chacun écrit le nom de sa ville et choisit une couleur pour le pays sur la carte. Les cartes aident les nouveaux participants à commencer une conversation sans demander de renseignements trop personnels.",
+      "glossary": [
+        {
+          "term": "depuis peu",
+          "fa": "از مدت کوتاهی پیش"
+        },
+        {
+          "term": "pendant",
+          "fa": "در طول"
+        },
+        {
+          "term": "remarquer",
+          "fa": "متوجه شدن"
+        },
+        {
+          "term": "renseignement",
+          "fa": "اطلاعات"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "لئا اهل کجاست؟",
+          "a": "Elle vient de France."
+        },
+        {
+          "q_fa": "کمیل در کدام کشور زندگی می‌کند؟",
+          "a": "Au Canada."
+        },
+        {
+          "q_fa": "کارت‌ها چه کمکی می‌کنند؟",
+          "a": "Elles aident à commencer une conversation."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "حرف اضافهٔ درست را انتخاب کنید.",
+          "question": "Je viens ___ Pays-Bas.",
+          "options": [
+            "des",
+            "au",
+            "en"
+          ],
+          "answer": "des",
+          "explanation_fa": "مبدأ با نام جمع les Pays-Bas به صورت des Pays-Bas می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "برای محل زندگی در کانادا کدام عبارت درست است؟",
+          "question": "J’habite ___.",
+          "options": [
+            "au Canada",
+            "en Canada",
+            "aux Canada"
+          ],
+          "answer": "au Canada",
+          "explanation_fa": "Canada در این کاربرد مذکر مفرد است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "می‌توان گفت : «Je viens des Pays-Bas».؟",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "برای مبدأ کشور جمع از des استفاده می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "صفت ملیت را با شخص هماهنگ کنید.",
+          "question": "Camille est ___.",
+          "options": [
+            "néerlandaise",
+            "néerlandais",
+            "néerlandaises"
+          ],
+          "answer": "néerlandaise",
+          "explanation_fa": "Camille در جمله با صفت مؤنث مفرد آمده است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "حرف اضافه را بنویسید.",
+          "question": "Elle habite ___ France.",
+          "answer": [
+            "en"
+          ],
+          "explanation_fa": "پیش از نام کشور مؤنث France از en استفاده می‌شود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "مبدأ و محل زندگی را در دو بخش پاسخ دهید.",
+          "question": "Tu viens d’où ? Où habites-tu ?",
+          "answer": [
+            "Je viens du Maroc et j’habite à Paris.",
+            "Je viens de France et j’habite à Lyon."
+          ],
+          "explanation_fa": "venir de مبدأ و habiter à محل زندگی را بیان می‌کنند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle préposition complète : «J’habite ___ France» ?",
+          "options": [
+            "en",
+            "au",
+            "aux"
+          ],
+          "answer": "en",
+          "explanation_fa": "در این جمله نام France با حرف اضافهٔ en می‌آید."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie «Je viens des Pays-Bas» ?",
+          "options": [
+            "من اهل هلند هستم",
+            "من در کانادا زندگی می‌کنم",
+            "من اهل فرانسه هستم"
+          ],
+          "answer": "من اهل هلند هستم",
+          "explanation_fa": "ساخت «venir de» مبدأ را بیان می‌کند."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase parle du lieu de résidence ?",
+          "options": [
+            "J’habite au Canada.",
+            "Je viens du Canada.",
+            "Je suis canadien."
+          ],
+          "answer": "J’habite au Canada.",
+          "explanation_fa": "فعل «habiter» محل زندگی را نشان می‌دهد."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle forme s’accorde avec Camille ?",
+          "options": [
+            "néerlandaise",
+            "néerlandais",
+            "néerlandaises"
+          ],
+          "answer": "néerlandaise",
+          "explanation_fa": "برای Camille صفت ملیت در صورت مؤنث مفرد می‌آید."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle préposition précède le nom pluriel Pays-Bas ?",
+          "options": [
+            "aux",
+            "en",
+            "au"
+          ],
+          "answer": "aux",
+          "explanation_fa": "نام جمع «Pays-Bas» با حرف اضافهٔ aux همراه می‌شود."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش میزبان کافهٔ گفت‌وگوی زبان، از دو شرکت‌کننده دربارهٔ کشور مبدأ و شهر محل زندگی‌شان بپرسید. حرف اضافهٔ مناسب را به کار ببرید، ملیت را با شخص هماهنگ کنید و تفاوت میان مبدأ و محل سکونت را روشن نگه دارید.",
+      "suggested_prompts": [
+        "Demandez d’où vient une personne.",
+        "Demandez dans quelle ville elle habite.",
+        "Reformulez avec en, au ou aux.",
+        "Présentez deux nationalités avec l’accord correct."
+      ],
+      "focus": [
+        "مبدأ با venir de",
+        "محل زندگی با habiter à",
+        "حرف اضافهٔ کشور و هماهنگی ملیت"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Country names, gender agreement, and place prepositions are taught through natural introductions."
+  }
+}
