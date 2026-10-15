@@ -1,0 +1,407 @@
+{
+  "lesson": "L012",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L012-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Où est la bibliothèque municipale ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L012-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Allez jusqu’à la place et traversez la rue.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L012-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Je tourne à droite après la place ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L012-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Non, tournez à gauche devant la boulangerie.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L012-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La bibliothèque est près du pont ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L012-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, elle est en face de la poste.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L012-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Merci, je continue tout droit alors.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L012-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Bonne visite !",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 14
+    },
+    {
+      "id": "L012-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour monsieur, où est le marché, s’il vous plaît ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L012-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Continuez tout droit jusqu’à la place.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L012-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Le pont est avant la place ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L012-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui. Traversez le pont, puis tournez à gauche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L012-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Est-ce loin du café des langues ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L012-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Non, le marché est près de la rue des Fleurs.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L012-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Et la pharmacie, elle est où ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L012-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Elle est en face de la place, à droite.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L012-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Merci, je continue tout droit maintenant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L012-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, puis prenez la première rue à gauche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L012-fr-vocab-rue",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "rue. Le café est dans cette rue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L012-fr-vocab-place",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "place. La place est près du marché.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L012-fr-vocab-pont",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "pont. Traversez le pont après la place.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L012-fr-vocab-agauche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "à gauche. Tournez à gauche après le pont.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L012-fr-vocab-adroite",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "à droite. La pharmacie est à droite.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L012-fr-vocab-toutdroit",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "tout droit. Continuez tout droit jusqu’à la place.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L012-fr-vocab-presde",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "près de. Le marché est près de la gare.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L012-fr-vocab-enfacede",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "en face de. La banque est en face du café.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L012-fr-vocab-tourner",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "tourner. Tournez à droite dans cette rue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L012-fr-vocab-continuer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "continuer. Continuez jusqu’au pont.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L012-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Continuez tout droit.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L012-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Tournez à gauche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 17
+    },
+    {
+      "id": "L012-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Traversez le pont.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L012-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Allez jusqu’à la place.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L012-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Où est la gare, s’il vous plaît ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L012-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Continuez tout droit jusqu’à la place.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L012-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tournez à droite après le pont.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L012-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La pharmacie est en face du marché.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L012-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Allez jusqu’à la rue des Fleurs.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L012-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Pour aller au café des langues, partez de la gare et continuez tout droit jusqu’au grand pont. Traversez le pont ; la place se trouve juste après. Tournez à droite dans la rue des Fleurs. Le café est près de la librairie, en face d’un petit parc. Si vous arrivez à la pharmacie, vous avez dépassé le café : revenez à la place et prenez la rue à gauche. Le trajet est court et facile à suivre. Les participants écrivent les étapes sur une carte pour aider les nouveaux visiteurs. Ils ajoutent le nom des rues et un point de rencontre devant le café.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 548
+    },
+    {
+      "id": "L012-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L012)",
+      "tts_text": "یک مسیر کوتاه از ایستگاه تا کافه تصور کن و برای هر پیچ یک نشانهٔ آشنا انتخاب کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 80
+    },
+    {
+      "id": "L012-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L012)",
+      "tts_text": "برای پرسیدن محل از «où est» استفاده کن. در راهنمایی مؤدبانه، فعل را به صورت امرِ «vous» بیاور و ضمیر را حذف کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 111
+    },
+    {
+      "id": "L012-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L012)",
+      "tts_text": "به راهنمای مسیر گوش کن و کاری را پیدا کن که لئا پس از عبور از پل باید انجام دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 80
+    },
+    {
+      "id": "L012-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L012)",
+      "tts_text": "«tournez»، «continuez» و «allez» دستور مؤدبانه می‌سازند. از دو نشانهٔ مکانی برای روشن شدن مسیر استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 106
+    },
+    {
+      "id": "L012-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L012)",
+      "tts_text": "به یک مهمان تازه‌وارد مسیر بازار را در سه مرحله توضیح بده و از جهت‌نماها کمک بگیر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L012-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L012)",
+      "tts_text": "مسیر را کوتاه، مؤدبانه و مرحله‌به‌مرحله بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 44
+    }
+  ]
+}

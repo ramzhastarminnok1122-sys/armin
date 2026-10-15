@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 11,
+    "title": "Combien coûtent les pommes ?",
+    "subtitle": "Demander un prix et une quantité au marché",
+    "description": "Achetez quelques fruits et légumes au marché et vérifiez le prix avant de payer.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "خرید میوه و سبزی و پرسیدن قیمت در بازار فرانسوی",
+      "objectives": [
+        "با combien coûte و combien coûtent قیمت بپرسید",
+        "برای مقدار از un kilo de استفاده کنید",
+        "قیمت و تعداد اقلام را روشن بیان کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای خرید میوه در بازار، باید بتوانید دربارهٔ قیمت و مقدار سؤال کنید. چطور می‌پرسید یک کیلو سیب چقدر است؟",
+      "questions": [
+        {
+          "q": "چه چیزهایی معمولاً با کیلو وزن می‌کنند؟",
+          "hint_fa": "به میوه و سبزی فکر کنید."
+        },
+        {
+          "q": "آیا فعل جملهٔ قیمت با اسم مفرد و جمع یکسان صرف می‌شود؟",
+          "hint_fa": "به تعداد چیزی که قیمت می‌پرسید توجه کنید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Les prix et les quantités au marché",
+      "body_fa": "برای پرسیدن قیمت یک قلم مفرد می‌گوییم «combien coûte cette pomme ?»؛ برای اسم جمع، فعل هم جمع می‌شود: «combien coûtent les pommes ?». پاسخ می‌تواند «deux euros le kilo» یا «un euro la pièce» باشد. واژهٔ prix در مفرد و جمع املای یکسان دارد. برای بیان مقدار از «un kilo de pommes» استفاده می‌کنیم؛ پس از یک واحد یا مقدار، de می‌آید و معمولاً حرف تعریف بخشی را نمی‌گذاریم. در بازار می‌توانید با «je voudrais» سفارش مؤدبانه بسازید، تعداد را روشن بگویید و سپس مجموع را بپرسید: «combien coûte le tout ?». صفت «cher» هم با اسم هماهنگ می‌شود: un prix cher، une pomme chère. پیش از پرداخت، مقدار و قیمت را دوباره بررسی کنید تا سوءتفاهم پیش نیاید.",
+      "key_points": [
+        "combien coûte با اسم مفرد و combien coûtent با اسم جمع می‌آید.",
+        "پس از مقدارهایی مانند kilo از de استفاده کنید.",
+        "قیمت واحد و تعداد را جدا و روشن بپرسید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "marché",
+          "ipa": "/maʁ.ʃe/",
+          "translation_fa": "بازار",
+          "example": "Le marché ouvre tôt le samedi.",
+          "example_fa": "بازار شنبه‌ها زود باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "prix",
+          "ipa": "/pʁi/",
+          "translation_fa": "قیمت",
+          "example": "Le prix est écrit sur l’étiquette.",
+          "example_fa": "قیمت روی برچسب نوشته شده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "kilo",
+          "ipa": "/ki.lo/",
+          "translation_fa": "کیلو",
+          "example": "Un kilo de pommes, s’il vous plaît.",
+          "example_fa": "لطفاً یک کیلو سیب.",
+          "tag": "اسم"
+        },
+        {
+          "term": "tomate",
+          "ipa": "/tɔ.mat/",
+          "translation_fa": "گوجه‌فرنگی",
+          "example": "La tomate coûte un euro la pièce.",
+          "example_fa": "هر گوجه‌فرنگی یک یورو قیمت دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pomme",
+          "ipa": "/pɔm/",
+          "translation_fa": "سیب",
+          "example": "Je prends des pommes pour le dessert.",
+          "example_fa": "برای دسر سیب می‌گیرم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "carotte",
+          "ipa": "/ka.ʁɔt/",
+          "translation_fa": "هویج",
+          "example": "Une carotte est dans mon panier.",
+          "example_fa": "یک هویج در سبد من است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "panier",
+          "ipa": "/pa.nje/",
+          "translation_fa": "سبد",
+          "example": "Mon panier est presque plein.",
+          "example_fa": "سبدم تقریباً پر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "payer",
+          "ipa": "/pe.je/",
+          "translation_fa": "پرداخت کردن",
+          "example": "Je paie à la caisse du marché.",
+          "example_fa": "در صندوق بازار پرداخت می‌کنم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "cher",
+          "ipa": "/ʃɛʁ/",
+          "translation_fa": "گران؛ مذکر",
+          "example": "Ce fromage est un peu cher.",
+          "example_fa": "این پنیر کمی گران است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "pièce",
+          "ipa": "/pjɛs/",
+          "translation_fa": "هر عدد؛ قطعه",
+          "example": "Les tomates coûtent un euro la pièce.",
+          "example_fa": "هر گوجه‌فرنگی یک یورو قیمت دارد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Combien coûte / coûtent ?",
+      "explanation_fa": "برای پرسیدن قیمت، «combien coûte» را با یک اسم مفرد به‌کار می‌بریم: combien coûte cette tomate ? اگر اسم جمع باشد، فعل هم جمع می‌شود: combien coûtent les pommes ? در پاسخ می‌توانیم قیمت را با واحد بگوییم: deux euros le kilo یا un euro la pièce. برای اعلام مقدار، پس از kilo از de استفاده می‌شود: un kilo de pommes، deux kilos de tomates. اگر اسم بعد از de با واکه شروع شود، de به d’ تبدیل می‌شود: un kilo d’oranges. صفت cher نیز با اسم هماهنگ می‌شود؛ برای اسم مؤنث می‌گوییم une pomme chère. هنگام خرید، ابتدا مقدار را بیان کنید، سپس قیمت را بپرسید و پیش از پرداخت تعداد و مجموع را تکرار کنید.",
+      "pattern": "Combien coûte + nom singulier ? · Combien coûtent + nom pluriel ? · quantité + de + nom",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "قیمت مفرد",
+            "Combien coûte la tomate ?",
+            "گوجه‌فرنگی چقدر است؟"
+          ],
+          [
+            "قیمت جمع",
+            "Combien coûtent les pommes ?",
+            "سیب‌ها چقدر هستند؟"
+          ],
+          [
+            "مقدار",
+            "Un kilo de carottes.",
+            "یک کیلو هویج."
+          ],
+          [
+            "قیمت هر عدد",
+            "Un euro la pièce.",
+            "هر عدد یک یورو."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "با اسم جمع بگویید coûtent، نه coûte.",
+        "پس از kilo از de یا پیش از واکه از d’ استفاده کنید."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Combien coûte ce panier ?",
+          "fa": "این سبد چقدر قیمت دارد؟",
+          "note_fa": "اسم panier مفرد است."
+        },
+        {
+          "target": "Combien coûtent les pommes aujourd’hui ?",
+          "fa": "سیب‌ها امروز چقدر هستند؟",
+          "note_fa": "اسم جمع باعث صرف coûtent شده است."
+        },
+        {
+          "target": "Je voudrais un kilo de tomates.",
+          "fa": "یک کیلو گوجه‌فرنگی می‌خواهم.",
+          "note_fa": "پس از واحد kilo از de استفاده شده است."
+        },
+        {
+          "target": "Une pomme chère coûte plus qu’une pomme bon marché.",
+          "fa": "یک سیب گران از سیب ارزان بیشتر قیمت دارد.",
+          "note_fa": "صفت chère با اسم مؤنث هماهنگ شده است."
+        },
+        {
+          "target": "Les tomates coûtent un euro la pièce.",
+          "fa": "هر گوجه‌فرنگی یک یورو قیمت دارد.",
+          "note_fa": "la pièce قیمت هر عدد را مشخص می‌کند."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Au marché du samedi",
+      "script": "Vendeuse: Bonjour, qu’est-ce qu’il vous faut ?\nClient: Je voudrais un kilo de pommes, s’il vous plaît.\nVendeuse: Le kilo coûte deux euros aujourd’hui.\nClient: Et les tomates, combien coûtent-elles ?\nVendeuse: Un euro la pièce. Elles sont très fraîches.\nClient: Je prends aussi deux tomates.\nVendeuse: Très bien. Cela fait quatre euros en tout.\nClient: Merci. Je paie par carte.\nVendeuse: Voilà votre reçu et votre panier.\nClient: Merci beaucoup, bonne journée !",
+      "script_fa": "فروشنده: سلام، چه لازم دارید؟\nمشتری: لطفاً یک کیلو سیب می‌خواهم.\nفروشنده: امروز هر کیلو دو یورو است.\nمشتری: و گوجه‌فرنگی‌ها، هرکدام چند هستند؟\nفروشنده: هر عدد یک یورو. خیلی تازه‌اند.\nمشتری: دو گوجه‌فرنگی هم می‌گیرم.\nفروشنده: بسیار خوب. جمعاً چهار یورو می‌شود.\nمشتری: ممنون. با کارت پرداخت می‌کنم.\nفروشنده: این هم رسید و سبدتان.\nمشتری: خیلی ممنون، روز خوبی داشته باشید!",
+      "question_fa": "Combien coûtent les tomates ?",
+      "answer": "Un euro la pièce.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Acheter des carottes et des pommes",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Bonjour, les carottes sont à combien ?",
+          "fa": "سلام، هویج‌ها چند هستند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Deux euros le kilo aujourd’hui.",
+          "fa": "امروز هر کیلو دو یورو است."
+        },
+        {
+          "speaker": "A",
+          "target": "Je voudrais un demi-kilo, s’il vous plaît.",
+          "fa": "لطفاً نیم کیلو می‌خواهم."
+        },
+        {
+          "speaker": "B",
+          "target": "Et avec cela, une pomme ?",
+          "fa": "و همراه آن یک سیب؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui. Combien coûte cette pomme ?",
+          "fa": "بله. این سیب چقدر است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Cinquante centimes la pièce.",
+          "fa": "هر عدد پنجاه سنت."
+        },
+        {
+          "speaker": "A",
+          "target": "D’accord, je prends deux pommes.",
+          "fa": "قبول، دو سیب برمی‌دارم."
+        },
+        {
+          "speaker": "B",
+          "target": "Très bien, je pèse le tout.",
+          "fa": "بسیار خوب، همه را وزن می‌کنم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در نقش فروشنده یا خریدار در بازار فرانسوی، دربارهٔ قیمت دو محصول بپرسید و پاسخ دهید. یکی از محصول‌ها را با مقدار کیلویی بخواهید، از combien coûte/coûtent استفاده کنید و در پایان مقدار کل را روشن کنید.",
+      "useful_phrases": [
+        {
+          "target": "Combien coûte cette pomme ?",
+          "fa": "این سیب چقدر است؟"
+        },
+        {
+          "target": "Combien coûtent les tomates ?",
+          "fa": "گوجه‌فرنگی‌ها چقدر هستند؟"
+        },
+        {
+          "target": "Un kilo de carottes, s’il vous plaît.",
+          "fa": "لطفاً یک کیلو هویج."
+        },
+        {
+          "target": "Je paie par carte.",
+          "fa": "با کارت پرداخت می‌کنم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "La liste de courses de Léa",
+      "text": "Le samedi matin, Léa va au marché avec un panier. Elle achète un kilo de pommes et deux kilos de carottes. Le vendeur annonce le prix des pommes : trois euros le kilo. Les carottes coûtent deux euros le kilo. Léa demande aussi combien coûte une tomate ; elle en prend deux pour la salade du soir. Avant de payer, elle répète la quantité et vérifie le total sur le reçu. Son ami Omar l’aide à porter le panier jusqu’au café. Les produits sont frais et le marché n’est pas trop cher. La semaine suivante, ils veulent acheter des poires et préparer une tarte.",
+      "glossary": [
+        {
+          "term": "liste de courses",
+          "fa": "فهرست خرید"
+        },
+        {
+          "term": "annoncer",
+          "fa": "اعلام کردن"
+        },
+        {
+          "term": "reçu",
+          "fa": "رسید"
+        },
+        {
+          "term": "poire",
+          "fa": "گلابی"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "لئا چند کیلو هویج می‌خرد؟",
+          "a": "Deux kilos."
+        },
+        {
+          "q_fa": "سیب‌ها هر کیلو چند هستند؟",
+          "a": "Trois euros."
+        },
+        {
+          "q_fa": "چرا لئا مقدار را تکرار می‌کند؟",
+          "a": "Pour vérifier le total."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست فعل را انتخاب کنید.",
+          "question": "Combien ___ les pommes ?",
+          "options": [
+            "coûtent",
+            "coûte",
+            "coûtes"
+          ],
+          "answer": "coûtent",
+          "explanation_fa": "اسم جمع les pommes با فعل جمع می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "پس از مقدار kilo چه حرفی می‌آید؟",
+          "question": "Un kilo ___ pommes.",
+          "options": [
+            "de",
+            "du",
+            "à"
+          ],
+          "answer": "de",
+          "explanation_fa": "پس از یک مقدار از de استفاده می‌شود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "برای پرسیدن قیمت یک سیب می‌گوییم «Combien coûte cette pomme ?».",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "pomme مفرد است و فعل coûte می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "برای قیمت هر عدد کدام عبارت مناسب است؟",
+          "question": "Un euro ___.",
+          "options": [
+            "la pièce",
+            "le kilo de",
+            "en face"
+          ],
+          "answer": "la pièce",
+          "explanation_fa": "la pièce قیمت یک عدد را مشخص می‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای اسم مفرد کامل کنید.",
+          "question": "Combien ___ cette tomate ?",
+          "answer": [
+            "coûte"
+          ],
+          "explanation_fa": "tomate مفرد است."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "دربارهٔ قیمت یک کیلو سیب سؤال کن.",
+          "question": "Vous achetez des pommes au marché.",
+          "answer": [
+            "Combien coûte un kilo de pommes ?",
+            "Le kilo de pommes coûte trois euros ?"
+          ],
+          "explanation_fa": "combien coûte با مقدار مفرد un kilo می‌آید."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Complétez : «Combien ___ les tomates ?»",
+          "options": [
+            "coûtent",
+            "coûte",
+            "coûtes"
+          ],
+          "answer": "coûtent",
+          "explanation_fa": "نام «tomates» جمع است؛ بنابراین فعل جمع می‌آید."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel mot suit une quantité comme un kilo ?",
+          "options": [
+            "de",
+            "à",
+            "en"
+          ],
+          "answer": "de",
+          "explanation_fa": "پس از یک مقدار مانند kilo از حرف اضافهٔ «de» استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "question": "Comment demander le prix d’une pomme ?",
+          "options": [
+            "Combien coûte cette pomme ?",
+            "Combien coûtent cette pomme ?",
+            "Où habite cette pomme ?"
+          ],
+          "answer": "Combien coûte cette pomme ?",
+          "explanation_fa": "«pomme» مفرد است و فعل با صورت «coûte» می‌آید."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie la pièce dans «un euro la pièce» ?",
+          "options": [
+            "هر عدد",
+            "هر کیلو",
+            "یک سبد"
+          ],
+          "answer": "هر عدد",
+          "explanation_fa": "عبارت «la pièce» قیمت یک قلم را مشخص می‌کند."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase parle du prix au kilo ?",
+          "options": [
+            "Le kilo coûte deux euros.",
+            "La rue est calme.",
+            "Je suis curieux."
+          ],
+          "answer": "Le kilo coûte deux euros.",
+          "explanation_fa": "«le kilo» واحد قیمت را نشان می‌دهد."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش فروشنده یا خریدار در بازار، خریدی کوچک را تمرین کنید. قیمت یک محصول مفرد و یک محصول جمع را بپرسید، مقدار را با kilo بیان کنید و اگر لازم است قیمت هر عدد را جداگانه تأیید کنید.",
+      "suggested_prompts": [
+        "Demandez le prix d’un fruit.",
+        "Demandez le prix de plusieurs légumes.",
+        "Précisez un kilo ou deux kilos.",
+        "Répétez le total avant de payer."
+      ],
+      "focus": [
+        "combien coûte / coûtent",
+        "بیان مقدار با de",
+        "قیمت هر کیلو و هر عدد"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Singular/plural agreement with coûter and kilo quantities are taught in a realistic market exchange."
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 13,
+    "title": "Je vais au cours en tram",
+    "subtitle": "Choisir un transport et parler de son trajet",
+    "description": "Comparez deux moyens de transport et indiquez à quelle station vous descendez.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "رفتن به کلاس با وسایل حمل‌ونقل عمومی و گفتن مسیر",
+      "objectives": [
+        "با صرف‌های پرکاربرد aller مقصد خود را بیان کنید",
+        "en را با bus، tram و train به‌کار ببرید",
+        "برای رفتن با دوچرخه یا پیاده از à استفاده کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای رسیدن به کلاس می‌توانید پیاده بروید، دوچرخه‌سواری کنید یا از حمل‌ونقل عمومی استفاده کنید. چطور می‌گویید با چه وسیله‌ای می‌آیید؟",
+      "questions": [
+        {
+          "q": "اگر با قطار یا تراموا بیایید، از چه حرف اضافه‌ای استفاده می‌کنید؟",
+          "hint_fa": "نام وسیله را پس از یک حرف اضافه بیاورید."
+        },
+        {
+          "q": "در کدام ایستگاه پیاده می‌شوید؟",
+          "hint_fa": "نام یک ایستگاه یا میدان را انتخاب کنید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Aller au cours et choisir un transport",
+      "body_fa": "برای گفتن مقصد از فعل «aller» استفاده می‌کنیم: «je vais au café», «tu vas à la gare», «nous allons au marché». این فعل نامنظم است؛ شکل‌هایی مثل vais، vas، va و allons را به‌صورت عبارت‌های آماده تمرین کنید. پیش از وسایل نقلیهٔ موتوری معمولاً از en می‌گوییم: «en bus», «en tram», «en train». برای رفتن با دوچرخه یا پیاده از à استفاده می‌کنیم: «à vélo», «à pied». وقتی دربارهٔ خود وسیله حرف می‌زنیم، فعل prendre با حرف تعریف معین می‌آید: «je prends le tram». برای پیدا کردن ایستگاه، می‌توانید نام خط یا محل توقف را بپرسید. در یک گفت‌وگوی واقعی، مقصد، وسیله و ایستگاه پیاده‌شدن را جداگانه بیان کنید تا مسیر برای شنونده روشن باشد.",
+      "key_points": [
+        "aller برای مقصد می‌آید و شکل‌هایش نامنظم‌اند.",
+        "برای bus، tram و train معمولاً en می‌آید.",
+        "برای دوچرخه و پیاده‌روی از à استفاده کنید؛ prendre با حرف تعریف معین می‌آید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "bus",
+          "ipa": "/bys/",
+          "translation_fa": "اتوبوس",
+          "example": "Je vais au café en bus.",
+          "example_fa": "با اتوبوس به کافه می‌روم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "tram",
+          "ipa": "/tʁam/",
+          "translation_fa": "تراموا",
+          "example": "Nous prenons le tram après le cours.",
+          "example_fa": "بعد از کلاس تراموا سوار می‌شویم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "train",
+          "ipa": "/tʁɛ̃/",
+          "translation_fa": "قطار",
+          "example": "Le train arrive à la gare centrale.",
+          "example_fa": "قطار به ایستگاه مرکزی می‌رسد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "vélo",
+          "ipa": "/ve.lo/",
+          "translation_fa": "دوچرخه",
+          "example": "Elle vient au marché à vélo.",
+          "example_fa": "او با دوچرخه به بازار می‌آید.",
+          "tag": "اسم"
+        },
+        {
+          "term": "gare",
+          "ipa": "/ɡaʁ/",
+          "translation_fa": "ایستگاه قطار",
+          "example": "La gare est près du pont.",
+          "example_fa": "ایستگاه قطار نزدیک پل است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "arrêt",
+          "ipa": "/a.ʁɛ/",
+          "translation_fa": "ایستگاه؛ محل توقف",
+          "example": "L’arrêt du tram est devant la place.",
+          "example_fa": "ایستگاه تراموا جلوی میدان است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "billet",
+          "ipa": "/bi.jɛ/",
+          "translation_fa": "بلیت",
+          "example": "J’achète un billet pour le train.",
+          "example_fa": "برای قطار یک بلیت می‌خرم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ligne",
+          "ipa": "/liɲ/",
+          "translation_fa": "خط",
+          "example": "La ligne trois va jusqu’au marché.",
+          "example_fa": "خط سه تا بازار می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "trajet",
+          "ipa": "/tʁa.ʒɛ/",
+          "translation_fa": "مسیر؛ مدت سفر",
+          "example": "Le trajet dure dix minutes.",
+          "example_fa": "مسیر ده دقیقه طول می‌کشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "à pied",
+          "ipa": "/a pje/",
+          "translation_fa": "پیاده",
+          "example": "Je vais au café à pied.",
+          "example_fa": "پیاده به کافه می‌روم.",
+          "tag": "عبارت"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Aller + destination et moyen de transport",
+      "explanation_fa": "برای گفتن مقصد، aller را صرف می‌کنیم: je vais، tu vas، il va، nous allons، vous allez. این فعل از فعل‌های منظم en -er نیست و شکل‌هایش را باید جداگانه یاد گرفت. برای سفر با اتوبوس، تراموا یا قطار از en استفاده می‌شود: en bus، en tram، en train. برای دوچرخه و پیاده‌روی می‌گوییم à vélo و à pied. اگر دربارهٔ وسیلهٔ مشخص حرف می‌زنیم، prendre را با حرف تعریف می‌آوریم: prendre le bus، prendre le train. برای مقصد، حرف اضافه با اسم مکان هماهنگ است: à la gare، au marché، à l’arrêt. در پرسش «tu vas comment au cours ?» دربارهٔ روش رفت‌وآمد می‌پرسیم؛ «où» برای پرسیدن مقصد یا ایستگاه مناسب است.",
+      "pattern": "aller + destination · en + transport motorisé · à + vélo / pied",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "مقصد",
+            "Je vais à la gare.",
+            "من به ایستگاه می‌روم."
+          ],
+          [
+            "اتوبوس",
+            "Nous allons en bus.",
+            "ما با اتوبوس می‌رویم."
+          ],
+          [
+            "تراموا",
+            "Tu prends le tram.",
+            "تو سوار تراموا می‌شوی."
+          ],
+          [
+            "دوچرخه",
+            "Elle vient à vélo.",
+            "او با دوچرخه می‌آید."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "با bus، tram و train از en استفاده کنید.",
+        "برای دوچرخه و پیاده‌روی بگویید à vélo و à pied."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je vais à la gare en bus.",
+          "fa": "با اتوبوس به ایستگاه می‌روم.",
+          "note_fa": "aller مقصد و en bus وسیله را بیان می‌کند."
+        },
+        {
+          "target": "Nous prenons le tram près de la place.",
+          "fa": "نزدیک میدان سوار تراموا می‌شویم.",
+          "note_fa": "با وسیلهٔ مشخص از prendre le tram استفاده می‌شود."
+        },
+        {
+          "target": "Tu vas au cours à vélo ?",
+          "fa": "با دوچرخه به کلاس می‌روی؟",
+          "note_fa": "برای vélo حرف اضافهٔ à می‌آید."
+        },
+        {
+          "target": "Le train arrive à la gare dans cinq minutes.",
+          "fa": "قطار پنج دقیقهٔ دیگر به ایستگاه می‌رسد.",
+          "note_fa": "gare محل ورود قطار است."
+        },
+        {
+          "target": "L’arrêt de bus est en face du marché.",
+          "fa": "ایستگاه اتوبوس روبروی بازار است.",
+          "note_fa": "محل ایستگاه با en face de مشخص شده است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Le trajet d’Omar jusqu’au cours",
+      "script": "Léa: Bonjour, tu vas au café des langues en bus ?\nOmar: Non, je prends le tram et je descends près du marché.\nLéa: Quelle ligne prends-tu ?\nOmar: La ligne trois, depuis l’arrêt devant la place.\nLéa: Le trajet est long jusqu’au café ?\nOmar: Non, le tram m’emmène au marché en huit minutes.\nLéa: Tu as déjà ton billet ?\nOmar: Oui, je l’achète sur mon téléphone avant de partir.\nLéa: Et si tu viens à vélo ?\nOmar: Je gare mon vélo devant le café, près du pont.",
+      "script_fa": "لئا: سلام، با اتوبوس به کافهٔ گفت‌وگوی زبان می‌روی؟\nعمر: نه، سوار تراموا می‌شوم و نزدیک بازار پیاده می‌شوم.\nلئا: کدام خط را می‌گیری؟\nعمر: خط سه، از ایستگاهی که جلوی میدان است.\nلئا: مسیر تا کافه طولانی است؟\nعمر: نه، تراموا در هشت دقیقه مرا به بازار می‌رساند.\nلئا: بلیتت را داری؟\nعمر: بله، پیش از حرکت با تلفنم می‌خرم.\nلئا: و اگر با دوچرخه بیایی؟\nعمر: دوچرخه‌ام را جلوی کافه، نزدیک پل، می‌گذارم.",
+      "question_fa": "Quelle ligne Omar prend-il pour aller au cours ?",
+      "answer": "La ligne trois.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Choisir entre le bus et le vélo",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu vas à la gare en bus ?",
+          "fa": "با اتوبوس به ایستگاه می‌روی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, je vais à vélo quand il fait beau.",
+          "fa": "نه، وقتی هوا خوب است با دوچرخه می‌روم."
+        },
+        {
+          "speaker": "A",
+          "target": "Et quand il pleut ?",
+          "fa": "و وقتی باران می‌آید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Je prends le tram à l’arrêt près de chez moi.",
+          "fa": "از ایستگاه نزدیک خانه‌ام سوار تراموا می‌شوم."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu as un billet pour le train ?",
+          "fa": "برای قطار بلیت داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, je l’achète à la gare.",
+          "fa": "بله، آن را در ایستگاه می‌خرم."
+        },
+        {
+          "speaker": "A",
+          "target": "Le trajet jusqu’à la place est long ?",
+          "fa": "مسیر تا میدان طولانی است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, j’arrive en quelques minutes.",
+          "fa": "نه، در چند دقیقه می‌رسم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در نقش شرکت‌کنندهٔ کافهٔ گفت‌وگوی زبان، به دوستتان توضیح دهید چطور به کلاس می‌رسید. مقصد را با صرف aller، وسیله را با حرف اضافهٔ مناسب و یک ایستگاه یا مدت سفر را مشخص کنید.",
+      "useful_phrases": [
+        {
+          "target": "Je vais au cours en tram.",
+          "fa": "با تراموا به کلاس می‌روم."
+        },
+        {
+          "target": "Nous allons à pied.",
+          "fa": "پیاده می‌رویم."
+        },
+        {
+          "target": "Tu prends quelle ligne ?",
+          "fa": "کدام خط را می‌گیری؟"
+        },
+        {
+          "target": "Le trajet dure dix minutes.",
+          "fa": "مسیر ده دقیقه طول می‌کشد."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Comment venir au café des langues",
+      "text": "Le café des langues se trouve près de la place centrale. Le tram s’arrête devant la gare ; la ligne trois passe toutes les dix minutes. Les participants peuvent aussi venir à vélo et laisser leur vélo près du pont. Pour prendre le bus, il faut attendre à l’arrêt en face du marché. Omar achète son billet sur son téléphone avant le trajet. Léa va parfois à pied quand elle habite près du café. Le groupe écrit les lignes de transport sur une petite carte pour les nouveaux membres. Ainsi, chacun peut choisir le trajet qui lui convient et arriver à l’heure.",
+      "glossary": [
+        {
+          "term": "s’arrêter",
+          "fa": "ایستادن"
+        },
+        {
+          "term": "toutes les dix minutes",
+          "fa": "هر ده دقیقه"
+        },
+        {
+          "term": "laisser",
+          "fa": "گذاشتن"
+        },
+        {
+          "term": "convenir",
+          "fa": "مناسب بودن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "خط سه هر چند وقت یک‌بار می‌آید؟",
+          "a": "Toutes les dix minutes."
+        },
+        {
+          "q_fa": "عمر بلیت را کجا می‌خرد؟",
+          "a": "Sur son téléphone."
+        },
+        {
+          "q_fa": "لئا چه زمانی پیاده می‌رود؟",
+          "a": "Quand elle habite près du café."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "حرف اضافهٔ درست را انتخاب کنید.",
+          "question": "Je vais au cours ___ tram.",
+          "options": [
+            "en",
+            "à",
+            "de"
+          ],
+          "answer": "en",
+          "explanation_fa": "با وسیلهٔ نقلیهٔ موتوری از en استفاده می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "برای دوچرخه کدام عبارت درست است؟",
+          "question": "Elle vient ___.",
+          "options": [
+            "à vélo",
+            "en vélo",
+            "au vélo"
+          ],
+          "answer": "à vélo",
+          "explanation_fa": "برای رفتن با دوچرخه از à vélo استفاده می‌کنیم."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "می‌توان گفت «Nous prenons le bus».",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "prendre با حرف تعریف معین وسیلهٔ مشخص را می‌گیرد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "کدام فعل با je صرف شده است؟",
+          "question": "Je ___ à la gare.",
+          "options": [
+            "vais",
+            "vas",
+            "allons"
+          ],
+          "answer": "vais",
+          "explanation_fa": "شکل aller با je برابر vais است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "وسیلهٔ حرکت را با حرف اضافه کامل کنید.",
+          "question": "Nous allons ___ train.",
+          "answer": [
+            "en"
+          ],
+          "explanation_fa": "پیش از train از en استفاده می‌شود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "مسیرت تا کلاس را با وسیله و مقصد بیان کن.",
+          "question": "Comment vas-tu au cours ?",
+          "answer": [
+            "Je vais au cours en tram.",
+            "Je vais à pied jusqu’à la gare."
+          ],
+          "explanation_fa": "aller را با مقصد و شکل درست حرف اضافه به‌کار ببر."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Complétez : «Je vais au café ___ bus».",
+          "options": [
+            "en",
+            "à",
+            "de"
+          ],
+          "answer": "en",
+          "explanation_fa": "پیش از «bus» برای بیان وسیلهٔ رفت‌وآمد از «en» استفاده می‌شود."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle expression complète : «Je viens ___ vélo» ?",
+          "options": [
+            "à vélo",
+            "en vélo",
+            "dans vélo"
+          ],
+          "answer": "à vélo",
+          "explanation_fa": "«à vélo» روش رفت‌وآمد با دوچرخه را بیان می‌کند."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle est la forme de aller avec je ?",
+          "options": [
+            "vais",
+            "vas",
+            "allons"
+          ],
+          "answer": "vais",
+          "explanation_fa": "فعل «aller» نامنظم است؛ شکل آن با «je» برابر «vais» می‌شود."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie un billet ?",
+          "options": [
+            "بلیت",
+            "ایستگاه",
+            "مسیر"
+          ],
+          "answer": "بلیت",
+          "explanation_fa": "بلیت برای سفر با وسیلهٔ نقلیه به‌کار می‌رود."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase parle d’un moyen de transport précis ?",
+          "options": [
+            "Je prends le tram.",
+            "Je suis le tram.",
+            "Je viens le tram."
+          ],
+          "answer": "Je prends le tram.",
+          "explanation_fa": "«prendre le tram» یعنی سوار تراموا شدن."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش راهنمای محلی کافهٔ گفت‌وگوی زبان، به مهمان بگویید با اتوبوس، تراموا، دوچرخه یا پیاده چطور به کلاس برسد. مقصد را با aller و وسیله را با en یا à بیان کنید و برای حمل‌ونقل عمومی، خط یا ایستگاه را هم اضافه کنید.",
+      "suggested_prompts": [
+        "Demandez où la personne veut aller.",
+        "Proposez un trajet en tram ou en bus.",
+        "Indiquez un arrêt et une ligne.",
+        "Comparez avec le vélo ou la marche."
+      ],
+      "focus": [
+        "صرف‌های aller",
+        "حروف اضافهٔ وسایل حمل‌ونقل",
+        "نام خط، ایستگاه و مدت مسیر"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Transport choices, the useful present forms of aller, and route information are taught through a trip to class."
+  }
+}
