@@ -4,7 +4,7 @@ Updated: 2026-10-15
 
 ## Content
 
-- Installed and validated: French L001–L085 (85 of 340).
+- Installed and validated: French L001–L088 (88 of 340).
 - L002–L004: age with `avoir`; spelling names and French diacritics; country of origin and residence.
 - L005–L007: language names and `ne...pas`; family vocabulary and possessives; regular present-tense `-er` verbs and weekly schedules.
 - L008–L010: adjective agreement in respectful descriptions; café orders and partitive articles; food preferences with definite articles.
@@ -33,6 +33,7 @@ Updated: 2026-10-15
 - L077–L079: irregular present of `faire` for household tasks; `prendre` for choosing library items; irregular present forms of `lire` and `écrire` in a reading group.
 - L080–L082: irregular present of `aller` with destination phrases; `venir` for inviting visitors home; `voir` for observing objects at a planetarium.
 - L083–L085: contrast `sortir` and `partir` for leaving and setting out; `dire` during a theatre rehearsal; `boire` for drinks during a walking break.
+- L086–L088: distinguish `connaître` (people/places) from `savoir` (facts/skills); `mettre` art materials in place; `ouvrir` an art workshop.
 - Range validations: L044–L046, 3 lessons / 3,617 checks / 0 errors; L047–L049, 3 / 3,619 / 0; L050–L052, 3 / 3,630 / 0; L053–L055, 3 / 3,729 / 0; L056–L058, 3 / 3,649 / 0.
 - Combined L044–L058 validation against L001–L043: 15 lessons, 18,244 checks, 0 errors.
 - L059–L061 validation against L001–L058: 3 lessons, 3,694 checks, 0 errors.
@@ -44,10 +45,12 @@ Updated: 2026-10-15
 - L077–L079 validation against L001–L076: 3 lessons, 3,720 checks, 0 errors.
 - L080–L082 validation against L001–L079: 3 lessons, 3,733 checks, 0 errors.
 - L083–L085 validation against L001–L082: 3 lessons, 3,739 checks, 0 errors.
+- L086–L088 validation against L001–L085: 3 lessons, 3,743 checks, 0 errors.
 - Previous full French validation (L001–L076): 76 lessons, 91,298 checks, 0 errors.
 - Previous full French validation (L001–L079): 79 lessons, 95,018 checks, 0 errors.
 - Previous full French validation (L001–L082): 82 lessons, 98,751 checks, 0 errors.
-- Latest full French validation (L001–L085): 85 lessons, 102,490 checks, 0 errors.
+- Previous full French validation (L001–L085): 85 lessons, 102,490 checks, 0 errors.
+- Latest full French validation (L001–L088): 88 lessons, 106,233 checks, 0 errors.
 - Verified L001–L043 lesson bytes, plan files, and metadata entries remain unchanged. English content was not modified.
 - Spanish production lessons: 0.
 
@@ -55,10 +58,10 @@ Updated: 2026-10-15
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 85; plan manifests: 85; planned clips: 3,747 (132 added for L083–L085: 44 per lesson).
+- French lessons: 88; plan manifests: 88; planned clips: 3,879 (132 added for L086–L088: 44 per lesson).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified physical MP3s: 0; lesson audio references: 0; missing planned clips: 3,747.
-- Lessons with complete real audio: 0; lessons without real audio: 85.
+- Verified physical MP3s: 0; lesson audio references: 0; missing planned clips: 3,879.
+- Lessons with complete real audio: 0; lessons without real audio: 88.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -70,4 +73,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue sequentially from French L086: author French-native specifications, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against all prior French lessons, run continuity/content QA, and install only after zero-error validation.
+Continue sequentially from French L089: author French-native specifications, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against all prior French lessons, run continuity/content QA, and install only after zero-error validation.
