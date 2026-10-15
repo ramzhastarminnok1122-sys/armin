@@ -4,7 +4,7 @@ Updated: 2026-10-15
 
 ## Content
 
-- Installed and validated: French L001–L091 (91 of 340).
+- Installed and validated: French L001–L094 (94 of 340).
 - L002–L004: age with `avoir`; spelling names and French diacritics; country of origin and residence.
 - L005–L007: language names and `ne...pas`; family vocabulary and possessives; regular present-tense `-er` verbs and weekly schedules.
 - L008–L010: adjective agreement in respectful descriptions; café orders and partitive articles; food preferences with definite articles.
@@ -35,6 +35,7 @@ Updated: 2026-10-15
 - L083–L085: contrast `sortir` and `partir` for leaving and setting out; `dire` during a theatre rehearsal; `boire` for drinks during a walking break.
 - L086–L088: distinguish `connaître` (people/places) from `savoir` (facts/skills); `mettre` art materials in place; `ouvrir` an art workshop.
 - L089–L091: spelling-preserving forms of `manger` and `commencer`; e-to-è change in `acheter`; l-doubling pattern in `appeler`.
+- L092–L094: `apprendre`/`comprendre` in the choir; `recevoir` at a school music award ceremony; `tenir un stand` at a school fair.
 - Range validations: L044–L046, 3 lessons / 3,617 checks / 0 errors; L047–L049, 3 / 3,619 / 0; L050–L052, 3 / 3,630 / 0; L053–L055, 3 / 3,729 / 0; L056–L058, 3 / 3,649 / 0.
 - Combined L044–L058 validation against L001–L043: 15 lessons, 18,244 checks, 0 errors.
 - L059–L061 validation against L001–L058: 3 lessons, 3,694 checks, 0 errors.
@@ -48,12 +49,14 @@ Updated: 2026-10-15
 - L083–L085 validation against L001–L082: 3 lessons, 3,739 checks, 0 errors.
 - L086–L088 validation against L001–L085: 3 lessons, 3,743 checks, 0 errors.
 - L089–L091 validation against L001–L088: 3 lessons, 3,754 checks, 0 errors.
+- L092–L094 validation against L001–L091: 3 lessons, 3,765 checks, 0 errors.
+- Latest full French validation (L001–L094): 94 lessons, 113,752 checks, 0 errors.
 - Previous full French validation (L001–L076): 76 lessons, 91,298 checks, 0 errors.
 - Previous full French validation (L001–L079): 79 lessons, 95,018 checks, 0 errors.
 - Previous full French validation (L001–L082): 82 lessons, 98,751 checks, 0 errors.
 - Previous full French validation (L001–L085): 85 lessons, 102,490 checks, 0 errors.
 - Previous full French validation (L001–L088): 88 lessons, 106,233 checks, 0 errors.
-- Latest full French validation (L001–L091): 91 lessons, 109,987 checks, 0 errors.
+- Previous full French validation (L001–L091): 91 lessons, 109,987 checks, 0 errors.
 - Verified L001–L043 lesson bytes, plan files, and metadata entries remain unchanged. English content was not modified.
 - Spanish production lessons: 0.
 
@@ -61,10 +64,10 @@ Updated: 2026-10-15
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 91; plan manifests: 91; planned clips: 4,011 (132 added for L089–L091: 44 per lesson).
+- French lessons: 94; plan manifests: 94; planned clips: 4,143 (132 added for L092–L094: 44 per lesson).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified physical MP3s: 0; lesson audio references: 0; missing planned clips: 4,011.
-- Lessons with complete real audio: 0; lessons without real audio: 91.
+- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 4,143.
+- Lessons with complete real audio: 0; lessons without real audio: 94.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -76,4 +79,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue sequentially from French L092: author French-native specifications, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against all prior French lessons, run continuity/content QA, and install only after zero-error validation.
+Continue sequentially from French L095: author French-native specifications, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against all prior French lessons, run continuity/content QA, and install only after zero-error validation.

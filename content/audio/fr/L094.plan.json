@@ -1,0 +1,407 @@
+{
+  "lesson": "L094",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L094-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Nous tenons un stand de jeux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L094-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Tu tiens la liste des tickets ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L094-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui, je tiens la liste ici.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L094-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Les élèves tiennent la tombola ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L094-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, ils tiennent les lots.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L094-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Vous tenez aussi la vente ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L094-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, nous tenons une petite vente.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L094-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Qui tient le tirage au sort ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L094-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Qui tient le stand de la tombola ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L094-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Nous tenons le stand près de la grande salle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L094-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu tiens les tickets ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L094-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, je tiens les tickets et je les donne aux visiteurs.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L094-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Les élèves tiennent aussi la vente ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L094-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, ils tiennent la vente de gâteaux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L094-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Vous tenez les lots près du podium ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L094-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Non, nous tenons les lots derrière la banderole.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L094-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Qui tient l’animation ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L094-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "La professeure tient le jeu et explique le tirage au sort.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L094-fr-vocab-kermesse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "kermesse. La kermesse commence à dix heures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L094-fr-vocab-tombola",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "tombola. La tombola est près du stand.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L094-fr-vocab-ticket",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "ticket. Le ticket coûte un euro.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L094-fr-vocab-lot",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "lot. Le lot est pour un enfant.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L094-fr-vocab-animation",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "animation. L’animation commence après la musique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L094-fr-vocab-vente",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "vente. La vente aide l’école.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L094-fr-vocab-decoration",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "décoration. La décoration est très colorée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L094-fr-vocab-banderole",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "banderole. La banderole est au-dessus du stand.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L094-fr-vocab-fetescolaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "fête scolaire. La fête scolaire est samedi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L094-fr-vocab-tirageausort",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "tirage au sort. Le tirage au sort a lieu à midi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L094-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je tiens le stand. Tu tiens un ticket.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L094-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle tient la tombola.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L094-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous tenons un stand. Vous tenez les lots.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L094-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils tiennent la vente ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L094-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je tiens le stand de la tombola.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L094-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu tiens un ticket pour le tirage.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L094-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La responsable tient la vente de gâteaux.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L094-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous tenons un stand près de l’entrée.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L094-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves tiennent les lots pour la tombola.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L094-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La classe de Noé organise une kermesse pour aider l’école. Lina et Noé tiennent le stand de la tombola. Ils tiennent les tickets, expliquent les règles et donnent les lots aux gagnants. D’autres élèves tiennent une petite vente et décorent une banderole. La professeure tient une animation pour les enfants ; elle annonce le tirage au sort à midi. Chacun a une tâche simple et le groupe travaille ensemble. Le verbe tenir change selon le sujet : je tiens, tu tiens, elle tient, nous tenons, vous tenez et ils tiennent. Dans cette fête scolaire, tenir un stand signifie en être responsable ; tenir un ticket signifie le garder dans la main.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 639
+    },
+    {
+      "id": "L094-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L094)",
+      "tts_text": "برای گفتن «ما غرفه را اداره می‌کنیم» بگو «nous tenons un stand».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L094-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L094)",
+      "tts_text": "فعل «tenir» بی‌قاعده است: «je tiens»، «nous tenons» و «ils tiennent».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L094-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L094)",
+      "tts_text": "به گفت‌وگوی جشن مدرسه گوش کن و جایزه‌ها را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L094-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L094)",
+      "tts_text": "برای «vous» بگو «tenez» و برای «ils» بنویس «tiennent» با دو n.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L094-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L094)",
+      "tts_text": "در مدرسه، مسئول هر غرفه و بخش جشن را مشخص کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L094-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L094)",
+      "tts_text": "شکل‌های «tiens», «tient», «tenons», «tenez» و «tiennent» را با فاعل مناسب به‌کار ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 85
+    }
+  ]
+}
