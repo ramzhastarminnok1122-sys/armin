@@ -1,0 +1,407 @@
+{
+  "lesson": "L085",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L085-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu as soif après la marche ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L085-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, je bois une gorgée d’eau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L085-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Vous buvez de l’eau gazeuse ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L085-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Non, nous buvons de l’eau plate.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L085-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Léa boit une tisane ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L085-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, elle boit une tisane chaude.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L085-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Les enfants boivent aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L085-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, ils boivent de l’eau fraîche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L085-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Vous buvez de l’eau après la randonnée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L085-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, nous buvons de l’eau fraîche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L085-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu bois de l’eau gazeuse ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L085-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Non, je bois de l’eau plate dans ma bouteille réutilisable.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L085-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Et Zoé ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 8
+    },
+    {
+      "id": "L085-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Elle boit une tisane chaude de son thermos.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L085-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Les enfants boivent de l’eau fraîche ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L085-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, ils boivent par petites gorgées près de la source.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L085-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Vous prenez une autre boisson ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L085-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Non, nous buvons de l’eau du robinet avant de repartir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L085-fr-vocab-gorgee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "gorgée. Je bois une gorgée d’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L085-fr-vocab-eaudurobinet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "eau du robinet. L’eau du robinet est fraîche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L085-fr-vocab-eaugazeuse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "eau gazeuse. Tu préfères l’eau gazeuse ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L085-fr-vocab-eauplate",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "eau plate. Il boit de l’eau plate.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L085-fr-vocab-bouteillereutilisable",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "bouteille réutilisable. Ma bouteille réutilisable est légère.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L085-fr-vocab-thermos",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "thermos. Le thermos est dans mon sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L085-fr-vocab-tisane",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "tisane. Elle boit une tisane chaude.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L085-fr-vocab-boisson",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "boisson. Nous partageons une boisson froide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L085-fr-vocab-soif",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "soif. Après la marche, j’ai soif.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L085-fr-vocab-eaufraiche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "eau fraîche. Nous buvons de l’eau fraîche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L085-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je bois de l’eau. Tu bois une gorgée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L085-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle boit une tisane chaude.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L085-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous buvons de l’eau fraîche. Vous buvez une boisson froide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L085-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils boivent près de la source.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L085-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je bois de l’eau après la marche.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L085-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu bois une gorgée près de la source.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L085-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Léa boit une tisane dans son thermos.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L085-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous buvons de l’eau du robinet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L085-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les randonneurs boivent à petites gorgées.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L085-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après une longue marche, le groupe s’arrête près d’une source. Adam a soif et boit une gorgée d’eau fraîche. Sa bouteille réutilisable est presque vide, alors il la remplit avec de l’eau du robinet au refuge. Éva préfère l’eau plate ; son frère choisit l’eau gazeuse. Zoé ouvre son thermos et boit une tisane chaude. Les enfants prennent une boisson froide et s’assoient à l’ombre. Tout le monde boit lentement avant de repartir. Dans cette scène, on entend plusieurs formes de boire : je bois, elle boit, nous buvons et ils boivent. Le verbe change avec le sujet, même si la boisson reste la même.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 598
+    },
+    {
+      "id": "L085-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L085)",
+      "tts_text": "برای گفتن «من آب می‌نوشم» از «je bois» و برای «ما می‌نوشیم» از «nous buvons» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 88
+    },
+    {
+      "id": "L085-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L085)",
+      "tts_text": "فعل «boire» بی‌قاعده است؛ در جمع پایه از «boi» به «buv» تغییر می‌کند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L085-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L085)",
+      "tts_text": "به گفت‌وگوی استراحت گوش کن و بفهم زُئه چه می‌نوشد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L085-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L085)",
+      "tts_text": "برای «il» بگو «boit» و برای «ils» بگو «boivent».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L085-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L085)",
+      "tts_text": "در سفر، دربارهٔ نوشیدنی‌های استراحت و شکل‌های مختلف نوشیدن صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L085-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L085)",
+      "tts_text": "شکل‌های «bois», «boit», «buvons», «buvez» و «boivent» را با فاعل مناسب به‌کار ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 82
+    }
+  ]
+}

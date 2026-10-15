@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 83,
+    "title": "Nous partons tôt pour la randonnée",
+    "subtitle": "Sortir et partir au présent",
+    "description": "Distinguez la sortie d’un lieu et le départ en excursion.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف فعل‌های بی‌قاعدهٔ sortir و partir در زمان حال",
+      "objectives": [
+        "فعل sortir را در زمان حال صرف کنید",
+        "فعل partir را در زمان حال صرف کنید",
+        "برای خروج از مکان و شروع سفر از فعل مناسب استفاده کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای یک گردش می‌خواهید بگویید «از خانه بیرون می‌رویم» و «ساعت هفت راه می‌افتیم». در فرانسوی sortir و partir هر دو در گروه فعل‌های بی‌قاعده‌اند، اما معنای یکسانی ندارند.",
+      "questions": [
+        {
+          "q": "برای گفتن «از خانه بیرون می‌روم» از کدام فعل استفاده می‌کنیم؟",
+          "hint_fa": "فعل sortir را به خاطر بیاورید."
+        },
+        {
+          "q": "برای گفتن «ما راه می‌افتیم» کدام شکل لازم است؟",
+          "hint_fa": "شکل nous partons را به یاد بیاورید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Sortir et partir au présent",
+      "body_fa": "sortir و partir هر دو فعل‌های بی‌قاعدهٔ گروه سوم‌اند و با وجود پایان -ir مانند فعل منظم finir صرف نمی‌شوند. شکل‌های sortir عبارت‌اند از je sors, tu sors, il/elle sort, nous sortons, vous sortez, ils/elles sortent. شکل‌های partir عبارت‌اند از je pars, tu pars, il/elle part, nous partons, vous partez, ils/elles partent. sortir معمولاً برای بیرون‌رفتن یا ترک یک مکان به کار می‌رود: sortir de la maison. partir یعنی راه افتادن یا رفتن به سفر: partir pour la montagne. در شکل‌های جمع، پسوند -iss- نمی‌آید. معنای جمله را بررسی کنید و بعد فعل و شکل درست را برگزینید.",
+      "key_points": [
+        "sortir: je sors، nous sortons، ils sortent.",
+        "partir: je pars، nous partons، ils partent.",
+        "sortir de + lieu؛ partir pour + destination."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "randonneur",
+          "ipa": "/ʁɑ̃.dɔ.nœʁ/",
+          "translation_fa": "کوهنورد؛ طبیعت‌گرد",
+          "example": "Le randonneur marche avec un groupe.",
+          "example_fa": "طبیعت‌گرد با گروهی پیاده‌روی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "boussole",
+          "ipa": "/bu.sɔl/",
+          "translation_fa": "قطب‌نما",
+          "example": "La boussole est dans le sac.",
+          "example_fa": "قطب‌نما در کیف است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "bâton de marche",
+          "ipa": "/ba.tɔ̃ də maʁʃ/",
+          "translation_fa": "باتوم پیاده‌روی",
+          "example": "Elle prend un bâton de marche.",
+          "example_fa": "او باتوم پیاده‌روی برمی‌دارد.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "pente",
+          "ipa": "/pɑ̃t/",
+          "translation_fa": "شیب",
+          "example": "La pente est raide ici.",
+          "example_fa": "شیب اینجا تند است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "sommet",
+          "ipa": "/sɔ.mɛ/",
+          "translation_fa": "قله",
+          "example": "Le sommet est près des nuages.",
+          "example_fa": "قله نزدیک ابرهاست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "source",
+          "ipa": "/suʁs/",
+          "translation_fa": "چشمه",
+          "example": "Une source coule près du chemin.",
+          "example_fa": "چشمه‌ای نزدیک راه جاری است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "colline",
+          "ipa": "/kɔ.lin/",
+          "translation_fa": "تپه",
+          "example": "La colline est verte au printemps.",
+          "example_fa": "تپه در بهار سبز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "montée",
+          "ipa": "/mɔ̃.te/",
+          "translation_fa": "مسیر سربالایی",
+          "example": "La montée commence après le pont.",
+          "example_fa": "مسیر سربالایی پس از پل شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "descente",
+          "ipa": "/de.sɑ̃t/",
+          "translation_fa": "مسیر سرازیری",
+          "example": "La descente est facile.",
+          "example_fa": "مسیر سرازیری آسان است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "chemin",
+          "ipa": "/ʃə.mɛ̃/",
+          "translation_fa": "راه؛ مسیر",
+          "example": "Le chemin passe devant la source.",
+          "example_fa": "راه از جلوی چشمه می‌گذرد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Je sors et je pars",
+      "explanation_fa": "صرف sortir و partir در زمان حال بی‌قاعده است و شکل مفرد و جمع آن‌ها را باید جداگانه یاد گرفت. می‌گوییم je sors، tu sors، il sort، nous sortons، vous sortez، ils sortent؛ و برای partir می‌گوییم je pars، tu pars، il part، nous partons، vous partez، ils partent. هر دو فعل به -ir ختم می‌شوند، اما مانند finir در جمع پسوند -iss- نمی‌گیرند. sortir de la maison یعنی از خانه بیرون رفتن؛ partir pour la randonnée یعنی برای گردش راه افتادن. انتخاب فعل به معنای موردنظر بستگی دارد: ترک یک مکان یا آغاز سفر.",
+      "pattern": "sortir: sors · sors · sort · sortons · sortez · sortent | partir: pars · pars · part · partons · partez · partent",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je sors de la maison. Je pars tôt.",
+            "از خانه بیرون می‌روم. زود راه می‌افتم."
+          ],
+          [
+            "il / elle",
+            "Elle sort du refuge. Il part à huit heures.",
+            "او از پناهگاه بیرون می‌آید. او ساعت هشت راه می‌افتد."
+          ],
+          [
+            "nous / vous",
+            "Nous sortons du village. Vous partez pour la colline.",
+            "از روستا بیرون می‌رویم. شما به‌سوی تپه راه می‌افتید."
+          ],
+          [
+            "ils / elles",
+            "Ils sortent de la forêt. Elles partent ensemble.",
+            "آن‌ها از مسیر سرپوشیده بیرون می‌آیند. آن‌ها با هم راه می‌افتند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "در جمع بنویسید sortons و partons؛ به آن‌ها -iss- اضافه نکنید.",
+        "sortir de برای بیرون‌آمدن از مکان است؛ partir pour برای آغاز سفر."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je sors de la maison à sept heures.",
+          "fa": "ساعت هفت از خانه بیرون می‌روم.",
+          "note_fa": "برای je شکل sortir برابر sors است."
+        },
+        {
+          "target": "Tu pars pour la colline avec une boussole.",
+          "fa": "با قطب‌نما به‌سوی تپه راه می‌افتی.",
+          "note_fa": "برای tu از pars استفاده می‌کنیم."
+        },
+        {
+          "target": "Le randonneur sort du chemin.",
+          "fa": "طبیعت‌گرد از مسیر بیرون می‌آید.",
+          "note_fa": "برای il شکل sortir برابر sort است."
+        },
+        {
+          "target": "Nous partons tôt pour la randonnée.",
+          "fa": "برای گردش زود راه می‌افتیم.",
+          "note_fa": "شکل partir برای nous برابر partons است."
+        },
+        {
+          "target": "Elles sortent du refuge après la pause.",
+          "fa": "آن‌ها پس از استراحت از پناهگاه بیرون می‌آیند.",
+          "note_fa": "برای elles شکل sortent می‌آید."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Le départ pour la randonnée",
+      "script": "Noé: Vous partez à quelle heure pour la randonnée ?\nSana: Nous partons tôt, à sept heures.\nNoé: Tu sors de la maison avec les autres ?\nSana: Oui, je sors avec Lila. Elle part devant nous.\nNoé: Vous prenez une boussole ?\nSana: Oui, les randonneurs sortent par le chemin du nord.\nNoé: Vous allez jusqu’au sommet ?\nSana: Nous partons vers la colline, puis nous faisons une pause près de la source.\nNoé: La descente est difficile ?\nSana: Non, elle est facile, mais la montée est un peu raide.",
+      "script_fa": "نوئه: برای گردش چه ساعتی راه می‌افتید؟\nسانا: زود، ساعت هفت راه می‌افتیم.\nنوئه: با بقیه از خانه بیرون می‌آیی؟\nسانا: بله، با لیلا بیرون می‌آیم. او جلوتر از ما راه می‌افتد.\nنوئه: قطب‌نما برمی‌دارید؟\nسانا: بله، طبیعت‌گردها از مسیر شمالی بیرون می‌آیند.\nنوئه: تا قله می‌روید؟\nسانا: به‌سوی تپه راه می‌افتیم و نزدیک چشمه استراحت می‌کنیم.\nنوئه: مسیر سرازیری دشوار است؟\nسانا: نه، آسان است، اما سربالایی کمی تند است.",
+      "question_fa": "À quelle heure Sana et Noé partent-ils ?",
+      "answer": "À sept heures.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Au début du chemin",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Je sors du village avec ma sœur.",
+          "fa": "با خواهرم از روستا بیرون می‌آیم."
+        },
+        {
+          "speaker": "B",
+          "target": "Vous partez pour le sommet ?",
+          "fa": "به‌سوی قله راه می‌افتید؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, nous partons après le petit-déjeuner.",
+          "fa": "بله، پس از صبحانه راه می‌افتیم."
+        },
+        {
+          "speaker": "B",
+          "target": "La montée commence près de la source.",
+          "fa": "سربالایی نزدیک چشمه شروع می‌شود."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu sors avec nous ?",
+          "fa": "با ما بیرون می‌آیی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, je pars dans cinq minutes.",
+          "fa": "بله، پنج دقیقهٔ دیگر راه می‌افتم."
+        },
+        {
+          "speaker": "A",
+          "target": "Les autres partent aussi ?",
+          "fa": "بقیه هم راه می‌افتند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, ils sortent du refuge maintenant.",
+          "fa": "بله، آن‌ها حالا از پناهگاه بیرون می‌آیند."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سفر با هم‌گروهی خود برای یک گردش پیاده‌روی برنامه‌ریزی کنید. بگویید چه زمانی از یک مکان بیرون می‌آیید و چه زمانی راه می‌افتید؛ sortir و partir را از هم تشخیص دهید.",
+      "useful_phrases": [
+        {
+          "target": "Je sors de la maison.",
+          "fa": "از خانه بیرون می‌آیم."
+        },
+        {
+          "target": "Nous partons à sept heures.",
+          "fa": "ساعت هفت راه می‌افتیم."
+        },
+        {
+          "target": "Elle sort du refuge.",
+          "fa": "او از پناهگاه بیرون می‌آید."
+        },
+        {
+          "target": "Ils partent pour la colline.",
+          "fa": "آن‌ها به‌سوی تپه راه می‌افتند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une marche dans les collines",
+      "text": "Samedi matin, Émile et quatre amis sortent du village pour une randonnée. Ils partent tôt et suivent un chemin vers une colline. Émile porte une boussole et un bâton de marche. Au début, la montée est douce ; plus haut, la pente devient raide. Les randonneurs font une pause près d’une source, puis ils continuent jusqu’au sommet. Après le déjeuner, ils sortent de la zone boisée et commencent la descente. Le chemin passe près d’un petit refuge. Émile explique la différence aux amis : sortir signifie quitter un lieu, tandis que partir signifie commencer un déplacement. Ils utilisent les deux verbes au présent : nous sortons du village et nous partons pour la colline.",
+      "glossary": [
+        {
+          "term": "suivre",
+          "fa": "دنبال کردن"
+        },
+        {
+          "term": "doux",
+          "fa": "ملایم"
+        },
+        {
+          "term": "zone boisée",
+          "fa": "منطقهٔ جنگلی"
+        },
+        {
+          "term": "tandis que",
+          "fa": "درحالی‌که"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "آن‌ها کجا استراحت می‌کنند؟",
+          "a": "Près d’une source."
+        },
+        {
+          "q_fa": "چه کسی قطب‌نما دارد؟",
+          "a": "Émile."
+        },
+        {
+          "q_fa": "در متن، sortir چه معنایی دارد؟",
+          "a": "Quitter un lieu."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل sortir را برای nous انتخاب کنید.",
+          "question": "Nous ___ du village.",
+          "options": [
+            "sortons",
+            "sortent",
+            "sors"
+          ],
+          "answer": "sortons",
+          "explanation_fa": "برای nous شکل sortir برابر sortons است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کنید.",
+          "question": "Vous ___ pour la colline à sept heures.",
+          "options": [
+            "partez",
+            "partons",
+            "pars"
+          ],
+          "answer": "partez",
+          "explanation_fa": "شکل partir برای vous برابر partez است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Ils sortent du refuge» یعنی آن‌ها از پناهگاه بیرون می‌آیند.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "sortir de + lieu بیانگر بیرون‌رفتن از مکان است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل مناسب برای شروع سفر را پیدا کنید.",
+          "question": "Nous ___ pour la randonnée.",
+          "options": [
+            "partons",
+            "sortons",
+            "sortez"
+          ],
+          "answer": "partons",
+          "explanation_fa": "برای آغاز سفر از partir pour استفاده می‌کنیم."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل sortir را برای elle کامل کنید.",
+          "question": "Elle ___ du village. (sortir)",
+          "answer": [
+            "sort"
+          ],
+          "explanation_fa": "sort"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "با je، nous و ils جمله بساز و در آن یکی از دو فعل را به‌کار ببر.",
+          "question": "یک جمله برای بیرون‌آمدن از مکان و یک جمله برای شروع سفر بنویس.",
+          "answer": [
+            "Je sors de la maison. Nous partons pour la colline. Ils sortent du refuge.",
+            "Je pars tôt. Nous sortons du village. Ils partent pour le sommet."
+          ],
+          "explanation_fa": "sortir را برای ترک مکان و partir را برای آغاز سفر به‌کار ببر."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle forme de sortir accompagne «nous» au départ du village ?",
+          "options": [
+            "sortons",
+            "sortez",
+            "sortent"
+          ],
+          "answer": "sortons",
+          "explanation_fa": "On dit nous sortons."
+        },
+        {
+          "type": "mcq",
+          "question": "Complète la phrase de randonnée : «Nous ___ pour la colline.»",
+          "options": [
+            "partons",
+            "partez",
+            "pars"
+          ],
+          "answer": "partons",
+          "explanation_fa": "nous partons."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle forme de partir accompagne «vous» ?",
+          "options": [
+            "partez",
+            "partons",
+            "partent"
+          ],
+          "answer": "partez",
+          "explanation_fa": "vous partez."
+        },
+        {
+          "type": "mcq",
+          "question": "Complète : «Elles ___ du refuge.»",
+          "options": [
+            "sortent",
+            "sortons",
+            "sort"
+          ],
+          "answer": "sortent",
+          "explanation_fa": "elles sortent."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase exprime un départ en excursion ?",
+          "options": [
+            "Nous partons pour la randonnée.",
+            "Nous partons du chemin.",
+            "Nous sortons pour la randonnée à sept heures."
+          ],
+          "answer": "Nous partons pour la randonnée.",
+          "explanation_fa": "partir pour indique la destination du départ."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در سفر با هم‌گروهی خود برنامهٔ خروج و آغاز یک گردش را بسازید. برای بیرون‌آمدن از مکان sortir و برای راه‌افتادن partir را به‌کار ببرید.",
+      "suggested_prompts": [
+        "Dites à quelle heure vous sortez de la maison.",
+        "Parlez d’une personne qui part tôt.",
+        "Dites quand vous partez ensemble.",
+        "Expliquez de quel lieu plusieurs personnes sortent."
+      ],
+      "focus": [
+        "sortir au présent",
+        "partir au présent",
+        "sortir de + lieu; partir pour + destination"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Contrast two common irregular -ir verbs with distinct meanings: sortir from a place and partir for a trip."
+  }
+}
