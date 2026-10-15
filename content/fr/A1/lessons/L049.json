@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 49,
+    "title": "Qu’est-ce que tu as fait dimanche ?",
+    "subtitle": "Raconter quelques moments du week-end",
+    "description": "Parlez d’une balade, d’un repas et de quelques photos avec des verbes au passé composé.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "اسم مفعول بی‌قاعدهٔ چند فعل پرکاربرد با avoir در passé composé",
+      "objectives": [
+        "پرسش دربارهٔ کارهای گذشته را با qu’est-ce que و passé composé بسازید",
+        "اسم مفعول fait، pris، vu، bu و mis را بشناسید",
+        "یک روز گذشته را با چند جملهٔ کوتاه تعریف کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور از دوستتان می‌پرسید یکشنبه چه کار کرده است؟ در جواب می‌توانید از یک روز خیالی بگویید.",
+      "questions": [
+        {
+          "q": "در پرسش «Qu’est-ce que tu as fait ?»، فعل کمکی کدام است؟",
+          "hint_fa": "فعل صرف‌شده پیش از اسم مفعول را پیدا کنید."
+        },
+        {
+          "q": "اسم مفعول فعل «voir» چیست؟",
+          "hint_fa": "شکل کوتاه «vu» را به یاد آورید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Des participes fréquents à mémoriser",
+      "body_fa": "در passé composé، فعل کمکی avoir صرف می‌شود و پس از آن اسم مفعول می‌آید. برخی فعل‌های بسیار رایج اسم مفعول بی‌قاعده دارند و بهتر است شکلشان را حفظ کنیم: faire → fait، prendre → pris، voir → vu، boire → bu و mettre → mis. برای پرسیدن دربارهٔ کار گذشته می‌گوییم «qu’est-ce que tu as fait dimanche ?». در پاسخ، «j’ai fait une balade», «j’ai pris des photos» یا «j’ai vu des canards» می‌گوییم. ساخت این فعل‌ها نیز با avoir است: j’ai fait، nous avons pris، elle a vu. قید زمان یا عبارت روز می‌تواند ابتدای جمله بیاید: «dimanche, j’ai…». این درس فقط همین شکل‌های پرکاربرد را تمرین می‌کند؛ اسم مفعول هر فعل تازه را جداگانه یاد بگیرید.",
+      "key_points": [
+        "برای این پنج فعل، اسم مفعول را جداگانه به خاطر بسپارید.",
+        "در مثال‌ها، passé composé با avoir ساخته می‌شود.",
+        "پرسش گذشته: qu’est-ce que + sujet + avoir + participe passé."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "prendre",
+          "ipa": "/pʁɑ̃dʁ/",
+          "translation_fa": "گرفتن؛ سوار شدن",
+          "example": "J’ai pris le tram pour le parc.",
+          "example_fa": "برای رفتن به پارک سوار تراموا شدم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "voir",
+          "ipa": "/vwaʁ/",
+          "translation_fa": "دیدن",
+          "example": "Nous avons vu des canards près de l’eau.",
+          "example_fa": "نزدیک آب چند اردک دیدیم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "faire",
+          "ipa": "/fɛʁ/",
+          "translation_fa": "انجام دادن؛ کردن",
+          "example": "Elle a fait une belle balade.",
+          "example_fa": "او گردش خوبی کرد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "mettre",
+          "ipa": "/mɛtʁ/",
+          "translation_fa": "گذاشتن؛ قرار دادن",
+          "example": "J’ai mis une photo dans mon album.",
+          "example_fa": "یک عکس در آلبومم گذاشتم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "entendre",
+          "ipa": "/ɑ̃.tɑ̃dʁ/",
+          "translation_fa": "شنیدن",
+          "example": "Ils ont entendu de la musique au parc.",
+          "example_fa": "آن‌ها در پارک موسیقی شنیدند.",
+          "tag": "فعل"
+        },
+        {
+          "term": "déjeuner",
+          "ipa": "/de.ʒœ.ne/",
+          "translation_fa": "ناهار خوردن",
+          "example": "Nous avons déjeuné dans le jardin.",
+          "example_fa": "در باغ ناهار خوردیم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "balade",
+          "ipa": "/ba.lad/",
+          "translation_fa": "گردش؛ پیاده‌روی",
+          "example": "La balade dure une heure.",
+          "example_fa": "گردش یک ساعت طول می‌کشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "photo",
+          "ipa": "/fo.to/",
+          "translation_fa": "عکس",
+          "example": "La photo montre le parc.",
+          "example_fa": "عکس پارک را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "dimanche",
+          "ipa": "/di.mɑ̃ʃ/",
+          "translation_fa": "یکشنبه",
+          "example": "Dimanche, je reste à la maison.",
+          "example_fa": "یکشنبه در خانه می‌مانم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "raconter",
+          "ipa": "/ʁa.kɔ̃.te/",
+          "translation_fa": "تعریف کردن؛ روایت کردن",
+          "example": "Léa raconte sa journée à sa famille.",
+          "example_fa": "لئا روزش را برای خانواده‌اش تعریف می‌کند.",
+          "tag": "فعل"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Fait, pris, vu, bu, mis",
+      "explanation_fa": "این پنج اسم مفعول را همراه با مصدر و معنی‌شان یاد بگیرید: faire → fait، prendre → pris، voir → vu، boire → bu و mettre → mis. با هر کدام، فعل کمکی avoir در زمان حال می‌آید: j’ai fait، tu as pris، elle a vu، nous avons bu، ils ont mis. در پرسش، «qu’est-ce que» پیش از فاعل و فعل می‌آید: «qu’est-ce que vous avez fait ?». پاسخ کوتاه می‌تواند یک جملهٔ خبری باشد: «j’ai pris le tram», «j’ai vu un spectacle». این فعل‌ها بی‌قاعده‌اند، پس از قاعدهٔ -é، -i یا -u در درس‌های پیشین برای حدس‌زدنشان استفاده نکنید. در این درس، مفعول مستقیم پس از اسم مفعول می‌آید: «j’ai mis une photo».",
+      "pattern": "qu’est-ce que + sujet + avoir + fait / pris / vu / bu / mis",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "faire",
+            "J’ai fait une balade.",
+            "گردشی کردم."
+          ],
+          [
+            "prendre",
+            "Tu as pris des photos.",
+            "عکس گرفتی."
+          ],
+          [
+            "voir",
+            "Elle a vu un canard.",
+            "او اردکی دید."
+          ],
+          [
+            "boire / mettre",
+            "Nous avons bu un thé et mis la photo dans l’album.",
+            "چای نوشیدیم و عکس را در آلبوم گذاشتیم."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "این پنج اسم مفعول بی‌قاعده‌اند و باید جداگانه حفظ شوند.",
+        "فعل کمکی avoir صرف می‌شود: j’ai, tu as, nous avons."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Qu’est-ce que tu as fait dimanche ?",
+          "fa": "یکشنبه چه کار کردی؟",
+          "note_fa": "در پرسش از qu’est-ce que و passé composé استفاده شده است."
+        },
+        {
+          "target": "J’ai pris le tram pour le parc.",
+          "fa": "برای رفتن به پارک سوار تراموا شدم.",
+          "note_fa": "prendre در این ساخت به pris تبدیل می‌شود."
+        },
+        {
+          "target": "Nous avons vu des canards près de l’eau.",
+          "fa": "نزدیک آب چند اردک دیدیم.",
+          "note_fa": "voir اسم مفعول کوتاه vu دارد."
+        },
+        {
+          "target": "Elle a bu un thé après la balade.",
+          "fa": "او پس از گردش یک چای نوشید.",
+          "note_fa": "boire به bu تبدیل شده است."
+        },
+        {
+          "target": "J’ai mis une photo dans mon album.",
+          "fa": "یک عکس در آلبومم گذاشتم.",
+          "note_fa": "mettre در passé composé به mis تبدیل می‌شود."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un dimanche au parc",
+      "script": "Lina: Raconte-moi ton dimanche.\nOmar: J’ai fait une balade dans le parc.\nLina: Tu as pris des photos ?\nOmar: Oui, j’ai pris deux photos et j’ai vu des canards.\nLina: Tu as déjeuné où ?\nOmar: Nous avons déjeuné dans le jardin.\nLina: Tu as entendu de la musique ?\nOmar: Oui, nous avons entendu une guitare et j’ai bu un thé.\nLina: Tu as mis les photos dans ton album ?\nOmar: Oui, j’ai mis une photo dans mon album.",
+      "script_fa": "لینا: از یکشنبه‌ات برایم بگو.\nعمر: در پارک گردش کردم.\nلینا: عکس گرفتی؟\nعمر: بله، دو عکس گرفتم و چند اردک دیدم.\nلینا: کجا ناهار خوردی؟\nعمر: در باغ ناهار خوردیم.\nلینا: موسیقی شنیدی؟\nعمر: بله، صدای یک گیتار را شنیدیم و من چای نوشیدم.\nلینا: عکس‌ها را در آلبومت گذاشتی؟\nعمر: بله، یک عکس در آلبومم گذاشتم.",
+      "question_fa": "Qu’est-ce qu’Omar a vu dans le parc ?",
+      "answer": "Des canards.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Raconter une journée",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Qu’est-ce que tu as fait dimanche ?",
+          "fa": "یکشنبه چه کار کردی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "J’ai pris le tram pour le parc.",
+          "fa": "برای رفتن به پارک سوار تراموا شدم."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu as vu un spectacle ?",
+          "fa": "نمایشی دیدی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, j’ai fait une longue balade.",
+          "fa": "نه، گردش طولانی‌ای کردم."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu as bu quelque chose ?",
+          "fa": "چیزی نوشیدی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "J’ai bu un thé et déjeuné dans le jardin.",
+          "fa": "چای نوشیدم و در باغ ناهار خوردم."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu as mis des photos dans ton album ?",
+          "fa": "عکس‌هایی در آلبومت گذاشتی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, j’ai mis deux photos.",
+          "fa": "بله، دو عکس گذاشتم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در زندگی روزمره، با هم‌گروهی خود دربارهٔ یکشنبهٔ گذشته گفت‌وگو کنید. بپرسید چه کارهایی انجام شده و از شکل‌های «j’ai fait», «j’ai pris», «j’ai vu», «j’ai bu» یا «j’ai mis» استفاده کنید؛ می‌توانید داستان خیالی بسازید.",
+      "useful_phrases": [
+        {
+          "target": "Qu’est-ce que tu as fait dimanche ?",
+          "fa": "یکشنبه چه کار کردی؟"
+        },
+        {
+          "target": "J’ai fait une balade.",
+          "fa": "گردشی کردم."
+        },
+        {
+          "target": "J’ai pris une photo.",
+          "fa": "یک عکس گرفتم."
+        },
+        {
+          "target": "J’ai vu un spectacle.",
+          "fa": "نمایشی دیدم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une journée racontée en quelques phrases",
+      "text": "Dimanche, Lina a fait une balade avec Omar dans un grand parc. Ils ont pris quelques photos et ont vu des canards près d’un petit lac. À midi, ils ont déjeuné dans le jardin. Omar a bu un thé, puis il a entendu un musicien jouer de la guitare. Lina a mis une photo dans son album et a raconté la journée à sa sœur. Les amis ont passé un moment agréable sans aller loin de chez eux. Pour l’exercice, on peut remplacer le parc, le repas et les activités par d’autres idées. Les formes fait, pris, vu, bu et mis sont à retenir.",
+      "glossary": [
+        {
+          "term": "lac",
+          "fa": "دریاچه"
+        },
+        {
+          "term": "musicien",
+          "fa": "نوازنده"
+        },
+        {
+          "term": "agréable",
+          "fa": "خوشایند"
+        },
+        {
+          "term": "remplacer",
+          "fa": "جایگزین کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "آن‌ها کجا گردش کردند؟",
+          "a": "Dans un grand parc."
+        },
+        {
+          "q_fa": "عمر چه نوشید؟",
+          "a": "Un thé."
+        },
+        {
+          "q_fa": "لینا عکس را کجا گذاشت؟",
+          "a": "Dans son album."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "اسم مفعول «faire» را انتخاب کنید.",
+          "question": "J’ai ___ une balade.",
+          "options": [
+            "fait",
+            "fais",
+            "faire"
+          ],
+          "answer": "fait",
+          "explanation_fa": "faire اسم مفعول بی‌قاعدهٔ fait دارد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را با اسم مفعول درست کامل کنید.",
+          "question": "Nous avons ___ le tram.",
+          "options": [
+            "pris",
+            "prendu",
+            "prendre"
+          ],
+          "answer": "pris",
+          "explanation_fa": "prendre به pris تبدیل می‌شود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "اسم مفعول فعل voir در این درس vu است.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "شکل بی‌قاعدهٔ voir در passé composé، vu است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کنید.",
+          "question": "Elle a ___ un thé.",
+          "options": [
+            "bu",
+            "boivé",
+            "boire"
+          ],
+          "answer": "bu",
+          "explanation_fa": "boire به bu تبدیل می‌شود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "اسم مفعول را کامل کنید.",
+          "question": "J’ai mi___ la photo dans l’album. (mettre)",
+          "answer": [
+            "s"
+          ],
+          "explanation_fa": "mettre در این ساخت به mis تبدیل می‌شود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "از یک روز گذشته با سه فعل متفاوت تعریف کن.",
+          "question": "می‌توانی روزی خیالی بسازی.",
+          "answer": [
+            "Dimanche, j’ai fait une balade, j’ai pris des photos et j’ai vu des canards.",
+            "J’ai bu un thé et j’ai mis une photo dans mon album."
+          ],
+          "explanation_fa": "از fait، pris، vu، bu یا mis استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quel est le participe passé de faire ?",
+          "options": [
+            "fait",
+            "fais",
+            "faire"
+          ],
+          "answer": "fait",
+          "explanation_fa": "Le participe passé de faire est fait."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel participe passé vient de prendre ?",
+          "options": [
+            "pris",
+            "prendu",
+            "prendé"
+          ],
+          "answer": "pris",
+          "explanation_fa": "prendre devient pris au passé composé."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel est le participe passé de voir ?",
+          "options": [
+            "vu",
+            "voir",
+            "vois"
+          ],
+          "answer": "vu",
+          "explanation_fa": "Le participe passé de voir est vu."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase emploie correctement le participe de boire ?",
+          "options": [
+            "J’ai bu un thé.",
+            "J’ai boivé un thé.",
+            "Je suis bu un thé."
+          ],
+          "answer": "J’ai bu un thé.",
+          "explanation_fa": "boire se construit avec avoir et prend le participe bu."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase est correcte pour placer une photo dans l’album ?",
+          "options": [
+            "J’ai mis une photo dans l’album.",
+            "Je suis mis une photo.",
+            "J’ai mettre une photo."
+          ],
+          "answer": "J’ai mis une photo dans l’album.",
+          "explanation_fa": "mettre a pour participe passé mis et se construit ici avec avoir."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "با هم‌گروهی خود دربارهٔ یکشنبه‌ای واقعی یا خیالی صحبت کنید. پنج فعل «faire», «prendre», «voir», «boire» و «mettre» را در passé composé با avoir به کار ببرید و یک فعالیت، نوشیدنی یا عکس را نام ببرید.",
+      "suggested_prompts": [
+        "Demandez ce qu’un ami a fait dimanche.",
+        "Dites que vous avez pris une photo.",
+        "Racontez ce que vous avez vu.",
+        "Mentionnez ce que vous avez bu ou mis dans un sac."
+      ],
+      "focus": [
+        "fait, pris, vu, bu, mis",
+        "passé composé avec avoir",
+        "پاسخ خیالی هم پذیرفته است"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 extension. Uses avoir with five high-frequency irregular participles; learners may invent their account of Sunday."
+  }
+}

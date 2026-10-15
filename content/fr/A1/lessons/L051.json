@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 51,
+    "title": "J’ai déménagé il y a trois semaines",
+    "subtitle": "Dire quand un événement a eu lieu",
+    "description": "Racontez quand une personne a commencé, loué ou quitté un logement.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "بیان زمانِ وقوع رویداد گذشته با ساخت il y a + مدت زمان",
+      "objectives": [
+        "il y a را پیش از مدت برای گفتن «... پیش» به‌کار ببرید",
+        "ساخت را با passé composé در رویدادهای تمام‌شده همراه کنید",
+        "بین il y a برای زمان گذشته و depuis برای وضعیت ادامه‌دار فرق بگذارید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "اگر دوستتان سه هفته پیش خانه‌اش را عوض کرده، چطور زمان آن رویداد را می‌گویید؟ از il y a و یک مدت استفاده کنید.",
+      "questions": [
+        {
+          "q": "در عبارت «il y a trois semaines»، مدت پیش از زمان حال است یا پس از آن؟",
+          "hint_fa": "رویداد تمام شده؛ زمان آن در گذشته است."
+        },
+        {
+          "q": "اگر وضعیت هنوز ادامه دارد، کدام ساخت درس قبل را به یاد می‌آورید؟",
+          "hint_fa": "برای وضعیت ادامه‌دار از depuis و زمان حال استفاده می‌کنیم."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Il y a + durée pour un événement passé",
+      "body_fa": "برای گفتن اینکه یک رویداد چه مدتی پیش اتفاق افتاده، در این کاربرد از «il y a + مدت» استفاده می‌کنیم: «il y a trois semaines, Lina a déménagé», «j’ai rencontré mon voisin il y a deux jours». رویداد در گذشته کامل شده و اغلب فعل در passé composé است. عبارت il y a می‌تواند ابتدای جمله یا پس از رویداد بیاید. این کاربرد زمانی را نشان می‌دهد که از اکنون به عقب می‌شماریم؛ اینجا معنای «وجود دارد» ندارد. با درس قبل مقایسه کنید: «j’habite ici depuis trois semaines» می‌گوید وضعیت هنوز ادامه دارد، اما «j’ai déménagé il y a trois semaines» به زمان رویداد کامل‌شده اشاره می‌کند. بعد از il y a، مدت را می‌آوریم: une heure، deux jours، trois mois.",
+      "key_points": [
+        "il y a + مدت، زمان رویداد گذشته را از اکنون بیان می‌کند.",
+        "با رویداد تمام‌شده، passé composé نمونهٔ رایجی است.",
+        "depuis برای وضعیتی است که همچنان ادامه دارد؛ این دو ساخت را جابه‌جا نکنید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "déménager",
+          "ipa": "/de.me.na.ʒe/",
+          "translation_fa": "اسباب‌کشی کردن",
+          "example": "Lina a déménagé il y a trois semaines.",
+          "example_fa": "لینا سه هفته پیش اسباب‌کشی کرد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "commencer",
+          "ipa": "/kɔ.mɑ̃.se/",
+          "translation_fa": "شروع کردن",
+          "example": "Le cours a commencé il y a un mois.",
+          "example_fa": "کلاس یک ماه پیش شروع شد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "terminer",
+          "ipa": "/tɛʁ.mi.ne/",
+          "translation_fa": "تمام کردن",
+          "example": "J’ai terminé le travail il y a une heure.",
+          "example_fa": "یک ساعت پیش کار را تمام کردم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "récemment",
+          "ipa": "/ʁe.sɑ̃.mɑ̃/",
+          "translation_fa": "اخیراً",
+          "example": "Nous avons récemment loué un appartement.",
+          "example_fa": "ما اخیراً آپارتمانی اجاره کرده‌ایم.",
+          "tag": "قید"
+        },
+        {
+          "term": "logement",
+          "ipa": "/lɔʒ.mɑ̃/",
+          "translation_fa": "محل سکونت",
+          "example": "Le logement est près du métro.",
+          "example_fa": "محل سکونت نزدیک مترو است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "nouveau",
+          "ipa": "/nu.vo/",
+          "translation_fa": "جدید",
+          "example": "Elle a un nouveau logement.",
+          "example_fa": "او محل سکونت جدیدی دارد.",
+          "tag": "صفت"
+        },
+        {
+          "term": "ancien",
+          "ipa": "/ɑ̃.sjɛ̃/",
+          "translation_fa": "قدیمی؛ پیشین",
+          "example": "Son ancien logement est près du centre.",
+          "example_fa": "محل سکونت قبلی او نزدیک مرکز است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "rencontrer",
+          "ipa": "/ʁɑ̃.kɔ̃.tʁe/",
+          "translation_fa": "ملاقات کردن",
+          "example": "J’ai rencontré la voisine il y a deux jours.",
+          "example_fa": "دو روز پیش با همسایه ملاقات کردم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "louer",
+          "ipa": "/lwe/",
+          "translation_fa": "اجاره کردن",
+          "example": "Ils ont loué un petit appartement.",
+          "example_fa": "آن‌ها آپارتمان کوچکی اجاره کردند.",
+          "tag": "فعل"
+        },
+        {
+          "term": "s’installer",
+          "ipa": "/sɛ̃s.ta.le/",
+          "translation_fa": "ساکن شدن؛ جاگیر شدن",
+          "example": "Nous nous installons dans le nouveau logement.",
+          "example_fa": "در محل سکونت جدید جاگیر می‌شویم.",
+          "tag": "فعل"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Il y a + durée et passé composé",
+      "explanation_fa": "وقتی یک رویدادِ تمام‌شده را نسبت به اکنون زمان‌بندی می‌کنیم، il y a را پیش از مدت می‌آوریم: «il y a trois semaines», «il y a une heure». نمونه: «j’ai déménagé il y a trois semaines». می‌توان عبارت زمان را ابتدای جمله گذاشت یا پس از فعل: «Lina a commencé le cours il y a un mois». در این کاربرد، il y a به معنی «... پیش» است؛ آن را با جملهٔ وجودی «il y a un appartement» اشتباه نگیرید. درس قبل ساخت دیگری را معرفی کرد: «j’habite ici depuis trois semaines» یعنی هنوز آنجا زندگی می‌کنم. پس il y a یک رویداد گذشته را تاریخ‌گذاری می‌کند و depuis مدتِ وضعیت جاری را بیان می‌کند.",
+      "pattern": "il y a + durée, événement au passé composé · depuis + durée, situation au présent",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "زمان رویداد",
+            "J’ai déménagé il y a trois semaines.",
+            "سه هفته پیش اسباب‌کشی کردم."
+          ],
+          [
+            "ابتدای جمله",
+            "Il y a un mois, elle a commencé le cours.",
+            "یک ماه پیش، او کلاس را شروع کرد."
+          ],
+          [
+            "پس از رویداد",
+            "Nous avons loué ce logement il y a deux jours.",
+            "دو روز پیش این محل سکونت را اجاره کردیم."
+          ],
+          [
+            "مقایسه با depuis",
+            "J’habite ici depuis trois semaines.",
+            "سه هفته است که اینجا زندگی می‌کنم."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "در این معنا، il y a پیش از مدت می‌آید.",
+        "برای وضعیت ادامه‌دار از depuis + زمان حال استفاده کنید."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Lina a déménagé il y a trois semaines.",
+          "fa": "لینا سه هفته پیش اسباب‌کشی کرد.",
+          "note_fa": "il y a زمان رویداد گذشته را نشان می‌دهد."
+        },
+        {
+          "target": "J’ai rencontré ma voisine il y a deux jours.",
+          "fa": "دو روز پیش با همسایه‌ام ملاقات کردم.",
+          "note_fa": "رویداد کامل‌شده در passé composé است."
+        },
+        {
+          "target": "Il y a un mois, le cours a commencé.",
+          "fa": "یک ماه پیش کلاس شروع شد.",
+          "note_fa": "عبارت زمان در ابتدای جمله آمده است."
+        },
+        {
+          "target": "Nous avons loué le logement récemment.",
+          "fa": "ما اخیراً محل سکونت را اجاره کردیم.",
+          "note_fa": "récemment زمان نزدیک گذشته را می‌رساند."
+        },
+        {
+          "target": "Depuis un an, je vis dans ce logement.",
+          "fa": "یک سال است که در این محل سکونت زندگی می‌کنم.",
+          "note_fa": "برای وضعیت ادامه‌دار از depuis استفاده می‌شود."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un nouvel appartement",
+      "script": "Lina: Tu as déménagé quand ?\nOmar: J’ai déménagé il y a trois semaines.\nLina: Tu as déjà rencontré tes voisins ?\nOmar: Oui, j’ai rencontré la dame du deuxième étage.\nLina: Tu as commencé à ouvrir les cartons ?\nOmar: Oui, j’ai commencé il y a deux jours.\nLina: Et ton ancien logement ?\nOmar: Nous l’avons quitté le mois dernier.\nLina: Tu es bien installé maintenant ?\nOmar: Oui, je suis dans mon nouveau logement depuis trois semaines.",
+      "script_fa": "لینا: چه زمانی اسباب‌کشی کردی؟\nعمر: سه هفته پیش اسباب‌کشی کردم.\nلینا: همسایه‌هایت را دیده‌ای؟\nعمر: بله، با خانمی از طبقهٔ دوم آشنا شدم.\nلینا: بازکردن کارتن‌ها را شروع کرده‌ای؟\nعمر: بله، دو روز پیش شروع کردم.\nلینا: محل سکونت قبلی‌ات چطور؟\nعمر: ماه گذشته آن را ترک کردیم.\nلینا: حالا در محل جدید جا افتاده‌ای؟\nعمر: بله، سه هفته است در محل سکونت جدید هستم.",
+      "question_fa": "Depuis quand Omar est-il dans son nouveau logement ?",
+      "answer": "Depuis trois semaines.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Une date pour le déménagement",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu as loué l’appartement quand ?",
+          "fa": "چه زمانی آپارتمان را اجاره کردی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Il y a deux mois.",
+          "fa": "دو ماه پیش."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu as commencé à préparer les cartons ?",
+          "fa": "بسته‌بندی کارتن‌ها را شروع کردی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, il y a une semaine.",
+          "fa": "بله، یک هفته پیش."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu as rencontré le propriétaire ?",
+          "fa": "با صاحب‌خانه ملاقات کردی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, récemment.",
+          "fa": "بله، اخیراً."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu es dans le nouveau logement depuis longtemps ?",
+          "fa": "مدت زیادی است در محل سکونت جدید هستی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Depuis lundi.",
+          "fa": "از دوشنبه."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در زندگی روزمره یا هنگام اسباب‌کشی، برای هم‌گروهی خود تعریف کنید یک رویداد چه مدتی پیش رخ داده است. از «il y a + مدت» و «passé composé» استفاده کنید و آن را با یک وضعیت هنوز ادامه‌دار که با «depuis» بیان می‌شود مقایسه کنید.",
+      "useful_phrases": [
+        {
+          "target": "J’ai déménagé il y a trois semaines.",
+          "fa": "سه هفته پیش اسباب‌کشی کردم."
+        },
+        {
+          "target": "Nous avons commencé il y a un mois.",
+          "fa": "یک ماه پیش شروع کردیم."
+        },
+        {
+          "target": "J’habite ici depuis un an.",
+          "fa": "یک سال است اینجا زندگی می‌کنم."
+        },
+        {
+          "target": "Depuis combien de temps es-tu dans ce logement ?",
+          "fa": "چه مدت است در این محل سکونت هستی؟"
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Un nouveau logement",
+      "text": "Il y a trois semaines, Nora a déménagé dans un nouveau logement près de son école. Elle a loué un appartement avec une petite cuisine. Il y a deux jours, elle a rencontré sa voisine et a commencé à découvrir le quartier. Son ancien logement est plus loin du centre. Nora a terminé les cartons le week-end dernier. Elle habite dans le nouvel appartement depuis trois semaines et s’y sent bien. Quand elle raconte le déménagement, elle emploie il y a pour dater les événements terminés et depuis pour parler de sa situation actuelle. Les dates peuvent être imaginaires dans l’activité.",
+      "glossary": [
+        {
+          "term": "quartier",
+          "fa": "محله"
+        },
+        {
+          "term": "carton",
+          "fa": "کارتن"
+        },
+        {
+          "term": "plus loin",
+          "fa": "دورتر"
+        },
+        {
+          "term": "se sentir bien",
+          "fa": "احساس خوبی داشتن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "نورا چه زمانی اسباب‌کشی کرد؟",
+          "a": "Il y a trois semaines."
+        },
+        {
+          "q_fa": "چه زمانی با همسایه آشنا شد؟",
+          "a": "Il y a deux jours."
+        },
+        {
+          "q_fa": "چه مدتی است در آپارتمان جدید زندگی می‌کند؟",
+          "a": "Depuis trois semaines."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "برای گفتن «سه هفته پیش» کدام ساخت مناسب است؟",
+          "question": "___ trois semaines, Lina a déménagé.",
+          "options": [
+            "Il y a",
+            "Depuis",
+            "Pendant"
+          ],
+          "answer": "Il y a",
+          "explanation_fa": "il y a + مدت زمان گذشته را بیان می‌کند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "کدام جمله دربارهٔ رویداد تمام‌شده است؟",
+          "question": "J’ai rencontré ma voisine ___.",
+          "options": [
+            "il y a deux jours",
+            "depuis deux jours",
+            "pendant deux jours"
+          ],
+          "answer": "il y a deux jours",
+          "explanation_fa": "ملاقات رویداد گذشته است و دو روز پیش رخ داده."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«J’habite ici depuis un an» می‌گوید وضعیت هنوز ادامه دارد.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "depuis با زمان حال وضعیت جاری را نشان می‌دهد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "کدام ساخت برای وضعیت ادامه‌دار مناسب است؟",
+          "question": "J’habite ici ___.",
+          "options": [
+            "depuis trois semaines",
+            "il y a trois semaines",
+            "il y a trois semaines demain"
+          ],
+          "answer": "depuis trois semaines",
+          "explanation_fa": "برای وضعیتی که هنوز ادامه دارد، depuis را به‌کار ببرید."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "عبارت زمان را کامل کنید.",
+          "question": "Nous avons déménagé il y ___ un mois.",
+          "answer": [
+            "a"
+          ],
+          "explanation_fa": "il y a + مدت به معنی یک ماه پیش است."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "بگو چه رویدادی چه مدتی پیش رخ داد و یک وضعیت چه مدتی است ادامه دارد.",
+          "question": "می‌توانی پاسخ خیالی بسازی.",
+          "answer": [
+            "J’ai déménagé il y a un mois et j’habite ici depuis trois semaines.",
+            "J’ai commencé le cours il y a deux jours et j’étudie depuis lundi."
+          ],
+          "explanation_fa": "il y a را با رویداد گذشته و depuis را با وضعیت جاری به‌کار ببر."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Que signifie «il y a trois semaines» dans cette phrase ?",
+          "options": [
+            "سه هفته پیش",
+            "سه هفته است و ادامه دارد",
+            "سه هفتهٔ دیگر"
+          ],
+          "answer": "سه هفته پیش",
+          "explanation_fa": "Ici, il y a date un événement passé."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle expression convient à une situation toujours en cours ?",
+          "options": [
+            "depuis",
+            "il y a",
+            "demain"
+          ],
+          "answer": "depuis",
+          "explanation_fa": "depuis s’emploie avec le présent pour une situation qui continue."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase date un événement terminé ?",
+          "options": [
+            "J’ai déménagé il y a trois semaines.",
+            "J’habite ici depuis trois semaines.",
+            "Je déménage demain."
+          ],
+          "answer": "J’ai déménagé il y a trois semaines.",
+          "explanation_fa": "Le déménagement est présenté comme un événement passé."
+        },
+        {
+          "type": "mcq",
+          "question": "Où peut-on placer «il y a deux jours» ?",
+          "options": [
+            "Au début ou après le verbe",
+            "Seulement après un nom",
+            "Avant le sujet sans le verbe"
+          ],
+          "answer": "Au début ou après le verbe",
+          "explanation_fa": "La durée peut être au début ou après l’événement."
+        },
+        {
+          "type": "mcq",
+          "question": "Complète : «J’habite ici ___ trois mois.»",
+          "options": [
+            "depuis",
+            "il y a",
+            "hier"
+          ],
+          "answer": "depuis",
+          "explanation_fa": "La personne habite encore ici, donc on emploie depuis."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در زندگی روزمره یا موقعیت اسباب‌کشی، برای هم‌گروهی خود زمان یک رویداد گذشته را با «il y a + مدت» بیان کنید. سپس یک وضعیت ادامه‌دار را با «depuis + زمان حال» بگویید.",
+      "suggested_prompts": [
+        "Dites qu’un déménagement a eu lieu il y a trois semaines.",
+        "Racontez une rencontre qui a eu lieu il y a deux jours.",
+        "Dites depuis combien de temps vous habitez dans un logement.",
+        "Comparez un événement terminé et une situation actuelle."
+      ],
+      "focus": [
+        "il y a + مدت برای رویداد گذشته",
+        "depuis + زمان حال برای وضعیت ادامه‌دار",
+        "passé composé"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 extension. Here il y a + duration means ‘ago’; the separate existential meaning of il y a is not the target."
+  }
+}

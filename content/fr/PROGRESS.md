@@ -4,7 +4,7 @@ Updated: 2026-10-15
 
 ## Content
 
-- Installed and validated: French L001–L043 (43 of 340).
+- Installed and validated: French L001–L058 (58 of 340).
 - L002–L004: age with `avoir`; spelling names and French diacritics; country of origin and residence.
 - L005–L007: language names and `ne...pas`; family vocabulary and possessives; regular present-tense `-er` verbs and weekly schedules.
 - L008–L010: adjective agreement in respectful descriptions; café orders and partitive articles; food preferences with definite articles.
@@ -19,20 +19,26 @@ Updated: 2026-10-15
 - L035–L037: lost-and-found descriptions and location review; birthday dates with `le/en/à`; proposing and coordinating activities.
 - L038–L040: possessive pronouns for personal items; `il y avait` versus `il y a` in a neighbourhood; sequencing a local event.
 - L041–L043: confirmed plans with the present tense; regular futur simple for travel projects; purpose with `pour + infinitif`.
-- L041–L043 range validator: 3 lessons, L001–L040 context, 3,608 checks, 0 errors.
-- Full French validator: 43 lessons, 50,882 checks, 0 errors.
-- L001–L040 remain unchanged by the latest batch.
+- L044–L046: manner adverbs; `trop/assez` with adjectives and nouns; first passé composé experiences with regular `-er` participles. L044’s reading was adjusted to avoid an out-of-scope subjunctive.
+- L047–L049: common `-ir`/`-re` participle models; movement verbs with `être` and basic agreement; high-frequency irregular participles with `avoir`.
+- L050–L052: `depuis` with the present for ongoing situations; `il y a + duration` for completed past events; `ne...plus` for changed routines.
+- L053–L055: indirect pronouns `lui/leur`; place pronoun `y`; quantity pronoun `en`.
+- L056–L058: `ne...rien`; affirmative `quelqu’un/quelque chose/quelque part`; negative `personne` as subject or object.
+- Range validations: L044–L046, 3 lessons / 3,617 checks / 0 errors; L047–L049, 3 / 3,619 / 0; L050–L052, 3 / 3,630 / 0; L053–L055, 3 / 3,729 / 0; L056–L058, 3 / 3,649 / 0.
+- Combined L044–L058 validation against L001–L043: 15 lessons, 18,244 checks, 0 errors.
+- Full French validation: 58 lessons, 69,126 checks, 0 errors.
+- Verified L001–L043 lesson bytes, plan files, and metadata entries remain unchanged. English content was not modified.
 - Spanish production lessons: 0.
 
 ## Audio — plans are not recordings
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 43; plan manifests: 43; planned clips: 1,892.
-- Verified physical MP3s: 0; lesson audio references: 0; missing planned clips: 1,892.
-- Lessons with complete real audio: 0; lessons without real audio: 43.
+- French lessons: 58; plan manifests: 58; planned clips: 2,556 (664 added for L044–L058; 46 clips each for L054 and L055, 44 for each other new lesson).
+- Verified physical MP3s: 0; lesson audio references: 0; missing planned clips: 2,556.
+- Lessons with complete real audio: 0; lessons without real audio: 58.
 
-No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation.
+No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
 
 ## Tooling notes
 
@@ -41,4 +47,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue with French L044: author an independent French-native specification, then build only the selected range in an isolated directory, create French-scoped audio plans, validate with L001–L043 context, run continuity/content QA, and install only after a zero-error pass.
+Continue sequentially from French L059: author a French-native specification, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against L001–L058, run continuity/content QA, and install only after zero-error validation.
