@@ -1,0 +1,407 @@
+{
+  "lesson": "L021",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L021-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu aimes lire des romans ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L021-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, et j’aime aussi écouter de la musique.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L021-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu préfères le cinéma ou les concerts ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L021-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je préfère les concerts, mais j’aime les films.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L021-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Tu veux dessiner avec moi samedi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L021-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Avec plaisir. J’aime dessiner au café.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L021-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Alors, nous pouvons nous retrouver après le déjeuner.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L021-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "D’accord, je prends mon livre aussi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L021-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Qu’est-ce que tu aimes faire après le travail ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L021-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "J’aime lire et dessiner à la maison.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L021-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu aimes aussi danser ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L021-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, mais je ne danse pas souvent en public.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L021-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Moi, je préfère nager et marcher dans le parc.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L021-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Tu joues à un jeu avec le groupe jeudi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L021-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, j’aime jouer aux cartes après le cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L021-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Et le cinéma, tu aimes y aller ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L021-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, j’aime aller au cinéma le week-end.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L021-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Alors, nous pouvons choisir une activité ensemble.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L021-fr-vocab-lire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "lire. J’aime lire un roman le soir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L021-fr-vocab-dessiner",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "dessiner. Camille aime dessiner des maisons.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L021-fr-vocab-danser",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "danser. Nous aimons danser après le concert.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L021-fr-vocab-nager",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "nager. Omar préfère nager le samedi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L021-fr-vocab-marcher",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "marcher. Je vais marcher dans le parc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L021-fr-vocab-jouer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "jouer. Les amis aiment jouer aux cartes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L021-fr-vocab-musique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "musique. J’écoute de la musique dans le tram.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L021-fr-vocab-cinema",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "cinéma. Nous allons au cinéma le week-end.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L021-fr-vocab-livre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "livre. Ce livre parle de voyages.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L021-fr-vocab-jeu",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "jeu. Ce jeu est facile à comprendre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L021-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’aime lire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 12
+    },
+    {
+      "id": "L021-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Tu aimes danser.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 16
+    },
+    {
+      "id": "L021-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Elle aime la musique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L021-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Je n’aime pas nager.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L021-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’aime lire dans le salon après le cours.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L021-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Aïcha adore dessiner, mais elle n’aime pas danser.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L021-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous aimons la musique et les livres.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L021-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Omar préfère marcher au parc le samedi.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L021-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Tu aimes jouer à ce jeu avec nous ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L021-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Au café des langues, les participants écrivent une activité qu’ils aiment faire. Léa aime lire des romans et dessiner pendant son temps libre. Aïcha préfère danser et écouter de la musique. Omar aime marcher dans le parc, mais il n’aime pas courir. Camille adore le cinéma et regarde un film le dimanche. Plusieurs personnes aiment jouer à des jeux après la séance. Le groupe compare les activités, puis choisit une promenade pour samedi. Chacun peut proposer une idée et inviter un ami. Les participants apprennent que les goûts changent, et qu’une activité simple permet aussi de pratiquer le français ensemble.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 613
+    },
+    {
+      "id": "L021-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L021)",
+      "tts_text": "یک کار را که دوست داری انجام دهی و یک چیز را که دوست داری نام ببر.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L021-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L021)",
+      "tts_text": "برای فعالیت از «aimer» همراه مصدر استفاده کن؛ برای علاقه به یک اسم، حرف تعریف معین را فراموش نکن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 97
+    },
+    {
+      "id": "L021-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L021)",
+      "tts_text": "به گفت‌وگو گوش کن و دو کاری را پیدا کن که لئا در خانه دوست دارد انجام دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L021-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L021)",
+      "tts_text": "در «j’aime lire»، فعل دوم مصدر است. در «j’aime la musique»، اسم با حرف تعریف معین می‌آید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 89
+    },
+    {
+      "id": "L021-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L021)",
+      "tts_text": "سرگرمی‌هایت را با یک دوست مقایسه کن و فعالیت مشترکی پیشنهاد بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L021-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L021)",
+      "tts_text": "برای ساختن برنامه‌ای مشترک، از سرگرمی‌های یکدیگر بپرس.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    }
+  ]
+}

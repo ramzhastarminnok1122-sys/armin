@@ -1,0 +1,407 @@
+{
+  "lesson": "L020",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L020-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Cette veste verte est à ma taille ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L020-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, et il y a aussi une veste noire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L020-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Je peux essayer la noire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L020-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Bien sûr, la cabine est à gauche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L020-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Elle est un peu grande.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L020-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Je peux chercher une taille plus petite.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L020-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Merci. J’aime bien cette couleur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L020-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Parfait, je vous la mets de côté.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L020-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour, je peux vous aider ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L020-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, je cherche une chemise bleue pour le travail.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L020-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Vous faites quelle taille ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L020-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Cette taille, s’il vous plaît. Vous l’avez en bleu clair ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L020-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, voici une chemise bleue et une rouge.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L020-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Je peux essayer la bleue ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L020-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Bien sûr. La cabine est près du miroir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L020-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Elle est confortable, mais les manches sont longues.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L020-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Je vais chercher une taille plus petite.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L020-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Merci. Je veux aussi regarder les chaussures rouges.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L020-fr-vocab-vetement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "vêtement. Ce vêtement est confortable.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L020-fr-vocab-taille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "taille. Vous avez cette taille en bleu ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L020-fr-vocab-couleur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "couleur. Quelle couleur préférez-vous ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L020-fr-vocab-chemise",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "chemise. Je cherche une chemise blanche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L020-fr-vocab-pantalon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "pantalon. Le pantalon noir est près de la porte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L020-fr-vocab-robe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "robe. Cette robe rouge est très simple.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L020-fr-vocab-chaussure",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "chaussure. Je cherche des chaussures confortables.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L020-fr-vocab-essayer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "essayer. Je peux essayer cette veste ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L020-fr-vocab-bleu",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "bleu. Le pantalon bleu est à ma taille.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L020-fr-vocab-rouge",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "rouge. Je préfère les chaussures rouges.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L020-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "un pantalon bleu",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 16
+    },
+    {
+      "id": "L020-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "une robe bleue",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 14
+    },
+    {
+      "id": "L020-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "des pantalons bleus",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 19
+    },
+    {
+      "id": "L020-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "des chaussures rouges",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L020-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je cherche une chemise bleue pour le cours.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L020-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Omar essaie un pantalon rouge.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L020-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Les chaussures rouges sont près du miroir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L020-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Vous avez cette veste en plus grand ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L020-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Je peux essayer la robe bleue ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L020-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Avant le cours, Camille entre dans un magasin de vêtements. Elle cherche une chemise claire et un pantalon confortable. La vendeuse lui montre une chemise bleue et une chemise blanche. Camille préfère la bleue, mais elle demande une taille plus grande. Elle essaie aussi un pantalon gris devant le miroir. Le pantalon est à sa taille, alors elle le garde. À la caisse, Camille remarque des chaussures rouges et demande si elles sont disponibles dans sa taille. La vendeuse vérifie le rayon. Camille remercie la vendeuse et repart avec ses achats dans un petit sac.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 564
+    },
+    {
+      "id": "L020-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L020)",
+      "tts_text": "یک لباس و رنگ دلخواهت را انتخاب کن و یک پرسش کوتاه دربارهٔ سایز آن بساز.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L020-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L020)",
+      "tts_text": "صفت رنگ معمولاً پس از اسم لباس می‌آید و با آن هماهنگ می‌شود؛ برای مثال «une robe bleue» و «un pantalon bleu».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 109
+    },
+    {
+      "id": "L020-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L020)",
+      "tts_text": "به گفت‌وگوی فروشگاه گوش کن و دلیل درخواست سایز کوچک‌تر را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L020-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L020)",
+      "tts_text": "«bleu» در مؤنث به «bleue» تبدیل می‌شود. صفت «rouge» در مفرد برای مذکر و مؤنث یکسان است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 87
+    },
+    {
+      "id": "L020-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L020)",
+      "tts_text": "در فروشگاه رنگ و سایز دلخواهت را بگو و برای پرو کردن اجازه بگیر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L020-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L020)",
+      "tts_text": "رنگ را با اسم لباس هماهنگ کن و اندازه را روشن بپرس.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "lesson": "L022",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L022-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Qu’est-ce que tu vas faire dimanche ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L022-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je vais découvrir une nouvelle librairie.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L022-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu vas y aller à pied ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L022-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, puis je vais prendre le tram pour rentrer.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L022-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Je vais aussi visiter le quartier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L022-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Nous pouvons nous retrouver devant le musée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L022-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "D’accord. À quelle heure ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L022-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Je vais t’envoyer l’heure ce soir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L022-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Tu vas faire quoi samedi, Léa ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L022-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je vais visiter une exposition au musée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L022-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Omar va venir avec nous ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L022-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, il va arriver après le déjeuner.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L022-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Vous allez ensuite au concert ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L022-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Non, nous allons rentrer à la maison.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L022-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Et dimanche, qu’est-ce que tu vas faire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L022-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Je vais regarder un film et découvrir un nouveau café.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L022-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Je vais me reposer, alors.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L022-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Tu peux venir avec nous au musée si tu veux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L022-fr-vocab-projet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "projet. Mon projet pour samedi est simple.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L022-fr-vocab-bientot",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "bientôt. Nous allons bientôt visiter le musée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L022-fr-vocab-visiter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "visiter. Elle va visiter une exposition.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L022-fr-vocab-decouvrir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "découvrir. Je vais découvrir un nouveau quartier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L022-fr-vocab-rentrer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "rentrer. Nous allons rentrer après le concert.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L022-fr-vocab-musee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "musée. Le musée ouvre tôt le samedi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L022-fr-vocab-exposition",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "exposition. L’exposition est dans le grand musée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L022-fr-vocab-concert",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "concert. Un concert commence à huit heures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L022-fr-vocab-film",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "film. Nous allons regarder un film ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L022-fr-vocab-weekend",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "week-end. Que fais-tu ce week-end ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L022-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je vais visiter le musée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L022-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Tu vas regarder un film.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L022-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous allons rentrer après le concert.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L022-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Vous allez découvrir la ville.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L022-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je vais visiter le musée samedi matin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L022-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu vas découvrir un nouveau quartier ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L022-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous allons regarder un film après le cours.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L022-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Aïcha va rentrer après le concert.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L022-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous allez visiter une exposition demain.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L022-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Camille va passer le week-end avec sa sœur. Samedi matin, elles vont visiter une exposition au musée de la ville. Après le déjeuner, elles vont découvrir un quartier ancien et prendre un café près de la place. Omar va les rejoindre plus tard ; il va arriver en tram. Le soir, tout le monde va écouter un concert dans une petite salle. Dimanche, Camille va rentrer tôt et regarder un film à la maison. Sa sœur va préparer le dîner. Les deux amies écrivent leur projet dans un message pour ne pas oublier l’heure du rendez-vous.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 526
+    },
+    {
+      "id": "L022-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L022)",
+      "tts_text": "یک فعالیت برای آخر هفته انتخاب کن و جمله را با «قرار است» شروع کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L022-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L022)",
+      "tts_text": "برای آیندهٔ نزدیک، «aller» را صرف کن و سپس مصدر بیاور؛ مانند «je vais visiter».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L022-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L022)",
+      "tts_text": "به گفت‌وگو گوش کن و مکانی را که لئا شنبه می‌رود پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L022-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L022)",
+      "tts_text": "در «nous allons visiter»، فعل «aller» صرف شده و «visiter» در مصدر باقی مانده است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 81
+    },
+    {
+      "id": "L022-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L022)",
+      "tts_text": "برنامهٔ آخر هفته‌ات را با سه جمله و زمان مشخص برای دوستت تعریف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L022-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L022)",
+      "tts_text": "برای برنامهٔ نزدیک، «aller» را صرف کن و فعل فعالیت را در مصدر نگه دار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 70
+    }
+  ]
+}
