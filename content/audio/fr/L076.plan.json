@@ -1,0 +1,407 @@
+{
+  "lesson": "L076",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L076-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu mets de l’huile dans la salade ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L076-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, mais je ne mets pas de moutarde.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L076-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu veux du poivre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 19
+    },
+    {
+      "id": "L076-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Non, je ne prends pas de poivre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L076-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Tu ajoutes de l’ail ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L076-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Non, je n’ajoute pas d’ail aujourd’hui.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L076-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Tu aimes la moutarde ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L076-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Non, je n’aime pas la moutarde.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L076-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Tu prépares les lentilles ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L076-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, mais je ne mets pas de cumin aujourd’hui.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L076-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu ajoutes de l’huile à la salade ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L076-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, et je mets du vinaigre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L076-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Tu veux de la moutarde ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L076-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Non, je ne prends pas de moutarde.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L076-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Et le poivre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 14
+    },
+    {
+      "id": "L076-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Je n’ai pas de poivre, mais j’ai du persil et de l’ail.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L076-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Tu cuisines du riz aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L076-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, mais je ne prépare pas de riz pour tout le monde.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L076-fr-vocab-lentilles",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "lentilles. Nous cuisinons des lentilles.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L076-fr-vocab-huile",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "huile. Il y a de l’huile dans la salade.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L076-fr-vocab-vinaigre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "vinaigre. J’ajoute du vinaigre à la salade.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L076-fr-vocab-poivre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "poivre. Ajoute du poivre, s’il te plaît.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L076-fr-vocab-moutarde",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "moutarde. La moutarde est forte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L076-fr-vocab-riz",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "riz. Je prépare du riz pour le dîner.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L076-fr-vocab-cumin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "cumin. Une pincée de cumin parfume la soupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L076-fr-vocab-ail",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "ail. Je coupe une gousse d’ail.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L076-fr-vocab-oignon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "oignon. L’oignon est sur la planche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L076-fr-vocab-persil",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "persil. Le persil est vert.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L076-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je prends du riz.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 17
+    },
+    {
+      "id": "L076-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Je ne prends pas de riz.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L076-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Je ne mets pas d’ail.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L076-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Je n’aime pas la moutarde.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L076-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je prends du riz. Je ne prends pas de riz.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L076-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Elle achète des lentilles. Elle n’achète pas de lentilles.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L076-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous mettons de l’huile. Nous ne mettons pas d’huile.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L076-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Il ajoute du poivre. Il n’ajoute pas de poivre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L076-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "J’aime la moutarde. Je n’aime pas la moutarde.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L076-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora prépare un repas simple pour ses amis. Elle cuisine des lentilles et du riz. Pour la salade, elle utilise de l’huile et du vinaigre. Elle ajoute un peu de persil, mais elle ne met pas de cumin. Son ami demande de la moutarde ; Nora répond qu’elle n’en a pas aujourd’hui. Elle n’ajoute pas d’ail parce que son frère n’aime pas son goût. Pourtant, elle aime la moutarde et le poivre. Dans une phrase négative, les articles indéfinis et partitifs deviennent souvent de ou d’. Avec aimer, l’article défini reste devant un aliment considéré en général.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 552
+    },
+    {
+      "id": "L076-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L076)",
+      "tts_text": "برای گفتن «روغن اضافه نمی‌کنم» پس از «ne...pas»، شکل «d’huile» را به‌کار ببر.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L076-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L076)",
+      "tts_text": "پس از «ne...pas»، حرف تعریف بخشی معمولاً به «de» یا «d’» تبدیل می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L076-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L076)",
+      "tts_text": "به گفت‌وگوی آشپزی گوش کن و ماده‌ای را پیدا کن که سمیر امروز اضافه نمی‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L076-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L076)",
+      "tts_text": "در جملهٔ کلی با «aimer»، حرف تعریف معین مثل «la» باقی می‌ماند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L076-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L076)",
+      "tts_text": "در زندگی روزمره دربارهٔ مواد غذایی که استفاده یا حذف می‌کنی صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L076-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L076)",
+      "tts_text": "در نفی از «de/d’» استفاده کن؛ با «aimer» و علاقهٔ کلی، «le»، «la» یا «les» را نگه دار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 86
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 75,
+    "title": "Le vendeur répond aux clients",
+    "subtitle": "Conjuguer les verbes réguliers en -re",
+    "description": "Attendez votre tour, posez une question et comprenez les réponses dans un magasin.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف فعل‌های منظمِ پایان‌یافته به -re در زمان حال",
+      "objectives": [
+        "فعل‌های منظم -re را با فاعل هماهنگ کنید",
+        "پایانه‌های مفرد و جمع را تشخیص دهید",
+        "فعل‌های منظم این گروه را از prendre جدا کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در فروشگاه، مشتری‌ها در صف منتظر می‌مانند و فروشنده به پرسش‌ها پاسخ می‌دهد. فعل‌های attendre و répondre را چطور با je و ils صرف می‌کنیم؟",
+      "questions": [
+        {
+          "q": "در شکل je برای فعل منظم -re، چه پایانه‌ای می‌آید؟",
+          "hint_fa": "به «je vends» فکر کنید."
+        },
+        {
+          "q": "در شکل il، آیا پس از ریشه d دیگری اضافه می‌شود؟",
+          "hint_fa": "به نوشتار «il vend» توجه کنید."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Le présent des verbes réguliers en -re",
+      "body_fa": "برای بسیاری از فعل‌های منظم -re، دو حرف پایانی مصدر را حذف می‌کنیم و پایانه‌های présent را می‌افزاییم: -s, -s, بدون پایانهٔ نوشتاری، -ons, -ez, -ent. فعل vendre چنین می‌شود: je vends, tu vends, il/elle vend, nous vendons, vous vendez, ils/elles vendent. فعل‌های attendre و répondre نیز همین الگو را دارند: j’attends, nous attendons؛ elle répond, ils répondent. در سوم‌شخص مفرد، d ریشه باقی می‌ماند و پایانهٔ اضافه‌ای نوشته نمی‌شود. این الگو برای فعل‌های پرکاربرد زیادی مناسب است، اما همهٔ فعل‌های -re یکسان نیستند: prendre و خانواده‌اش شکل‌های بی‌قاعده دارند. در فروشگاه، فاعل را پیدا کنید و بعد شکل فعل را انتخاب کنید.",
+      "key_points": [
+        "je/tu: -s؛ il/elle: پایانهٔ نوشتاری ندارد.",
+        "nous: -ons؛ vous: -ez؛ ils/elles: -ent.",
+        "prendre از الگوی منظم vendre پیروی نمی‌کند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "caisse",
+          "ipa": "/kɛs/",
+          "translation_fa": "صندوق پرداخت",
+          "example": "La caisse est près de la porte.",
+          "example_fa": "صندوق پرداخت نزدیک در است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "file",
+          "ipa": "/fil/",
+          "translation_fa": "صف",
+          "example": "La file avance lentement.",
+          "example_fa": "صف آرام جلو می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "reçu",
+          "ipa": "/ʁə.sy/",
+          "translation_fa": "رسید",
+          "example": "Le reçu est dans mon sac.",
+          "example_fa": "رسید در کیفم است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "échange",
+          "ipa": "/e.ʃɑ̃ʒ/",
+          "translation_fa": "تعویض",
+          "example": "Un échange est possible aujourd’hui.",
+          "example_fa": "امروز تعویض ممکن است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "promotion",
+          "ipa": "/pʁɔ.mɔ.sjɔ̃/",
+          "translation_fa": "تخفیف؛ پیشنهاد ویژه",
+          "example": "La promotion finit dimanche.",
+          "example_fa": "تخفیف یکشنبه تمام می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "soldes",
+          "ipa": "/sɔld/",
+          "translation_fa": "حراج فصلی",
+          "example": "Les soldes commencent en juin.",
+          "example_fa": "حراج فصلی در ژوئن شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "article",
+          "ipa": "/aʁ.tikl/",
+          "translation_fa": "کالا",
+          "example": "Cet article est en promotion.",
+          "example_fa": "این کالا با تخفیف است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "paiement",
+          "ipa": "/pɛ.mɑ̃/",
+          "translation_fa": "پرداخت",
+          "example": "Le paiement est rapide.",
+          "example_fa": "پرداخت سریع است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "achat",
+          "ipa": "/a.ʃa/",
+          "translation_fa": "خرید",
+          "example": "Cet achat est pour ma sœur.",
+          "example_fa": "این خرید برای خواهرم است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "remboursement",
+          "ipa": "/ʁɑ̃.buʁs.mɑ̃/",
+          "translation_fa": "بازپرداخت",
+          "example": "Le remboursement prend trois jours.",
+          "example_fa": "بازپرداخت سه روز طول می‌کشد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Vendre, attendre, répondre",
+      "explanation_fa": "فعل‌های منظم -re در زمان حال از یک الگو پیروی می‌کنند. ریشهٔ vendre برابر vend- است؛ سپس برای je و tu، s می‌افزاییم؛ برای il/elle پایانهٔ نوشتاری تازه‌ای نمی‌آید؛ و برای nous، vous و ils/elles به‌ترتیب ons، ez و ent می‌آید: je vends, tu vends, il vend, nous vendons, vous vendez, ils vendent. همین پایانه‌ها در attendre و répondre دیده می‌شود: j’attends, elle attend, nous attendons؛ je réponds, il répond, ils répondent. هنگام تلفظ، پایان‌های s و ent معمولاً شنیده نمی‌شوند، بنابراین فاعل به تشخیص شکل کمک می‌کند. فعل prendre شبیه پایان -re دارد، اما بی‌قاعده است: je prends, nous prenons. برای تمرین، از کارهای فروشگاه و پرسش‌های مشتری استفاده کنید.",
+      "pattern": "-re → -s / -s / Ø / -ons / -ez / -ent",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je vends un article. Tu attends ton reçu.",
+            "یک کالا می‌فروشم. تو منتظر رسیدت هستی."
+          ],
+          [
+            "il / elle",
+            "Le vendeur répond à la question.",
+            "فروشنده به پرسش پاسخ می‌دهد."
+          ],
+          [
+            "nous",
+            "Nous vendons des livres.",
+            "کتاب می‌فروشیم."
+          ],
+          [
+            "vous / ils",
+            "Vous attendez votre tour. Ils répondent.",
+            "منتظر نوبتتان هستید. آن‌ها پاسخ می‌دهند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "در سوم‌شخص مفرد، d ریشه باقی می‌ماند: il vend, elle répond.",
+        "prendre، apprendre و comprendre شکل‌های بی‌قاعده دارند."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je vends un article pendant les soldes.",
+          "fa": "در حراج فصلی کالایی می‌فروشم.",
+          "note_fa": "فعل vendre برای je با s نوشته می‌شود."
+        },
+        {
+          "target": "Tu attends dans la file.",
+          "fa": "در صف منتظر می‌مانی.",
+          "note_fa": "attendre برای tu به attends تبدیل می‌شود."
+        },
+        {
+          "target": "La vendeuse répond au client.",
+          "fa": "فروشنده به مشتری پاسخ می‌دهد.",
+          "note_fa": "در il/elle، شکل répond پایانهٔ نوشتاری اضافه ندارد."
+        },
+        {
+          "target": "Nous vendons cet article à la caisse.",
+          "fa": "این کالا را در صندوق می‌فروشیم.",
+          "note_fa": "nous با vendons می‌آید."
+        },
+        {
+          "target": "Ils attendent le remboursement.",
+          "fa": "آن‌ها منتظر بازپرداخت هستند.",
+          "note_fa": "پایانهٔ ils برای attendre برابر -ent است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Dans la file des soldes",
+      "script": "Léa: Pourquoi cette file devant la caisse ?\nSamir: Ce sont les soldes ; beaucoup de clients attendent.\nLéa: Tu vends cet article ?\nSamir: Non, je suis client. J’attends le reçu.\nLéa: Le vendeur répond aux questions ?\nSamir: Oui, il répond et explique la promotion.\nLéa: Tu gardes ton reçu pour un échange ?\nSamir: Oui, je ne perds pas les tickets.\nLéa: Et le paiement ?\nSamir: Nous payons à la caisse, puis nous descendons au parking.",
+      "script_fa": "لئا: چرا جلوی صندوق صف است؟\nسمیر: حراج فصلی است؛ مشتری‌های زیادی منتظرند.\nلئا: این کالا را می‌فروشی؟\nسمیر: نه، من مشتری هستم. منتظر رسیدم.\nلئا: فروشنده به پرسش‌ها پاسخ می‌دهد؟\nسمیر: بله، جواب می‌دهد و تخفیف را توضیح می‌دهد.\nلئا: رسیدت را برای تعویض نگه می‌داری؟\nسمیر: بله، رسیدها را گم نمی‌کنم.\nلئا: پرداخت چطور؟\nسمیر: در صندوق پرداخت می‌کنیم، بعد به پارکینگ پایین می‌رویم.",
+      "question_fa": "Qu’est-ce que Samir attend ?",
+      "answer": "Le reçu.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Un échange après l’achat",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu gardes le reçu ?",
+          "fa": "رسید را نگه می‌داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, j’attends un échange.",
+          "fa": "بله، منتظر تعویض هستم."
+        },
+        {
+          "speaker": "A",
+          "target": "Le commerçant répond vite ?",
+          "fa": "فروشندهٔ مغازه سریع پاسخ می‌دهد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, il répond à toutes les questions.",
+          "fa": "بله، به همهٔ پرسش‌ها پاسخ می‌دهد."
+        },
+        {
+          "speaker": "A",
+          "target": "Vous vendez encore cet article ?",
+          "fa": "هنوز این کالا را می‌فروشید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, nous vendons un autre modèle.",
+          "fa": "نه، مدل دیگری می‌فروشیم."
+        },
+        {
+          "speaker": "A",
+          "target": "Vous attendez le remboursement ?",
+          "fa": "منتظر بازپرداخت هستید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, il arrive dans trois jours.",
+          "fa": "بله، سه روز دیگر می‌رسد."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در خرید، با هم‌گروهی خود دربارهٔ یک کالا، صف پرداخت یا تعویض گفت‌وگو کنید. از فعل‌های منظم -re مانند vendre، attendre و répondre در زمان حال استفاده کنید.",
+      "useful_phrases": [
+        {
+          "target": "J’attends dans la file.",
+          "fa": "در صف منتظر می‌مانم."
+        },
+        {
+          "target": "Le vendeur répond à ma question.",
+          "fa": "فروشنده به پرسشم پاسخ می‌دهد."
+        },
+        {
+          "target": "Nous vendons cet article.",
+          "fa": "این کالا را می‌فروشیم."
+        },
+        {
+          "target": "Ils attendent le remboursement.",
+          "fa": "آن‌ها منتظر بازپرداخت هستند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une journée pendant les soldes",
+      "text": "Pendant les soldes, la file devant la caisse est longue. Un client attend son tour et regarde un article en promotion. La vendeuse répond à sa question : le modèle bleu est encore disponible. Le client choisit une taille et paie son achat. Il garde le reçu parce qu’un échange est possible pendant une semaine. À la caisse, les clients attendent calmement et les employés répondent aux demandes. Si un article ne convient pas, le magasin peut proposer un remboursement. Les verbes vendre, attendre et répondre se conjuguent régulièrement en -re au présent ; leurs formes changent selon le sujet.",
+      "glossary": [
+        {
+          "term": "disponible",
+          "fa": "موجود"
+        },
+        {
+          "term": "employé",
+          "fa": "کارمند"
+        },
+        {
+          "term": "demande",
+          "fa": "درخواست"
+        },
+        {
+          "term": "convenir",
+          "fa": "مناسب بودن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "مشتری چه چیزی را نگاه می‌کند؟",
+          "a": "Un article en promotion."
+        },
+        {
+          "q_fa": "چرا مشتری رسید را نگه می‌دارد؟",
+          "a": "Parce qu’un échange est possible pendant une semaine."
+        },
+        {
+          "q_fa": "کدام سه فعل با الگوی -re صرف می‌شوند؟",
+          "a": "Vendre, attendre et répondre."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل فعل برای je را کامل کنید.",
+          "question": "Je vend___ un article.",
+          "options": [
+            "s",
+            "ons",
+            "ent"
+          ],
+          "answer": "s",
+          "explanation_fa": "در je برای vendre از vends استفاده می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل را برای il کامل کنید.",
+          "question": "Le vendeur ___ à la question.",
+          "options": [
+            "répond",
+            "réponds",
+            "répondent"
+          ],
+          "answer": "répond",
+          "explanation_fa": "در سوم‌شخص مفرد پایانهٔ نوشتاری اضافه نمی‌آید."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "nous با فعل vendre به vendons صرف می‌شود.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "پایانهٔ nous در الگوی منظم -re برابر -ons است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل فعل برای ils را انتخاب کنید.",
+          "question": "Les clients attend__ leur tour.",
+          "options": [
+            "ent",
+            "ez",
+            "s"
+          ],
+          "answer": "ent",
+          "explanation_fa": "ils/elles برای فعل منظم -re پایانهٔ -ent می‌گیرد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل پاسخ‌دادن را برای vous کامل کنید.",
+          "question": "Vous répond___ au vendeur.",
+          "answer": [
+            "ez"
+          ],
+          "explanation_fa": "ez"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "سه جمله دربارهٔ یک خرید بساز: چه چیزی می‌فروشی، کجا منتظری و چه کسی پاسخ می‌دهد.",
+          "question": "از فروشگاه خیالی استفاده کن.",
+          "answer": [
+            "Je vends un article. Nous attendons dans la file. Le vendeur répond à ma question.",
+            "Ils vendent un modèle bleu. Tu attends ton tour. Nous répondons au client."
+          ],
+          "explanation_fa": "پایانهٔ فعل را با فاعل هماهنگ کن و فعل prendre را با این الگو یکی ندان."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle terminaison prend «je» avec vendre ?",
+          "options": [
+            "-s",
+            "-ez",
+            "-ent"
+          ],
+          "answer": "-s",
+          "explanation_fa": "On dit je vends."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle est la forme correcte au présent ?",
+          "options": [
+            "Il vend un article.",
+            "Il vends un article.",
+            "Il vendons un article."
+          ],
+          "answer": "Il vend un article.",
+          "explanation_fa": "Au présent, il vend ne prend pas de terminaison écrite supplémentaire."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle forme accompagne «nous» ?",
+          "options": [
+            "vendons",
+            "vendez",
+            "vendent"
+          ],
+          "answer": "vendons",
+          "explanation_fa": "nous vendons."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle forme accompagne «vous» avec répondre ?",
+          "options": [
+            "répondez",
+            "réponds",
+            "répondent"
+          ],
+          "answer": "répondez",
+          "explanation_fa": "vous répondez."
+        },
+        {
+          "type": "mcq",
+          "question": "Le verbe prendre suit-il exactement le modèle régulier de vendre ?",
+          "options": [
+            "Non, il est irrégulier.",
+            "Oui, toujours.",
+            "Seulement au pluriel."
+          ],
+          "answer": "Non, il est irrégulier.",
+          "explanation_fa": "prendre et ses composés ont des formes irrégulières."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در خرید، با هم‌گروهی خود دربارهٔ صف و کالاها صحبت کنید. فعل‌های vendre، attendre یا répondre را صرف کنید و شکل مفرد و جمع را با فاعل هماهنگ کنید.",
+      "suggested_prompts": [
+        "Dites ce que le magasin vend.",
+        "Expliquez où vous attendez.",
+        "Parlez d’un vendeur qui répond à une question.",
+        "Comparez une forme avec je et une forme avec nous."
+      ],
+      "focus": [
+        "présent régulier en -re",
+        "-s / -s / Ø / -ons / -ez / -ent",
+        "تفاوت با prendre"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-15",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. The core model uses vendre, attendre, and répondre; prendre and its family are irregular and not part of this pattern."
+  }
+}
