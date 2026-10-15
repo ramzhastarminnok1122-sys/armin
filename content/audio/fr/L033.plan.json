@@ -1,0 +1,407 @@
+{
+  "lesson": "L033",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L033-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu dois prendre ton crayon aujourd’hui.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L033-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je dois aussi apporter une calculatrice ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L033-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Non, ce n’est pas nécessaire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L033-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je ne dois pas oublier ma gomme.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L033-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Tu dois apporter une feuille pour le dessin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L033-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "D’accord. Elle est déjà dans ma trousse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L033-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Nous devons arriver à neuf heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L033-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Parfait, je prépare mes affaires ce soir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L033-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Demain, nous faisons un projet en classe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L033-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Qu’est-ce que je dois apporter ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L033-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu dois apporter une feuille et un crayon.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L033-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Est-ce que je dois prendre ma calculatrice ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L033-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, tu dois aussi prendre une gomme.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L033-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Je dois apporter mon ordinateur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L033-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Non, ce n’est pas nécessaire pour cette activité.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L033-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "D’accord. Je ne dois pas oublier ma trousse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L033-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Exactement. Nous devons commencer à neuf heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L033-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Je prépare tout ce soir, alors.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L033-fr-vocab-trousse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "trousse. Ma trousse est dans le sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L033-fr-vocab-feuille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "feuille. Il faut apporter une feuille blanche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L033-fr-vocab-crayon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "crayon. Tu dois prendre un crayon gris.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L033-fr-vocab-gomme",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "gomme. J’ai une gomme dans ma trousse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L033-fr-vocab-calculatrice",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "calculatrice. Nous devons utiliser une calculatrice.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L033-fr-vocab-chargeur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "chargeur. Tu dois prendre le chargeur de l’ordinateur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L033-fr-vocab-ordinateur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "ordinateur. Je dois apporter mon ordinateur demain.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L033-fr-vocab-devoir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "devoir. Vous devez écouter la consigne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L033-fr-vocab-apporter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "apporter. Je dois apporter mes feuilles.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L033-fr-vocab-oublier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "oublier. Je ne veux pas oublier ma trousse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L033-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je dois apporter une feuille.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L033-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Tu dois prendre un crayon.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L033-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous devons préparer le projet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L033-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Vous ne devez pas oublier la calculatrice.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L033-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je dois apporter ma trousse demain.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L033-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu dois prendre une feuille blanche.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L033-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous devons préparer le matériel à deux.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L033-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Elle ne doit pas oublier son crayon.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L033-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous devez écouter la consigne avant de commencer.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L033-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Pour un travail en classe, Lina doit préparer une petite affiche avec son groupe. Elle lit la consigne et note le matériel nécessaire. Chaque élève doit apporter une feuille, un crayon et une gomme. Lina doit aussi prendre sa trousse. Elle demande si elle doit apporter son ordinateur ; la professeure répond que ce n’est pas nécessaire aujourd’hui. Les élèves doivent arriver à neuf heures et travailler ensemble. Lina prépare ses affaires le soir pour ne rien oublier. La liste est propre à cette activité : pour un autre cours, le matériel peut être différent. Si une consigne n’est pas claire, les élèves demandent une précision à la professeure.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 650
+    },
+    {
+      "id": "L033-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L033)",
+      "tts_text": "برای پروژهٔ کلاسی بپرس چه وسیله‌ای باید همراه داشته باشی.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L033-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L033)",
+      "tts_text": "فعل «devoir» با فاعل صرف می‌شود و پس از آن فعل دوم در مصدر می‌آید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L033-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L033)",
+      "tts_text": "به گفت‌وگوی کلاس گوش کن و وسایلی را پیدا کن که لینا باید بیاورد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L033-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L033)",
+      "tts_text": "با «nous» می‌گوییم «nous devons»؛ در منفی «ne» و «pas» پیرامون آن می‌آیند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L033-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L033)",
+      "tts_text": "برای یک پروژهٔ مدرسه سه وظیفه را با «devoir + مصدر» بیان کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L033-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L033)",
+      "tts_text": "پیش از آماده‌کردن وسایل، دستور همان فعالیت را بررسی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    }
+  ]
+}

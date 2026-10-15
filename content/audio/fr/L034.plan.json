@@ -1,0 +1,407 @@
+{
+  "lesson": "L034",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L034-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Où est mon portefeuille ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L034-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Il est peut-être près de la porte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L034-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Non, il n’est pas là.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L034-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Regarde dans le tiroir, sous les cartes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L034-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Je vois le casque à côté du sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L034-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Et ton portefeuille ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L034-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Il est derrière la boîte !",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L034-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Très bien, tu l’as trouvé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L034-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Tu as vu mes lunettes ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L034-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Elles sont peut-être sur l’étagère.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L034-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Non, elles ne sont pas là.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L034-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Regarde derrière la boîte, près de la fenêtre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L034-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Je vois mon portefeuille dans le tiroir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L034-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Et le casque, il est où ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L034-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Il est sous la chaise, à côté du sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L034-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Tes lunettes sont entre les livres, sur la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L034-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Ah oui, je les vois maintenant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L034-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Parfait, tout est dans la salle de lecture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L034-fr-vocab-lunettes",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "lunettes. Mes lunettes sont sur la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L034-fr-vocab-etagere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "étagère. Le livre est sur l’étagère.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L034-fr-vocab-tiroir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "tiroir. La carte est dans le tiroir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L034-fr-vocab-boite",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "boîte. La boîte est derrière la chaise.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L034-fr-vocab-portefeuille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "portefeuille. Mon portefeuille est près de la porte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L034-fr-vocab-casque",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "casque. Le casque est à côté du sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L034-fr-vocab-chercher",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "chercher. Je cherche mes lunettes dans la salle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L034-fr-vocab-trouver",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "trouver. Tu peux trouver le livre sur l’étagère.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L034-fr-vocab-presde",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "près de. La boîte est près de la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L034-fr-vocab-acotede",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "à côté de. Le tiroir est à côté du bureau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L034-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Les lunettes sont sur la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L034-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Le casque est sous la chaise.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L034-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Le livre est à côté du sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L034-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "La boîte est entre les livres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L034-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mes lunettes sont sur l’étagère.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L034-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Le portefeuille est dans le tiroir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L034-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Le casque est derrière la boîte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L034-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La carte est à côté du livre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L034-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Où sont les lunettes de Nora ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L034-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après le cours, Noé cherche son portefeuille dans la salle de lecture. Il cherche sur la table, sous les livres et près de la fenêtre. Lina voit un casque derrière une boîte et un sac à côté de la chaise. Le portefeuille n’est pas dans le tiroir. Il est entre deux livres, sur l’étagère. Noé demande où sont ses lunettes ; elles sont dans une petite boîte, devant la porte. Les deux amis replacent les objets après les avoir trouvés. Ils décrivent leur position avec des mots simples pour aider les autres à les ranger au bon endroit.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 534
+    },
+    {
+      "id": "L034-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L034)",
+      "tts_text": "برای پیدا کردن وسیله‌ای در اتاق، بپرس کجاست و یک نشانهٔ مکانی بده.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L034-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L034)",
+      "tts_text": "برای گفتن جای شیء از «sur»، «sous»، «dans»، «devant» یا «derrière» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L034-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L034)",
+      "tts_text": "به گفت‌وگو گوش کن و جای عینک‌های لینا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L034-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L034)",
+      "tts_text": "برای اسم مفرد بگو «où est» و برای اسم جمع بگو «où sont».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L034-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L034)",
+      "tts_text": "در اتاق مطالعه دنبال وسایل بگرد و مکانشان را به دوستت بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L034-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L034)",
+      "tts_text": "حرف تعریف را پس از حرف اضافه درست انتخاب کن: du، de la یا des.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    }
+  ]
+}
