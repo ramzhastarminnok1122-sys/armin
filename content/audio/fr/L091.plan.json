@@ -1,0 +1,407 @@
+{
+  "lesson": "L091",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L091-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Nous appelons Hugo pour la répétition.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L091-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Tu appelles aussi la professeure ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L091-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui, je l’appelle maintenant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L091-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Vous appelez les autres musiciens ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L091-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, nous appelons le groupe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L091-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "La messagerie fonctionne ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L091-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, ils laissent un message après le bip.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L091-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Les élèves appellent leur amie ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L091-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Tu appelles Hugo après le cours ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L091-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, je l’appelle pour le groupe de musique.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L091-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu appelles la professeure maintenant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L091-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Non, nous appelons les musiciens d’abord.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L091-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Vous appelez Nina pour l’heure ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L091-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, nous l’appelons à six heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L091-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Les autres appellent aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L091-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, ils appellent leurs amis et ils laissent un message.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L091-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Le planning est prêt ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L091-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, nous appelons tout le monde après le cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L091-fr-vocab-repertoire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "répertoire. Mon répertoire contient des noms.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L091-fr-vocab-contact",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "contact. J’ajoute un contact au téléphone.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L091-fr-vocab-appel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "appel. L’appel dure une minute.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L091-fr-vocab-messagerie",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "messagerie. La messagerie est ouverte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L091-fr-vocab-combine",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "combiné. Le combiné est sur la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L091-fr-vocab-ecouteur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "écouteur. L’écouteur est dans ma poche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L091-fr-vocab-rappel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "rappel. Je fais un rappel après le cours.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L091-fr-vocab-boitevocale",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "boîte vocale. La boîte vocale contient un message.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L091-fr-vocab-planning",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "planning. Le planning du groupe change demain.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L091-fr-vocab-annuaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "annuaire. L’annuaire indique le numéro du local.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L091-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’appelle Hugo. Tu appelles le groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L091-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle appelle la professeure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L091-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous appelons les musiciens. Vous appelez Nina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L091-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils appellent après le cours.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L091-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’appelle Hugo pour la répétition.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L091-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu appelles le groupe après le cours.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L091-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La professeure appelle Nina.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L091-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous appelons les musiciens ce soir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L091-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves appellent leur amie.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L091-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nina organise une répétition avec ses amis. Elle ajoute chaque contact au répertoire de son téléphone. Après le cours, elle appelle Hugo et la professeure. Le groupe veut choisir une heure qui convient à tous. Nina ouvre la messagerie et écoute un rappel de son amie Léa. Les autres musiciens appellent aussi ; certains laissent un message dans la boîte vocale. Le planning change, alors Nina appelle tout le monde une deuxième fois. Elle explique la règle du verbe appeler : j’appelle, tu appelles, elle appelle, nous appelons et ils appellent. Les formes avec je, tu, il et ils prennent deux l ; nous et vous en gardent un seul.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 630
+    },
+    {
+      "id": "L091-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L091)",
+      "tts_text": "در «j’appelle» دو l و در «nous appelons» یک l نوشته می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L091-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L091)",
+      "tts_text": "فعل «appeler» با فاعل تغییر املایی دارد: «j’appelle»، «nous appelons» و «ils appellent».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 88
+    },
+    {
+      "id": "L091-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L091)",
+      "tts_text": "به هماهنگی تمرین گروه گوش کن و بفهم نینا اول به چه کسانی زنگ می‌زند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L091-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L091)",
+      "tts_text": "برای «je» و «ils» دو l بنویس؛ برای «nous» و «vous» یک l بنویس.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L091-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L091)",
+      "tts_text": "در زندگی روزمره برای تمرین موسیقی با دوستان تماس بگیر و مخاطب را نام ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L091-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L091)",
+      "tts_text": "شکل‌های «appelle», «appelles», «appelons», «appelez» و «appellent» را با فاعل مناسب بنویس.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 90
+    }
+  ]
+}
