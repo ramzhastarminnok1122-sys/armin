@@ -1,0 +1,407 @@
+{
+  "lesson": "L009",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L009-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Bonjour, qu’est-ce que vous prenez ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L009-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je voudrais un thé au citron.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L009-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Vous voulez aussi une petite salade ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L009-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, et un verre d’eau, s’il vous plaît.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L009-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Voici votre thé et votre salade.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L009-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Merci. Où est la caisse ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L009-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Juste à côté de la porte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L009-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Parfait, je paie après le cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L009-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour, vous désirez ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L009-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je voudrais un café et de l’eau, s’il vous plaît.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L009-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Vous prenez du lait avec le café ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L009-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, un peu de lait, merci.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L009-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Pour manger, nous avons du pain et de la soupe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L009-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Je voudrais une salade et un morceau de pain.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L009-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Bien. Il y a aussi du jus d’orange.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L009-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Non merci, seulement de l’eau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L009-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Très bien, vous payez à la caisse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L009-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Merci. L’addition, s’il vous plaît.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L009-fr-vocab-cafe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "café. Je voudrais un café, s’il vous plaît.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L009-fr-vocab-the",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "thé. Je bois du thé au citron après le cours.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L009-fr-vocab-eau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "eau. Je voudrais de l’eau froide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L009-fr-vocab-lait",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "lait. Je prends un peu de lait.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L009-fr-vocab-jus",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "jus. Elle commande un jus d’orange.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L009-fr-vocab-pain",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "pain. Nous prenons du pain avec la soupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L009-fr-vocab-soupe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "soupe. La soupe du jour est chaude.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L009-fr-vocab-salade",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "salade. Une salade verte, s’il vous plaît.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L009-fr-vocab-addition",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "addition. L’addition, s’il vous plaît.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L009-fr-vocab-commander",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "commander. Vous pouvez commander au comptoir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L009-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "un café",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 7
+    },
+    {
+      "id": "L009-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "une salade",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 10
+    },
+    {
+      "id": "L009-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "du pain",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 7
+    },
+    {
+      "id": "L009-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "de l’eau",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 8
+    },
+    {
+      "id": "L009-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je voudrais un thé et de l’eau froide.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L009-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous prenons du pain avec la soupe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L009-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Une salade verte, s’il vous plaît.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L009-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Vous commandez un jus d’orange au comptoir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L009-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Je voudrais un peu de lait, merci.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L009-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après la séance, le groupe consulte la carte du café. On peut commander un café, un thé ou un jus d’orange. Pour manger, il y a une salade verte et une soupe du jour. Le pain est servi avec la soupe ; l’eau est disponible froide ou à température ambiante. Léa voudrait un thé et une salade. Omar prend un café avec un peu de lait, puis il partage du pain avec son amie. Les prix sont affichés près du comptoir. Quand le repas est terminé, les clients demandent l’addition et paient à la caisse. Le personnel répond avec un sourire et souhaite une bonne journée.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 561
+    },
+    {
+      "id": "L009-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L009)",
+      "tts_text": "یک نوشیدنی و یک خوراکی ساده انتخاب کن و سفارش مؤدبانه‌ای برای کافه بساز.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L009-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L009)",
+      "tts_text": "برای یک قلم قابل‌شمارش از «un» یا «une» استفاده کن؛ برای مقدار نامشخص، «du»، «de la» یا «de l’» را با اسم هماهنگ کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 116
+    },
+    {
+      "id": "L009-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L009)",
+      "tts_text": "به گفت‌وگوی کافه گوش کن و خوراکی‌هایی را که مشتری برای خوردن می‌خواهد پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L009-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L009)",
+      "tts_text": "«eau» با واکه آغاز می‌شود، بنابراین می‌گوییم «de l’eau». پیش از «pain» مذکر از «du» استفاده می‌کنیم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 100
+    },
+    {
+      "id": "L009-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L009)",
+      "tts_text": "در کافه یک نوشیدنی و یک خوراکی سفارش بده و از عبارت مؤدبانه استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L009-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L009)",
+      "tts_text": "جنس اسم را همراه واژه یاد بگیر تا شکل حرف تعریف را درست انتخاب کنی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    }
+  ]
+}

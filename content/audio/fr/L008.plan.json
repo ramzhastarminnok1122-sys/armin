@@ -1,0 +1,407 @@
+{
+  "lesson": "L008",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L008-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Voici ma nouvelle amie, elle est très gentille.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L008-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Comment s’appelle-t-elle ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L008-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Elle s’appelle Nora et elle est curieuse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L008-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Elle est sportive aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L008-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, mais elle est calme pendant le cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L008-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Et tes collègues, ils sont comment ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L008-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Ils sont patients et très drôles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L008-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Merci, j’ai hâte de les rencontrer.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L008-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour, comment était la première séance pour toi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L008-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Très bien. Le groupe est patient avec les nouveaux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L008-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Et Aïcha, comment est-elle pendant les jeux ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L008-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Elle est curieuse et pose des questions très utiles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L008-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Camille est aussi drôle ; elle fait rire tout le monde.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L008-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, et les deux participantes sont très gentilles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L008-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Mon frère vient parfois. Il est sportif et calme.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L008-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "C’est agréable. Les personnes sont différentes, mais très accueillantes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L008-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Tu as choisi de bons mots pour les décrire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L008-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Merci. Je préfère parler de leurs qualités et de leurs idées.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L008-fr-vocab-calme",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "calme. Léa est calme avant la séance.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L008-fr-vocab-gentil",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "gentil. Omar est gentil avec les nouveaux membres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L008-fr-vocab-gentille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "gentille. Aïcha est gentille avec tout le groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L008-fr-vocab-curieux",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "curieux. Il est curieux et pose des questions.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L008-fr-vocab-curieuse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "curieuse. Camille est curieuse de découvrir la ville.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L008-fr-vocab-sportif",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "sportif. Mon frère est sportif et aime marcher.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L008-fr-vocab-sportive",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "sportive. Ma sœur est sportive, mais très calme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L008-fr-vocab-patient",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "patient. Omar est patient quand il explique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L008-fr-vocab-patiente",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "patiente. Lina est patiente avec les débutants.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L008-fr-vocab-drole",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "drôle. Aïcha est drôle et raconte une histoire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L008-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Il est patient.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 15
+    },
+    {
+      "id": "L008-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle est patiente.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L008-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils sont sportifs.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L008-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Elles sont sportives.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L008-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Léa est calme et Omar est patient.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L008-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Camille est curieuse de connaître le groupe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L008-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Mes amies sont sportives et gentilles.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L008-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les participants sont patients pendant le jeu.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L008-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Mon amie est drôle, mais elle est aussi sérieuse.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L008-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Au café des langues, Léa demande aux participants de choisir un mot positif pour décrire une personne. Omar dit qu’Aïcha est curieuse : elle écoute les réponses et pose des questions. Camille est drôle et raconte souvent une histoire. Les deux amies sont aussi patientes avec les débutants. Le frère de Léa est sportif, mais il reste calme pendant les jeux. Sur une carte, chacun écrit le prénom d’une personne et une qualité, sans parler de son apparence ou de son origine. À la fin, le groupe remarque que les adjectifs changent parfois selon la personne : patient devient patiente, et sportif devient sportive. Les mots aident à commencer une conversation respectueuse.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 672
+    },
+    {
+      "id": "L008-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L008)",
+      "tts_text": "دو ویژگی رفتاری مثبت برای توصیف خودت یا دوستی انتخاب کن و از ظاهر افراد نتیجه‌گیری نکن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 87
+    },
+    {
+      "id": "L008-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L008)",
+      "tts_text": "صفت پس از «être» می‌آید و با شخص توصیف‌شده هماهنگ می‌شود؛ در بسیاری از واژه‌ها شکل مؤنث با «e» ساخته می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 108
+    },
+    {
+      "id": "L008-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L008)",
+      "tts_text": "به گفت‌وگو گوش کن و دو ویژگی‌ای را که عمر برای توصیف عایشه به کار می‌برد پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 81
+    },
+    {
+      "id": "L008-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L008)",
+      "tts_text": "در «curieux» و «curieuse» پایان صفت با جنس شخص تغییر می‌کند. در جمع معمولاً «s» اضافه می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 93
+    },
+    {
+      "id": "L008-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L008)",
+      "tts_text": "دو نفر را با صفت‌های رفتاری مثبت توصیف کن و به جنس و شمار آن‌ها توجه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L008-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L008)",
+      "tts_text": "برای توصیف روشن و محترمانه، صفت را با شخص هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    }
+  ]
+}

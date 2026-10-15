@@ -1,0 +1,407 @@
+{
+  "lesson": "L010",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L010-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu aimes les tartes aux fruits ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L010-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, j’adore la tarte aux pommes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L010-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu préfères le gâteau au chocolat ou le fruit ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L010-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je préfère le fruit après le repas.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L010-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Et le café, tu l’aimes ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L010-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, mais je ne bois pas de café le soir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L010-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Alors, une tisane ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 19
+    },
+    {
+      "id": "L010-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Bonne idée. J’aime les boissons chaudes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L010-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Tu aimes le fromage dans les salades ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L010-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, j’aime le fromage, surtout avec des légumes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L010-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Moi, je préfère les fruits après le déjeuner.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L010-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Tu adores aussi le chocolat ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L010-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, mais je n’aime pas les desserts très sucrés.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L010-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Et le poisson, tu aimes ça ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L010-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Non, je déteste le poisson, mais j’adore les légumes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L010-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Nous avons des goûts différents, alors.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L010-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "C’est bien. Tu veux goûter un fruit avec moi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L010-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Bien sûr. Merci, je goûte la pomme.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L010-fr-vocab-aimer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "aimer. J’aime le fromage dans une salade.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L010-fr-vocab-adorer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "adorer. Elle adore le chocolat noir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L010-fr-vocab-detester",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "détester. Nous détestons les plats trop épicés.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L010-fr-vocab-preferer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "préférer. Je préfère les fruits au dessert.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L010-fr-vocab-plat",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "plat. Ce plat contient des légumes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L010-fr-vocab-fruit",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "fruit. Tu aimes ce fruit ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L010-fr-vocab-legume",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "légume. La carotte est un légume.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L010-fr-vocab-fromage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "fromage. Le fromage est sur la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L010-fr-vocab-chocolat",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "chocolat. Nous aimons le chocolat chaud.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L010-fr-vocab-gouter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "goûter. Je goûte un nouveau plat.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L010-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’aime le fromage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L010-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle adore la soupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L010-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous aimons l’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L010-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils détestent les olives.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L010-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’aime le fromage, mais je préfère les fruits.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L010-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Aïcha adore le chocolat noir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L010-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous n’aimons pas les plats trop salés.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L010-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Tu préfères la soupe ou la salade ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L010-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Je voudrais un café, mais j’aime le thé.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L010-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après le cours, le groupe prépare une petite liste de ses goûts. Léa aime les fruits et préfère la soupe aux plats très épicés. Omar adore le fromage, mais il ne déteste aucun légume. Aïcha aime le chocolat noir et goûte volontiers de nouveaux plats. Camille préfère l’eau au jus pendant le déjeuner. Les participants remarquent que chacun a des préférences différentes. Pour parler d’une catégorie en général, ils disent j’aime le fromage ou je n’aime pas les olives. Quand ils commandent une seule portion, ils disent plutôt un plat ou une salade. Ils choisissent finalement un dessert aux fruits à partager, puis demandent l’addition.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 637
+    },
+    {
+      "id": "L010-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L010)",
+      "tts_text": "به یک غذای مورد علاقه و یک غذای ناپسند فکر کن و برای بیان علاقهٔ کلی اسم را با حرف تعریف معین بیاور.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 100
+    },
+    {
+      "id": "L010-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L010)",
+      "tts_text": "برای علاقهٔ کلی از «le»، «la»، «l’» یا «les» استفاده کن. برای یک سفارش یا مقدار نامشخص، شکل‌های دیگری لازم است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 111
+    },
+    {
+      "id": "L010-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L010)",
+      "tts_text": "به گفت‌وگو گوش کن و خوراکی‌ای را پیدا کن که لئا دوست ندارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L010-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L010)",
+      "tts_text": "در جملهٔ منفیِ علاقه، حرف تعریف معین معمولاً باقی می‌ماند؛ می‌گوییم «je n’aime pas le fromage».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 95
+    },
+    {
+      "id": "L010-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L010)",
+      "tts_text": "سلیقهٔ غذایی خودت را با یک دوست مقایسه کن و خوراکی‌ای برای امتحان پیشنهاد بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L010-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L010)",
+      "tts_text": "برای بیان علاقهٔ کلی از le، la، l’ یا les استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    }
+  ]
+}
