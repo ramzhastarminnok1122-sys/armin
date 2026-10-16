@@ -1,0 +1,471 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 99,
+    "title": "Nous nettoyons le parc après la course",
+    "subtitle": "Le présent du verbe nettoyer",
+    "description": "Organisez le nettoyage du parc avec nettoyer au présent.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف nettoyer در زمان حال و تغییر y به i در برخی شکل‌ها",
+      "objectives": [
+        "شش شکل فعل nettoyer را در زمان حال به‌کار ببرید",
+        "تغییر y به i را با شکل‌های nous/vous مقایسه کنید",
+        "دربارهٔ پاک‌سازی پارک پس از مسابقه صحبت کنید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "پس از مسابقه، کلاس پارک را تمیز می‌کند و زباله‌ها را جداگانه جمع می‌کند. در فرانسوی می‌گوییم «je nettoie» اما «nous nettoyons». حرف y در بعضی شکل‌ها به i تبدیل می‌شود و در شکل‌های nous و vous باقی می‌ماند.",
+      "questions": [
+        {
+          "q": "برای je، شکل nettoyer چیست؟",
+          "hint_fa": "به «je nettoie» فکر کنید."
+        },
+        {
+          "q": "در شکل nous حرف y به i تبدیل می‌شود؟",
+          "hint_fa": "در «nous nettoyons»، y باقی می‌ماند."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Nettoyer au présent",
+      "body_fa": "nettoyer فعل گروه اول است، اما در نوشتار تغییر دارد: je nettoie، tu nettoies، il/elle nettoie، nous nettoyons، vous nettoyez و ils/elles nettoient. پیش از پایان‌های دارای e بی‌صدا، y به i تبدیل می‌شود: nettoie، nettoies و nettoient. در nous و vous، پس از y واکهٔ شنیدنی می‌آید؛ بنابراین y را حفظ می‌کنیم و می‌نویسیم nettoyons و nettoyez. این تغییر در تلفظ شکل‌های مفرد معمولاً تفاوت زیادی ایجاد نمی‌کند، پس به فاعل دقت کنید. nettoyer یعنی تمیزکردن: nettoyer le parc، nettoyer une table. پس از فعل، چیزی را که تمیز می‌کنیم می‌آوریم. بعد از یک رویداد می‌توان گفت «nous nettoyons le parc» یا «ils nettoient les tables».",
+      "key_points": [
+        "je/tu/il: nettoie، nettoies، nettoie.",
+        "nous nettoyons؛ vous nettoyez.",
+        "ils/elles nettoient؛ y پیش از e بی‌صدا به i تبدیل می‌شود."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "déchet",
+          "ipa": "/de.ʃɛ/",
+          "translation_fa": "زباله",
+          "example": "Je ramasse un déchet près du banc.",
+          "example_fa": "زباله‌ای را نزدیک نیمکت برمی‌دارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "canette",
+          "ipa": "/ka.nɛt/",
+          "translation_fa": "قوطی نوشیدنی",
+          "example": "La canette va dans le bac de tri.",
+          "example_fa": "قوطی نوشیدنی داخل سطل تفکیک می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "sac-poubelle",
+          "ipa": "/sak pu.bɛl/",
+          "translation_fa": "کیسهٔ زباله",
+          "example": "Le sac-poubelle est près de l’entrée.",
+          "example_fa": "کیسهٔ زباله نزدیک ورودی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "gants",
+          "ipa": "/ɡɑ̃/",
+          "translation_fa": "دستکش",
+          "example": "Les gants protègent les mains.",
+          "example_fa": "دستکش‌ها از دست‌ها محافظت می‌کنند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pince",
+          "ipa": "/pɛ̃s/",
+          "translation_fa": "انبر",
+          "example": "La pince aide à ramasser les papiers.",
+          "example_fa": "انبر به جمع‌کردن کاغذها کمک می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "bac de tri",
+          "ipa": "/bak də tʁi/",
+          "translation_fa": "سطل تفکیک",
+          "example": "Le bac de tri est jaune.",
+          "example_fa": "سطل تفکیک زرد است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "recyclage",
+          "ipa": "/ʁə.si.klaʒ/",
+          "translation_fa": "بازیافت",
+          "example": "Le recyclage commence au parc.",
+          "example_fa": "بازیافت در پارک آغاز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "emballage",
+          "ipa": "/ɑ̃.ba.laʒ/",
+          "translation_fa": "بسته‌بندی",
+          "example": "L’emballage est en carton.",
+          "example_fa": "بسته‌بندی از مقواست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "bouteille en plastique",
+          "ipa": "/bu.tɛj ɑ̃ plas.tik/",
+          "translation_fa": "بطری پلاستیکی",
+          "example": "Nous nettoyons une bouteille en plastique.",
+          "example_fa": "بطری پلاستیکی‌ای را تمیز می‌کنیم.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "carton",
+          "ipa": "/kaʁ.tɔ̃/",
+          "translation_fa": "مقوا؛ کارتن",
+          "example": "Le carton va avec le papier.",
+          "example_fa": "مقوا کنار کاغذ می‌رود.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Je nettoie, nous nettoyons",
+      "explanation_fa": "nettoyer در زمان حال این‌گونه صرف می‌شود: je nettoie، tu nettoies، il/elle nettoie، nous nettoyons، vous nettoyez و ils/elles nettoient. در شکل‌های مفرد و سوم‌شخص جمع، y پیش از e بی‌صدا به i تبدیل می‌شود. اما در nous و vous، y باقی می‌ماند، چون پس از آن واکهٔ شنیدنی o یا e می‌آید: nettoyons و nettoyez. این الگو را در چند فعل دیگر خانوادهٔ -oyer هم می‌بینیم. برای گفتن چیزی که تمیز می‌کنیم، آن را پس از فعل می‌آوریم: nettoyer le parc، nettoyer une table. پس از مسابقه، گروه می‌گوید «nous nettoyons les tables» و داوطلبان می‌گویند «ils nettoient le chemin». فاعل را پیدا کنید و به شکل نوشتاری توجه کنید.",
+      "pattern": "je nettoie · tu nettoies · il/elle nettoie · nous nettoyons · vous nettoyez · ils/elles nettoient",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je nettoie la table. Tu nettoies le banc.",
+            "میز را تمیز می‌کنم. تو نیمکت را تمیز می‌کنی."
+          ],
+          [
+            "il / elle",
+            "Elle nettoie le bac de tri.",
+            "او سطل تفکیک را تمیز می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous nettoyons le parc. Vous nettoyez les gants.",
+            "پارک را تمیز می‌کنیم. شما دستکش‌ها را تمیز می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Ils nettoient le chemin après la course.",
+            "آن‌ها پس از مسابقه راه را تمیز می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "در شکل‌های je/tu/il/ils، nettoy- به nettoi- تبدیل می‌شود.",
+        "در nous و vous، y را نگه دارید: nettoyons و nettoyez."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je nettoie la table du parc.",
+          "fa": "میز پارک را تمیز می‌کنم.",
+          "note_fa": "برای je شکل nettoyer برابر nettoie است."
+        },
+        {
+          "target": "Tu nettoies le banc avec un chiffon.",
+          "fa": "نیمکت را با پارچه تمیز می‌کنی.",
+          "note_fa": "برای tu شکل nettoies به کار می‌رود."
+        },
+        {
+          "target": "Lina nettoie le bac de tri.",
+          "fa": "لینا سطل تفکیک را تمیز می‌کند.",
+          "note_fa": "برای elle شکل nettoie می‌آید."
+        },
+        {
+          "target": "Nous nettoyons les tables après la course.",
+          "fa": "پس از مسابقه میزها را تمیز می‌کنیم.",
+          "note_fa": "شکل nous برابر nettoyons است و y دارد."
+        },
+        {
+          "target": "Les élèves nettoient le chemin du parc.",
+          "fa": "دانش‌آموزان راه پارک را تمیز می‌کنند.",
+          "note_fa": "برای ils شکل nettoient نوشته می‌شود."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un parc propre après la course",
+      "script": "Lina: Nous nettoyons le parc après la course ?\nNoé: Oui, nous nettoyons les tables près du banc.\nLina: Tu nettoies aussi le chemin ?\nNoé: Oui, je nettoie le chemin avec une pince.\nLina: Les gants sont dans le sac ?\nNoé: Oui, ils protègent les mains.\nLina: Vous nettoyez le bac de tri ?\nNoé: Oui, nous nettoyons le bac et séparons le carton.\nLina: Les autres élèves ramassent les canettes ?\nNoé: Oui, ils nettoient aussi l’espace près de l’entrée.",
+      "script_fa": "لینا: پس از مسابقه پارک را تمیز می‌کنیم؟\nنوئه: بله، میزهای نزدیک نیمکت را تمیز می‌کنیم.\nلینا: راه را هم تمیز می‌کنی؟\nنوئه: بله، راه را با انبر تمیز می‌کنم.\nلینا: دستکش‌ها داخل کیسه‌اند؟\nنوئه: بله، از دست‌ها محافظت می‌کنند.\nلینا: سطل تفکیک را تمیز می‌کنید؟\nنوئه: بله، سطل را تمیز و مقوا را جدا می‌کنیم.\nلینا: دانش‌آموزان دیگر قوطی‌ها را جمع می‌کنند؟\nنوئه: بله، فضای نزدیک ورودی را هم تمیز می‌کنند.",
+      "question_fa": "Avec quel objet Noé nettoie-t-il le chemin ?",
+      "answer": "Avec une pince.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Trier les déchets",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Je nettoie la table ici.",
+          "fa": "اینجا میز را تمیز می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Tu nettoies aussi le banc ?",
+          "fa": "نیمکت را هم تمیز می‌کنی؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, je nettoie le banc avec un chiffon.",
+          "fa": "بله، نیمکت را با پارچه تمیز می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Nous nettoyons le bac de tri ?",
+          "fa": "سطل تفکیک را تمیز می‌کنیم؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, nous nettoyons le bac ensemble.",
+          "fa": "بله، سطل را با هم تمیز می‌کنیم."
+        },
+        {
+          "speaker": "B",
+          "target": "Vous nettoyez les gants après ?",
+          "fa": "بعداً دستکش‌ها را تمیز می‌کنید؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, nous nettoyons les gants à la maison.",
+          "fa": "بله، دستکش‌ها را در خانه تمیز می‌کنیم."
+        },
+        {
+          "speaker": "B",
+          "target": "Les élèves nettoient le parc ?",
+          "fa": "دانش‌آموزان پارک را تمیز می‌کنند؟"
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در مدرسه پس از مسابقهٔ دوی خیریه، کار پاک‌سازی پارک را با هم‌کلاسی خود تقسیم کنید. بگویید چه کسی چه چیزی را تمیز می‌کند و فعل nettoyer را در زمان حال صرف کنید.",
+      "useful_phrases": [
+        {
+          "target": "Je nettoie la table.",
+          "fa": "میز را تمیز می‌کنم."
+        },
+        {
+          "target": "Elle nettoie le banc.",
+          "fa": "او نیمکت را تمیز می‌کند."
+        },
+        {
+          "target": "Nous nettoyons le parc.",
+          "fa": "پارک را تمیز می‌کنیم."
+        },
+        {
+          "target": "Ils nettoient le chemin.",
+          "fa": "آن‌ها راه را تمیز می‌کنند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Après la fête sportive",
+      "text": "La course de l’école est terminée, et les élèves nettoient le parc ensemble. Lina met des gants et ramasse une canette avec une pince. Noé apporte un sac-poubelle et nettoie les tables près du banc. Le carton et le papier vont dans le bac de tri ; les autres déchets restent dans un autre sac. Les bénévoles nettoient aussi l’espace près de l’entrée. Ils trouvent une bouteille en plastique et un emballage de goûter. Après le ramassage, la classe parle du recyclage et laisse le chemin propre. Le verbe nettoyer garde y dans nous nettoyons et vous nettoyez, mais s’écrit nettoie dans je nettoie et nettoient avec ils. Toute la classe aide, puis elle rentre à l’école.",
+      "glossary": [
+        {
+          "term": "terminé",
+          "fa": "تمام‌شده"
+        },
+        {
+          "term": "apporter",
+          "fa": "آوردن"
+        },
+        {
+          "term": "goûter",
+          "fa": "میان‌وعده"
+        },
+        {
+          "term": "laisser",
+          "fa": "گذاشتن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "لینا با چه وسیله‌ای قوطی را برمی‌دارد؟",
+          "a": "Avec une pince."
+        },
+        {
+          "q_fa": "کارتن را کجا می‌گذارند؟",
+          "a": "Dans le bac de tri."
+        },
+        {
+          "q_fa": "برای nous، شکل nettoyer چیست؟",
+          "a": "Nous nettoyons."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل nettoyer را برای je انتخاب کنید.",
+          "question": "Je ___ le parc.",
+          "options": [
+            "nettoie",
+            "nettoyons",
+            "nettoient"
+          ],
+          "answer": "nettoie",
+          "explanation_fa": "برای je شکل nettoie است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کنید.",
+          "question": "Nous ___ les tables.",
+          "options": [
+            "nettoyons",
+            "nettoient",
+            "nettoie"
+          ],
+          "answer": "nettoyons",
+          "explanation_fa": "در شکل nous، y حفظ می‌شود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "برای vous می‌گوییم «vous nettoyez».",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "شکل vous برابر nettoyez است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست برای elle را انتخاب کنید.",
+          "question": "Elle ___ le banc.",
+          "options": [
+            "nettoie",
+            "nettoies",
+            "nettoyez"
+          ],
+          "answer": "nettoie",
+          "explanation_fa": "برای elle شکل nettoie می‌آید."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای ils کامل کنید.",
+          "question": "Ils ___ le chemin. (nettoyer)",
+          "answer": [
+            "nettoient"
+          ],
+          "explanation_fa": "nettoient"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "با je، nous و elles سه جمله دربارهٔ پاک‌سازی بساز.",
+          "question": "از parc، banc یا bac de tri استفاده کن.",
+          "answer": [
+            "Je nettoie le banc. Nous nettoyons le parc. Elles nettoient le bac.",
+            "Je nettoie la table. Nous nettoyons le chemin. Elles nettoient les gants."
+          ],
+          "explanation_fa": "فاعل را بیاب و شکل nettoyer را هماهنگ کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle forme de nettoyer va avec «nous» ?",
+          "options": [
+            "nettoyons",
+            "nettoyez",
+            "nettoient"
+          ],
+          "answer": "nettoyons",
+          "explanation_fa": "On dit nous nettoyons."
+        },
+        {
+          "type": "mcq",
+          "question": "Complète : «Je ___ la table.»",
+          "options": [
+            "nettoie",
+            "nettoyons",
+            "nettoient"
+          ],
+          "answer": "nettoie",
+          "explanation_fa": "je nettoie."
+        },
+        {
+          "type": "mcq",
+          "question": "Dans la consigne «Vous ___ les gants», quel mot complète le blanc ?",
+          "options": [
+            "nettoyez",
+            "nettoyons",
+            "nettoie"
+          ],
+          "answer": "nettoyez",
+          "explanation_fa": "vous nettoyez."
+        },
+        {
+          "type": "mcq",
+          "question": "Complète : «Les bénévoles ___ le parc.»",
+          "options": [
+            "nettoient",
+            "nettoie",
+            "nettoyons"
+          ],
+          "answer": "nettoient",
+          "explanation_fa": "ils nettoient."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase décrit le travail de Noé ?",
+          "options": [
+            "Noé nettoie les tables.",
+            "Noé nettoient les tables.",
+            "Noé nettoyons les tables."
+          ],
+          "answer": "Noé nettoie les tables.",
+          "explanation_fa": "Noé correspond à il nettoie."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در مدرسه، پس از مسابقهٔ دوی خیریه، با هم‌کلاسی خود پارک را پاک‌سازی کنید. وظایف را تقسیم کنید، نام زباله‌ها را بگویید و شکل‌های مختلف nettoyer را به‌کار ببرید.",
+      "suggested_prompts": [
+        "Dites ce que vous nettoyez aujourd’hui.",
+        "Parlez d’une personne qui nettoie une table.",
+        "Dites ce que vous nettoyez ensemble.",
+        "Expliquez ce que nettoient les élèves."
+      ],
+      "focus": [
+        "nettoyer au présent",
+        "nettoie / nettoyons / nettoyez / nettoient",
+        "nettoyer + objet direct"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-16",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Teach the spelling pattern in nettoyer with a practical after-event park clean-up."
+  }
+}

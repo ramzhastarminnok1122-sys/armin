@@ -4,7 +4,7 @@ Updated: 2026-10-16
 
 ## Content
 
-- Installed and validated: French L001–L097 (97 of 340).
+- Installed and validated: French L001–L100 (100 of 340).
 - L002–L004: age with `avoir`; spelling names and French diacritics; country of origin and residence.
 - L005–L007: language names and `ne...pas`; family vocabulary and possessives; regular present-tense `-er` verbs and weekly schedules.
 - L008–L010: adjective agreement in respectful descriptions; café orders and partitive articles; food preferences with definite articles.
@@ -37,6 +37,7 @@ Updated: 2026-10-16
 - L089–L091: spelling-preserving forms of `manger` and `commencer`; e-to-è change in `acheter`; l-doubling pattern in `appeler`.
 - L092–L094: `apprendre`/`comprendre` in the choir; `recevoir` at a school music award ceremony; `tenir un stand` at a school fair.
 - L095–L097: `courir` at a school charity run; `suivre` a marked route; `servir` water and snacks at the finish.
+- L098–L100: `envoyer` photos from the event; `nettoyer` the park afterward; `préférer` one route to another.
 - Range validations: L044–L046, 3 lessons / 3,617 checks / 0 errors; L047–L049, 3 / 3,619 / 0; L050–L052, 3 / 3,630 / 0; L053–L055, 3 / 3,729 / 0; L056–L058, 3 / 3,649 / 0.
 - Combined L044–L058 validation against L001–L043: 15 lessons, 18,244 checks, 0 errors.
 - L059–L061 validation against L001–L058: 3 lessons, 3,694 checks, 0 errors.
@@ -52,8 +53,10 @@ Updated: 2026-10-16
 - L089–L091 validation against L001–L088: 3 lessons, 3,754 checks, 0 errors.
 - L092–L094 validation against L001–L091: 3 lessons, 3,765 checks, 0 errors.
 - L095–L097 validation against L001–L094: 3 lessons, 3,810 checks, 0 errors.
+- L098–L100 validation against L001–L097: 3 lessons, 3,781 checks, 0 errors.
 - Previous full French validation (L001–L094): 94 lessons, 113,752 checks, 0 errors.
-- Latest full French validation (L001–L097): 97 lessons, 117,562 checks, 0 errors.
+- Previous full French validation (L001–L097): 97 lessons, 117,562 checks, 0 errors.
+- Latest full French validation (L001–L100): 100 lessons, 121,343 checks, 0 errors.
 - Previous full French validation (L001–L076): 76 lessons, 91,298 checks, 0 errors.
 - Previous full French validation (L001–L079): 79 lessons, 95,018 checks, 0 errors.
 - Previous full French validation (L001–L082): 82 lessons, 98,751 checks, 0 errors.
@@ -67,10 +70,10 @@ Updated: 2026-10-16
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 97; plan manifests: 97; planned clips: 4,277 (134 added for L095–L097: 46, 44, and 44 clips respectively).
+- French lessons: 100; plan manifests: 100; planned clips: 4,409 (132 added for L098–L100: 44 per lesson).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 4,277.
-- Lessons with complete real audio: 0; lessons without real audio: 97.
+- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 4,409.
+- Lessons with complete real audio: 0; lessons without real audio: 100.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -82,4 +85,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue sequentially from French L098: author French-native specifications, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against all prior French lessons, run continuity/content QA, and install only after zero-error validation.
+Continue sequentially from French L101: author French-native specifications, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against all prior French lessons, run continuity/content QA, and install only after zero-error validation.
