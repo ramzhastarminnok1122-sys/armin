@@ -1,0 +1,407 @@
+{
+  "lesson": "L117",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L117-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Je promène le chien après le déjeuner.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L117-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Tu promènes le chien près du parc canin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L117-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui, je promène le chien avec son harnais.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L117-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Nous promenons le chien ensemble ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L117-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, nous promenons le chien à tour de rôle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L117-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Vous vous promenez aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L117-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, nous nous promenons près de la clôture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L117-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Les voisins promènent leurs chiens ici ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L117-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Tu promènes le chien dans le parc ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L117-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, je promène le chien près de la clôture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L117-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu te promènes aussi au parc ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L117-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, je me promène pendant que le chien joue.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L117-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Le chien marche sur le trottoir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L117-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, il reste près de moi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L117-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Tu as un sac à crottes ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L117-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, j’en prends un dans ma poche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L117-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "La fontaine à eau est ouverte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L117-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, le chien boit après sa promenade.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L117-fr-vocab-harnais",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "harnais. Le harnais est confortable pour le chien.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L117-fr-vocab-trottoir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "trottoir. Le chien marche sur le trottoir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L117-fr-vocab-caniveau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "caniveau. Le caniveau longe la rue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L117-fr-vocab-parccanin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "parc canin. Le parc canin est fermé le soir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L117-fr-vocab-patte",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "patte. Le chien lève une patte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L117-fr-vocab-museau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "museau. Le museau du chien est noir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L117-fr-vocab-aboiement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "aboiement. Un aboiement vient du parc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L117-fr-vocab-sacacrottes",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "sac à crottes. Noé prend un sac à crottes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L117-fr-vocab-cloture",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "clôture. La clôture protège le parc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L117-fr-vocab-fontaineaeau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "fontaine à eau. La fontaine à eau est ouverte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L117-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je promène le chien. Tu promènes le chien au parc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L117-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle promène son chien près de la clôture.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L117-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous promenons le chien. Vous vous promenez au parc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L117-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils promènent leurs chiens le matin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L117-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je promène le chien dans le parc canin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L117-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu promènes le chien sur le trottoir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L117-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Lina promène son chien près de la fontaine.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L117-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous promenons le chien après le repas.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L117-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les voisins promènent leurs chiens ensemble.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L117-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après le déjeuner, Noé promène le chien de sa voisine. Il met le harnais et prend un sac à crottes. Le chien marche sur le trottoir, près de la clôture du parc canin. Noé ne le laisse pas courir dans la rue. Au parc, le chien renifle une patte et joue avec un autre animal. Noé se promène aussi pendant que le chien joue. La fontaine à eau fonctionne ; le chien boit avant de rentrer. Le verbe promener change e en è dans je promène, tu promènes, il promène et ils promènent. Avec nous et vous, le e reste sans accent. Promener le chien et se promener n’ont pas la même construction.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 583
+    },
+    {
+      "id": "L117-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L117)",
+      "tts_text": "برای «سگ را بیرون می‌برم» بگو «je promène le chien»؛ برای «قدم می‌زنم» بگو «je me promène».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 91
+    },
+    {
+      "id": "L117-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L117)",
+      "tts_text": "فعل «promener» در شکل‌های «je»، «tu»، «il» و «ils» از e به è تغییر می‌کند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L117-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L117)",
+      "tts_text": "به گفت‌وگوی پارک گوش کن و پیدا کن نوئه سگ را کجا می‌گرداند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L117-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L117)",
+      "tts_text": "«promener le chien» با «se promener» فرق دارد؛ یکی سگ را بیرون می‌برد و دیگری خود شخص قدم می‌زند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 97
+    },
+    {
+      "id": "L117-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L117)",
+      "tts_text": "در زندگی روزمره مسیر قدم‌زدن سگ و وسایل همراه را برای هم‌کلاسی خود توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L117-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L117)",
+      "tts_text": "شکل‌های «je promène», «nous promenons» و «ils promènent» را تمرین کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    }
+  ]
+}

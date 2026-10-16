@@ -1,0 +1,407 @@
+{
+  "lesson": "L116",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L116-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Je nourris le lapin avec du foin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L116-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Tu nourris aussi le chat ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L116-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui, je lui donne des croquettes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L116-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Nous nourrissons les oiseaux maintenant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L116-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, nous nourrissons les oiseaux dehors.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L116-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Vous nourrissez tous les animaux ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L116-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, nous suivons les consignes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L116-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Les bénévoles nourrissent les lapins aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L116-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Qui nourrit le chat ce matin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L116-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je nourris le chat avec ses croquettes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L116-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu nourris aussi le lapin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L116-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, je lui donne du foin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L116-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nous nourrissons les oiseaux avec des graines ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L116-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, nous nourrissons les oiseaux dans la cour.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L116-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Les bénévoles nourrissent tous les animaux ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L116-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, ils nourrissent chaque animal selon les consignes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L116-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "La gamelle du chat est propre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L116-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, elle est près de son abri.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L116-fr-vocab-gamelle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "gamelle. La gamelle du chat est propre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L116-fr-vocab-croquettes",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "croquettes. Le chat mange des croquettes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L116-fr-vocab-litiere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "litière. La litière est dans un bac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L116-fr-vocab-abri",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "abri. Le lapin reste dans son abri.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L116-fr-vocab-veterinaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "vétérinaire. Le vétérinaire visite le refuge.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L116-fr-vocab-foin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "foin. Le lapin mange du foin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L116-fr-vocab-graines",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "graines. Les oiseaux mangent des graines.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L116-fr-vocab-lapin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "lapin. Le lapin est près de l’abri.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L116-fr-vocab-niche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "niche. La niche est derrière le refuge.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L116-fr-vocab-caissedetransport",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "caisse de transport. La caisse de transport est fermée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L116-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je nourris le chat. Tu nourris le lapin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L116-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle nourrit les oiseaux avec des graines.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L116-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous nourrissons les animaux. Vous nourrissez le chat.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L116-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils nourrissent les lapins avec du foin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L116-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je nourris le chat avec des croquettes.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L116-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu nourris le lapin avec du foin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L116-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Lina nourrit les oiseaux avec des graines.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L116-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous nourrissons les animaux du refuge.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L116-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les bénévoles nourrissent les chats le matin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L116-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Le matin, Lina et Noé aident au refuge pour animaux. Lina nourrit le chat Miso avec des croquettes dans une gamelle propre. Noé donne du foin au lapin Noisette. Les oiseaux mangent des graines dans la cour. Chaque animal a son espace et sa nourriture. Un vétérinaire passe au refuge et parle avec les bénévoles. Le verbe nourrir se conjugue ainsi : je nourris, tu nourris, il nourrit, nous nourrissons, vous nourrissez, ils nourrissent. Dans les formes nous, vous et ils, on voit iss avant la terminaison. Les enfants suivent les consignes et ne donnent pas un aliment sans demander au personnel.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 596
+    },
+    {
+      "id": "L116-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L116)",
+      "tts_text": "برای «من به گربه غذا می‌دهم» بگو «je nourris le chat»؛ برای «ما غذا می‌دهیم» بگو «nous nourrissons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 100
+    },
+    {
+      "id": "L116-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L116)",
+      "tts_text": "فعل «nourrir» از گروه دوم است؛ در شکل‌های جمع، بخش «iss» پیش از پایانه می‌آید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L116-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L116)",
+      "tts_text": "به گفت‌وگوی پناهگاه حیوانات گوش کن و پیدا کن نوئه با چه غذایی به گربه می‌دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L116-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L116)",
+      "tts_text": "برای «il» بگو «il nourrit»؛ برای «nous» بگو «nous nourrissons».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L116-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L116)",
+      "tts_text": "در زندگی روزمره دربارهٔ غذا دادن به گربه یا خرگوش با هم‌کلاسی خود صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L116-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L116)",
+      "tts_text": "شش شکل «nourrir» را با فاعل‌های مختلف مرور کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    }
+  ]
+}

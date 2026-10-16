@@ -1,0 +1,407 @@
+{
+  "lesson": "L118",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L118-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Nous adoptons un chat du refuge.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L118-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Vous adoptez le chat aujourd’hui ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L118-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Nous parlons d’abord en famille.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L118-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Le chat a une tache sur l’oreille ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L118-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, et il a un caractère calme.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L118-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Le vétérinaire lit la puce ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L118-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, un adulte pose les questions.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L118-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Vous adoptez après la visite ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L118-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Vous adoptez un chat aujourd’hui ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L118-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Nous parlons d’abord avec toute la famille.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L118-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Le chat vit dans une famille d’accueil ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L118-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, il vit déjà dans une famille d’accueil.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L118-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Il a une tache blanche sur la queue ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L118-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, et son caractère est calme.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L118-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Le vétérinaire lit sa puce électronique ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L118-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, un adulte pose les questions au refuge.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L118-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Vous adoptez le chat après la visite ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L118-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Nous en parlons encore avant de décider.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L118-fr-vocab-adoption",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "adoption. L’adoption du chat demande du temps.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L118-fr-vocab-familledaccueil",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "famille d’accueil. Le chat vit dans une famille d’accueil.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L118-fr-vocab-puceelectronique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "puce électronique. Le vétérinaire lit la puce électronique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L118-fr-vocab-vaccin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "vaccin. Le carnet du chat montre un vaccin récent.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L118-fr-vocab-jouet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "jouet. Le chat joue avec un jouet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L118-fr-vocab-tache",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "tache. Le chat a une tache blanche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L118-fr-vocab-queue",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "queue. Sa queue est longue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L118-fr-vocab-oreille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "oreille. Une oreille est noire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L118-fr-vocab-il",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "œil. Le vétérinaire regarde l’œil du chat.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L118-fr-vocab-caractere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "caractère. Ce chat a un caractère calme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L118-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’adopte un chat. Tu adoptes un animal du refuge.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L118-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle adopte un chat calme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L118-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous adoptons le chat ensemble. Vous adoptez un animal ?",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L118-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils adoptent un animal après la visite.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L118-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’adopte un chat du refuge.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L118-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu adoptes un animal avec ta famille.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L118-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Lina adopte un chat calme.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L118-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous adoptons le chat après la visite.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L118-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les voisins adoptent un animal du refuge.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L118-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Lina visite un refuge avec sa famille. Ils rencontrent un chat qui s’appelle Plume. Il vit dans une famille d’accueil et aime jouer avec un petit jouet. Le chat a une tache blanche, une oreille noire et un œil vert. Son caractère est calme. Un adulte parle avec le personnel et demande des informations sur son vaccin et sa puce électronique. La famille ne décide pas tout de suite ; elle rentre à la maison pour en parler. Le verbe adopter est régulier : j’adopte, tu adoptes, elle adopte, nous adoptons, vous adoptez, ils adoptent. On adopte un animal après avoir réfléchi au temps et aux soins nécessaires.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 609
+    },
+    {
+      "id": "L118-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L118)",
+      "tts_text": "برای «من یک گربه را به سرپرستی می‌گیرم» بگو «j’adopte un chat».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L118-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L118)",
+      "tts_text": "فعل «adopter» منظم است؛ نام حیوان پس از فعل می‌آید: «adopter un chat».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L118-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L118)",
+      "tts_text": "به بازدید از پناهگاه گوش کن و پیدا کن نوئه پیش از تصمیم با چه کسانی صحبت می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 80
+    },
+    {
+      "id": "L118-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L118)",
+      "tts_text": "برای «nous» بگو «nous adoptons»؛ برای «ils» بگو «ils adoptent».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L118-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L118)",
+      "tts_text": "دربارهٔ یک گربه و تصمیم خانوادگی برای پذیرفتنش با هم‌کلاسی خود گفت‌وگو کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L118-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L118)",
+      "tts_text": "شش شکل «adopter» را با فاعل‌های مختلف مرور کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    }
+  ]
+}
