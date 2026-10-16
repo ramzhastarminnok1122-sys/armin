@@ -1,0 +1,416 @@
+{
+  "lesson": "L146",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L146-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le bac à semis est près de la fenêtre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L146-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Les jeunes plants sont prêts.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L146-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu repiques le basilic où ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L146-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Dans le rang du potager.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L146-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Tu utilises le petit transplantoir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L146-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, pour le trou de plantation.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L146-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Tu gardes la motte de terre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L146-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, je tiens la tige sans la serrer.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L146-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Les plants du bac à semis sont prêts.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L146-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, je repique le basilic aujourd’hui.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L146-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Le petit transplantoir est prêt ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L146-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, il est près du bac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L146-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Les racines restent dans la motte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L146-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, je ne serre pas les racines.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L146-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Où repiques-tu les jeunes plants ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L146-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Dans un rang, près du potager.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L146-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Et la tige fragile ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L146-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Je la tiens avec un geste délicat.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L146-fr-vocab-bacasemis",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "bac à semis. Le bac à semis reste près de la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L146-fr-vocab-godetdeculture",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "godet de culture. Un godet de culture contient un jeune plant.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L146-fr-vocab-terreaudesemis",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "terreau de semis. Le terreau de semis est léger.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L146-fr-vocab-mottedeterre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "motte de terre. La motte de terre reste autour des racines.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L146-fr-vocab-petittransplantoir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "petit transplantoir. Le petit transplantoir creuse un trou.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L146-fr-vocab-troudeplantation",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "trou de plantation. Le trou de plantation est peu profond.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L146-fr-vocab-racinefine",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "racine fine. Une racine fine reste dans la terre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L146-fr-vocab-tigefragile",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "tige fragile. Je tiens la tige fragile sans la serrer.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L146-fr-vocab-rangdejeunesplants",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "rang de jeunes plants. Le rang de jeunes plants est droit.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L146-fr-vocab-gestedelicat",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "geste délicat. Un geste délicat protège les racines.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L146-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je repique le basilic. Tu repiques les jeunes plants.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L146-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Lina repique un plant de tomate dans le potager.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L146-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous repiquons les herbes. Vous repiquez chaque plant dans un godet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L146-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves repiquent les jeunes plants avec la professeure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L146-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je repique le basilic dans le potager.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L146-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu repiques les jeunes plants.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L146-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Lina repique un plant de tomate dans le rang.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L146-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous repiquons les herbes aromatiques.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L146-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous repiquez chaque plant dans un godet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L146-fr-examples-6",
+      "role": "FR-VOCAB",
+      "source": "examples.items[5]",
+      "tts_text": "Les élèves repiquent les plants avec la professeure.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L146-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Les plants du bac à semis ont plusieurs petites feuilles. La professeure choisit un rang du potager. Lina prend un godet de culture et regarde la terre au fond. Elle garde la motte de terre autour des racines fines. Noé utilise le petit transplantoir pour ouvrir un trou de plantation. Il repique un plant, puis remet la terre sans serrer la tige fragile. Un geste délicat protège les racines. La classe repique le basilic dans un rang de jeunes plants. Après le travail, la professeure vérifie le sol. Au présent, le verbe repiquer se conjugue régulièrement : je repique, tu repiques, il repique, nous repiquons, vous repiquez et ils repiquent.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 645
+    },
+    {
+      "id": "L146-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L146)",
+      "tts_text": "فعل «repiquer» در این درس یعنی انتقال نشای جوان به محل تازه؛ بگو «je repique» و «nous repiquons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 97
+    },
+    {
+      "id": "L146-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L146)",
+      "tts_text": "نشا را با کلوخهٔ خاک بلند کن و فعل «repiquer» را با فاعل هماهنگ کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L146-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L146)",
+      "tts_text": "به گفت‌وگو گوش کن و پیدا کن نشاها به کجا منتقل می‌شوند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L146-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L146)",
+      "tts_text": "نام نشایی که منتقل می‌کنی مستقیم پس از فعل «repiquer» می‌آید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L146-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L146)",
+      "tts_text": "در مدرسه با هم‌کلاسی خود نشاها را به باغچه منتقل کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L146-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L146)",
+      "tts_text": "نشا و ریشه را آرام جابه‌جا کن و شش شکل «repiquer» را مرور کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    }
+  ]
+}

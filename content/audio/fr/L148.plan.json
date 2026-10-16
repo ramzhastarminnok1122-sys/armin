@@ -1,0 +1,416 @@
+{
+  "lesson": "L148",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L148-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le sol est prêt pour les tomates ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L148-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "La professeure vérifie d’abord la terre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L148-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Quel engrais utilise-t-elle ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L148-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Du compost mûr, avec l’accord de l’école.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L148-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Qui lit l’étiquette du sac ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L148-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "L’adulte vérifie la dose recommandée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L148-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Les élèves touchent le produit ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L148-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Non, ils se lavent les mains après l’activité.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L148-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Les tomates ont besoin d’un sol riche ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L148-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "La professeure vérifie la terre et choisit du compost mûr.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L148-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Qui lit l’instruction du sac ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L148-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "L’adulte lit le texte sur le sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L148-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "La dose recommandée est indiquée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L148-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, elle est sur l’étiquette.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L148-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Comment mesure-t-on la quantité ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L148-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "L’adulte utilise une cuillère doseuse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L148-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Les élèves touchent l’engrais ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L148-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Non, et nous nous lavons les mains après.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L148-fr-vocab-engraisorganique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "engrais organique. L’engrais organique vient de matières naturelles.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L148-fr-vocab-granuledengrais",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "granulé d’engrais. Un granulé d’engrais est dans le sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L148-fr-vocab-doserecommandee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "dose recommandée. La dose recommandée est écrite sur le sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L148-fr-vocab-instructiondusac",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "instruction du sac. L’instruction du sac est facile à lire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L148-fr-vocab-cuilleredoseuse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "cuillère doseuse. La cuillère doseuse reste près du sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L148-fr-vocab-terreappauvrie",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "terre appauvrie. La terre appauvrie nourrit mal les plantes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L148-fr-vocab-solenrichi",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "sol enrichi. Un sol enrichi aide les plantes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L148-fr-vocab-engraisliquide",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "engrais liquide. L’engrais liquide est dans un petit flacon.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L148-fr-vocab-compostmur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "compost mûr. Le compost mûr nourrit le potager.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L148-fr-vocab-quantitemesuree",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "quantité mesurée. Une quantité mesurée évite un excès.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L148-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je fertilise le sol avec l’aide de l’adulte. Tu fertilises le potager avec la professeure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 90
+    },
+    {
+      "id": "L148-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La professeure fertilise la terre selon la consigne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L148-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous fertilisons le rang avec la professeure. Vous fertilisez le sol sous la surveillance de l’adulte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 102
+    },
+    {
+      "id": "L148-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves fertilisent le potager sous la surveillance de l’adulte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L148-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je fertilise le sol avec l’aide de l’adulte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L148-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu fertilises le potager avec la professeure.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L148-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La professeure fertilise la terre selon la consigne.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L148-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous fertilisons le rang avec la professeure.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L148-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous fertilisez le sol sous la surveillance de l’adulte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L148-fr-examples-6",
+      "role": "FR-VOCAB",
+      "source": "examples.items[5]",
+      "tts_text": "Les élèves fertilisent le potager sous la surveillance de l’adulte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L148-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après le repiquage, la classe observe le sol du potager. La professeure choisit un engrais organique autorisé pour la terre appauvrie. Elle lit l’instruction du sac. La dose recommandée est écrite sur l’étiquette. Avec une cuillère doseuse, l’adulte mesure une quantité précise. Il fertilise la terre autour des plants selon la consigne. Les granulés d’engrais restent dans le sac fermé avant l’utilisation. Un sol enrichi aide les plantes à pousser. La professeure n’emploie pas d’engrais liquide sans lire ses instructions. Les élèves ne touchent pas le produit et se lavent les mains ensuite. Au présent, le verbe fertiliser se conjugue régulièrement : je fertilise, tu fertilises, il fertilise, nous fertilisons, vous fertilisez et ils fertilisent.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 752
+    },
+    {
+      "id": "L148-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L148)",
+      "tts_text": "فعل «fertiliser» منظم است؛ بگو «je fertilise» و «nous fertilisons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L148-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L148)",
+      "tts_text": "کود را فقط طبق دستور روی بسته و با راهنمایی بزرگسال استفاده کنید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L148-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L148)",
+      "tts_text": "به گفت‌وگو گوش کن و پیدا کن بزرگسال مقدار کود را با چه چیزی اندازه می‌گیرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L148-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L148)",
+      "tts_text": "نام خاک پس از فعل «fertiliser» می‌آید: «fertiliser le sol».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L148-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L148)",
+      "tts_text": "در مدرسه دربارهٔ کمپوست رسیده و دستور روی کیسه گفت‌وگو کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L148-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L148)",
+      "tts_text": "پس از فعالیت دست‌ها را بشوی و شش شکل «fertiliser» را مرور کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    }
+  ]
+}

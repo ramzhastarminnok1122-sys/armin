@@ -1,0 +1,416 @@
+{
+  "lesson": "L147",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L147-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le semis de radis est trop dense ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L147-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, les jeunes pousses sont proches.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L147-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu gardes quelle plantule ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L147-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je garde le plant le plus fort.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L147-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Tu prends les ciseaux à bout rond ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L147-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, avec l’aide de la professeure.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L147-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Quelle distance reste entre les plants ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L147-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Une distance régulière.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L147-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le rang de radis manque d’espace.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L147-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, plusieurs jeunes pousses sont proches.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L147-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Quelle plantule gardons-nous ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L147-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Nous gardons le plant le plus fort.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L147-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Comment la professeure éclaircit le rang ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L147-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Elle enlève les plants en trop.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L147-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Le rang reçoit plus de lumière ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L147-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, la lumière du jour arrive sur les feuilles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L147-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "L’espace entre les plants est suffisant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L147-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, une distance régulière les sépare.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L147-fr-vocab-semistropdense",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "semis trop dense. Un semis trop dense manque de lumière.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L147-fr-vocab-plantuleentrop",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "plantule en trop. La plantule en trop gêne les autres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L147-fr-vocab-espaceentrelesplants",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "espace entre les plants. L’espace entre les plants reste petit.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L147-fr-vocab-jeunepousse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "jeune pousse. Une jeune pousse sort de la terre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L147-fr-vocab-plantleplusfort",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "plant le plus fort. Nous gardons le plant le plus fort.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L147-fr-vocab-ciseauxaboutrond",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "ciseaux à bout rond. La professeure donne des ciseaux à bout rond.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L147-fr-vocab-distancereguliere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "distance régulière. Les plants gardent une distance régulière.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L147-fr-vocab-lumieredujour",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "lumière du jour. Les feuilles reçoivent la lumière du jour.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L147-fr-vocab-rangdegage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "rang dégagé. Le rang dégagé reçoit plus de lumière.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L147-fr-vocab-pinceedeterre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "pincée de terre. Une pincée de terre couvre la racine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L147-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’éclaircis le rang de radis. Tu éclaircis les semis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L147-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Lina éclaircit les jeunes pousses.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L147-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous éclaircissons le rang. Vous éclaircissez les plants en trop.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L147-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves éclaircissent les semis avec la professeure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L147-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’éclaircis le rang de radis.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L147-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu éclaircis les semis trop denses.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L147-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Lina éclaircit les jeunes pousses.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L147-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous éclaircissons les plants avec la professeure.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L147-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous éclaircissez le rang de tomates.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L147-fr-examples-6",
+      "role": "FR-VOCAB",
+      "source": "examples.items[5]",
+      "tts_text": "Les élèves éclaircissent les plants en trop.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L147-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Dans le rang de radis, les plants sont très proches. Le semis est trop dense et les feuilles reçoivent peu de lumière du jour. La professeure montre comment éclaircir les plants. Elle garde le plant le plus fort et enlève la plantule en trop. Noé utilise des ciseaux à bout rond avec un adulte. Lina regarde l’espace entre les plants. Une distance régulière laisse de la place aux racines. La professeure garde le rang dégagé et ajoute une pincée de terre près d’une racine visible. Éclaircir est un verbe régulier du deuxième groupe : j’éclaircis, tu éclaircis, il éclaircit, nous éclaircissons, vous éclaircissez et ils éclaircissent. Ensuite, les élèves observent les jeunes pousses.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 686
+    },
+    {
+      "id": "L147-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L147)",
+      "tts_text": "در این باغچه، «éclaircir» یعنی برداشتن نشاهای اضافه؛ بگو «j’éclaircis» و «nous éclaircissons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 94
+    },
+    {
+      "id": "L147-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L147)",
+      "tts_text": "در «nous»، «vous» و «ils» بخش «-iss-» را در صرف «éclaircir» نگه دار.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L147-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L147)",
+      "tts_text": "به گفت‌وگو گوش کن و پیدا کن آموزگار کدام نشا را نگه می‌دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L147-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L147)",
+      "tts_text": "نام نشاها مفعول مستقیم است: «éclaircir les semis».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L147-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L147)",
+      "tts_text": "در مدرسه ردیف نشاهای تربچه را خلوت کن و از قیچی فقط با کمک آموزگار استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L147-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L147)",
+      "tts_text": "نشای سالم‌تر را نگه دار و شش شکل «éclaircir» را مرور کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    }
+  ]
+}
