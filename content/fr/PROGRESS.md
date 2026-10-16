@@ -4,7 +4,7 @@ Updated: 2026-10-16
 
 ## Content
 
-- Installed and validated: French L001–L127 (127 of 340).
+- Installed and validated: French L001–L133 (133 of 340).
 - L002–L004: age with `avoir`; spelling names and French diacritics; country of origin and residence.
 - L005–L007: language names and `ne...pas`; family vocabulary and possessives; regular present-tense `-er` verbs and weekly schedules.
 - L008–L010: adjective agreement in respectful descriptions; café orders and partitive articles; food preferences with definite articles.
@@ -47,6 +47,8 @@ Updated: 2026-10-16
 - L119–L121: `ranger` workshop tools; `plier` clean laundry; `étendre` wet laundry to dry.
 - L122–L124: `se dépêcher` before the school bus; `rater` the bus and take the next one; `s’excuser` for arriving late at school.
 - L125–L127: `réviser` before a test; `réussir` with regular second-group forms; `se tromper` and correct an exercise.
+- L128–L130: `se concentrer` in a quiet study room; `présenter` a school garden project; `applaudir` classmates after the presentation.
+- L131–L133: `réagir` constructively to peer feedback; `saluer` visitors at a school open day; `soutenir` a nervous classmate before speaking.
 - Range validations: L044–L046, 3 lessons / 3,617 checks / 0 errors; L047–L049, 3 / 3,619 / 0; L050–L052, 3 / 3,630 / 0; L053–L055, 3 / 3,729 / 0; L056–L058, 3 / 3,649 / 0.
 - Combined L044–L058 validation against L001–L043: 15 lessons, 18,244 checks, 0 errors.
 - L059–L061 validation against L001–L058: 3 lessons, 3,694 checks, 0 errors.
@@ -72,6 +74,8 @@ Updated: 2026-10-16
 - L119–L121 validation against L001–L118: 3 lessons, 3,845 checks, 0 errors.
 - L122–L124 validation against L001–L121: 3 lessons, 3,852 checks, 0 errors.
 - L125–L127 validation against L001–L124: 3 lessons, 3,860 checks, 0 errors.
+- L128–L130 validation against L001–L127: 3 lessons, 3,924 checks, 0 errors.
+- L131–L133 validation against L001–L130: 3 lessons, 3,955 checks, 0 errors.
 - Previous full French validation (L001–L094): 94 lessons, 113,752 checks, 0 errors.
 - Previous full French validation (L001–L097): 97 lessons, 117,562 checks, 0 errors.
 - Previous full French validation (L001–L100): 100 lessons, 121,343 checks, 0 errors.
@@ -83,7 +87,9 @@ Updated: 2026-10-16
 - Previous full French validation (L001–L118): 118 lessons, 144,221 checks, 0 errors.
 - Previous full French validation (L001–L121): 121 lessons, 148,066 checks, 0 errors.
 - Previous full French validation (L001–L124): 124 lessons, 151,918 checks, 0 errors.
-- Latest full French validation (L001–L127): 127 lessons, 155,778 checks, 0 errors.
+- Previous full French validation (L001–L127): 127 lessons, 155,778 checks, 0 errors.
+- Previous full French validation (L001–L130): 130 lessons, 159,702 checks, 0 errors.
+- Latest full French validation (L001–L133): 133 lessons, 163,657 checks, 0 errors.
 - Previous full French validation (L001–L076): 76 lessons, 91,298 checks, 0 errors.
 - Previous full French validation (L001–L079): 79 lessons, 95,018 checks, 0 errors.
 - Previous full French validation (L001–L082): 82 lessons, 98,751 checks, 0 errors.
@@ -97,10 +103,10 @@ Updated: 2026-10-16
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 127; plan manifests: 127; planned clips: 5,597 (132 added for L125–L127: 44 per lesson).
+- French lessons: 133; plan manifests: 133; planned clips: 5,866 (269 added for L128–L133: 233 French and 36 Persian clips; L128 has 44 clips and L129–L133 have 45 each).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 5,597.
-- Lessons with complete real audio: 0; lessons without real audio: 127.
+- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 5,866.
+- Lessons with complete real audio: 0; lessons without real audio: 133.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -112,4 +118,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue sequentially from French L128: author French-native specifications, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against all prior French lessons, run continuity/content QA, and install only after zero-error validation.
+Continue sequentially from French L134: author French-native specifications, build only the selected range in an isolated directory, generate French-scoped audio plans, validate against all prior French lessons, run continuity/content QA, and install only after zero-error validation.
