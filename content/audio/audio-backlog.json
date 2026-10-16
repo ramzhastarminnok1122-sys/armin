@@ -151808,17 +151808,17 @@
     },
     "fr": {
       "summary": {
-        "lessons": 100,
-        "lessons_without_real_audio": 100,
+        "lessons": 103,
+        "lessons_without_real_audio": 103,
         "lessons_with_partial_audio": 0,
         "lessons_with_all_planned_audio": 0,
-        "plan_manifests": 100,
-        "planned_clips": 4409,
+        "plan_manifests": 103,
+        "planned_clips": 4541,
         "audio_references": 0,
         "physical_mp3_files": 0,
         "integrity_checked_files": 0,
         "registry_hash_matched_files": 0,
-        "missing_planned_clips": 4409
+        "missing_planned_clips": 4541
       },
       "lessons": [
         {
@@ -201912,6 +201912,1506 @@
               "role": "FA-COACH",
               "priority": "P2",
               "source": "closing (Persian teaching layer for L100)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            }
+          ],
+          "orphan_generated_files": []
+        },
+        {
+          "language": "fr",
+          "lesson_id": "L101",
+          "order_index": 101,
+          "lesson_file": "content/fr/A1/lessons/L101.json",
+          "plan_file": "content/audio/fr/L101.plan.json",
+          "plan_clip_count": 44,
+          "audio_reference_count": 0,
+          "physical_file_count": 0,
+          "ready_clip_count": 0,
+          "audio_status": "missing",
+          "generated_assets": [],
+          "missing_planned_clips": [
+            {
+              "clip_id": "L101-fr-dialogue-1",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-dialogue-2",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-dialogue-3",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-dialogue-4",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-dialogue-5",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-dialogue-6",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-dialogue-7",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-dialogue-8",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-listening-1",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-listening-2",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-listening-3",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-listening-4",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-listening-5",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-listening-6",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-listening-7",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-listening-8",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-listening-9",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-listening-10",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[9]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-vocab-jardinpartage",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-vocab-parcelle",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-vocab-sachetdegraines",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-vocab-terreau",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-vocab-potager",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-vocab-semis",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-vocab-brouette",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-vocab-rateau",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-vocab-platebande",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-vocab-pousse",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[9]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-grammar-row-1",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-grammar-row-2",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-grammar-row-3",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-grammar-row-4",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-examples-1",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-examples-2",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-examples-3",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-examples-4",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-examples-5",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fr-reading",
+              "language": "fr",
+              "role": "FR-READ-F",
+              "priority": "P4",
+              "source": "reading.text",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fa-warmup",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "warmup (Persian teaching layer for L101)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fa-explanation",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "explanation (Persian teaching layer for L101)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fa-listening-intro",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "listening-intro (Persian teaching layer for L101)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fa-grammar-note",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "grammar-note (Persian teaching layer for L101)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fa-speaking",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "speaking (Persian teaching layer for L101)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L101-fa-closing",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "closing (Persian teaching layer for L101)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            }
+          ],
+          "orphan_generated_files": []
+        },
+        {
+          "language": "fr",
+          "lesson_id": "L102",
+          "order_index": 102,
+          "lesson_file": "content/fr/A1/lessons/L102.json",
+          "plan_file": "content/audio/fr/L102.plan.json",
+          "plan_clip_count": 44,
+          "audio_reference_count": 0,
+          "physical_file_count": 0,
+          "ready_clip_count": 0,
+          "audio_status": "missing",
+          "generated_assets": [],
+          "missing_planned_clips": [
+            {
+              "clip_id": "L102-fr-dialogue-1",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-dialogue-2",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-dialogue-3",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-dialogue-4",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-dialogue-5",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-dialogue-6",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-dialogue-7",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-dialogue-8",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-listening-1",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-listening-2",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-listening-3",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-listening-4",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-listening-5",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-listening-6",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-listening-7",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-listening-8",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-listening-9",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-listening-10",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[9]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-vocab-beche",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-vocab-secateur",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-vocab-plantation",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-vocab-rangee",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-vocab-germination",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-vocab-desherbage",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-vocab-recolte",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-vocab-plantegrimpante",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-vocab-tuteur",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-vocab-ficelle",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[9]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-grammar-row-1",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-grammar-row-2",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-grammar-row-3",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-grammar-row-4",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-examples-1",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-examples-2",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-examples-3",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-examples-4",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-examples-5",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fr-reading",
+              "language": "fr",
+              "role": "FR-READ-F",
+              "priority": "P4",
+              "source": "reading.text",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fa-warmup",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "warmup (Persian teaching layer for L102)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fa-explanation",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "explanation (Persian teaching layer for L102)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fa-listening-intro",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "listening-intro (Persian teaching layer for L102)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fa-grammar-note",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "grammar-note (Persian teaching layer for L102)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fa-speaking",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "speaking (Persian teaching layer for L102)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L102-fa-closing",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "closing (Persian teaching layer for L102)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            }
+          ],
+          "orphan_generated_files": []
+        },
+        {
+          "language": "fr",
+          "lesson_id": "L103",
+          "order_index": 103,
+          "lesson_file": "content/fr/A1/lessons/L103.json",
+          "plan_file": "content/audio/fr/L103.plan.json",
+          "plan_clip_count": 44,
+          "audio_reference_count": 0,
+          "physical_file_count": 0,
+          "ready_clip_count": 0,
+          "audio_status": "missing",
+          "generated_assets": [],
+          "missing_planned_clips": [
+            {
+              "clip_id": "L103-fr-dialogue-1",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-dialogue-2",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-dialogue-3",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-dialogue-4",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-dialogue-5",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-dialogue-6",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-dialogue-7",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-dialogue-8",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-listening-1",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-listening-2",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-listening-3",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-listening-4",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-listening-5",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-listening-6",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-listening-7",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-listening-8",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-listening-9",
+              "language": "fr",
+              "role": "FR-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-listening-10",
+              "language": "fr",
+              "role": "FR-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[9]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-vocab-chantdoiseau",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-vocab-gazouillis",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-vocab-bourdonnement",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-vocab-abeille",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-vocab-cloche",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-vocab-grenouille",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-vocab-ecureuil",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-vocab-nid",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-vocab-cigale",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-vocab-tondeuse",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[9]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-grammar-row-1",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-grammar-row-2",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-grammar-row-3",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-grammar-row-4",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-examples-1",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-examples-2",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-examples-3",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-examples-4",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-examples-5",
+              "language": "fr",
+              "role": "FR-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fr-reading",
+              "language": "fr",
+              "role": "FR-READ-F",
+              "priority": "P4",
+              "source": "reading.text",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fa-warmup",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "warmup (Persian teaching layer for L103)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fa-explanation",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "explanation (Persian teaching layer for L103)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fa-listening-intro",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "listening-intro (Persian teaching layer for L103)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fa-grammar-note",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "grammar-note (Persian teaching layer for L103)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fa-speaking",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "speaking (Persian teaching layer for L103)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L103-fa-closing",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "closing (Persian teaching layer for L103)",
               "reasons": [
                 "missing_file",
                 "missing_lesson_reference"
