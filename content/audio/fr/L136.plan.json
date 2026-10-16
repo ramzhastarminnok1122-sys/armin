@@ -1,0 +1,416 @@
+{
+  "lesson": "L136",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L136-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le cadre est prêt à accrocher.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L136-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Tu le mets au-dessus de l’image ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L136-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui, je le place près du titre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L136-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Nous accrochons le dessin au mur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L136-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, le crochet est assez haut.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L136-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Vous utilisez le niveau à bulle ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L136-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, le cadre reste bien droit.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L136-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Alors, l’affichage est prêt pour la visite.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L136-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le panneau mural est libre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L136-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Nous accrochons l’affiche près de l’entrée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L136-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu tiens le cadre à cette hauteur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L136-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, le niveau à bulle vérifie si le cadre est droit.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L136-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "La punaise est dans la petite boîte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L136-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Je l’utilise pour fixer le papier au mur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L136-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Le titre se trouve juste au-dessus du dessin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L136-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Un aimant tient le plan sur le panneau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L136-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Les élèves accrochent les autres dessins ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L136-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, ils les placent à la même hauteur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L136-fr-vocab-punaise",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "punaise. Une punaise tient la feuille au mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L136-fr-vocab-crochet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "crochet. Le crochet porte un petit cadre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L136-fr-vocab-mur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "mur. Le mur est blanc derrière l’affiche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L136-fr-vocab-hauteur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "hauteur. La hauteur de l’affiche est correcte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L136-fr-vocab-affichage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "affichage. L’affichage présente le projet de la classe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L136-fr-vocab-audessusde",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "au-dessus de. Le cadre est au-dessus du plan.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L136-fr-vocab-cadre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "cadre. Le cadre est près de la porte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L136-fr-vocab-panneaumural",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "panneau mural. Le panneau mural est dans le hall.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L136-fr-vocab-aimant",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "aimant. Un aimant tient la feuille sur le panneau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L136-fr-vocab-niveauabulle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "niveau à bulle. Le niveau à bulle indique si le cadre est droit.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L136-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’accroche un cadre dans le hall. Tu accroches une feuille au panneau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L136-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Lina accroche une affiche au-dessus du cadre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L136-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous accrochons le dessin. Vous accrochez le titre au-dessus de l’image.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L136-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves accrochent les affiches dans le hall.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L136-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’accroche l’affiche au mur.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L136-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu accroches le cadre près de la porte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L136-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Léa accroche le plan sur le panneau mural.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L136-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous accrochons le dessin dans le hall.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L136-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous accrochez le titre au-dessus de l’image.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L136-fr-examples-6",
+      "role": "FR-VOCAB",
+      "source": "examples.items[5]",
+      "tts_text": "Les élèves accrochent leurs affiches avant la visite.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L136-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Pour la visite de l’école, les élèves préparent un petit affichage dans le hall. Lina choisit un mur libre et mesure la hauteur du mur pour l’affiche. Noé tient le cadre pendant qu’elle accroche l’affiche. Un crochet porte le cadre ; une punaise fixe une petite feuille. Le titre se trouve au-dessus de l’image principale. Un niveau à bulle aide à garder le cadre droit. Les élèves ajoutent un aimant au panneau mural pour tenir le plan. Ils accrochent les autres dessins près de la première affiche. Le verbe accrocher est régulier : j’accroche, tu accroches, il accroche, nous accrochons, vous accrochez et ils accrochent. On accroche une chose au mur ; au correspond à à + le. Les familles peuvent maintenant regarder le projet.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 731
+    },
+    {
+      "id": "L136-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L136)",
+      "tts_text": "برای آویزان‌کردن پوستر بگو «accrocher une affiche au mur».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L136-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L136)",
+      "tts_text": "در عبارت «au mur»، واژهٔ au از ترکیب à و le ساخته شده است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L136-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L136)",
+      "tts_text": "به گفت‌وگو گوش کن و پیدا کن چه ابزاری قاب را صاف نگه می‌دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L136-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L136)",
+      "tts_text": "مفعول را پس از «accrocher» بیاور و محل را با «au mur» بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L136-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L136)",
+      "tts_text": "در مدرسه پوستر را نصب کن و جای آن را با واژگان ارتفاع توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L136-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L136)",
+      "tts_text": "شش شکل «accrocher» و ساختار «accrocher quelque chose au mur» را مرور کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    }
+  ]
+}

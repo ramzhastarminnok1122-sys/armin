@@ -1,0 +1,416 @@
+{
+  "lesson": "L135",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L135-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La feuille cartonnée est prête.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L135-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Tu colles la première image ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L135-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui, je la place près du titre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L135-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Nous collons aussi une bande de papier ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L135-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, elle cache le bord de la colle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L135-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Vous collez la bulle à côté du dessin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L135-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, nous collons le texte ici.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L135-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Alors, le collage est presque fini.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L135-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "L’image imprimée est pour le projet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L135-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je colle la légende sous l’image.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L135-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "La feuille cartonnée est sur la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L135-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La surface lisse garde bien la colle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L135-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nous préparons un petit collage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L135-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Tu colles cette bande de papier ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L135-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, je prends la colle liquide.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L135-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "La bulle de texte est ici ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L135-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, près du titre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 19
+    },
+    {
+      "id": "L135-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Le papier kraft est sous le papier glacé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L135-fr-vocab-imageimprimee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "image imprimée. L’image imprimée montre le jardin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L135-fr-vocab-legende",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "légende. La légende décrit une plante.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L135-fr-vocab-bandedepapier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "bande de papier. Une bande de papier cache la colle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L135-fr-vocab-collage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "collage. Le collage des images est terminé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L135-fr-vocab-feuillecartonnee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "feuille cartonnée. La feuille cartonnée est solide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L135-fr-vocab-surfacelisse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "surface lisse. La surface lisse garde bien le papier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L135-fr-vocab-papierkraft",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "papier kraft. Le papier kraft est brun.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L135-fr-vocab-papierglace",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "papier glacé. Le papier glacé brille sous la lumière.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L135-fr-vocab-colleliquide",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "colle liquide. La colle liquide est dans le pot.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L135-fr-vocab-bulledetexte",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "bulle de texte. La bulle de texte est près du dessin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L135-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je colle une image. Tu colles la légende.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L135-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Léa colle une bande sur la feuille.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L135-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous collons le papier kraft. Vous collez la bulle de texte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L135-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves collent les images sur l’affiche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L135-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je colle l’image imprimée sur la feuille.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L135-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu colles la légende près du dessin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L135-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Noé colle une bande de papier.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L135-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous collons une bulle de texte sur l’affiche.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L135-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous collez le papier glacé sur la feuille cartonnée.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L135-fr-examples-6",
+      "role": "FR-VOCAB",
+      "source": "examples.items[5]",
+      "tts_text": "Les élèves collent les images près du titre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L135-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après le dessin du plan, Léa et Noé assemblent l’affiche du jardin. Ils choisissent une feuille cartonnée avec une surface lisse. Noé colle une image imprimée près du titre. Léa place une légende sous l’image, puis ajoute une bulle de texte à côté du cercle. Ils préparent un petit collage avec du papier kraft et du papier glacé. Une bande de papier couvre une trace de colle liquide. La feuille cartonnée garde les éléments en place. Au présent, on dit je colle, tu colles, il colle, nous collons, vous collez et ils collent. Le nom de la chose collée vient directement après le verbe ; sur indique sa place. Les élèves regardent l’affiche et ajoutent un dernier détail.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 672
+    },
+    {
+      "id": "L135-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L135)",
+      "tts_text": "فعل «coller» منظم است؛ بگو «je colle» و «nous collons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L135-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L135)",
+      "tts_text": "چیزی که می‌چسبانیم پس از فعل می‌آید؛ برای محل می‌گوییم «sur l’affiche».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L135-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L135)",
+      "tts_text": "به گفت‌وگو گوش کن و پیدا کن لیا توضیح زیر تصویر را کجا می‌چسباند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L135-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L135)",
+      "tts_text": "مفعول پس از «coller» می‌آید و محل با «sur» مشخص می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L135-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L135)",
+      "tts_text": "با هم‌کلاسی خود یک تصویر را روی پوستر بچسبان و جای آن را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L135-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L135)",
+      "tts_text": "شش شکل «coller» را مرور کن و از sur برای بیان سطح استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "lesson": "L134",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L134-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "On peut tracer l’affiche maintenant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L134-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, j’ai une feuille blanche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L134-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Nous traçons le cercle ensemble ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L134-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "D’accord, je le place au centre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L134-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Vous tracez une bordure aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L134-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, nous traçons des lignes droites.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L134-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Les élèves tracent les images ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L134-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, ils gardent un coin pour le titre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L134-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Nous traçons le plan sur une feuille blanche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L134-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je prends un crayon à papier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L134-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu traces une ligne pointillée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L134-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, elle sépare le titre des images.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L134-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Où est le repère du centre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L134-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Il est dans le cercle tracé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L134-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "La bordure est fine et régulière.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L134-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Nous traçons aussi une forme simple.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L134-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Quel espace reste libre pour le texte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L134-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Le titre va dans le coin supérieur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L134-fr-vocab-crayonapapier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "crayon à papier. Je trace un cercle avec un crayon à papier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L134-fr-vocab-lignepointillee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "ligne pointillée. La ligne pointillée sépare les deux images.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L134-fr-vocab-bordure",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "bordure. Une bordure entoure le titre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L134-fr-vocab-repere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "repère. Un petit repère marque le centre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L134-fr-vocab-formesimple",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "forme simple. Le cercle est une forme simple.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L134-fr-vocab-feuilleblanche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "feuille blanche. La feuille blanche est sur la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L134-fr-vocab-cercletrace",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "cercle tracé. Le cercle tracé est près du titre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L134-fr-vocab-coinsuperieur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "coin supérieur. Le titre est dans le coin supérieur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L134-fr-vocab-papierquadrille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "papier quadrillé. Le papier quadrillé aide à tracer droit.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L134-fr-vocab-zonevide",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "zone vide. La zone vide reçoit une image.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L134-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je trace un cercle. Tu traces une bordure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L134-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Léa trace une ligne pointillée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L134-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous traçons le plan. Vous tracez le titre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L134-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves tracent des formes simples.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L134-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je trace une bordure sur la feuille.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L134-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu traces un cercle près du titre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L134-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Noé trace un petit repère au centre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L134-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous traçons le plan du jardin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L134-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous tracez une ligne pointillée.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L134-fr-examples-6",
+      "role": "FR-VOCAB",
+      "source": "examples.items[5]",
+      "tts_text": "Les élèves tracent des formes sur le papier.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L134-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Léa prépare une affiche sur le jardin de l’école. Elle commence par une feuille blanche. Avec un crayon à papier, elle trace une bordure légère et un cercle au milieu. Elle ajoute une ligne pointillée pour séparer le titre des images. Un petit repère montre le centre. Elle laisse une zone vide sous les images. Le titre est dans le coin supérieur ; les formes simples sont près du dessin. Noé utilise du papier quadrillé pour vérifier les lignes. Au présent, on écrit je trace, tu traces, il trace, nous traçons, vous tracez et ils tracent. Pour garder le son devant o, le c de tracer prend une cédille dans nous traçons. Ils regardent le plan avant de compléter l’affiche.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 674
+    },
+    {
+      "id": "L134-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L134)",
+      "tts_text": "فعل «tracer» یعنی خط یا شکل رسم‌کردن؛ برای «nous» می‌گوییم «nous traçons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L134-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L134)",
+      "tts_text": "در شکل «nous traçons»، حرف «c» پیش از «o» به «ç» تبدیل می‌شود تا صدای حفظ شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L134-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L134)",
+      "tts_text": "به گفت‌وگوی مینا و نوئه گوش کن و جای نشانهٔ مرکز را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L134-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L134)",
+      "tts_text": "شش شکل «tracer» را مرور کن و املای «nous traçons» را به خاطر بسپار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L134-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L134)",
+      "tts_text": "با هم‌کلاسی خود چیدمان پوستر را توضیح بده و چند شکل رسم کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L134-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L134)",
+      "tts_text": "در شکل «nous»، «traçons» را با «ç» بنویس؛ بقیهٔ فاعل‌ها را هم مرور کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 70
+    }
+  ]
+}
