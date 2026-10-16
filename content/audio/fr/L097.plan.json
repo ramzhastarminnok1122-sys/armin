@@ -1,0 +1,407 @@
+{
+  "lesson": "L097",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L097-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Nous servons de l’eau ici.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L097-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Tu sers aussi la citronnade ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L097-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui, je sers une citronnade fraîche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L097-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Elle sert les compotes ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L097-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, elle sert les compotes près de la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L097-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Vous servez les fruits aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L097-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, nous servons des oranges et des bananes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L097-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Les élèves servent les boissons dans des gobelets ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L097-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Tu sers de l’eau aux coureurs ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L097-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, je sers de l’eau et de la citronnade.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L097-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Où est le poste de ravitaillement ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L097-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Il est près du grand arbre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L097-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nous servons aussi des bananes ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L097-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, nous servons des bananes et de la compote.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L097-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Vous servez dans des gobelets ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L097-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, nous servons l’eau dans un gobelet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L097-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Les autres élèves servent les fruits ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L097-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, ils servent les oranges et montrent la poubelle de tri.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L097-fr-vocab-gobelet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "gobelet. Je sers l’eau dans un gobelet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L097-fr-vocab-citronnade",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "citronnade. La citronnade est fraîche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L097-fr-vocab-compote",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "compote. La compote est dans un petit pot.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L097-fr-vocab-banane",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "banane. Nous servons une banane après la course.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L097-fr-vocab-orange",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "orange. Il prend une orange au stand.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L097-fr-vocab-postederavitaillement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "poste de ravitaillement. Le poste de ravitaillement est près du parc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L097-fr-vocab-distributeur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "distributeur. Le distributeur donne de l’eau fraîche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L097-fr-vocab-robinet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "robinet. Le robinet est derrière la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L097-fr-vocab-paille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "paille. La paille est dans le gobelet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L097-fr-vocab-poubelledetri",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "poubelle de tri. La poubelle de tri est près du stand.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L097-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je sers de l’eau. Tu sers une citronnade.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L097-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle sert une compote.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L097-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous servons des bananes. Vous servez les coureurs.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L097-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils servent de l’eau fraîche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L097-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je sers de l’eau aux coureurs.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L097-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu sers une citronnade fraîche.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L097-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La bénévole sert une compote.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L097-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous servons des fruits après la course.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L097-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves servent les boissons au stand.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L097-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après la course à pied, les élèves vont au poste de ravitaillement près du parc. Lina sert de l’eau dans un gobelet, et Noé sert une citronnade fraîche. D’autres élèves servent des bananes, des oranges et de la compote. Le distributeur d’eau se trouve derrière la table ; le robinet est juste à côté. Une paille est disponible pour les petites boissons. Les coureurs prennent ce dont ils ont besoin, puis ils mettent les gobelets dans la poubelle de tri. Les bénévoles rangent la table et servent encore de l’eau aux derniers participants. Le verbe servir change selon le sujet : je sers, tu sers, elle sert, nous servons, vous servez et ils servent. Les élèves aident chacun à reprendre des forces.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 699
+    },
+    {
+      "id": "L097-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L097)",
+      "tts_text": "در ایستگاه آب‌رسانی بگو «je sers de l’eau» و «nous servons une boisson».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L097-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L097)",
+      "tts_text": "فعل «servir» در شکل‌های «je» و «tu» بن «ser-» دارد؛ برای «nous» بن «serv-» می‌آید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L097-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L097)",
+      "tts_text": "به گفت‌وگوی ایستگاه پذیرایی گوش کن و جای آن را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L097-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L097)",
+      "tts_text": "برای یک نوشیدنی بگو «servir de l’eau» و برای یک خوراکی بگو «servir une compote».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 80
+    },
+    {
+      "id": "L097-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L097)",
+      "tts_text": "در مدرسه، برای دوندگان آب و خوراکی سرو کنید و نقش‌ها را مشخص کنید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L097-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L097)",
+      "tts_text": "شکل‌های «sers», «sert», «servons», «servez» و «servent» را با فاعل مناسب به‌کار ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 84
+    }
+  ]
+}

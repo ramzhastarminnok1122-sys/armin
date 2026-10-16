@@ -1,0 +1,407 @@
+{
+  "lesson": "L096",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L096-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Je suis la flèche bleue.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L096-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Tu suis le même parcours ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L096-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Oui, je suis les balises.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L096-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Nous suivons la boucle courte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L096-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Non, nous suivons la déviation.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L096-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Vous suivez le balisage rouge ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L096-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, nous suivons chaque flèche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L096-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Les élèves suivent aussi la route ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L096-fr-listening-1",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[0]",
+      "tts_text": "Tu suis la boucle bleue ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L096-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, je suis les flèches jusqu’au premier virage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L096-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "La balise rouge est près du carrefour ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L096-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, elle est juste avant le croisement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L096-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "Nous suivons le parcours dans le sous-bois ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L096-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, nous suivons le balisage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L096-fr-listening-7",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "Vous suivez la déviation aujourd’hui ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L096-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, nous suivons la route bleue.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L096-fr-listening-9",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[8]",
+      "tts_text": "Les autres coureurs suivent les mêmes balises ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L096-fr-listening-10",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, ils suivent la boucle et évitent le raccourci fermé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L096-fr-vocab-fleche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "flèche. Nous suivons les flèches rouges.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L096-fr-vocab-virage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "virage. Le virage est après le grand arbre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L096-fr-vocab-balise",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "balise. La balise est près du chemin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L096-fr-vocab-balisage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "balisage. Le balisage est facile à voir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L096-fr-vocab-croisement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "croisement. Au croisement, nous suivons la flèche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L096-fr-vocab-boucle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "boucle. La boucle passe autour du parc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L096-fr-vocab-carrefour",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "carrefour. Le carrefour est près de l’école.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L096-fr-vocab-sousbois",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "sous-bois. Le parcours passe dans le sous-bois.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L096-fr-vocab-raccourci",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "raccourci. Le raccourci est fermé aujourd’hui.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L096-fr-vocab-deviation",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "déviation. La déviation suit la route bleue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L096-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je suis la flèche. Tu suis le parcours.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L096-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle suit le balisage rouge.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L096-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous suivons la boucle. Vous suivez la déviation.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L096-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils suivent les balises.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L096-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je suis les flèches jusqu’au carrefour.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L096-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu suis le balisage rouge.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L096-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Lina suit la boucle du parc.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L096-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous suivons la déviation ensemble.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L096-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les coureurs suivent les balises.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L096-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La course de l’école passe dans le parc et autour d’un petit bois. Les élèves suivent les flèches bleues dès le départ. Au premier virage, une balise indique le bon chemin. Au croisement, ils suivent le balisage rouge et continuent vers une boucle près du carrefour. Aujourd’hui, le raccourci est fermé ; une déviation bleue remplace une partie du parcours. Lina suit la flèche, et Noé suit la même route avec les autres coureurs. Le verbe suivre change selon le sujet : je suis, tu suis, elle suit, nous suivons, vous suivez et ils suivent. Le contexte aide à comprendre le sens de «je suis» : ici, Lina suit une indication, elle ne dit pas «je suis» au sens d’être.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 667
+    },
+    {
+      "id": "L096-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L096)",
+      "tts_text": "در مسابقهٔ مدرسه، پیکان‌ها و نشانگرها را دنبال کنید؛ شکل فعل برای «je» برابر «je suis» است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 91
+    },
+    {
+      "id": "L096-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L096)",
+      "tts_text": "فعل «suivre» بی‌قاعده است و شکل‌های آن برای «nous» و «vous» به «suivons» و «suivez» می‌رسد.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 91
+    },
+    {
+      "id": "L096-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L096)",
+      "tts_text": "به گفت‌وگو گوش کن و رنگ مسیر جایگزین را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L096-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L096)",
+      "tts_text": "«je suis» می‌تواند شکل «être» یا «suivre» باشد؛ بقیهٔ جمله معنی را روشن می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L096-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L096)",
+      "tts_text": "در مدرسه مسیر مسابقه را با واژه‌های پیکان، پیچ و مسیر جایگزین توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L096-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L096)",
+      "tts_text": "شکل‌های «suis», «suit», «suivons», «suivez» و «suivent» را با فاعل مناسب تمرین کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 82
+    }
+  ]
+}
