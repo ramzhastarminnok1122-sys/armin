@@ -1,0 +1,416 @@
+{
+  "lesson": "L149",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L149-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le rosier change au printemps ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L149-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, il bourgeonne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 19
+    },
+    {
+      "id": "L149-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu vois une pointe verte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L149-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, sur un rameau fin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L149-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La branche souple bouge ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L149-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, avec le vent.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L149-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "La feuille pliée est visible ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L149-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, elle s’ouvre doucement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L149-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le rosier a une petite pointe verte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L149-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, un rameau fin bourgeonne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L149-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "La feuille pliée va s’ouvrir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L149-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, elle va bientôt s’ouvrir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L149-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "L’écorce de la jeune branche est lisse ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L149-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, sa surface est très lisse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L149-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Une goutte de sève brille ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L149-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, au soleil du matin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L149-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Le rosier bourgeonne au début du printemps ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L149-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, les premiers bourgeons apparaissent.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L149-fr-vocab-rameaufin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "rameau fin. Un rameau fin porte un petit bourgeon.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L149-fr-vocab-pointeverte",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "pointe verte. Une pointe verte apparaît sur la branche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L149-fr-vocab-poussetendre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "pousse tendre. La pousse tendre est très petite.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L149-fr-vocab-feuillepliee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "feuille pliée. La feuille pliée s’ouvre doucement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L149-fr-vocab-ecorcelisse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "écorce lisse. La jeune branche a une écorce lisse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L149-fr-vocab-petitegouttedeseve",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "petite goutte de sève. Une petite goutte de sève apparaît sur une jeune tige.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 77
+    },
+    {
+      "id": "L149-fr-vocab-branchesouple",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "branche souple. La branche souple bouge avec le vent.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L149-fr-vocab-tigeligneuse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "tige ligneuse. La tige ligneuse porte plusieurs bourgeons.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L149-fr-vocab-saisondecroissance",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "saison de croissance. Le printemps est une saison de croissance.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L149-fr-vocab-premiersigneduprintemps",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "premier signe du printemps. Un bourgeon est un premier signe du printemps.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 74
+    },
+    {
+      "id": "L149-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je bourgeonne au printemps. Tu bourgeonnes près du mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L149-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Le rosier bourgeonne près de la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L149-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous bourgeonnons au printemps. Vous bourgeonnez près du jardin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L149-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les rosiers bourgeonnent dans le potager.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L149-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Le rosier bourgeonne au printemps.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L149-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu bourgeonnes au bord du chemin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L149-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Une branche souple bourgeonne près du banc.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L149-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous bourgeonnons dans le jardin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L149-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous bourgeonnez au début du printemps.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L149-fr-examples-6",
+      "role": "FR-VOCAB",
+      "source": "examples.items[5]",
+      "tts_text": "Les rosiers bourgeonnent près de la classe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L149-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Au printemps, la classe observe un rosier dans le jardin de l’école. Une pointe verte apparaît sur un rameau fin. La professeure explique que le rosier bourgeonne. Une pousse tendre sort près de l’écorce lisse. Une petite goutte de sève brille au soleil. Les élèves ne touchent pas la plante; ils regardent les nouvelles feuilles. Le vent fait bouger la branche souple. Une tige ligneuse porte plusieurs bourgeons. Le printemps marque le début de la saison de croissance. Ce bourgeon annonce l’arrivée du printemps. Au présent, bourgeonner est régulier : je bourgeonne, tu bourgeonnes, il bourgeonne, nous bourgeonnons, vous bourgeonnez et ils bourgeonnent.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 657
+    },
+    {
+      "id": "L149-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L149)",
+      "tts_text": "فعل «bourgeonner» یعنی جوانه‌زدن؛ بگو «je bourgeonne» و «nous bourgeonnons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L149-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L149)",
+      "tts_text": "فاعل را پیدا کن و پایان درست فعل «bourgeonner» را انتخاب کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L149-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L149)",
+      "tts_text": "به گفت‌وگو گوش کن و نشانهٔ سبزی را که روی بوته دیده می‌شود پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L149-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L149)",
+      "tts_text": "برای «nous» پایان «-ons» و برای «vous» پایان «-ez» می‌آید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L149-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L149)",
+      "tts_text": "در مدرسه جوانه‌های بوتهٔ رز را مشاهده کن و شاخه را توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L149-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L149)",
+      "tts_text": "جوانه را نچین و شش شکل «bourgeonner» را مرور کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    }
+  ]
+}

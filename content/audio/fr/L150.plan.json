@@ -1,0 +1,416 @@
+{
+  "lesson": "L150",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L150-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le rosier attire les abeilles ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L150-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, ses fleurs ouvertes les attirent.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L150-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Une abeille visite la fleur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L150-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, mais nous gardons nos distances.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L150-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Quel insecte passe près du pot ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L150-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Un petit papillon.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L150-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "L’abeille cherche le nectar ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L150-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, au cœur de la fleur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L150-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Où voit-on le pollen jaune ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L150-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "On le voit au cœur de la fleur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L150-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Qu’est-ce qui attire l’abeille sauvage ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L150-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La couleur vive et le parfum léger.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L150-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "L’abeille est un insecte pollinisateur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L150-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, elle visite la fleur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L150-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Son aile transparente bouge ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L150-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, l’abeille vole près des pétales colorés.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L150-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Où passe le petit papillon ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L150-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Il passe près d’une plante en pot.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L150-fr-vocab-abeillesauvage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "abeille sauvage. Une abeille sauvage visite la fleur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L150-fr-vocab-petitpapillon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "petit papillon. Un petit papillon vole près des fleurs.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L150-fr-vocab-pollenjaune",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "pollen jaune. Sur cette fleur, le pollen jaune est visible.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L150-fr-vocab-nectarsucre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "nectar sucré. L’abeille cherche le nectar sucré.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L150-fr-vocab-fleurouverte",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "fleur ouverte. La fleur ouverte attire une abeille.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L150-fr-vocab-petalecolore",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "pétale coloré. Un pétale coloré reçoit le soleil.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L150-fr-vocab-ailetransparente",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "aile transparente. L’aile transparente bouge vite.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L150-fr-vocab-corpsraye",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "corps rayé. L’abeille a un corps rayé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L150-fr-vocab-visiteduneabeille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "visite d’une abeille. La visite d’une abeille dure un moment.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L150-fr-vocab-insectepollinisateur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "insecte pollinisateur. Une abeille est un insecte pollinisateur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L150-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je suis une fleur et j’attire les abeilles. Tu es une fleur et tu attires un papillon.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 86
+    },
+    {
+      "id": "L150-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La couleur vive attire une abeille.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L150-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous sommes des fleurs et nous attirons les insectes. Vous êtes des fleurs et vous attirez les papillons.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 105
+    },
+    {
+      "id": "L150-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les fleurs attirent les abeilles au jardin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L150-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’attire les abeilles grâce au parfum de mes pétales.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L150-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu attires un petit papillon avec tes pétales colorés.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L150-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Le parfum léger attire les abeilles.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L150-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Avec nos fleurs, nous attirons les insectes pollinisateurs.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L150-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous attirez les papillons avec vos fleurs.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L150-fr-examples-6",
+      "role": "FR-VOCAB",
+      "source": "examples.items[5]",
+      "tts_text": "Les fleurs attirent les abeilles sauvages.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L150-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Au jardin de l’école, une fleur ouverte a une couleur vive. Son parfum léger attire une abeille sauvage. Le nectar sucré attire aussi cet insecte pollinisateur. L’abeille se pose sur un pétale coloré et cherche du nectar. Une aile transparente bouge près de la fleur. Son corps est rayé. Les élèves gardent leurs distances et ne touchent pas l’abeille. Ils voient un peu de pollen jaune au cœur de la fleur. Un petit papillon passe près d’une plante en pot. La visite d’une abeille dure peu de temps. Au présent, attirer est régulier : j’attire, tu attires, il attire, nous attirons, vous attirez et ils attirent. Les fleurs de saison attirent parfois plusieurs insectes.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 671
+    },
+    {
+      "id": "L150-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L150)",
+      "tts_text": "فعل «attirer» یعنی جذب‌کردن؛ بگو «j’attire» و «nous attirons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L150-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L150)",
+      "tts_text": "نام حشره‌ای را که جذب می‌شود مستقیم پس از فعل «attirer» بیاور.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L150-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L150)",
+      "tts_text": "به گفت‌وگو گوش کن و دو چیزی را پیدا کن که زنبور را جذب می‌کنند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L150-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L150)",
+      "tts_text": "برای «je» پیش از واکه می‌گوییم «j’attire».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 42
+    },
+    {
+      "id": "L150-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L150)",
+      "tts_text": "در مدرسه حشرات نزدیک گل‌ها را از فاصله و بدون لمس مشاهده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L150-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L150)",
+      "tts_text": "فاصله‌ات را از زنبورها حفظ کن و شش شکل «attirer» را مرور کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    }
+  ]
+}

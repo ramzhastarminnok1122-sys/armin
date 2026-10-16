@@ -1,0 +1,416 @@
+{
+  "lesson": "L151",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L151-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La fleur perd sa fraîcheur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L151-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, elle se fane lentement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L151-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "La soucoupe est pleine ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L151-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, elle est pleine.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L151-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Nous pouvons ajouter de l’eau ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L151-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Pas sans vérifier la terre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L151-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Qui examine le pot ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L151-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Un adulte, près du jardin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L151-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La rose commence à se faner près de la fenêtre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L151-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, sa tête est un peu penchée vers le sol.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L151-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "La terre est détrempée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L151-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Non, elle est seulement humide.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L151-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Qui vérifie le pot ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L151-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "La professeure vérifie le pot.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L151-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "La soucoupe est pleine d’eau ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L151-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, elle est pleine d’eau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L151-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Nous ajoutons de l’eau ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L151-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Non, nous demandons conseil à la professeure.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L151-fr-vocab-fleurfanee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "fleur fanée. La fleur fanée perd sa couleur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L151-fr-vocab-tigemolle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "tige molle. La tige molle plie sous le vent.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L151-fr-vocab-petalefroisse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "pétale froissé. Un pétale froissé tombe près du pot.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L151-fr-vocab-feuillefletrie",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "feuille flétrie. Une feuille flétrie reste sur la plante.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L151-fr-vocab-plantefatiguee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "plante fatiguée. La plante fatiguée demande de l’attention.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L151-fr-vocab-tetepenchee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "tête penchée. La fleur a la tête penchée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L151-fr-vocab-borddesseche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "bord desséché. Le bord desséché devient brun.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L151-fr-vocab-potsansdrainage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "pot sans drainage. Un pot sans drainage garde l’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L151-fr-vocab-terredetrempee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "terre détrempée. La terre détrempée garde trop d’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L151-fr-vocab-soucoupepleine",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "soucoupe pleine. Une soucoupe pleine reste sous le pot.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L151-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je me fane au soleil. Tu te fanes sans eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L151-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La rose se fane après quelques jours.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L151-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous nous fanons au soleil fort. Vous vous fanez près de la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L151-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les fleurs se fanent à la fin de la saison.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L151-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Quand je manque d’eau, je me fane.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L151-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu te fanes pendant les jours très chauds.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L151-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La rose se fane dans le jardin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L151-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Nous nous fanons quand la chaleur est forte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L151-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous vous fanez près du mur.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L151-fr-examples-6",
+      "role": "FR-VOCAB",
+      "source": "examples.items[5]",
+      "tts_text": "Les fleurs se fanent à la fin de l’été.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L151-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Au jardin de l’école, une rose se fane. Sa tête est penchée et un pétale froissé est près du pot. La professeure regarde aussi une feuille flétrie et une tige molle. Le bord desséché de la fleur est brun. La terre détrempée peut garder trop d’eau. La professeure regarde aussi si la soucoupe est pleine. Un pot sans drainage retient l’eau. Les élèves ne décident pas seuls d’ajouter de l’eau : ils demandent conseil à la professeure. Le verbe se faner décrit une fleur qui perd sa fraîcheur. Pour apprendre les formes, la fleur dit : «Je me fane.» Au présent : je me fane, tu te fanes, il se fane, nous nous fanons, vous vous fanez et ils se fanent.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 649
+    },
+    {
+      "id": "L151-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L151)",
+      "tts_text": "فعل ضمیری «se faner» یعنی پژمرده‌شدن؛ بگو «je me fane» و «nous nous fanons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L151-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L151)",
+      "tts_text": "ضمیر بازتابی را با فاعل هماهنگ کن و پیش از آبیاری از آموزگار بپرس.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L151-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L151)",
+      "tts_text": "به گفت‌وگو گوش کن و پیدا کن چه کسی گلدان را بررسی می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L151-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L151)",
+      "tts_text": "برای «nous»، دو بار «nous» می‌آید: «nous nous fanons».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L151-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L151)",
+      "tts_text": "در مدرسه گل پژمرده را مشاهده کن و پیش از افزودن آب راهنمایی بخواه.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L151-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L151)",
+      "tts_text": "خاک و زیرگلدانی را بررسی کن و شش شکل «se faner» را مرور کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    }
+  ]
+}
