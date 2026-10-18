@@ -1,10 +1,11 @@
 # French production progress
 
-Updated: 2026-10-16
+Updated: 2026-10-18
 
 ## Content
 
-- Installed and validated: French L001–L151 (151 of 340).
+- Installed and validated: French L001–L152 (152 of 340).
+- L152: regular present-tense `ratisser`; supervised school-garden leaf collection and tool safety.
 - L002–L004: age with `avoir`; spelling names and French diacritics; country of origin and residence.
 - L005–L007: language names and `ne...pas`; family vocabulary and possessives; regular present-tense `-er` verbs and weekly schedules.
 - L008–L010: adjective agreement in respectful descriptions; café orders and partitive articles; food preferences with definite articles.
@@ -122,10 +123,10 @@ Updated: 2026-10-16
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 151; plan manifests: 151; planned clips: 6,676 (135 added for each of L146–L148 and L149–L151; 117 French and 18 Persian per batch, 45 per lesson).
+- French lessons: 152; plan manifests: 152; planned clips: 6,720 (L152 adds 44 clips: 38 French and 6 Persian).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 6,676.
-- Lessons with complete real audio: 0; lessons without real audio: 151.
+- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 6,720.
+- Lessons with complete real audio: 0; lessons without real audio: 152.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -137,4 +138,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue French sequentially from L152. Select untaught A1 targets after checking the full French context, then author, isolate-build, validate, and install only after zero-error QA.
+Continue French sequentially from L153. Select untaught A1 targets after checking the full French context, then author, isolate-build, validate, and install only after zero-error QA.
