@@ -4,7 +4,8 @@ Updated: 2026-10-18
 
 ## Content
 
-- Installed and validated: French L001–L158 (158 of 340).
+- Installed and validated: French L001–L161 (161 of 340).
+- L159–L161: regular `conserver`; e-to-è spelling change in `peser`; `partager` with the spelling-preserving e in `nous partageons`.
 - L156–L158: second-group `fleurir`; irregular `cueillir` with adult permission; regular `trier` for clean garden produce.
 - L153–L155: regular present-tense `germer`; second-group `mûrir`; regular `grimper` for observing climbing plants safely.
 - L152: regular present-tense `ratisser`; supervised school-garden leaf collection and tool safety.
@@ -125,10 +126,10 @@ Updated: 2026-10-18
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 158; plan manifests: 158; planned clips: 6,984 (L152–L158 add 308 clips: 266 French and 42 Persian).
+- French lessons: 161; plan manifests: 161; planned clips: 7,116 (L152–L161 add 440 clips: 380 French and 60 Persian).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 6,984.
-- Lessons with complete real audio: 0; lessons without real audio: 158.
+- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 7,116.
+- Lessons with complete real audio: 0; lessons without real audio: 161.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -140,4 +141,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue French sequentially from L159. Select untaught A1 targets after checking the full French context, then author, isolate-build, validate, and install only after zero-error QA.
+Continue French sequentially from L162. Select untaught A1 targets after checking the full French context, then author, isolate-build, validate, and install only after zero-error QA.
