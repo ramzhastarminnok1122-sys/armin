@@ -1,0 +1,434 @@
+{
+  "lesson": "L204",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L204-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Quel nombre est le plus grand ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L204-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Douze est plus grand que dix.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L204-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "La plante est plus haute qu’avant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L204-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, l’écart est de deux centimètres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L204-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Qui vérifie les chiffres ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L204-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "La professeure vérifie le carnet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L204-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Nous touchons la plante ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L204-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Non, nous comparons les nombres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L204-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Nous lisons deux nombres dans le carnet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L204-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Le premier nombre est dix centimètres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L204-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Et le nombre récent est douze.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L204-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La plante mesure plus aujourd’hui ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L204-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, elle est plus haute qu’avant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L204-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "L’écart est de deux centimètres ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L204-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, la professeure vérifie le calcul.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L204-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Les deux nombres sont pareils ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L204-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Non, le nouveau est plus grand.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L204-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Nous écrivons une conclusion ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L204-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Nous disons que la plante a grandi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L204-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Nous touchons la tige pour vérifier ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L204-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "Non, nous lisons les mesures du carnet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L204-fr-vocab-comparer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "comparer. Nous comparons les deux nombres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L204-fr-vocab-difference",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "différence. La différence est petite.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L204-fr-vocab-ecart",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "écart. L’écart entre les deux mesures est de deux centimètres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L204-fr-vocab-pareil",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "pareil. Les deux nombres ne sont pas pareils.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L204-fr-vocab-ancien",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "ancien. Nous lisons le nombre ancien dans le carnet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L204-fr-vocab-recent",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "récent. Le nombre récent est plus grand.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L204-fr-vocab-hausse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "hausse. La hausse est facile à voir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L204-fr-vocab-baisse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "baisse. Nous ne voyons pas de baisse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L204-fr-vocab-plushaut",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "plus haut. La tige est plus haute aujourd’hui.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L204-fr-vocab-moinshaut",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "moins haut. Le petit plant est moins haut.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L204-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "La plante est plus haute que la semaine dernière.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L204-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La nouvelle tige est moins longue que l’autre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L204-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous comparons les deux relevés.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L204-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "La mesure récente est plus grande.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L204-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Nous comparons deux mesures.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L204-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "La plante est plus haute qu’avant.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L204-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu compares le nombre ancien et le nombre récent.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L204-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La tige est moins longue que l’autre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L204-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves comparent les relevés du carnet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L204-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La classe ouvre le carnet de suivi avec la professeure. La semaine passée, la jeune plante mesurait dix centimètres; aujourd’hui, elle mesure douze. Mina lit les deux relevés à voix haute et Hugo compare les nombres. La plante est plus haute qu’avant, avec un écart de deux centimètres. L’enseignante vérifie la date et le calcul. Les élèves écrivent une phrase simple sur le changement, puis ferment le carnet. Ils ne tirent pas sur la tige pour vérifier sa longueur. La jardinière explique que les prochaines mesures aideront le groupe à suivre la croissance.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 561
+    },
+    {
+      "id": "L204-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L204)",
+      "tts_text": "برای مقایسهٔ دو اندازه از فعل «comparer» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L204-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L204)",
+      "tts_text": "صرف فعل منظم «comparer» و عبارت‌های «plus. que» و «moins. que» را تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L204-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L204)",
+      "tts_text": "گوش بده و پیدا کن اندازهٔ تازه چقدر است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 40
+    },
+    {
+      "id": "L204-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L204)",
+      "tts_text": "برای مقایسه می‌گوییم «plus. que» یا «moins. que» و صفت را با اسم هماهنگ می‌کنیم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 80
+    },
+    {
+      "id": "L204-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L204)",
+      "tts_text": "دو اندازه را از دفتر بخوان و با هم مقایسه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    },
+    {
+      "id": "L204-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L204)",
+      "tts_text": "عددها را با واحد بخوان و نتیجه را با کمک آموزگار بررسی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    }
+  ]
+}

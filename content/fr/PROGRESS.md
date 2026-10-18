@@ -4,7 +4,9 @@ Updated: 2026-10-18
 
 ## Content
 
-- Installed and validated: French L001–L203 (203 of 340).
+- Installed and validated: French L001–L206 (206 of 340).
+- L204–L206: compare plant measurements with `comparer`; economize water with `économiser`; move the pot safely with `déplacer`.
+- L204–L206 validation against 203 preceding French lessons: 3 lessons, 4,256 checks, 0 errors; independent QA: 32 assertions passed across all 12 teaching sections per lesson.
 - L201–L203: observe a young plant with `observer`; measure it with `mesurer`; record the result in the shared class log with `noter`.
 - L201–L203 validation against 200 preceding French lessons: 3 lessons, 4,248 checks, 0 errors; independent QA: 32 assertions passed across all 12 teaching sections per lesson.
 - L198–L200: prepare garden materials with `préparer`; meet beside the garden with second-group `se réunir`; welcome a visiting gardener with irregular `accueillir`, accompanied by the teacher.
@@ -132,10 +134,10 @@ Updated: 2026-10-18
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 203; plan manifests: 203; planned clips: 9,054 (L152–L203 add 2,378 clips: 2,066 French and 312 Persian).
+- French lessons: 206; plan manifests: 206; planned clips: 9,195 (L152–L206 add 2,519 clips: 2,189 French and 330 Persian).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 9,054.
-- Lessons with complete real audio: 0; lessons without real audio: 203.
+- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 9,195.
+- Lessons with complete real audio: 0; lessons without real audio: 206.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -147,4 +149,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue French sequentially from L204. Preserve completed lessons, work in explicit isolated ranges, validate before install, and keep English/Spanish data unchanged.
+Continue French sequentially from L207. Preserve completed lessons, work in explicit isolated ranges, validate before install, and keep English/Spanish data unchanged.

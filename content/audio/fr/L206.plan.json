@@ -1,0 +1,434 @@
+{
+  "lesson": "L206",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L206-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le pot va près de la fenêtre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L206-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, l’endroit est lumineux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L206-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Qui le déplace ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 16
+    },
+    {
+      "id": "L206-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "La professeure avec le groupe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L206-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Le pot bloque le passage ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L206-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Non, nous laissons un espace libre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L206-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Le support est stable ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L206-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, l’adulte le vérifie.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L206-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La jardinière cherche un endroit pour le pot.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L206-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Le coin près de la fenêtre est lumineux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L206-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "La professeure vérifie le passage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L206-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Le pot reste loin de la porte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L206-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, il ne bloque pas le chemin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L206-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Qui déplace le pot ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L206-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "L’adulte le déplace avec soin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L206-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Nous portons le pot seuls ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L206-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Non, nous demandons de l’aide.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L206-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Le pot repose bien à plat ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L206-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Oui, la professeure le vérifie.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L206-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "La plante reçoit un peu de lumière ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L206-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "Oui, et le groupe garde le passage libre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L206-fr-vocab-deplacer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "déplacer. La professeure déplace le pot avec le groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L206-fr-vocab-emplacement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "emplacement. Cet emplacement est près de la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L206-fr-vocab-lumineux",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "lumineux. Le coin lumineux convient à la plante.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L206-fr-vocab-ensoleille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "ensoleillé. Le banc est ensoleillé le matin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L206-fr-vocab-ombre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "ombre. Le pot n’est pas dans l’ombre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L206-fr-vocab-rayon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "rayon. Un rayon entre par la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L206-fr-vocab-emplacementsur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "emplacement sûr. La professeure choisit un emplacement sûr.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L206-fr-vocab-stable",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "stable. Le support est stable.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L206-fr-vocab-passage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "passage. Le pot ne bloque pas le passage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L206-fr-vocab-alecart",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "à l’écart. Le pot reste à l’écart du passage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L206-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je déplace la petite table. Tu déplaces le pot avec l’adulte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L206-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La professeure déplace le pot près de la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L206-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous déplaçons le pot ensemble. Vous déplacez le matériel avec l’enseignante.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 77
+    },
+    {
+      "id": "L206-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves déplacent une chaise pour libérer le passage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L206-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La professeure déplace le pot.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L206-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous déplaçons la plante ensemble.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L206-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu déplaces la chaise avec l’adulte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L206-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le pot reste près de la fenêtre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L206-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves déplacent une chaise pour libérer le passage.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L206-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après l’arrosage, la professeure cherche un emplacement pour le pot. Un coin près de la fenêtre est lumineux et ne se trouve pas dans l’ombre. La classe déplace une chaise pour libérer le passage. L’enseignante prend le pot avec la jardinière; les élèves restent à côté et regardent. Elles posent la plante sur un support stable, loin de la porte. Le pot ne peut pas tomber et le chemin reste libre. Mina ouvre le carnet collectif pour noter le nouvel emplacement. Hugo vérifie que la plante reçoit un peu de lumière. Le groupe retourne ensuite à son activité avec la classe.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 575
+    },
+    {
+      "id": "L206-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L206)",
+      "tts_text": "برای جابه‌جاکردن گلدان از فعل «déplacer» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L206-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L206)",
+      "tts_text": "صرف فعل «déplacer» و نوشتن «ç» در «nous déplaçons» را تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L206-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L206)",
+      "tts_text": "گوش بده و پیدا کن چه کسی گلدان را جابه‌جا می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L206-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L206)",
+      "tts_text": "برای «nous» می‌گوییم «nous déplaçons» و مسیر عبور را باز می‌گذاریم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L206-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L206)",
+      "tts_text": "جای روشن و امنی پیشنهاد بده و نقش بزرگسال را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L206-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L206)",
+      "tts_text": "گلدان را فقط با کمک بزرگسال جابه‌جا کن و راه عبور را باز نگه دار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "lesson": "L205",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L205-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La plante a soif ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L205-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "La jardinière vérifie la terre avec nous.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L205-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Quelle quantité prenons-nous ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L205-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Un petit arrosoir, avec l’accord de l’adulte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L205-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Nous laissons le robinet ouvert ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L205-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Non, nous le fermons après l’usage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L205-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Nous gaspillons l’eau ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L205-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Non, nous utilisons juste ce qu’il faut.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L205-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La plante a besoin d’eau aujourd’hui.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L205-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Qui choisit la quantité ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L205-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "La jardinière avec la professeure.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L205-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Nous prenons un grand seau ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L205-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Non, un petit arrosoir suffit.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L205-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Nous versons toute l’eau ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L205-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Non, seulement une petite quantité.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L205-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Après l’arrosage, que fait la professeure ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L205-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "La professeure le ferme après l’usage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L205-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Nous laissons l’eau couler ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L205-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Non, nous économisons chaque goutte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L205-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Le pot reçoit assez d’eau ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L205-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "Oui, l’adulte vérifie la terre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L205-fr-vocab-economiser",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "économiser. Nous économisons l’eau pendant l’arrosage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L205-fr-vocab-arrosoir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "arrosoir. La professeure apporte un petit arrosoir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L205-fr-vocab-goutte",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "goutte. Une goutte tombe près du pot.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L205-fr-vocab-quantite",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "quantité. La quantité d’eau est petite.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L205-fr-vocab-reserve",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "réserve. La réserve d’eau est fermée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L205-fr-vocab-gaspiller",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "gaspiller. Nous ne voulons pas gaspiller l’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L205-fr-vocab-arroser",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "arroser. La jardinière arrose le pot avec la classe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L205-fr-vocab-seau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "seau. Le seau reste près de l’adulte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L205-fr-vocab-robinet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "robinet. La professeure ferme le robinet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L205-fr-vocab-suffisant",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "suffisant. Un petit verre est suffisant pour le pot.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L205-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’économise l’eau. Tu économises une petite quantité.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L205-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La jardinière économise l’eau avec un petit arrosoir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L205-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous économisons l’eau. Vous arrosez avec l’adulte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L205-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves ne gaspillent pas l’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L205-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Nous économisons l’eau au jardin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L205-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "La jardinière arrose le pot.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L205-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu ne gaspilles pas l’eau.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L205-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Vous fermez le robinet après l’usage.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L205-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves choisissent une quantité suffisante.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L205-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La jardinière arrive avec un petit arrosoir pour la plante de la classe. L’enseignante vérifie d’abord si la terre est sèche et choisit la quantité avec le groupe. Mina verse un peu d’eau près du pot; Hugo tient le récipient avec l’adulte. Le seau reste à côté de la professeure. Après l’arrosage, l’enseignante ferme le robinet et range l’arrosoir. Les élèves ne jouent pas avec l’eau et ne la laissent pas couler. Une petite quantité suffit pour cette plante. Le groupe économise l’eau et retourne ensuite au carnet de suivi.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 527
+    },
+    {
+      "id": "L205-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L205)",
+      "tts_text": "برای صرفه‌جویی در آب از فعل «économiser» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L205-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L205)",
+      "tts_text": "صرف فعل منظم «économiser» و ساختار «ne. pas» را تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L205-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L205)",
+      "tts_text": "گوش بده و پیدا کن چه کسی شیر آب را می‌بندد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 43
+    },
+    {
+      "id": "L205-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L205)",
+      "tts_text": "برای «nous» می‌گوییم «nous économisons» و برای منفی‌کردن «ne. pas» را به کار می‌بریم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 85
+    },
+    {
+      "id": "L205-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L205)",
+      "tts_text": "با کمک آموزگار مقدار آب را انتخاب کن و روش جلوگیری از هدررفت را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L205-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L205)",
+      "tts_text": "فقط به‌اندازهٔ لازم آب بده و شیر را پس از استفاده ببند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    }
+  ]
+}
