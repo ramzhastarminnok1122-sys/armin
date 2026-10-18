@@ -1,0 +1,434 @@
+{
+  "lesson": "L196",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L196-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La salle est disponible jeudi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L196-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "La professeure vérifie l’horaire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L196-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Qui envoie la demande ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L196-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "L’adulte responsable de l’activité.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L196-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Nous confirmons la réservation ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L196-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "L’école confirme quand la salle est libre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L196-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Qui apporte le matériel ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L196-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "C’est l’adulte responsable.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L196-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La professeure réserve la petite salle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L196-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Pour quel jour ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 16
+    },
+    {
+      "id": "L196-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Pour jeudi matin, si elle est libre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L196-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Le créneau dure combien de temps ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L196-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Une heure, après la pause.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L196-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Qui vérifie le matériel ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L196-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "L’adulte regarde la liste avant de confirmer.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L196-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "La réservation est déjà définitive ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L196-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Non, l’école doit répondre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L196-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Où attendons-nous la confirmation ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L196-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Dans le registre du projet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L196-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Nous prenons les outils seuls ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L196-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "Non, l’adulte apporte les outils.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L196-fr-vocab-reserver",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "réserver. La professeure réserve une table pour jeudi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L196-fr-vocab-accord",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "accord. Nous attendons l’accord de l’école.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L196-fr-vocab-place",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "place. Il reste une place près de la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L196-fr-vocab-salle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "salle. La salle est libre après la pause.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L196-fr-vocab-creneau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "créneau. Le créneau dure une heure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L196-fr-vocab-materiel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "matériel. Le matériel reste dans l’armoire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L196-fr-vocab-disponible",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "disponible. La table est disponible jeudi matin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L196-fr-vocab-horaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "horaire. L’horaire correspond à la classe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L196-fr-vocab-demande",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "demande. La professeure envoie une demande.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L196-fr-vocab-confirmer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "confirmer. L’école confirme la réservation.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L196-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je réserve une place. Tu réserves la salle pour jeudi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L196-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La professeure réserve une table près du jardin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L196-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous réservons un créneau. Vous réservez la salle avec l’école.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L196-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les adultes réservent le matériel pour l’activité.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L196-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La professeure réserve une salle pour la classe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L196-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous réservons un créneau après la pause.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L196-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Le matériel reste dans l’armoire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L196-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Tu réserves une place près de la fenêtre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L196-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les adultes réservent la table pour jeudi.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L196-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La classe souhaite préparer les dessins du jardin dans une petite salle. La professeure vérifie le calendrier et demande un créneau d’une heure jeudi matin. Elle regarde aussi si la table et le matériel sont disponibles. L’école n’a pas encore confirmé la réservation, alors le groupe garde son programme comme une proposition. Les élèves ne déplacent aucun outil sans l’adulte. Mina écrit l’heure demandée sur le tableau; Hugo prépare une liste de crayons et de feuilles. Quand la réponse arrive, la professeure informe la classe et apporte le matériel nécessaire. Si la salle est occupée, le groupe choisira un autre moment.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 626
+    },
+    {
+      "id": "L196-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L196)",
+      "tts_text": "برای فعالیت کلاس با فعل «réserver» فضا یا زمانی درخواست کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L196-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L196)",
+      "tts_text": "صرف زمان حال «réserver» را تمرین کن و تفاوت «é» و «è» را ببین.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L196-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L196)",
+      "tts_text": "گوش بده و پیدا کن چه کسی باید رزرو را تأیید کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L196-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L196)",
+      "tts_text": "برای «nous» می‌گوییم «nous réservons» و برای «ils» می‌گوییم «ils réservent».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L196-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L196)",
+      "tts_text": "در سناریوی مدرسه دربارهٔ زمان، اتاق و وسایل صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L196-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L196)",
+      "tts_text": "برای رزرو از آموزگار کمک بگیر و منتظر تأیید بمان.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    }
+  ]
+}

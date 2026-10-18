@@ -1,0 +1,472 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 195,
+    "title": "La classe planifie une journée au jardin",
+    "subtitle": "Mettre les étapes et les heures en ordre",
+    "description": "Décrivez un programme simple pour une activité de jardin en classe.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف فعل planifier و مرتب‌کردن برنامهٔ یک روز فعالیت در باغچه",
+      "objectives": [
+        "فعل منظم planifier را در زمان حال صرف کنید",
+        "واژه‌های سادهٔ تاریخ، ساعت و مرحله را به فرانسوی به کار ببرید",
+        "برای یک فعالیت کلاسی برنامه‌ای روشن و قابل‌اجرا پیشنهاد دهید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "کلاس یک روز برای فعالیت باغچه پیشنهاد می‌دهد. ابتدا برنامه را می‌نویسد، سپس زمان هر مرحله را مشخص می‌کند و در پایان آن را با آموزگار بررسی می‌کند. فعل فرانسوی برای «برنامه‌ریزی‌کردن» چیست؟",
+      "questions": [
+        {
+          "q": "فعل فرانسوی برای «برنامه‌ریزی‌کردن» چیست؟",
+          "hint_fa": "مصدر «planifier» را به یاد بیاور."
+        },
+        {
+          "q": "چه کسی برنامه را پیش از اجرا بررسی می‌کند؟",
+          "hint_fa": "آموزگار کلاس."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Planifier une activité",
+      "body_fa": "فعل منظم گروه اول «planifier» یعنی پیش از انجام کار، مرحله‌ها و زمان آن را مرتب‌کردن. در زمان حال می‌گوییم «je planifie»، «tu planifies»، «il/elle planifie»، «nous planifions»، «vous planifiez» و «ils/elles planifient». این فعل به «-ier» پایان می‌یابد و در شکل‌های «nous» و «vous» دو واکه کنار هم دیده می‌شود: «planifions», «planifiez». برای برنامهٔ باغچه می‌توانیم یک تاریخ، ساعت شروع و چند مرحله بنویسیم. برنامه فقط پیشنهاد است تا آموزگار آن را بررسی کند؛ بدون اجازه، زمان یا محل فعالیت را تغییر نمی‌دهیم. فاعل را پیدا کنید و پایان درست فعل را هماهنگ کنید.",
+      "key_points": [
+        "«Je planifie»؛ «nous planifions»؛ «les élèves planifient».",
+        "برای برنامه، تاریخ و ترتیب مرحله‌ها را مشخص کنید.",
+        "پیش از اجرای برنامه از آموزگار تأیید بگیرید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "planifier",
+          "ipa": "/pla.ni.fje/",
+          "translation_fa": "برنامه‌ریزی‌کردن",
+          "example": "Nous planifions une activité de jardin.",
+          "example_fa": "برای فعالیت باغچه برنامه‌ریزی می‌کنیم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "programme",
+          "ipa": "/pʁɔ.ɡʁam/",
+          "translation_fa": "برنامه",
+          "example": "Le programme tient sur une page.",
+          "example_fa": "برنامه در یک صفحه جا می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "étape",
+          "ipa": "/e.tap/",
+          "translation_fa": "مرحله",
+          "example": "Chaque étape a une heure précise.",
+          "example_fa": "هر مرحله ساعت مشخصی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "date",
+          "ipa": "/dat/",
+          "translation_fa": "تاریخ",
+          "example": "La date proposée est écrite au tableau.",
+          "example_fa": "تاریخ پیشنهادی روی تخته نوشته شده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "matin",
+          "ipa": "/ma.tɛ̃/",
+          "translation_fa": "صبح",
+          "example": "L’activité commence le matin.",
+          "example_fa": "فعالیت صبح شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "séance",
+          "ipa": "/se.ɑ̃s/",
+          "translation_fa": "جلسه",
+          "example": "La séance de lecture dure une heure.",
+          "example_fa": "جلسهٔ خواندن یک ساعت طول می‌کشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "horaire",
+          "ipa": "/ɔ.ʁɛʁ/",
+          "translation_fa": "زمان‌بندی",
+          "example": "L’horaire indique le début et la fin.",
+          "example_fa": "زمان‌بندی آغاز و پایان را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "objectif",
+          "ipa": "/ɔb.ʒɛk.tif/",
+          "translation_fa": "هدف",
+          "example": "L’objectif est de préparer un dessin.",
+          "example_fa": "هدف آماده‌کردن نقاشی‌ای است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "calendrier",
+          "ipa": "/ka.lɑ̃.dʁi.je/",
+          "translation_fa": "تقویم",
+          "example": "Nous regardons le calendrier de la classe.",
+          "example_fa": "تقویم کلاس را نگاه می‌کنیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "prévu",
+          "ipa": "/pʁe.vy/",
+          "translation_fa": "برنامه‌ریزی‌شده",
+          "example": "Le temps prévu pour la lecture est court.",
+          "example_fa": "زمان برنامه‌ریزی‌شده برای خواندن کوتاه است.",
+          "tag": "صفت"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Planifier au présent",
+      "explanation_fa": "«Planifier» فعل منظم گروه اول است. در زمان حال می‌گوییم «je planifie»، «tu planifies»، «il/elle planifie»، «nous planifions»، «vous planifiez» و «ils/elles planifient». در شکل‌های «nous» و «vous» پایان فعل با واکهٔ آغازین بن هماهنگ می‌شود: «planifions», «planifiez». در جملهٔ «la classe planifie une journée», فاعل مفرد است؛ در «les élèves planifient le programme», فاعل جمع است. پس از فعل، نام رویداد یا برنامه را می‌آوریم. برنامه را کوتاه و روشن می‌نویسیم و پیش از اجرا از آموزگار تأیید می‌گیریم.",
+      "pattern": "sujet + planifier + activité / programme",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je planifie la matinée. Tu planifies les étapes avec moi.",
+            "من برای صبح برنامه‌ریزی می‌کنم. تو مرحله‌ها را با من برنامه‌ریزی می‌کنی."
+          ],
+          [
+            "il / elle",
+            "La professeure planifie l’heure de lecture.",
+            "آموزگار زمان خواندن را برنامه‌ریزی می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous planifions une journée. Vous planifiez le programme de la classe.",
+            "برای یک روز برنامه‌ریزی می‌کنیم. شما برنامهٔ کلاس را تنظیم می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Les élèves planifient une activité simple.",
+            "دانش‌آموزان فعالیتی ساده را برنامه‌ریزی می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای «nous» می‌گوییم «nous planifions».",
+        "برای فاعل جمع پایان نوشتاری «-ent» می‌آید.",
+        "برنامه را پیش از اجرا با آموزگار مرور کنید."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je planifie une activité pour le matin.",
+          "fa": "برای صبح فعالیتی برنامه‌ریزی می‌کنم.",
+          "note_fa": "فاعل مفرد با «planifie» می‌آید."
+        },
+        {
+          "target": "Nous planifions les étapes du projet.",
+          "fa": "مرحله‌های پروژه را برنامه‌ریزی می‌کنیم.",
+          "note_fa": "برای «nous» از «planifions» استفاده می‌کنیم."
+        },
+        {
+          "target": "Le calendrier montre la date proposée.",
+          "fa": "تقویم تاریخ پیشنهادی را نشان می‌دهد.",
+          "note_fa": "«Le calendrier» فاعل مفرد است."
+        },
+        {
+          "target": "Tu planifies l’horaire avec la professeure.",
+          "fa": "تو زمان‌بندی را با آموزگار برنامه‌ریزی می‌کنی.",
+          "note_fa": "برای «tu» پایان «-es» می‌آید."
+        },
+        {
+          "target": "Les élèves planifient une journée de lecture.",
+          "fa": "دانش‌آموزان روزی برای خواندن برنامه‌ریزی می‌کنند.",
+          "note_fa": "فاعل جمع با «planifient» می‌آید."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Préparer le programme du jardin",
+      "script": "Mina: Nous planifions une activité pour jeudi.\nHugo: À quelle heure commence-t-elle ?\nMina: À neuf heures, après l’accueil.\nHugo: Quelle est la première étape ?\nMina: Nous regardons les dessins du projet.\nHugo: Et la lecture du livret ?\nMina: Elle est prévue après la pause.\nHugo: Qui vérifie l’horaire ?\nMina: La professeure regarde le programme avec nous.\nHugo: Est-ce que la date est confirmée ?\nMina: Pas encore, c’est une proposition.\nHugo: Nous attendons l’accord avant de commencer ?\nMina: Oui, l’adulte confirme le jour.",
+      "script_fa": "مینا: برای پنجشنبه فعالیتی برنامه‌ریزی می‌کنیم.\nاوگو: چه ساعتی شروع می‌شود؟\nمینا: ساعت نه، پس از خوشامدگویی.\nاوگو: نخستین مرحله چیست؟\nمینا: نقاشی‌های پروژه را نگاه می‌کنیم.\nاوگو: خواندن دفترچه چطور؟\nمینا: پس از استراحت برنامه‌ریزی شده است.\nاوگو: چه کسی زمان‌بندی را بررسی می‌کند؟\nمینا: آموزگار برنامه را با ما نگاه می‌کند.\nاوگو: آیا تاریخ تأیید شده است؟\nمینا: هنوز نه، این یک پیشنهاد است.\nاوگو: پیش از شروع منتظر موافقت می‌مانیم؟\nمینا: بله، بزرگسال روز را تأیید می‌کند.",
+      "question_fa": "چه کسی روز فعالیت را تأیید می‌کند؟",
+      "answer": "La professeure.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Choisir une heure pour l’activité",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu planifies la matinée ?",
+          "fa": "برای صبح برنامه‌ریزی می‌کنی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, avec les étapes du projet.",
+          "fa": "بله، همراه مرحله‌های پروژه."
+        },
+        {
+          "speaker": "A",
+          "target": "La date est déjà fixée ?",
+          "fa": "آیا تاریخ از پیش تعیین شده؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, la professeure doit la confirmer.",
+          "fa": "نه، آموزگار باید آن را تأیید کند."
+        },
+        {
+          "speaker": "A",
+          "target": "La lecture est prévue avant la pause ?",
+          "fa": "خواندن پیش از استراحت برنامه‌ریزی شده؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, elle vient après la pause.",
+          "fa": "نه، پس از استراحت است."
+        },
+        {
+          "speaker": "A",
+          "target": "Qui vérifie le programme ?",
+          "fa": "چه کسی برنامه را بررسی می‌کند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "L’adulte responsable.",
+          "fa": "بزرگسال مسئول."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی مدرسه، با یک هم‌کلاسی برای فعالیتی در باغچه برنامه‌ریزی کنید. فعل «planifier» را با چند فاعل تمرین کنید، تاریخ و زمان را پیشنهاد دهید و بگویید چه کسی پیش از اجرا آن را تأیید می‌کند.",
+      "useful_phrases": [
+        {
+          "target": "Nous planifions une activité jeudi.",
+          "fa": "برای پنجشنبه فعالیتی برنامه‌ریزی می‌کنیم."
+        },
+        {
+          "target": "La première étape commence le matin.",
+          "fa": "نخستین مرحله صبح شروع می‌شود."
+        },
+        {
+          "target": "La professeure vérifie l’horaire.",
+          "fa": "آموزگار زمان‌بندی را بررسی می‌کند."
+        },
+        {
+          "target": "Nous attendons la confirmation.",
+          "fa": "منتظر تأیید می‌مانیم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une journée proposée par la classe",
+      "text": "La classe planifie une activité autour du jardin pour jeudi matin. Le programme commence à neuf heures par une courte présentation des dessins. Après la pause, les élèves lisent le livret et notent une idée sur une fiche. La professeure regarde le calendrier et vérifie que l’horaire laisse assez de temps à chaque étape. La date n’est pas encore confirmée; le groupe attend l’accord de l’école avant d’inviter une autre classe. Mina écrit la proposition au tableau et Hugo ajoute l’objectif de la journée. Le programme tient en quatre étapes simples et peut encore changer après l’avis de l’adulte.",
+      "glossary": [
+        {
+          "term": "autour de",
+          "fa": "دربارهٔ"
+        },
+        {
+          "term": "assez de",
+          "fa": "به‌اندازهٔ کافی"
+        },
+        {
+          "term": "inviter",
+          "fa": "دعوت‌کردن"
+        },
+        {
+          "term": "avis",
+          "fa": "نظر"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "فعالیت برای چه روزی پیشنهاد شده است؟",
+          "a": "Jeudi matin."
+        },
+        {
+          "q_fa": "چه چیزی پس از استراحت انجام می‌شود؟",
+          "a": "Les élèves lisent le livret."
+        },
+        {
+          "q_fa": "آیا تاریخ تأیید شده است؟",
+          "a": "Non, la classe attend l’accord de l’école."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست برای «nous» را انتخاب کن.",
+          "question": "Nous ___ le programme de jeudi. (planifier)",
+          "options": [
+            "planifions",
+            "planifie",
+            "planifient"
+          ],
+          "answer": "planifions",
+          "explanation_fa": "برای «nous» از «planifions» استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Quel document montre les jours et les dates ?",
+          "options": [
+            "Un calendrier",
+            "Un signet",
+            "Une reliure"
+          ],
+          "answer": "Un calendrier",
+          "explanation_fa": "تقویم روزها و تاریخ‌ها را نشان می‌دهد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "La classe commence l’activité avant l’accord de l’école.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "گروه پیش از شروع منتظر تأیید می‌ماند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست فعل را انتخاب کن.",
+          "question": "Les enfants ___ leur programme. (planifier)",
+          "options": [
+            "planifient",
+            "planifiez",
+            "planifions"
+          ],
+          "answer": "planifient",
+          "explanation_fa": "فاعل جمع با «planifient» می‌آید."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای «tu» کامل کن.",
+          "question": "Tu ___ une activité pour jeudi. (planifier)",
+          "answer": [
+            "planifies"
+          ],
+          "explanation_fa": "برای «tu» پایان «-es» را بنویس."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "برنامه‌ای کوتاه برای فعالیت کلاس پیشنهاد بده.",
+          "question": "Décris un petit programme de classe.",
+          "answer": [
+            "Nous planifions une lecture après la pause et un dessin le matin.",
+            "La professeure vérifie la date avant de confirmer le programme."
+          ],
+          "explanation_fa": "از فعل «planifier» و دو واژهٔ زمان استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Complète : «La classe ___ une activité.»",
+          "options": [
+            "planifie",
+            "planifions",
+            "planifient"
+          ],
+          "answer": "planifie",
+          "explanation_fa": "«La classe» est un sujet singulier."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie «planifier» ?",
+          "options": [
+            "Organiser les étapes avant une activité",
+            "Souligner un mot",
+            "Répéter une phrase"
+          ],
+          "answer": "Organiser les étapes avant une activité",
+          "explanation_fa": "Planifier, c’est préparer un programme à l’avance."
+        },
+        {
+          "type": "mcq",
+          "question": "À quelle heure l’activité commence-t-elle dans l’écoute ?",
+          "options": [
+            "À neuf heures",
+            "À midi",
+            "À dix-sept heures"
+          ],
+          "answer": "À neuf heures",
+          "explanation_fa": "Mina dit que l’activité commence à neuf heures."
+        },
+        {
+          "type": "mcq",
+          "question": "Qui confirme la date ?",
+          "options": [
+            "La professeure",
+            "Le calendrier",
+            "Les dessins"
+          ],
+          "answer": "La professeure",
+          "explanation_fa": "L’adulte responsable confirme le jour."
+        },
+        {
+          "type": "mcq",
+          "question": "La date est-elle déjà définitive ?",
+          "options": [
+            "Non, c’est une proposition",
+            "Oui, elle ne peut pas changer",
+            "La classe ne choisit aucune date"
+          ],
+          "answer": "Non, c’est une proposition",
+          "explanation_fa": "Le groupe attend encore la confirmation."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در سناریوی مدرسه، برای یک روز فعالیت برنامه‌ای ساده پیشنهاد دهید. فعل «planifier» را با فاعل‌های مختلف صرف کنید، ترتیب مرحله‌ها را بگویید و تأیید آموزگار را پیش از اجرا در نظر بگیرید.",
+      "suggested_prompts": [
+        "Proposez une date et une heure.",
+        "Conjuguez planifier avec nous et ils.",
+        "Décrivez deux étapes de l’activité.",
+        "Expliquez qui confirme le programme."
+      ],
+      "focus": [
+        "planifier au présent",
+        "vocabulaire du calendrier",
+        "proposition à confirmer"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-18",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Students draft a proposed garden activity schedule; the teacher reviews it before any real changes are made."
+  }
+}

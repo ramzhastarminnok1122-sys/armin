@@ -1,0 +1,434 @@
+{
+  "lesson": "L197",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L197-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La sortie au jardin change de jour ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L197-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, elle est prévue demain matin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L197-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Qui a confirmé l’horaire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L197-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "La professeure l’a vérifié avec l’école.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L197-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Où lisons-nous le message ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L197-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "À côté du calendrier mural.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L197-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Nous prévenons notre groupe ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L197-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, après avoir vérifié l’information.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L197-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La professeure nous prévient d’un changement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L197-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Pourquoi l’activité est-elle déplacée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L197-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Il pleut beaucoup dans la cour.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L197-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Quel est le nouvel horaire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L197-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nous commençons à dix heures demain.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L197-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Où l’information est-elle écrite ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L197-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Juste sous la date du jour.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L197-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Le groupe a vu le message ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L197-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, la professeure le lit à voix haute.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L197-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "L’heure est déjà confirmée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L197-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Oui, l’adulte responsable l’a vérifiée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L197-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Nous prévenons les autres élèves ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L197-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "Oui, après avoir lu le message ensemble.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L197-fr-vocab-prevenir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "prévenir. La professeure prévient la classe du changement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L197-fr-vocab-changement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "changement. Le changement concerne l’heure de l’activité.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L197-fr-vocab-message",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "message. Un message clair est écrit au tableau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L197-fr-vocab-horaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "horaire. Le nouvel horaire commence à dix heures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L197-fr-vocab-alavance",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "à l’avance. La classe est prévenue à l’avance.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L197-fr-vocab-annonce",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "annonce. L’annonce donne la nouvelle heure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L197-fr-vocab-responsable",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "responsable. L’adulte responsable confirme l’information.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L197-fr-vocab-informer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "informer. La professeure informe chaque groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L197-fr-vocab-nouveau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "nouveau. Le nouveau jour est affiché en classe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L197-fr-vocab-confirmer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "confirmer. Nous confirmons l’heure avec la professeure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L197-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je préviens mon groupe. Tu préviens ton partenaire du nouvel horaire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L197-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La professeure prévient la classe de la pluie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L197-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous prévenons les élèves. Vous prévenez le groupe après confirmation.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L197-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves préviennent leur équipe du changement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L197-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La professeure prévient la classe de la nouvelle heure.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L197-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous prévenons le groupe après confirmation.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L197-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Le message indique le jour et l’heure.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L197-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Tu préviens ton partenaire du changement.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L197-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves préviennent leur équipe de la pluie.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L197-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La pluie empêche la classe de travailler dans la cour jeudi matin. La professeure prévient les élèves avant la fin du cours et écrit un nouvel horaire au tableau. L’activité commence vendredi à dix heures, si le temps est meilleur. L’adulte responsable confirme l’heure avec l’école avant d’annoncer le changement. Mina lit le message et aide Hugo à prévenir leur groupe. Personne n’envoie de numéro privé; l’information reste sur le tableau de classe. Les élèves vérifient le jour et l’heure avant de préparer leurs affaires. Si une autre modification arrive, la professeure expliquera la nouvelle date.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 604
+    },
+    {
+      "id": "L197-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L197)",
+      "tts_text": "کلاس را با فعل «prévenir» از تغییر برنامه باخبر کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L197-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L197)",
+      "tts_text": "صرف فعل بی‌قاعدهٔ «prévenir» را با چند فاعل تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L197-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L197)",
+      "tts_text": "گوش بده و پیدا کن فعالیت فردا چه ساعتی شروع می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L197-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L197)",
+      "tts_text": "برای «nous» می‌گوییم «nous prévenons» و برای «ils» می‌گوییم «ils préviennent».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L197-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L197)",
+      "tts_text": "در سناریوی مدرسه تغییر روز و ساعت فعالیت را روشن اعلام کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L197-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L197)",
+      "tts_text": "پیش از انتقال پیام، زمان تازه را با آموزگار بررسی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    }
+  ]
+}
