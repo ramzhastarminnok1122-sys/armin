@@ -1,0 +1,434 @@
+{
+  "lesson": "L194",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L194-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Qu’imagines-tu près de la classe ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L194-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Un petit jardin avec trois pots.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L194-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Quelle couleur choisis-tu ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L194-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Peut-être du vert et du jaune.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L194-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Nous changeons le lieu tout de suite ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L194-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Non, nous montrons d’abord le dessin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L194-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Qui vérifie l’idée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L194-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "La professeure nous conseille.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L194-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "J’imagine un coin vert près de la classe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L194-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Qu’est-ce qu’on peut mettre dans ce coin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L194-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Trois pots avec des fleurs de couleurs différentes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L194-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Tu dessines aussi un petit chemin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L194-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, il passe près de la fenêtre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L194-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Et une place pour lire le livret ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L194-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Peut-être un banc à côté des pots.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L194-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "La classe peut choisir une couleur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L194-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, chacun donne une idée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L194-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Est-ce que nous changeons la cour aujourd’hui ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L194-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Non, nous faisons seulement un dessin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L194-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Qui regarde le projet avant toute action ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L194-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "La professeure vérifie notre proposition.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L194-fr-vocab-imaginer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "imaginer. Nous imaginons un jardin près de la classe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L194-fr-vocab-idee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "idée. Mina propose une idée simple.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L194-fr-vocab-projet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "projet. Le projet commence par un dessin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L194-fr-vocab-coin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "coin. Un petit coin reçoit les pots.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L194-fr-vocab-couleur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "couleur. Une couleur vive apparaît sur le plan.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L194-fr-vocab-peutetre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "peut-être. Peut-être que nous ajoutons une fleur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L194-fr-vocab-dessin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "dessin. Le dessin montre trois pots.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L194-fr-vocab-presde",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "près de. Le banc est près de la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L194-fr-vocab-proposer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "proposer. Hugo propose un chemin dans le jardin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L194-fr-vocab-possible",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "possible. La classe parle d’une idée possible.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L194-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’imagine un jardin. Tu imagines un coin près de la classe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L194-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina imagine trois pots avec des fleurs.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L194-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous imaginons un plan. Vous imaginez des couleurs claires.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L194-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves imaginent un projet ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L194-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’imagine un petit jardin près de la classe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L194-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous imaginons trois pots de couleurs différentes.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L194-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Une idée simple aide le groupe à dessiner.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L194-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Tu imagines un chemin près de la porte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L194-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves imaginent un projet possible.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L194-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina imagine un petit jardin dans un coin près de la classe. Elle dessine trois pots, une fleur jaune et un chemin qui passe près de la fenêtre. Hugo ajoute un banc pour que les élèves puissent lire le livret dehors. Le groupe choisit des couleurs claires et écoute les idées de chacun. Ils ne déplacent pas les pots et ne changent pas la cour: ils préparent seulement un dessin. La professeure regarde la proposition et demande si le passage reste libre. La classe ajoute une flèche sur le plan pour montrer le chemin. Le projet est possible, mais il faut attendre l’accord de l’école avant de faire des changements.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 617
+    },
+    {
+      "id": "L194-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L194)",
+      "tts_text": "با فعل «imaginer» باغچه‌ای تازه برای کلاس تصور کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L194-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L194)",
+      "tts_text": "صرف زمان حال «imaginer» را با فاعل‌های مختلف تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L194-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L194)",
+      "tts_text": "گوش بده و پیدا کن کلاس در پایان چه چیزی آماده می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L194-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L194)",
+      "tts_text": "برای «nous» می‌گوییم «nous imaginons» و برای «ils» می‌گوییم «ils imaginent».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L194-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L194)",
+      "tts_text": "در سناریوی مدرسه مکان، رنگ و جزئیات باغچهٔ خیالی را توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L194-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L194)",
+      "tts_text": "پیش از هر تغییر واقعی، پیشنهاد را با آموزگار بررسی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    }
+  ]
+}

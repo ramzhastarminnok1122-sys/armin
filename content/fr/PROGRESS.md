@@ -4,7 +4,7 @@ Updated: 2026-10-18
 
 ## Content
 
-- Installed and validated: French L001–L191 (191 of 340).
+- Installed and validated: French L001–L194 (194 of 340).
 - L165–L167: e-to-è spelling change in `sécher`; regular `aligner`; regular `exposer` for a school garden display.
 - L162–L164: second-group `répartir`; `rincer` with c-to-ç in `nous rinçons`; regular `emballer` for an adult-led school transport task.
 - L159–L161: regular `conserver`; e-to-è spelling change in `peser`; `partager` with the spelling-preserving e in `nous partageons`.
@@ -128,10 +128,10 @@ Updated: 2026-10-18
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 191; plan manifests: 191; planned clips: 8,490 (L152–L191 add 1,814 clips: 1,574 French and 240 Persian).
+- French lessons: 194; plan manifests: 194; planned clips: 8,631 (L152–L194 add 1,955 clips: 1,697 French and 258 Persian).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 8,490.
-- Lessons with complete real audio: 0; lessons without real audio: 191.
+- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 8,631.
+- Lessons with complete real audio: 0; lessons without real audio: 194.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -143,4 +143,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue French sequentially from L192. Preserve completed lessons, work in explicit isolated ranges, validate before install, and keep English/Spanish data unchanged.
+Continue French sequentially from L195. Preserve completed lessons, work in explicit isolated ranges, validate before install, and keep English/Spanish data unchanged.

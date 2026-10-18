@@ -1,0 +1,434 @@
+{
+  "lesson": "L192",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L192-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu comprends le titre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L192-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, il annonce une histoire de jardin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L192-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Où la graine est-elle plantée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L192-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Dans un pot près de la fenêtre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L192-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Quel détail aide à comprendre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L192-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "La petite feuille dans l’image.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L192-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Qui peut expliquer un passage difficile ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L192-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "La professeure peut nous aider.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L192-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Je lis le titre avant le texte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L192-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Que raconte l’histoire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L192-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Un élève plante une graine dans un pot.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L192-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Où place-t-il le pot ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L192-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Près d’une fenêtre claire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L192-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Quel indice voit-on dans l’image ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L192-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Une petite feuille près de la terre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L192-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Tu comprends pourquoi la plante grandit ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L192-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, elle reçoit de la lumière.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L192-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "La fin montre quoi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L192-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Une plante avec deux nouvelles feuilles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L192-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Nous avons compris l’idée principale ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L192-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "Oui, le texte parle de la croissance d’une plante.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L192-fr-vocab-comprendre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "comprendre. Mina comprend l’histoire après la lecture.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L192-fr-vocab-ideeprincipale",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "idée principale. L’idée principale est facile à trouver.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L192-fr-vocab-detail",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "détail. Un détail explique le lieu.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L192-fr-vocab-personnage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "personnage. Le personnage plante une graine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L192-fr-vocab-passage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "passage. Nous relisons un passage du livre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L192-fr-vocab-indice",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "indice. L’image donne un indice sur l’histoire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L192-fr-vocab-question",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "question. La question porte sur le personnage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L192-fr-vocab-debut",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "début. Au début, la classe lit le titre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L192-fr-vocab-fin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "fin. La fin montre une petite plante.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L192-fr-vocab-relire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "relire. Je relis le passage pour comprendre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L192-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je comprends la question. Tu comprends l’idée du texte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L192-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina comprend le passage avec l’image.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L192-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous comprenons l’histoire. Vous comprenez le détail du lieu.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L192-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves comprennent la fin du récit.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L192-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je comprends l’idée principale du texte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L192-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous comprenons le passage après l’écoute.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L192-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "L’image donne un indice important.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L192-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Tu comprends la question de la professeure.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L192-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves comprennent la fin de l’histoire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L192-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La classe lit un texte court sur un petit jardin. Au début, une élève place une graine dans un pot près de la fenêtre. Une image montre la terre et une première feuille. Les élèves comprennent que la plante reçoit de la lumière chaque matin. La question principale demande où se trouve le pot; Mina répond qu’il est près de la fenêtre. Hugo relit un passage pour vérifier un détail. La fin du texte montre deux nouvelles feuilles. Si un mot est difficile, la professeure explique son sens avec une image ou un exemple.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 518
+    },
+    {
+      "id": "L192-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L192)",
+      "tts_text": "برای فهمیدن داستان از فعل «comprendre» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L192-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L192)",
+      "tts_text": "صرف فعل «comprendre» را با فاعل‌های مختلف تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L192-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L192)",
+      "tts_text": "گوش بده و پیدا کن داستان دربارهٔ چه چیزی است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    },
+    {
+      "id": "L192-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L192)",
+      "tts_text": "برای «nous» می‌گوییم «nous comprenons» و برای «ils» می‌گوییم «ils comprennent».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L192-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L192)",
+      "tts_text": "در سناریوی مدرسه ایدهٔ اصلی و یک جزئیات را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L192-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L192)",
+      "tts_text": "اگر بخشی دشوار است، از آموزگار کمک بخواه.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    }
+  ]
+}
