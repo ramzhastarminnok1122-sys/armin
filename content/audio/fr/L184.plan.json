@@ -1,0 +1,425 @@
+{
+  "lesson": "L184",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L184-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu me prêtes ton histoire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L184-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, pour le temps de lecture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L184-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Je la garde jusqu’à la fin du cours ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L184-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, puis tu me la rends.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L184-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La professeure sait que nous échangeons ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L184-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, elle a donné son accord.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L184-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Je vérifie les coins du livre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L184-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Merci, je te fais confiance.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L184-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Mina, je te prête mon histoire pour le cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L184-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Merci, je vais la lire avec soin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L184-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "La professeure est d’accord pour ce prêt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L184-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Jusqu’à quelle heure puis-je la garder ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L184-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Jusqu’à la fin de la lecture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L184-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Je te rends le livre après la dernière page.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L184-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Très bien, je le récupère avant la sortie.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L184-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Le titre reste sur la couverture ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L184-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, ne plie pas les feuilles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L184-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Nous pouvons échanger nos livres demain ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L184-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Demande d’abord la permission à la professeure.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L184-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "D’accord, je prends soin de ton histoire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L184-fr-vocab-preter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "prêter. Hugo prête son livre à Mina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L184-fr-vocab-lectrice",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "lectrice. Mina est la lectrice du jour.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L184-fr-vocab-duree",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "durée. La durée du prêt est courte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L184-fr-vocab-retour",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "retour. Nous fixons le jour du retour.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L184-fr-vocab-confiance",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "confiance. Le prêt demande de la confiance.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L184-fr-vocab-soin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "soin. Mina lit le livre avec soin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L184-fr-vocab-proprietaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "propriétaire. Le propriétaire retrouve son livre après la lecture.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L184-fr-vocab-pret",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "prêt. Le prêt se termine à la fin du cours.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L184-fr-vocab-promesse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "promesse. Je promets de rendre le livre à l’heure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L184-fr-vocab-recuperer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "récupérer. Hugo récupère son livre après la lecture.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L184-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je prête un livre à Mina. Tu prêtes ton livret à Hugo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L184-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Hugo prête son histoire à une camarade.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L184-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous prêtons les livres pour le cours. Vous prêtez un exemplaire au groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 75
+    },
+    {
+      "id": "L184-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves prêtent leurs livres avec l’accord de la professeure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L184-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Hugo prête son livre à Mina.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L184-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous prêtons le livret pour la lecture.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L184-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Mina lit le livre avec soin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L184-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Tu prêtes une histoire à ton partenaire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L184-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves prêtent leurs livres à tour de rôle.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L184-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Hugo prête un petit livre à Mina pendant la lecture en classe. Il demande d’abord l’accord de la professeure et précise que Mina le rendra avant la sortie. Mina lit le texte avec soin et garde les pages à plat sur la table. Elle aime une illustration de jardin et montre le détail à Hugo. Après la dernière page, elle lui rend le livre. Hugo vérifie que la couverture est en bon état, puis le range dans la boîte de lecture. Les deux élèves remercient la professeure d’avoir organisé le prêt. Ils pourront choisir un autre titre lors de la prochaine séance.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 557
+    },
+    {
+      "id": "L184-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L184)",
+      "tts_text": "کتاب را برای زمان خواندن با فعل «prêter» به هم‌کلاسی امانت بده.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L184-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L184)",
+      "tts_text": "صرف زمان حال «prêter» را با فاعل‌های مختلف تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L184-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L184)",
+      "tts_text": "گوش بده و پیدا کن مینا چه زمانی کتاب را پس می‌دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L184-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L184)",
+      "tts_text": "برای «nous» می‌گوییم «nous prêtons» و لهجهٔ گراو را حفظ می‌کنیم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L184-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L184)",
+      "tts_text": "در سناریوی مدرسه زمان امانت و مراقبت از کتاب را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L184-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L184)",
+      "tts_text": "با اجازه کتاب را امانت بده و در زمان تعیین‌شده پس بگیر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    }
+  ]
+}

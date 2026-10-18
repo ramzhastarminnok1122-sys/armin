@@ -1,0 +1,434 @@
+{
+  "lesson": "L183",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L183-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Puis-je emprunter le livret du jardin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L183-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, je note le prêt dans le registre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L183-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Quand dois-je le rapporter ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L183-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Vendredi, avant la lecture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L183-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Je protège aussi la couverture ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L183-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, et tu ranges le livret à plat.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L183-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Qui signe la fiche ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L183-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "La professeure la complète avec toi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L183-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "J’emprunte le livret du jardin aujourd’hui.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L183-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Pour combien de temps ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L183-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Jusqu’à vendredi, avec la permission de la professeure.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L183-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Qui note la date dans le registre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L183-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "L’adulte responsable.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L183-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Je peux prendre un autre livre aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L183-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, si la professeure est d’accord.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L183-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Comment gardes-tu le livret ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L183-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Je le range dans mon sac, bien à plat.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L183-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Tu le rends avant la prochaine lecture ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L183-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Oui, vendredi matin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L183-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Où était-il sur l’étagère ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L183-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "Sur la tablette du milieu.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L183-fr-vocab-emprunter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "emprunter. Mina emprunte un livret pour la semaine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L183-fr-vocab-bibliotheque",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "bibliothèque. La bibliothèque de la classe ouvre le matin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L183-fr-vocab-etagere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "étagère. Le livret est sur l’étagère du bas.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L183-fr-vocab-registre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "registre. La professeure note le prêt dans le registre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L183-fr-vocab-duree",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "durée. La durée du prêt est d’une semaine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L183-fr-vocab-lecteur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "lecteur. Le lecteur garde le livret propre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L183-fr-vocab-datederetour",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "date de retour. La date de retour est écrite au tableau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L183-fr-vocab-permission",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "permission. Je demande la permission à la professeure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L183-fr-vocab-propre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "propre. Le lecteur garde les pages propres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L183-fr-vocab-rendre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "rendre. Nous rendons le livret vendredi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L183-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’emprunte un livret. Tu empruntes une histoire pour la semaine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L183-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina emprunte le livret du jardin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L183-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous empruntons deux livres. Vous empruntez un document avec permission.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L183-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves empruntent des livres à la bibliothèque.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L183-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’emprunte le livret du jardin pour une semaine.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L183-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous empruntons un livre à la bibliothèque.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L183-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La professeure note la date de retour.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L183-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Tu empruntes une histoire avec permission.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L183-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves empruntent les livres de la classe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L183-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina demande à la professeure si elle peut emprunter le livret du jardin. L’adulte note le titre et la date de retour dans le registre de la classe. Mina garde le document dans une chemise pour protéger les pages. Elle le lit avec sa famille, puis le rapporte vendredi matin. La durée du prêt est courte parce que plusieurs élèves veulent lire le même livret. Hugo choisit une autre histoire et vérifie son retour avec la professeure. Les livres restent propres et reviennent à leur place sur l’étagère. Le groupe peut ensuite emprunter un nouvel ouvrage pour la prochaine activité.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 582
+    },
+    {
+      "id": "L183-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L183)",
+      "tts_text": "از آموزگار بخواه دفترچه‌ای را با فعل «emprunter» امانت بگیری.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L183-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L183)",
+      "tts_text": "صرف زمان حال «emprunter» را با فاعل‌های گوناگون تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L183-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L183)",
+      "tts_text": "گوش بده و پیدا کن مینا چه روزی دفترچه را پس می‌دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L183-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L183)",
+      "tts_text": "برای «nous» می‌گوییم «nous empruntons» و برای «ils» می‌گوییم «ils empruntent».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L183-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L183)",
+      "tts_text": "در سناریوی مدرسه مدت امانت و تاریخ بازگشت را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L183-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L183)",
+      "tts_text": "کتاب را تمیز نگه دار و در زمان تعیین‌شده پس بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    }
+  ]
+}

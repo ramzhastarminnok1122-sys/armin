@@ -1,0 +1,434 @@
+{
+  "lesson": "L185",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L185-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Je rapporte le livre au retour du cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L185-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Merci, je vérifie son état.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L185-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le signet est dans le livre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L185-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Parfait, il peut rester entre les pages.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L185-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Où dois-je le ranger ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L185-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sur l’étagère réservée aux livrets.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L185-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "J’ai respecté la date prévue.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L185-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, le registre est à jour.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L185-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Je rapporte le livret aujourd’hui.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L185-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "La date limite est vendredi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L185-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, je le rends avant la fin du cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L185-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La professeure vérifie la couverture ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L185-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, elle regarde aussi les pages.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L185-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Le signet est toujours dedans ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L185-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, il est entre les deux dernières pages.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L185-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Où ranges-tu le livret après ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L185-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Sur l’étagère du bas, à sa place.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L185-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Est-ce qu’il est abîmé ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L185-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Non, il est en bon état.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L185-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Qui vérifie le registre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L185-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "La professeure marque le retour.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L185-fr-vocab-rapporter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "rapporter. Mina rapporte le livret vendredi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L185-fr-vocab-datelimite",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "date limite. La date limite est écrite dans le registre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L185-fr-vocab-retard",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "retard. Mina ne rapporte pas le livre en retard.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L185-fr-vocab-etat",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "état. La professeure vérifie l’état du livret.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L185-fr-vocab-signet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "signet. Le signet reste entre deux pages.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L185-fr-vocab-etageredubas",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "étagère du bas. Le livret va sur l’étagère du bas.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L185-fr-vocab-bibliothecaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "bibliothécaire. La bibliothécaire range les livres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L185-fr-vocab-rangement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "rangement. Le rangement des livres est facile.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L185-fr-vocab-abime",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "abîmé. Le livre n’est pas abîmé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L185-fr-vocab-verifier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "vérifier. Nous vérifions la couverture avant le rangement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L185-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je rapporte le livret vendredi. Tu rapportes le livre à l’étagère.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L185-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina rapporte son livre à la bibliothèque.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L185-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous rapportons les documents. Vous rapportez les livres à la date prévue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 74
+    },
+    {
+      "id": "L185-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves rapportent les livrets après la lecture.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L185-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je rapporte le livret à la bibliothèque.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L185-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous rapportons les livres le jour prévu.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L185-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La professeure vérifie l’état de la couverture.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L185-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Tu rapportes le document sans retard.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L185-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves rapportent les livrets après la lecture.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L185-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina rapporte le livret du jardin à la bibliothèque de la classe avant la date limite. La professeure vérifie la couverture et les pages pendant que Mina garde le signet à sa place. Le document n’est pas abîmé. L’adulte note le retour dans le registre, puis Mina remet le livret sur l’étagère du bas. Hugo cherche le prochain ouvrage à lire; il demande la permission avant de le prendre. Les élèves savent que les livres circulent entre les lecteurs et doivent revenir en bon état. À la fin, la professeure remercie Mina d’avoir respecté la date prévue.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 553
+    },
+    {
+      "id": "L185-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L185)",
+      "tts_text": "دفترچه را با فعل «rapporter» در زمان مقرر پس بیاور.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L185-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L185)",
+      "tts_text": "صرف زمان حال «rapporter» را با چند فاعل تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L185-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L185)",
+      "tts_text": "گوش بده و پیدا کن دفترچه پس از بررسی کجا می‌رود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L185-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L185)",
+      "tts_text": "برای «nous» می‌گوییم «nous rapportons» و برای «ils» می‌گوییم «ils rapportent».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L185-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L185)",
+      "tts_text": "در سناریوی مدرسه وضعیت کتاب و محل بازگشتش را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L185-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L185)",
+      "tts_text": "کتاب را به‌موقع و در وضعیت خوب پس بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 38
+    }
+  ]
+}
