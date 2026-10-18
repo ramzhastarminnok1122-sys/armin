@@ -1,0 +1,472 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 188,
+    "title": "Hugo cherche un mot dans le dictionnaire",
+    "subtitle": "Trouver une définition simple",
+    "description": "Décrivez comment chercher un mot et lire sa définition dans un dictionnaire.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف فعل chercher و یافتن معنی واژه در فرهنگ لغت کلاس",
+      "objectives": [
+        "فعل منظم chercher را در زمان حال صرف کنید",
+        "واژه‌های سادهٔ فرهنگ لغت، حرف و تعریف را به فرانسوی به کار ببرید",
+        "برای فهمیدن واژهٔ تازه از فرهنگ تصویری کلاس کمک بگیرید"
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "هوگو در داستان واژهٔ «racine» را می‌بیند و معنی آن را نمی‌داند. او فرهنگ تصویری کلاس را باز می‌کند و واژه را بر اساس حرف اول پیدا می‌کند. فعل فرانسوی برای «جست‌وجوکردن» چیست؟",
+      "questions": [
+        {
+          "q": "فعل فرانسوی برای «جست‌وجوکردن» چیست؟",
+          "hint_fa": "مصدر «chercher» را به یاد بیاور."
+        },
+        {
+          "q": "واژه‌ها در فرهنگ لغت با چه ترتیبی می‌آیند؟",
+          "hint_fa": "بر اساس ترتیب حروف الفبا."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Chercher un mot",
+      "body_fa": "فعل منظم گروه اول «chercher» یعنی در کتاب یا جای دیگری دنبال چیزی گشتن. در زمان حال می‌گوییم «je cherche»، «tu cherches»، «il/elle cherche»، «nous cherchons»، «vous cherchez» و «ils/elles cherchent». در فرهنگ لغت، واژه‌ها بر اساس حروف الفبا مرتب شده‌اند. ابتدا حرف اول واژه را پیدا می‌کنیم، سپس به حرف‌های بعدی نگاه می‌کنیم تا مدخل درست را بیابیم. تعریف را می‌خوانیم و اگر هنوز پرسشی داریم از آموزگار می‌پرسیم. می‌توانیم بگوییم «chercher un mot dans le dictionnaire». فاعل را پیدا کنید و پایان فعل را هماهنگ کنید؛ برای «nous» می‌گوییم «nous cherchons».",
+      "key_points": [
+        "«Je cherche»؛ «nous cherchons»؛ «les élèves cherchent».",
+        "واژه‌ها را به ترتیب الفبا در فرهنگ لغت پیدا کنید.",
+        "اگر معنی روشن نیست، از آموزگار کمک بگیرید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "chercher",
+          "ipa": "/ʃɛʁ.ʃe/",
+          "translation_fa": "جست‌وجوکردن",
+          "example": "Hugo cherche un mot dans le dictionnaire.",
+          "example_fa": "هوگو واژه‌ای را در فرهنگ لغت می‌گردد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "dictionnaire",
+          "ipa": "/dik.sjɔ.nɛʁ/",
+          "translation_fa": "فرهنگ لغت",
+          "example": "Le dictionnaire donne une définition.",
+          "example_fa": "فرهنگ لغت تعریفی می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "entrée",
+          "ipa": "/ɑ̃.tʁe/",
+          "translation_fa": "مدخل",
+          "example": "L’entrée est près de la lettre R.",
+          "example_fa": "مدخل نزدیک حرف R است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "lettre",
+          "ipa": "/lɛtʁ/",
+          "translation_fa": "حرف",
+          "example": "La première lettre du mot est un R.",
+          "example_fa": "نخستین حرف واژه R است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "définition",
+          "ipa": "/de.fi.ni.sjɔ̃/",
+          "translation_fa": "تعریف",
+          "example": "La définition explique le mot.",
+          "example_fa": "تعریف واژه را توضیح می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "exemple",
+          "ipa": "/ɛɡ.zɑ̃pl/",
+          "translation_fa": "مثال",
+          "example": "Un exemple montre le mot dans une phrase.",
+          "example_fa": "مثالی واژه را در جمله نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ordre alphabétique",
+          "ipa": "/ɔʁdʁ al.fa.be.tik/",
+          "translation_fa": "ترتیب الفبایی",
+          "example": "Les mots suivent l’ordre alphabétique.",
+          "example_fa": "واژه‌ها از ترتیب الفبایی پیروی می‌کنند.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "signification",
+          "ipa": "/si.ɲi.fi.ka.sjɔ̃/",
+          "translation_fa": "معنی",
+          "example": "Hugo comprend la signification du mot.",
+          "example_fa": "هوگو معنی واژه را می‌فهمد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "index",
+          "ipa": "/ɛ̃.dɛks/",
+          "translation_fa": "نمایه",
+          "example": "L’index aide à trouver une page.",
+          "example_fa": "نمایه به پیداکردن صفحه کمک می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "demander",
+          "ipa": "/də.mɑ̃.de/",
+          "translation_fa": "پرسیدن؛ درخواست‌کردن",
+          "example": "Je demande de l’aide à la professeure.",
+          "example_fa": "از آموزگار کمک می‌خواهم.",
+          "tag": "فعل"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Chercher au présent",
+      "explanation_fa": "«Chercher» فعل منظم گروه اول است. در زمان حال می‌گوییم «je cherche»، «tu cherches»، «il/elle cherche»، «nous cherchons»، «vous cherchez» و «ils/elles cherchent». در «Hugo cherche un mot», فاعل مفرد است؛ در «les élèves cherchent une définition», فاعل جمع است. می‌توانیم مکان را پس از مفعول بیاوریم: «chercher un mot dans le dictionnaire». برای یافتن واژه، به ترتیب الفبایی توجه می‌کنیم و حرف اول را پیدا می‌کنیم. اگر تعریف دشوار باشد، آن را با آموزگار می‌خوانیم. فاعل و پایان فعل را هماهنگ کنید.",
+      "pattern": "sujet + chercher + objet + endroit",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je cherche un mot. Tu cherches une définition dans le livre.",
+            "من واژه‌ای را می‌گردم. تو تعریفی را در کتاب می‌گردی."
+          ],
+          [
+            "il / elle",
+            "Hugo cherche le mot près de la lettre R.",
+            "هوگو واژه را نزدیک حرف R می‌گردد."
+          ],
+          [
+            "nous / vous",
+            "Nous cherchons une entrée. Vous cherchez avec le dictionnaire illustré.",
+            "ما مدخلی می‌گردیم. شما با فرهنگ تصویری جست‌وجو می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Les élèves cherchent le sens avec la professeure.",
+            "دانش‌آموزان معنی را با آموزگار می‌گردند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای «nous» از «cherchons» استفاده کنید.",
+        "برای فاعل جمع پایان نوشتاری «-ent» می‌آید.",
+        "واژه‌ها را به ترتیب الفبا پیدا کنید؛ اگر لازم شد سؤال بپرسید."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je cherche le mot dans le dictionnaire.",
+          "fa": "واژه را در فرهنگ لغت می‌گردم.",
+          "note_fa": "فاعل مفرد با «cherche» می‌آید."
+        },
+        {
+          "target": "Nous cherchons une définition simple.",
+          "fa": "تعریفی ساده می‌گردیم.",
+          "note_fa": "برای «nous» از «cherchons» استفاده می‌کنیم."
+        },
+        {
+          "target": "La première lettre est un R.",
+          "fa": "نخستین حرف R است.",
+          "note_fa": "«La première lettre» فاعل مفرد است."
+        },
+        {
+          "target": "Tu cherches un exemple dans l’index.",
+          "fa": "تو مثالی را در نمایه می‌گردی.",
+          "note_fa": "برای «tu» پایان «-es» می‌آید."
+        },
+        {
+          "target": "Les élèves cherchent le sens avec soin.",
+          "fa": "دانش‌آموزان با دقت معنی را می‌گردند.",
+          "note_fa": "فاعل جمع با «cherchent» می‌آید."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Trouver le mot racine",
+      "script": "Hugo: Je cherche le mot «racine» dans le dictionnaire.\nMina: Quelle est sa première lettre ?\nHugo: C’est la lettre R.\nMina: Regarde l’index au début du livre.\nHugo: Je vois une entrée près de la page vingt.\nMina: La définition est-elle claire ?\nHugo: Oui, elle parle de la partie sous la plante.\nMina: Il y a un exemple aussi ?\nHugo: Oui, une phrase avec une racine de carotte.\nMina: Tu comprends maintenant le mot ?\nHugo: Oui, je note la signification sur ma fiche.\nMina: Qui peut t’aider si tu hésites ?\nHugo: La professeure lit la définition avec moi.",
+      "script_fa": "هوگو: واژهٔ «racine» را در فرهنگ لغت می‌گردم.\nمینا: نخستین حرفش چیست؟\nهوگو: حرف R است.\nمینا: نمایهٔ ابتدای کتاب را نگاه کن.\nهوگو: مدخلی نزدیک صفحهٔ بیست می‌بینم.\nمینا: تعریف روشن است؟\nهوگو: بله، دربارهٔ بخشی زیر گیاه است.\nمینا: مثالی هم دارد؟\nهوگو: بله، جمله‌ای با ریشهٔ هویج.\nمینا: حالا واژه را می‌فهمی؟\nهوگو: بله، معنی را روی برگه‌ام یادداشت می‌کنم.\nمینا: اگر شک داشتی چه کسی کمک می‌کند؟\nهوگو: آموزگار تعریف را با من می‌خواند.",
+      "question_fa": "واژهٔ «racine» با چه حرفی شروع می‌شود؟",
+      "answer": "La lettre R.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Lire une définition ensemble",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu as trouvé l’entrée ?",
+          "fa": "مدخل را پیدا کردی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, près de la lettre R.",
+          "fa": "بله، نزدیک حرف R."
+        },
+        {
+          "speaker": "A",
+          "target": "Que dit la définition ?",
+          "fa": "تعریف چه می‌گوید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Elle explique le mot avec une phrase courte.",
+          "fa": "آن واژه را با جمله‌ای کوتاه توضیح می‌دهد."
+        },
+        {
+          "speaker": "A",
+          "target": "Il y a une image ?",
+          "fa": "تصویری هم هست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, sous le texte.",
+          "fa": "بله، زیر متن."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu notes le mot où ?",
+          "fa": "واژه را کجا یادداشت می‌کنی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sur ma fiche de lecture.",
+          "fa": "روی برگهٔ خواندنم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی مدرسه، با هم‌کلاسی خود واژه‌ای تازه را در فرهنگ لغت پیدا کنید. فعل «chercher» را با چند فاعل تمرین کنید، حرف اول و تعریف را بگویید و اگر معنی روشن نیست از آموزگار کمک بخواهید.",
+      "useful_phrases": [
+        {
+          "target": "Je cherche le mot dans le dictionnaire.",
+          "fa": "واژه را در فرهنگ لغت می‌گردم."
+        },
+        {
+          "target": "La première lettre est un R.",
+          "fa": "نخستین حرف R است."
+        },
+        {
+          "target": "Nous lisons la définition ensemble.",
+          "fa": "تعریف را با هم می‌خوانیم."
+        },
+        {
+          "target": "Je demande de l’aide à la professeure.",
+          "fa": "از آموزگار کمک می‌خواهم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Un mot nouveau dans le texte",
+      "text": "Hugo lit une histoire sur un jardin et rencontre le mot «racine». Il ouvre le dictionnaire illustré à la lettre R. L’index lui indique la page de l’entrée. La définition explique qu’une racine pousse sous la terre et aide la plante à tenir. Hugo lit aussi un exemple: «La carotte a une longue racine». Il comprend mieux le mot et écrit sa signification sur une fiche, pas dans le dictionnaire de la classe. Mina lui demande ensuite de trouver un autre terme. S’ils ne comprennent pas une définition, ils demandent à la professeure de la lire avec eux.",
+      "glossary": [
+        {
+          "term": "rencontrer un mot",
+          "fa": "با واژه‌ای روبه‌روشدن"
+        },
+        {
+          "term": "indiquer",
+          "fa": "نشان‌دادن"
+        },
+        {
+          "term": "tenir",
+          "fa": "نگه‌داشتن"
+        },
+        {
+          "term": "terme",
+          "fa": "اصطلاح؛ واژه"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "هوگو فرهنگ را در کدام حرف باز می‌کند؟",
+          "a": "À la lettre R."
+        },
+        {
+          "q_fa": "ریشه کجا رشد می‌کند؟",
+          "a": "Sous la terre."
+        },
+        {
+          "q_fa": "هوگو معنی را کجا می‌نویسد؟",
+          "a": "Sur une fiche, pas dans le dictionnaire."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست برای «nous» را انتخاب کن.",
+          "question": "Nous ___ un mot nouveau. (chercher)",
+          "options": [
+            "cherchons",
+            "cherche",
+            "cherchent"
+          ],
+          "answer": "cherchons",
+          "explanation_fa": "برای «nous» پایان «-ons» می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Où trouve-t-on des définitions ?",
+          "options": [
+            "Dans un dictionnaire",
+            "Sur une couverture",
+            "Dans une urne"
+          ],
+          "answer": "Dans un dictionnaire",
+          "explanation_fa": "فرهنگ لغت معنی واژه را توضیح می‌دهد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "Hugo écrit dans le dictionnaire de la classe.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "او معنی را روی برگهٔ جداگانه می‌نویسد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست برای فاعل جمع را انتخاب کن.",
+          "question": "Les élèves ___ une définition. (chercher)",
+          "options": [
+            "cherchent",
+            "cherchez",
+            "cherchons"
+          ],
+          "answer": "cherchent",
+          "explanation_fa": "فاعل جمع با «cherchent» می‌آید."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای «tu» کامل کن.",
+          "question": "Tu ___ le mot près de la lettre R. (chercher)",
+          "answer": [
+            "cherches"
+          ],
+          "explanation_fa": "برای «tu» پایان «-es» را بنویس."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "توضیح بده چگونه معنی یک واژه را در فرهنگ لغت پیدا می‌کنی.",
+          "question": "Décris ta recherche d’un mot.",
+          "answer": [
+            "Je cherche la première lettre, puis je lis la définition et l’exemple.",
+            "Nous consultons l’index et nous demandons de l’aide si nécessaire."
+          ],
+          "explanation_fa": "از فعل «chercher» و یک واژهٔ فرهنگ لغت استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Complète : «Hugo ___ un mot dans le dictionnaire.»",
+          "options": [
+            "cherche",
+            "cherchons",
+            "cherchent"
+          ],
+          "answer": "cherche",
+          "explanation_fa": "Avec «Hugo», on écrit «cherche»."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie «chercher» ?",
+          "options": [
+            "Regarder pour trouver quelque chose",
+            "Relier un livret",
+            "Féliciter un ami"
+          ],
+          "answer": "Regarder pour trouver quelque chose",
+          "explanation_fa": "Chercher, c’est essayer de trouver un mot ou un objet."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle est la première lettre de «racine» ?",
+          "options": [
+            "R",
+            "M",
+            "S"
+          ],
+          "answer": "R",
+          "explanation_fa": "Le mot commence par la lettre R."
+        },
+        {
+          "type": "mcq",
+          "question": "Où Hugo écrit-il la signification ?",
+          "options": [
+            "Sur une fiche",
+            "Dans le dictionnaire",
+            "Sur la couverture"
+          ],
+          "answer": "Sur une fiche",
+          "explanation_fa": "Il protège le dictionnaire et note le mot sur sa fiche."
+        },
+        {
+          "type": "mcq",
+          "question": "Qui aide la classe avec une définition difficile ?",
+          "options": [
+            "La professeure",
+            "L’index",
+            "La couverture"
+          ],
+          "answer": "La professeure",
+          "explanation_fa": "Les élèves demandent à l’adulte de lire avec eux."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در سناریوی مدرسه، واژه‌ای تازه را در فرهنگ لغت پیدا کنید. فعل «chercher» را در زمان حال صرف کنید، حرف اول را مشخص کنید و تعریف را با کمک آموزگار بخوانید.",
+      "suggested_prompts": [
+        "Choisissez un mot inconnu.",
+        "Conjuguez chercher avec nous et ils.",
+        "Dites quelle lettre vous regardez d’abord.",
+        "Expliquez comment noter la signification."
+      ],
+      "focus": [
+        "chercher au présent",
+        "ordre alphabétique",
+        "lire une définition simple"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-18",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson. Students use the classroom picture dictionary and ask the teacher if a definition remains unclear."
+  }
+}
