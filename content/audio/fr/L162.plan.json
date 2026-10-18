@@ -1,0 +1,407 @@
+{
+  "lesson": "L162",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L162-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Notre équipe reçoit-elle un sachet ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L162-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, la professeure le pose ici.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L162-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "La quantité est écrite sur la fiche ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L162-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, nous suivons la consigne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L162-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Où sont les autres sachets ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L162-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Dans la réserve de la professeure.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L162-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Nous prenons un outil aussi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L162-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Nous demandons avant de le prendre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L162-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La professeure prépare les sachets de graines.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L162-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Chaque équipe reçoit une fiche claire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L162-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Qui répartit les quantités ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L162-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La professeure les prépare avant le cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L162-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nous prenons les outils maintenant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L162-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Non, nous lisons d’abord la consigne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L162-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Où reste la réserve de graines ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L162-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Elle reste sur la table de l’adulte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L162-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Les équipes travaillent dans la rangée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L162-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, près du jardin et du chemin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L162-fr-vocab-repartir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "répartir. La professeure répartit les sachets.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L162-fr-vocab-repartition",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "répartition. La répartition suit les consignes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L162-fr-vocab-quantite",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "quantité. La quantité est écrite sur la fiche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L162-fr-vocab-sachet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "sachet. Un sachet contient des graines sèches.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L162-fr-vocab-equipe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "équipe. Chaque équipe reçoit une fiche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L162-fr-vocab-rangee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "rangée. La rangée reste près du mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L162-fr-vocab-egal",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "égal. Les quantités sont égales.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L162-fr-vocab-reserve",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "réserve. La réserve reste chez la professeure.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L162-fr-vocab-consigne",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "consigne. La consigne est claire pour tous.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L162-fr-vocab-fiche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "fiche. La fiche décrit le travail du groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L162-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je répartis les sachets. Tu répartis les fiches.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L162-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La professeure répartit les graines.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L162-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous répartissons les paquets. Vous répartissez les fiches.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L162-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les équipes répartissent le matériel préparé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L162-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La professeure répartit les sachets entre les équipes.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L162-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Chaque équipe reçoit une fiche de jardin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L162-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous répartissons les graines selon la consigne.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L162-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La rangée reste près du chemin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L162-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les équipes répartissent le matériel préparé.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L162-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Avant une activité dans le jardin, la professeure répartit des sachets de graines entre les équipes. Chaque équipe reçoit une fiche et une quantité préparée par l’adulte. Les élèves lisent la consigne avant de toucher au matériel. La réserve reste sur la table de la professeure; personne ne prend un sachet supplémentaire sans demander. Une rangée de pots attend près du chemin. Les groupes notent le nom de leur graine et gardent les fiches avec leur panier. La professeure vérifie que la répartition est claire et que les quantités sont égales. Après l’activité, les sachets ouverts restent dans une boîte fermée sous la responsabilité de l’adulte. La classe range le matériel puis se lave les mains.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 703
+    },
+    {
+      "id": "L162-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L162)",
+      "tts_text": "فعل «répartir» را برای توزیع بسته‌ها میان گروه‌ها به کار ببر.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L162-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L162)",
+      "tts_text": "صرف گروه دوم «répartir» را در زمان حال با چند فاعل تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L162-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L162)",
+      "tts_text": "گوش بده و پیدا کن چه کسی بسته‌ها و مقدارها را آماده می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L162-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L162)",
+      "tts_text": "«Chaque équipe» مفرد است، پس می‌گوییم «chaque équipe reçoit».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L162-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L162)",
+      "tts_text": "در سناریوی مدرسه دربارهٔ بسته‌ها و دستور فعالیت گفت‌وگو کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L162-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L162)",
+      "tts_text": "از دستور پیروی کن و ذخیرهٔ وسایل را به آموزگار بسپار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    }
+  ]
+}

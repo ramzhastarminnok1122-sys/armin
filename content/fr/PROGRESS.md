@@ -4,7 +4,8 @@ Updated: 2026-10-18
 
 ## Content
 
-- Installed and validated: French L001–L161 (161 of 340).
+- Installed and validated: French L001–L164 (164 of 340).
+- L162–L164: second-group `répartir`; `rincer` with c-to-ç in `nous rinçons`; regular `emballer` for an adult-led school transport task.
 - L159–L161: regular `conserver`; e-to-è spelling change in `peser`; `partager` with the spelling-preserving e in `nous partageons`.
 - L156–L158: second-group `fleurir`; irregular `cueillir` with adult permission; regular `trier` for clean garden produce.
 - L153–L155: regular present-tense `germer`; second-group `mûrir`; regular `grimper` for observing climbing plants safely.
@@ -126,10 +127,10 @@ Updated: 2026-10-18
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 161; plan manifests: 161; planned clips: 7,116 (L152–L161 add 440 clips: 380 French and 60 Persian).
+- French lessons: 164; plan manifests: 164; planned clips: 7,248 (L152–L164 add 572 clips: 494 French and 78 Persian).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 7,116.
-- Lessons with complete real audio: 0; lessons without real audio: 161.
+- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 7,248.
+- Lessons with complete real audio: 0; lessons without real audio: 164.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -141,4 +142,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue French sequentially from L162. Select untaught A1 targets after checking the full French context, then author, isolate-build, validate, and install only after zero-error QA.
+Continue French sequentially from L165. Select untaught A1 targets after checking the full French context, then author, isolate-build, validate, and install only after zero-error QA.

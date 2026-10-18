@@ -1,0 +1,407 @@
+{
+  "lesson": "L164",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L164-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le petit paquet est-il prêt ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L164-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, il est dans le carton sec.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L164-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Qui écrit l’étiquette ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L164-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "La professeure indique la destination.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L164-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Nous attachons la ficelle ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L164-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "L’adulte vérifie la fermeture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L164-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "La caisse est lourde ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L164-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, l’adulte la porte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L164-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La maraîchère prépare une caisse légère.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L164-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Les fruits propres sont déjà dedans.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L164-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Qui emballe les produits pour le trajet ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L164-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "L’adulte les protège avec du papier kraft.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L164-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Où écrit-elle la destination ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L164-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Sur une étiquette près du couvercle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L164-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Nous portons la grande caisse ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L164-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Non, la professeure la déplace.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L164-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Le petit paquet reste avec nous ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L164-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Oui, il attend près de la porte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L164-fr-vocab-emballer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "emballer. L’adulte emballe les fruits dans une caisse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L164-fr-vocab-emballage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "emballage. L’emballage protège les produits propres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L164-fr-vocab-papierkraft",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "papier kraft. Le papier kraft couvre le fond de la caisse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L164-fr-vocab-ficelle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "ficelle. La ficelle reste sur la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L164-fr-vocab-etiquette",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "étiquette. L’étiquette indique la destination.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L164-fr-vocab-colis",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "colis. Le colis reste près de la porte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L164-fr-vocab-destination",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "destination. La destination est écrite sur l’étiquette.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L164-fr-vocab-paquet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "paquet. Le petit paquet est facile à porter.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L164-fr-vocab-carton",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "carton. Le carton reste sec et solide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L164-fr-vocab-protection",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "protection. La protection évite les chocs légers.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L164-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’emballe le petit paquet. Tu emballes la caisse légère.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L164-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "L’adulte emballe les fruits propres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L164-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous emballons la récolte. Vous emballez les produits.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L164-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les adultes emballent les caisses.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L164-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "L’adulte emballe les fruits propres dans une caisse.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L164-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "J’emballe le petit paquet avec du papier kraft.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L164-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous écrivons la destination sur l’étiquette.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L164-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le carton protège la récolte pendant le trajet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L164-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les adultes emballent les caisses avant le départ.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L164-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Pour l’exposition de l’école, la maraîchère prépare des fruits propres dans une caisse en carton. Elle place du papier kraft au fond, puis ferme le paquet avec l’aide d’un autre adulte. La professeure écrit la destination sur une étiquette et vérifie que le couvercle tient bien. Les élèves observent le travail depuis la table et écrivent le nom de leur groupe sur une petite fiche. Ils ne portent pas la grande caisse, car elle est lourde. Un adulte la déplace jusqu’à la porte et suit les consignes de transport. Le panier vide reste près du mur; les graines de la démonstration sont rangées séparément. Après le départ, les enfants ramassent les morceaux de papier et se lavent les mains.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 692
+    },
+    {
+      "id": "L164-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L164)",
+      "tts_text": "فعل «emballer» را برای آماده‌کردن محصول به کار ببر و جعبهٔ سنگین را به بزرگسال بسپار.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 85
+    },
+    {
+      "id": "L164-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L164)",
+      "tts_text": "صرف زمان حال «emballer» را مرور کن و شکل کوتاه «j’emballe» را به یاد بسپار.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L164-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L164)",
+      "tts_text": "گوش بده و پیدا کن چه کسی جعبهٔ بزرگ را جابه‌جا می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L164-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L164)",
+      "tts_text": "پیش از واکه می‌گوییم «j’emballe»؛ برای «nous» می‌گوییم «nous emballons».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L164-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L164)",
+      "tts_text": "در سناریوی مدرسه برچسب مقصد و نقش بزرگسال را توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L164-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L164)",
+      "tts_text": "برچسب را بررسی کن و حمل بستهٔ سنگین را به بزرگسال بسپار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "lesson": "L163",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L163-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La passoire est-elle propre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L163-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, l’adulte vient de la laver.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L163-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Qui rince les pommes ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L163-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "La maraîchère les rince à l’évier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L163-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Nous ouvrons le robinet ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L163-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Non, nous attendons l’adulte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L163-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Où reste le torchon ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L163-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sur la table sèche, près du panier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L163-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La maraîchère ouvre le robinet doucement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L163-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Elle rince les pommes avec de l’eau claire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L163-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Où pose-t-elle les fruits après le rinçage ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L163-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Dans une passoire propre, près de l’évier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L163-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nous touchons la pomme maintenant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L163-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Non, nous attendons l’accord de l’adulte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L163-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Le torchon est près de la table ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L163-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, il reste sur la surface sèche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L163-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Qui ferme le robinet après le lavage ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L163-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "La maraîchère le ferme quand elle a fini.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L163-fr-vocab-rincer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "rincer. L’adulte rince les pommes à l’eau claire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L163-fr-vocab-rincage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "rinçage. Le rinçage se fait avec de l’eau propre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L163-fr-vocab-robinet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "robinet. Le robinet reste fermé après le lavage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L163-fr-vocab-evier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "évier. L’évier est propre et vide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L163-fr-vocab-passoire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "passoire. La passoire garde les fruits.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L163-fr-vocab-goutte",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "goutte. Une goutte d’eau tombe dans l’évier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L163-fr-vocab-eauclaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "eau claire. L’eau claire passe sur la pomme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L163-fr-vocab-egoutter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "égoutter. Je laisse égoutter les fruits dans la passoire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L163-fr-vocab-torchon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "torchon. Le torchon propre reste sur la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L163-fr-vocab-surface",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "surface. La surface de la table est sèche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L163-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je rince une pomme. Tu rinces les fruits.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L163-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "L’adulte rince la récolte à l’évier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L163-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous rinçons les pommes. Vous rincez la passoire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L163-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les adultes rincent les fruits à l’évier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L163-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "L’adulte rince les pommes à l’eau claire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L163-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous rinçons les fruits avant le partage.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L163-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La passoire reste près de l’évier.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L163-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Tu rinces la pomme avec l’adulte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L163-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les fruits égouttent dans la passoire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L163-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "À l’école, la maraîchère prépare les pommes pour une activité de classe. Elle ouvre le robinet et rince les fruits à l’eau claire. Les élèves observent depuis le côté de la table et ne touchent pas aux pommes sans permission. Après le rinçage, la professionnelle place les fruits dans une passoire propre. L’eau tombe dans l’évier et la surface reste sèche. Un torchon propre attend près du panier. La professeure ferme le robinet quand la maraîchère a terminé. Ensuite, les adultes vérifient que les fruits sont prêts et expliquent la prochaine étape. Les enfants notent le mot «rincer» dans leur cahier et dessinent une goutte près de la feuille. Ils attendent l’accord de l’adulte avant de goûter.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 700
+    },
+    {
+      "id": "L163-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L163)",
+      "tts_text": "فعل «rincer» را برای آبکشی میوه به کار ببر و پیش از چشیدن اجازه بگیر.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L163-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L163)",
+      "tts_text": "در شکل «nous rinçons»، حرف c را به ç تبدیل کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 46
+    },
+    {
+      "id": "L163-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L163)",
+      "tts_text": "گوش بده و پیدا کن چه کسی پس از شستن شیر آب را می‌بندد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L163-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L163)",
+      "tts_text": "برای «nous» می‌گوییم «nous rinçons»؛ برای «tu» می‌گوییم «tu rinces».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L163-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L163)",
+      "tts_text": "در سناریوی مدرسه آبکشی میوه را با نام ابزارها توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L163-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L163)",
+      "tts_text": "از بزرگسال اجازه بگیر و پس از کار دست‌ها را بشوی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    }
+  ]
+}
