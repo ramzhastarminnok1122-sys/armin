@@ -1,0 +1,434 @@
+{
+  "lesson": "L214",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L214-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La table est propre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L214-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "La professeure essuie une petite marque.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L214-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le récipient reste fermé ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L214-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, l’adulte ne l’ouvre pas.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L214-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Où va le chiffon ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 18
+    },
+    {
+      "id": "L214-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Dans l’armoire, après le nettoyage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L214-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Nous touchons l’échantillon ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L214-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Non, nous laissons l’adulte travailler.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L214-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La professeure termine l’expérience.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L214-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Il y a une marque sur la table ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L214-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, près du récipient fermé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L214-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Qui prend le chiffon propre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L214-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "L’enseignante le prend dans l’armoire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L214-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Nous essuyons le bord ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L214-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "La professeure le fait avec soin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L214-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Elle ouvre le récipient ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L214-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Non, le couvercle reste en place.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L214-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Le chiffon est mouillé ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L214-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Un peu, après le nettoyage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L214-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Où va le chiffon ensuite ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L214-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "L’adulte le range dans l’armoire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L214-fr-vocab-essuyer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "essuyer. La professeure essuie la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L214-fr-vocab-essuietout",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "essuie-tout. La professeure prend un essuie-tout.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L214-fr-vocab-surface",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "surface. La surface de la table est humide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L214-fr-vocab-absorber",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "absorber. Le papier absorbe un peu d’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L214-fr-vocab-sec",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "sec. Le bord de la table est sec.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L214-fr-vocab-marque",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "marque. La professeure voit une marque claire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L214-fr-vocab-propre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "propre. Le chiffon propre est dans l’armoire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L214-fr-vocab-mouille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "mouillé. Le chiffon est un peu mouillé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L214-fr-vocab-autourde",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "autour de. La marque est autour du récipient fermé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L214-fr-vocab-armoire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "armoire. L’adulte range le chiffon dans l’armoire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L214-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’essuie la table. Tu essuies la marque avec le chiffon.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L214-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La professeure essuie la surface humide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L214-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous essuyons la table. Vous essuyez avec l’adulte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L214-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les adultes essuient les marques après l’activité.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L214-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La professeure essuie la table.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L214-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous essuyons la surface ensemble.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L214-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu essuies la marque avec le chiffon.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L214-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Vous essuyez après l’activité.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L214-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les adultes essuient le bord humide.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L214-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La démonstration est terminée et le récipient reste fermé. La professeure voit une petite marque humide sur la table. Elle prend un chiffon propre dans l’armoire et essuie la surface autour du récipient. Les élèves restent de l’autre côté de la salle et ne touchent pas l’échantillon. Après le nettoyage, l’enseignante vérifie que le bord est sec. Elle met le chiffon dans le panier prévu et garde le couvercle en place. Mina écrit une phrase dans le carnet de sciences. La classe remercie la professeure et retourne à ses activités.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 533
+    },
+    {
+      "id": "L214-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L214)",
+      "tts_text": "برای پاک‌کردن سطح از فعل «essuyer» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 46
+    },
+    {
+      "id": "L214-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L214)",
+      "tts_text": "صرف فعل «essuyer» و تغییر y به i را تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 45
+    },
+    {
+      "id": "L214-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L214)",
+      "tts_text": "گوش بده و پیدا کن چه کسی پارچه را در کمد می‌گذارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L214-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L214)",
+      "tts_text": "برای «je» می‌گوییم «j’essuie»، اما برای «nous» می‌گوییم «nous essuyons».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L214-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L214)",
+      "tts_text": "روش پاک‌کردن میز و بسته‌ماندن ظرف را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L214-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L214)",
+      "tts_text": "از ظرف آزمایش فاصله بگیر و پس از پاک‌کردن پارچه را سر جایش بگذار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    }
+  ]
+}
