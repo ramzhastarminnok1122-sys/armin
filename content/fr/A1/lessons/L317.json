@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 317,
+    "title": "Le groupe s’abrite de l’orage",
+    "subtitle": "Trouver un abri et rester sur le sentier",
+    "description": "Mina et Hugo s’abritent quand un orage arrive en montagne.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان هوای نامساعد و صرف s’abriter در زمان حال",
+      "objectives": [
+        "Nommer des éléments du paysage et des vêtements de pluie.",
+        "Décrire comment s’abriter pendant un orage.",
+        "Conjuguer s’abriter au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "اگر در مسیر کوهستانی طوفان شود کجا پناه می‌گیری و برای باران چه لباسی می‌پوشی؟",
+      "questions": [
+        {
+          "q": "لباسی سبک برای محافظت در برابر باران چه نام دارد؟",
+          "hint_fa": "به واژهٔ «cape de pluie» فکر کن."
+        },
+        {
+          "q": "مسیر باریکی که از شیب تند می‌گذرد چه نام دارد؟",
+          "hint_fa": "به واژهٔ «chemin escarpé» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "پناه‌گرفتن از طوفان",
+      "body_fa": "فعل ضمیری «s’abriter» یعنی به مکانی امن رفتن تا از باران، باد یا خطر دور بمانیم. در زمان حال می‌گوییم «je m’abrite»، «tu t’abrites»، «il/elle s’abrite»، «nous nous abritons»، «vous vous abritez» و «ils/elles s’abritent». ضمیر بازتابی با فاعل هماهنگ می‌شود. می‌گوییم s’abriter sous un abri، s’abriter du vent یا s’abriter de l’orage. هنگام رعدوبرق در کوه، از صخرهٔ تنها یا لبهٔ falaise فاصله می‌گیریم و به مکانی امن می‌رویم. یک cape de pluie کمک می‌کند لباس‌ها خشک بمانند و از سرما دور شوند.",
+      "key_points": [
+        "s’abriter فعل ضمیری است.",
+        "می‌گوییم s’abriter de l’orage یا s’abriter du vent.",
+        "در طوفان از لبهٔ صخره فاصله می‌گیریم."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "un orage",
+          "ipa": "/œ̃.n‿ɔ.ʁaʒ/",
+          "translation_fa": "طوفان تندری",
+          "example": "Un orage arrive sur la vallée.",
+          "example_fa": "طوفانی تندری به دره نزدیک می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une cape de pluie",
+          "ipa": "/yn kap də plɥi/",
+          "translation_fa": "شنل بارانی",
+          "example": "La cape de pluie protège Mina de l’averse.",
+          "example_fa": "شنل بارانی مینا را از رگبار محافظت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une falaise",
+          "ipa": "/yn fa.lɛz/",
+          "translation_fa": "پرتگاه",
+          "example": "La falaise est loin du refuge.",
+          "example_fa": "پرتگاه از پناهگاه دور است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une vallée",
+          "ipa": "/yn va.le/",
+          "translation_fa": "دره",
+          "example": "La vallée devient sombre avant l’orage.",
+          "example_fa": "دره پیش از طوفان تاریک می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un versant",
+          "ipa": "/œ̃ vɛʁ.sɑ̃/",
+          "translation_fa": "دامنهٔ کوه",
+          "example": "Le versant est couvert de petits arbres.",
+          "example_fa": "دامنه با درختان کوچکی پوشیده شده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un chemin escarpé",
+          "ipa": "/œ̃ ʃəmɛ̃ ɛs.kaʁ.pe/",
+          "translation_fa": "مسیر پرشیب",
+          "example": "Le chemin escarpé descend vers l’abri.",
+          "example_fa": "مسیر پرشیب به سوی پناهگاه پایین می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une trace de pas",
+          "ipa": "/yn tʁas də pa/",
+          "translation_fa": "رد پا",
+          "example": "Une trace de pas reste dans la boue.",
+          "example_fa": "ردپایی در گل باقی می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un abri de montagne",
+          "ipa": "/œ̃.n‿a.bʁi də mɔ̃.taɲ/",
+          "translation_fa": "سرپناه کوهستانی",
+          "example": "L’abri de montagne protège du vent fort.",
+          "example_fa": "سرپناه کوهستانی از باد شدید محافظت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un point d’eau",
+          "ipa": "/œ̃ pwɛ̃ do/",
+          "translation_fa": "نقطهٔ آب",
+          "example": "Le point d’eau est près du chemin.",
+          "example_fa": "نقطهٔ آب نزدیک مسیر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un imperméable",
+          "ipa": "/œ̃.n‿ɛ̃.pɛʁ.me.ab.l/",
+          "translation_fa": "لباس ضدآب",
+          "example": "Hugo porte un imperméable sous son sac.",
+          "example_fa": "هوگو زیر کوله‌اش لباس ضدآب می‌پوشد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de s’abriter",
+      "explanation_fa": "Le verbe pronominal «s’abriter» signifie se mettre dans un lieu protégé contre la pluie, le vent ou un autre danger. Au présent, on dit «je m’abrite», «tu t’abrites», «il/elle s’abrite», «nous nous abritons», «vous vous abritez» et «ils/elles s’abritent». Le pronom réfléchi change selon le sujet. Le verbe peut être suivi de «de»: s’abriter de l’orage, s’abriter du vent. Il peut aussi être suivi de «sous» ou «dans»: s’abriter sous un toit, dans un refuge.",
+      "pattern": "sujet + pronom réfléchi + abriter + de/dans/sous",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je m’abrite de l’orage. Tu t’abrites sous le toit.",
+            "من از طوفان پناه می‌گیرم. تو زیر سقف پناه می‌گیری."
+          ],
+          [
+            "il / elle",
+            "Il s’abrite dans l’abri de montagne. Elle s’abrite du vent.",
+            "او در سرپناه کوهستانی پناه می‌گیرد. او از باد پناه می‌گیرد."
+          ],
+          [
+            "nous / vous",
+            "Nous nous abritons sous un arbre bas. Vous vous abritez dans le refuge.",
+            "ما زیر درخت کوتاهی پناه می‌گیریم. شما در پناهگاه پناه می‌گیرید."
+          ],
+          [
+            "ils / elles",
+            "Les randonneurs s’abritent de la pluie.",
+            "کوهنوردان از باران پناه می‌گیرند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "فعل s’abriter ضمیر بازتابی می‌گیرد.",
+        "بعد از فعل می‌توان de، du، sous یا dans آورد."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mina s’abrite de l’orage dans un abri.",
+          "fa": "مینا در پناهگاهی از طوفان پناه می‌گیرد.",
+          "note_fa": "Le pronom réfléchi correspond au sujet."
+        },
+        {
+          "target": "Nous nous abritons du vent près du refuge.",
+          "fa": "ما نزدیک پناهگاه از باد پناه می‌گیریم.",
+          "note_fa": "Avec nous, on répète le pronom nous."
+        },
+        {
+          "target": "Tu t’abrites sous la cape de pluie.",
+          "fa": "تو زیر شنل بارانی پناه می‌گیری.",
+          "note_fa": "Avec tu, le pronom se réduit à t’."
+        },
+        {
+          "target": "Les marcheurs s’abritent dans la vallée.",
+          "fa": "پیاده‌روها در دره پناه می‌گیرند.",
+          "note_fa": "Le sujet pluriel prend s’."
+        },
+        {
+          "target": "Vous vous abritez loin de la falaise.",
+          "fa": "شما دور از پرتگاه پناه می‌گیرید.",
+          "note_fa": "Avec vous, le pronom est vous."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "La pluie arrive",
+      "script": "Mina: Un orage approche au-dessus de la vallée.\nHugo: Le versant devient sombre très vite.\nMina: Nous nous abritons dans l’abri de montagne.\nHugo: Le chemin escarpé descend vers le point d’eau.\nMina: Ma cape de pluie est dans le sac.\nHugo: Reste loin de la falaise pendant l’orage.\nMina: Une trace de pas passe près de l’abri.\nHugo: L’imperméable protège mes vêtements.\nMina: Nous attendons que la pluie s’arrête.",
+      "script_fa": "مینا: طوفانی بر فراز دره نزدیک می‌شود.\nهوگو: دامنه خیلی زود تاریک می‌شود.\nمینا: در سرپناه کوهستانی پناه می‌گیریم.\nهوگو: مسیر پرشیب به نقطهٔ آب پایین می‌رود.\nمینا: شنل بارانی‌ام در کوله است.\nهوگو: هنگام طوفان از پرتگاه دور بمان.\nمینا: رد پایی نزدیک سرپناه می‌گذرد.\nهوگو: لباس ضدآب از لباس‌هایم محافظت می‌کند.\nمینا: صبر می‌کنیم تا باران بند بیاید.",
+      "question_fa": "Où Mina et Hugo s’abritent-ils ?",
+      "answer": "Dans l’abri de montagne.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Attendre la fin de l’orage",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "La pluie commence sur le versant.",
+          "fa": "باران روی دامنه شروع می‌شود."
+        },
+        {
+          "speaker": "B",
+          "target": "Nous nous abritons sous le toit.",
+          "fa": "زیر سقف پناه می‌گیریم."
+        },
+        {
+          "speaker": "A",
+          "target": "La cape de pluie est dans mon sac.",
+          "fa": "شنل بارانی در کیفم است."
+        },
+        {
+          "speaker": "B",
+          "target": "Éloigne-toi de la falaise.",
+          "fa": "از پرتگاه دور شو."
+        },
+        {
+          "speaker": "A",
+          "target": "Le chemin escarpé est glissant.",
+          "fa": "مسیر پرشیب لغزنده است."
+        },
+        {
+          "speaker": "B",
+          "target": "Nous attendons dans l’abri de montagne.",
+          "fa": "در سرپناه کوهستانی منتظر می‌مانیم."
+        },
+        {
+          "speaker": "A",
+          "target": "Le point d’eau est près du sentier.",
+          "fa": "نقطهٔ آب نزدیک مسیر است."
+        },
+        {
+          "speaker": "B",
+          "target": "La pluie va bientôt s’arrêter.",
+          "fa": "باران به‌زودی بند می‌آید."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «سفر»، بگو هنگام طوفان در کوهستان کجا پناه می‌گیری، چه لباسی می‌پوشی و از کدام خطر دور می‌مانی.",
+      "useful_phrases": [
+        {
+          "target": "Je m’abrite de l’orage.",
+          "fa": "از طوفان پناه می‌گیرم."
+        },
+        {
+          "target": "La cape de pluie protège mes vêtements.",
+          "fa": "شنل بارانی از لباس‌هایم محافظت می‌کند."
+        },
+        {
+          "target": "Je reste loin de la falaise.",
+          "fa": "از پرتگاه دور می‌مانم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Le groupe s’abrite de l’orage",
+      "text": "Mina et Hugo marchent sur un chemin escarpé quand un orage arrive. Le versant devient sombre et la pluie commence. Ils mettent une cape de pluie et s’abritent dans un abri de montagne. Hugo pose son sac loin de la falaise. Une trace de pas traverse la boue près de la porte. Plus bas, un point d’eau se trouve au bord du sentier. Ils attendent que le vent tombe avant de continuer. L’imperméable de Mina reste sec sous son sac. Quand le ciel s’éclaircit, les deux randonneurs reprennent doucement le chemin vers la vallée.",
+      "glossary": [
+        {
+          "term": "tomber",
+          "fa": "baisser / se calmer"
+        },
+        {
+          "term": "s’éclaircir",
+          "fa": "روشن‌شدن هوا"
+        },
+        {
+          "term": "au bord de",
+          "fa": "در کنارِ"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Où Mina et Hugo s’abritent-ils ?",
+          "a": "Dans un abri de montagne."
+        },
+        {
+          "q_fa": "Que font-ils avant de continuer ?",
+          "a": "Ils attendent que le vent tombe."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ dans l’abri.",
+          "options": [
+            "nous abritons",
+            "vous abritez",
+            "s’abritent"
+          ],
+          "answer": "nous abritons",
+          "explanation_fa": "با فاعل nous می‌گوییم nous nous abritons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "لباس مناسب را انتخاب کن.",
+          "question": "Pour rester au sec sous la pluie, Hugo porte…",
+          "options": [
+            "un imperméable",
+            "un tablier",
+            "un maillot de bain"
+          ],
+          "answer": "un imperméable",
+          "explanation_fa": "لباس ضدآب از باران محافظت می‌کند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Une forte pluie avec du tonnerre peut être…",
+          "options": [
+            "un orage",
+            "un brouillard doux",
+            "une récolte"
+          ],
+          "answer": "un orage",
+          "explanation_fa": "طوفان تندری باران و رعدوبرق دارد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Mina et Hugo s’abritent dans un abri de montagne.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "مینا و هوگو در سرپناه کوهستانی پناه می‌گیرند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ sous le toit.",
+          "answer": [
+            "t’abrites"
+          ],
+          "explanation_fa": "t’abrites"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Où Mina et Hugo s’abritent-ils ?",
+          "answer": [
+            "Dans l’abri de montagne."
+          ],
+          "explanation_fa": "مینا و هوگو در سرپناه کوهستانی پناه می‌گیرند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quel temps arrive au-dessus de la vallée ?",
+          "options": [
+            "Un orage",
+            "Un grand soleil",
+            "De la neige en été"
+          ],
+          "answer": "Un orage",
+          "explanation_fa": "Un orage approche."
+        },
+        {
+          "type": "mcq",
+          "question": "Où les randonneurs s’abritent-ils ?",
+          "options": [
+            "Dans un abri de montagne",
+            "Sur la falaise",
+            "Au milieu du chemin"
+          ],
+          "answer": "Dans un abri de montagne",
+          "explanation_fa": "Ils attendent dans un abri."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel vêtement aide Mina à rester au sec ?",
+          "options": [
+            "Une cape de pluie",
+            "Un tablier blanc",
+            "Un casque de vélo"
+          ],
+          "answer": "Une cape de pluie",
+          "explanation_fa": "Elle met une cape de pluie."
+        },
+        {
+          "type": "mcq",
+          "question": "De quoi Hugo reste-t-il éloigné ?",
+          "options": [
+            "De la falaise",
+            "Du point d’eau",
+            "De la vallée"
+          ],
+          "answer": "De la falaise",
+          "explanation_fa": "Il reste loin de la falaise."
+        },
+        {
+          "type": "mcq",
+          "question": "Que font-ils avant de continuer ?",
+          "options": [
+            "Ils attendent que le vent tombe",
+            "Ils gravissent le sommet",
+            "Ils ouvrent la boulangerie"
+          ],
+          "answer": "Ils attendent que le vent tombe",
+          "explanation_fa": "Ils attendent que le temps s’améliore."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Explique quoi faire si un orage arrive pendant une randonnée : indique où tu t’abrites, ce que tu portes et quel endroit tu évites.",
+      "suggested_prompts": [
+        "Je m’abrite de l’orage.",
+        "La cape de pluie protège mes vêtements.",
+        "Je reste loin de la falaise."
+      ],
+      "focus": [
+        "s’abriter au présent",
+        "vocabulaire de la météo en montagne",
+        "décrire une précaution"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Une averse surprend les randonneurs près d’un chemin escarpé."
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "lesson": "L316",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L316-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le sentier vers le lac est à gauche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L316-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je m’oriente en vérifiant la balise rouge.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L316-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le refuge est à trente minutes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L316-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Nous nous orientons près de la cascade.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L316-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Le panneau indique un bivouac derrière le refuge.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L316-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "La lampe frontale est dans mon sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L316-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Tu as une paire de chaussures solides ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L316-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, elles sont prêtes pour le sentier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L316-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le panneau de randonnée montre deux directions.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L316-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Nous nous orientons avec la carte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L316-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Le refuge est au-dessus du lac de montagne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L316-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Le sac de randonnée contient assez d’eau ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L316-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, ma gourde est dans la poche latérale.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L316-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "La cascade se trouve près du vieux pont.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L316-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "La lampe frontale est prête pour le soir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L316-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Le bivouac est derrière le refuge.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L316-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Nous faisons une pause avant de reprendre le sentier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L316-fr-vocab-unrefuge",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un refuge. Le refuge ouvre ses portes aux randonneurs.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L316-fr-vocab-unbatondemarche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un bâton de marche. Le bâton de marche aide Mina dans la montée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L316-fr-vocab-unlacdemontagne",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un lac de montagne. Le lac de montagne est près du sentier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L316-fr-vocab-unecascade",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une cascade. Une cascade tombe près du vieux pont.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L316-fr-vocab-unbivouac",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un bivouac. Le bivouac se trouve près du refuge.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L316-fr-vocab-unsacdecouchage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un sac de couchage. Le sac de couchage reste dans la tente.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L316-fr-vocab-unelampefrontale",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une lampe frontale. La lampe frontale éclaire le sentier sombre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L316-fr-vocab-unepairedechaussuresderandonnee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une paire de chaussures de randonnée. Une paire de chaussures de randonnée protège les pieds.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 93
+    },
+    {
+      "id": "L316-fr-vocab-unpanneauderandonnee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un panneau de randonnée. Le panneau de randonnée indique le refuge.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L316-fr-vocab-unsacderandonnee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un sac de randonnée. Le sac de randonnée contient de l’eau et une carte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L316-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je m’oriente avec la carte. Tu t’orientes près du lac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L316-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il s’oriente avec la boussole. Elle s’oriente près du refuge.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L316-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous nous orientons grâce au panneau. Vous vous orientez sur le sentier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L316-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils s’orientent avec les balises rouges.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L316-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina s’oriente sur le sentier près du refuge.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L316-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous nous orientons grâce au panneau de randonnée.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L316-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu t’orientes près du lac de montagne.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L316-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les marcheurs s’orientent avec les balises.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L316-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous vous orientez avant la cascade.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L316-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina et Hugo suivent un panneau de randonnée vers un refuge. Ils s’orientent avec une carte et regardent les balises près du lac de montagne. Une cascade tombe derrière un vieux pont. Le sac de randonnée de Mina contient une gourde, une lampe frontale et une paire de chaussures de randonnée de rechange. Le bivouac se trouve à l’arrière du refuge, près d’un petit espace plat. Hugo vérifie la direction avant de continuer. Le soir, ils posent leur sac de couchage dans la tente et gardent la lampe à portée de main.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 516
+    },
+    {
+      "id": "L316-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L316)",
+      "tts_text": "در مسیر کوهستانی چطور جهت خود را پیدا می‌کنی و در کجا استراحت می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L316-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L316)",
+      "tts_text": "فعل ضمیری «s’orienter» یعنی با نقشه یا نشانه‌ها جهت را پیدا کردن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L316-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L316)",
+      "tts_text": "به گفت‌وگو گوش کن و چیزی را پیدا کن که پشت پناهگاه قرار دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L316-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L316)",
+      "tts_text": "با «nous» می‌گوییم «nous nous orientons» و با «vous» می‌گوییم «vous vous orientez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 83
+    },
+    {
+      "id": "L316-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L316)",
+      "tts_text": "مسیر کوهستانی را توضیح بده و نام یک نشانه را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L316-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L316)",
+      "tts_text": "با «s’orienter» و نام یک ابزار جهت‌یابی جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    }
+  ]
+}

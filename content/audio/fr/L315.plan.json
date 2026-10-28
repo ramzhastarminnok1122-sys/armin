@@ -1,0 +1,398 @@
+{
+  "lesson": "L315",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L315-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La boussole indique le nord.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L315-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Le col est derrière cette pente.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L315-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "La carte topographique reste dans mon sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L315-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Nous gravissons les derniers mètres ensemble.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L315-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Le sentier balisé devient plus étroit.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L315-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Le sommet est bientôt devant nous.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L315-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Je regarde le panorama avec les jumelles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L315-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "La vallée est très calme ce matin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L315-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le sentier balisé commence près du refuge.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L315-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "La carte topographique montre un col au nord.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L315-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Le dénivelé augmente après le grand rocher.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L315-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La boussole confirme la direction du sommet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L315-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nous gravissons la pente lentement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L315-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Une paire de jumelles est dans mon sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L315-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Le panorama sera beau depuis le sommet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L315-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "L’itinéraire de montagne passe près du lac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L315-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Nous faisons une pause avant la dernière montée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L315-fr-vocab-unsentierbalise",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un sentier balisé. Le sentier balisé traverse la forêt.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L315-fr-vocab-uneboussole",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une boussole. La boussole montre le nord.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L315-fr-vocab-unecartetopographique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une carte topographique. Hugo lit la carte topographique avant la montée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 73
+    },
+    {
+      "id": "L315-fr-vocab-uncol",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un col. Le col se trouve entre deux sommets.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L315-fr-vocab-unsommet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un sommet. Le sommet est visible depuis le refuge.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L315-fr-vocab-undenivele",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un dénivelé. Le dénivelé est important sur ce parcours.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L315-fr-vocab-unepairedejumelles",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une paire de jumelles. Mina observe la vallée avec une paire de jumelles.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 73
+    },
+    {
+      "id": "L315-fr-vocab-unpanorama",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un panorama. Le panorama est magnifique depuis le sommet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L315-fr-vocab-unitinerairedemontagne",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un itinéraire de montagne. L’itinéraire de montagne commence près du village.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 77
+    },
+    {
+      "id": "L315-fr-vocab-unrandonneur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un randonneur. Un randonneur avance sur le chemin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L315-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je gravis le sentier jusqu’au col. Tu gravis une pente rocheuse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L315-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il gravit le sommet avant midi. Elle gravit la pente avec prudence.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L315-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous gravissons le dernier passage. Vous gravissez le col par le sentier balisé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 80
+    },
+    {
+      "id": "L315-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les randonneurs gravissent le sommet ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L315-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Hugo gravit le sommet par le sentier balisé.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L315-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous gravissons le dernier passage avant le col.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L315-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu gravis la pente près des arbres.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L315-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les randonneurs gravissent le sommet au lever du soleil.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L315-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous gravissez le col avant la pause.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L315-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Hugo et Mina commencent leur randonnée près d’un village. Ils suivent un sentier balisé et regardent une carte topographique. La boussole confirme la direction du col. Le dénivelé est assez important, alors ils marchent lentement. Hugo porte une paire de jumelles pour observer la vallée. Après une pause, ils gravissent le dernier passage vers le sommet. L’itinéraire de montagne passe près d’un petit lac. Depuis le haut, le panorama montre la forêt et les maisons du village. Les deux randonneurs prennent une photo avant de redescendre.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 540
+    },
+    {
+      "id": "L315-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L315)",
+      "tts_text": "برای رسیدن به قله از چه مسیری می‌روی و کدام ابزار جهت را نشان می‌دهد؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L315-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L315)",
+      "tts_text": "فعل گروه دوم «gravir» یعنی با تلاش از شیب یا قله‌ای بالا رفتن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L315-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L315)",
+      "tts_text": "به گفت‌وگو گوش کن و جایی را پیدا کن که مسیر کوهستانی از نزدیکی آن می‌گذرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L315-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L315)",
+      "tts_text": "با «nous» می‌گوییم «nous gravissons» و با «vous» می‌گوییم «vous gravissez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L315-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L315)",
+      "tts_text": "مسیر کوه‌پیمایی را توصیف کن و از نام قله یا گردنه استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L315-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L315)",
+      "tts_text": "با «gravir» و نام یک بلندی جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 37
+    }
+  ]
+}

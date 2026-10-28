@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 315,
+    "title": "Hugo gravit le sommet",
+    "subtitle": "Suivre un itinéraire de montagne",
+    "description": "Hugo suit un sentier balisé et gravit un sommet avec Mina.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان کوه‌پیمایی و صرف gravir در زمان حال",
+      "objectives": [
+        "Nommer des éléments d’un itinéraire de montagne.",
+        "Décrire une montée vers un sommet.",
+        "Conjuguer gravir au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای رسیدن به قله از چه مسیری می‌روی و از کدام ابزار جهت‌یابی استفاده می‌کنی؟",
+      "questions": [
+        {
+          "q": "وسیله‌ای برای پیدا‌کردن جهت‌های اصلی چه نام دارد؟",
+          "hint_fa": "به واژهٔ «boussole» فکر کن."
+        },
+        {
+          "q": "مسیر مشخص‌شده در کوه چه نام دارد؟",
+          "hint_fa": "به واژهٔ «sentier balisé» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "بالارفتن از یک قله",
+      "body_fa": "فعل «gravir» یعنی با تلاش از یک شیب یا مانع بالا رفتن. این فعل از گروه دوم است. در زمان حال می‌گوییم «je gravis»، «tu gravis»، «il/elle gravit»، «nous gravissons»، «vous gravissez» و «ils/elles gravissent». در شکل‌های جمع، ریشهٔ graviss- به کار می‌رود. می‌گوییم gravir un sommet، gravir une pente یا gravir un col. برای یک randonnée، رandonneur مسیر را روی carte topographique دنبال می‌کند و به رنگ‌ها یا نشانه‌های sentier balisé توجه دارد. پیش از شروع، میزان dénivelé را بررسی می‌کنیم تا بدانیم مسیر چقدر بالا می‌رود. از قله می‌توان panorama را تماشا کرد.",
+      "key_points": [
+        "gravir فعل گروه دوم است.",
+        "در جمع از ریشهٔ graviss- استفاده می‌کنیم.",
+        "می‌گوییم gravir un sommet یا gravir un col."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "un sentier balisé",
+          "ipa": "/œ̃ sɑ̃.tje ba.li.ze/",
+          "translation_fa": "مسیر کوه‌پیمایی علامت‌گذاری‌شده",
+          "example": "Le sentier balisé traverse la forêt.",
+          "example_fa": "مسیر علامت‌گذاری‌شده از جنگل می‌گذرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une boussole",
+          "ipa": "/yn bu.sɔl/",
+          "translation_fa": "قطب‌نما",
+          "example": "La boussole montre le nord.",
+          "example_fa": "قطب‌نما شمال را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une carte topographique",
+          "ipa": "/yn kaʁt tɔ.pɔ.ɡʁa.fik/",
+          "translation_fa": "نقشهٔ توپوگرافی",
+          "example": "Hugo lit la carte topographique avant la montée.",
+          "example_fa": "هوگو پیش از صعود نقشهٔ توپوگرافی را می‌خواند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un col",
+          "ipa": "/œ̃ kɔl/",
+          "translation_fa": "گردنه",
+          "example": "Le col se trouve entre deux sommets.",
+          "example_fa": "گردنه میان دو قله قرار دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un sommet",
+          "ipa": "/œ̃ sɔ.mɛ/",
+          "translation_fa": "قله",
+          "example": "Le sommet est visible depuis le refuge.",
+          "example_fa": "قله از پناهگاه دیده می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un dénivelé",
+          "ipa": "/œ̃ de.ni.və.le/",
+          "translation_fa": "اختلاف ارتفاع",
+          "example": "Le dénivelé est important sur ce parcours.",
+          "example_fa": "اختلاف ارتفاع در این مسیر زیاد است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une paire de jumelles",
+          "ipa": "/yn pɛʁ də ʒy.mɛl/",
+          "translation_fa": "یک دوربین دوچشمی",
+          "example": "Mina observe la vallée avec une paire de jumelles.",
+          "example_fa": "مینا با دوربین دوچشمی دره را تماشا می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un panorama",
+          "ipa": "/œ̃ pa.nɔ.ʁa.ma/",
+          "translation_fa": "چشم‌انداز",
+          "example": "Le panorama est magnifique depuis le sommet.",
+          "example_fa": "چشم‌انداز از قله بسیار زیباست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un itinéraire de montagne",
+          "ipa": "/œ̃.n‿i.ti.ne.ʁɛʁ də mɔ̃.taɲ/",
+          "translation_fa": "مسیر کوهستانی",
+          "example": "L’itinéraire de montagne commence près du village.",
+          "example_fa": "مسیر کوهستانی نزدیک روستا آغاز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un randonneur",
+          "ipa": "/œ̃ ʁɑ̃.dɔ.nœʁ/",
+          "translation_fa": "کوهنورد؛ پیاده‌گرد",
+          "example": "Un randonneur avance sur le chemin.",
+          "example_fa": "کوهنوردی در مسیر جلو می‌رود.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de gravir",
+      "explanation_fa": "Le verbe «gravir» signifie monter avec effort sur une pente, une colline ou un sommet. Il appartient au deuxième groupe. Au présent, on dit «je gravis», «tu gravis», «il/elle gravit», «nous gravissons», «vous gravissez» et «ils/elles gravissent». Le radical du singulier est «gravis-»; les formes du pluriel prennent «graviss-». Le verbe reçoit un complément direct: gravir un sommet, gravir une pente ou gravir un col. On peut préciser le parcours avec «par»: gravir le sommet par le sentier balisé.",
+      "pattern": "sujet + gravir au présent + sommet/pente",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je gravis le sentier jusqu’au col. Tu gravis une pente rocheuse.",
+            "من مسیر را تا گردنه بالا می‌روم. تو از شیبی سنگی بالا می‌روی."
+          ],
+          [
+            "il / elle",
+            "Il gravit le sommet avant midi. Elle gravit la pente avec prudence.",
+            "او پیش از ظهر از قله بالا می‌رود. او بااحتیاط از شیب بالا می‌رود."
+          ],
+          [
+            "nous / vous",
+            "Nous gravissons le dernier passage. Vous gravissez le col par le sentier balisé.",
+            "ما از بخش پایانی بالا می‌رویم. شما از راه علامت‌گذاری‌شده به گردنه می‌رسید."
+          ],
+          [
+            "ils / elles",
+            "Les randonneurs gravissent le sommet ensemble.",
+            "کوهنوردان با هم از قله بالا می‌روند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "gravir فعل گروه دوم است.",
+        "در جمع می‌گوییم gravissons, gravissez و gravissent."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Hugo gravit le sommet par le sentier balisé.",
+          "fa": "هوگو از مسیر علامت‌گذاری‌شده به قله می‌رسد.",
+          "note_fa": "Le complément direct suit le verbe."
+        },
+        {
+          "target": "Nous gravissons le dernier passage avant le col.",
+          "fa": "ما پیش از گردنه از بخش پایانی بالا می‌رویم.",
+          "note_fa": "Avec nous, le radical devient graviss-."
+        },
+        {
+          "target": "Tu gravis la pente près des arbres.",
+          "fa": "تو از شیب کنار درخت‌ها بالا می‌روی.",
+          "note_fa": "Avec tu, on écrit gravis."
+        },
+        {
+          "target": "Les randonneurs gravissent le sommet au lever du soleil.",
+          "fa": "کوهنوردان هنگام طلوع از قله بالا می‌روند.",
+          "note_fa": "Le sujet pluriel prend gravissent."
+        },
+        {
+          "target": "Vous gravissez le col avant la pause.",
+          "fa": "شما پیش از استراحت از گردنه بالا می‌روید.",
+          "note_fa": "Avec vous, on écrit gravissez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "La montée vers le col",
+      "script": "Mina: Le sentier balisé commence près du refuge.\nHugo: La carte topographique montre un col au nord.\nMina: Le dénivelé augmente après le grand rocher.\nHugo: La boussole confirme la direction du sommet.\nMina: Nous gravissons la pente lentement.\nHugo: Une paire de jumelles est dans mon sac.\nMina: Le panorama sera beau depuis le sommet.\nHugo: L’itinéraire de montagne passe près du lac.\nMina: Nous faisons une pause avant la dernière montée.",
+      "script_fa": "مینا: مسیر علامت‌گذاری‌شده نزدیک پناهگاه شروع می‌شود.\nهوگو: نقشهٔ توپوگرافی گردنه‌ای در شمال نشان می‌دهد.\nمینا: اختلاف ارتفاع پس از صخرهٔ بزرگ بیشتر می‌شود.\nهوگو: قطب‌نما جهت قله را تأیید می‌کند.\nمینا: آرام از شیب بالا می‌رویم.\nهوگو: یک دوربین دوچشمی در کیفم است.\nمینا: چشم‌انداز از قله زیبا خواهد بود.\nهوگو: مسیر کوهستانی نزدیک دریاچه می‌گذرد.\nمینا: پیش از آخرین صعود استراحت می‌کنیم.",
+      "question_fa": "Où passe l’itinéraire de montagne ?",
+      "answer": "Près du lac.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Près du sommet",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "La boussole indique le nord.",
+          "fa": "قطب‌نما شمال را نشان می‌دهد."
+        },
+        {
+          "speaker": "B",
+          "target": "Le col est derrière cette pente.",
+          "fa": "گردنه پشت این شیب است."
+        },
+        {
+          "speaker": "A",
+          "target": "La carte topographique reste dans mon sac.",
+          "fa": "نقشهٔ توپوگرافی در کیفم است."
+        },
+        {
+          "speaker": "B",
+          "target": "Nous gravissons les derniers mètres ensemble.",
+          "fa": "با هم از چند متر پایانی بالا می‌رویم."
+        },
+        {
+          "speaker": "A",
+          "target": "Le sentier balisé devient plus étroit.",
+          "fa": "مسیر علامت‌گذاری‌شده باریک‌تر می‌شود."
+        },
+        {
+          "speaker": "B",
+          "target": "Le sommet est bientôt devant nous.",
+          "fa": "قله به‌زودی روبه‌روی ماست."
+        },
+        {
+          "speaker": "A",
+          "target": "Je regarde le panorama avec les jumelles.",
+          "fa": "با دوربین دوچشمی چشم‌انداز را نگاه می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "La vallée est très calme ce matin.",
+          "fa": "دره امروز صبح بسیار آرام است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «سفر»، مسیر کوه‌پیمایی را معرفی کن؛ از چه چیزی بالا می‌روی و چه ابزاری مسیر را نشان می‌دهد؟",
+      "useful_phrases": [
+        {
+          "target": "Je gravis le sommet.",
+          "fa": "از قله بالا می‌روم."
+        },
+        {
+          "target": "La boussole indique le nord.",
+          "fa": "قطب‌نما شمال را نشان می‌دهد."
+        },
+        {
+          "target": "Le sentier balisé passe près du col.",
+          "fa": "مسیر علامت‌گذاری‌شده نزدیک گردنه می‌گذرد."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Hugo gravit le sommet",
+      "text": "Hugo et Mina commencent leur randonnée près d’un village. Ils suivent un sentier balisé et regardent une carte topographique. La boussole confirme la direction du col. Le dénivelé est assez important, alors ils marchent lentement. Hugo porte une paire de jumelles pour observer la vallée. Après une pause, ils gravissent le dernier passage vers le sommet. L’itinéraire de montagne passe près d’un petit lac. Depuis le haut, le panorama montre la forêt et les maisons du village. Les deux randonneurs prennent une photo avant de redescendre.",
+      "glossary": [
+        {
+          "term": "redescendre",
+          "fa": "دوباره پایین‌آمدن"
+        },
+        {
+          "term": "assez important",
+          "fa": "نسبتاً زیاد"
+        },
+        {
+          "term": "le haut",
+          "fa": "بخش بالایی"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Qu’est-ce qui confirme la direction du col ?",
+          "a": "La boussole."
+        },
+        {
+          "q_fa": "Que voit-on depuis le sommet ?",
+          "a": "La forêt et les maisons du village."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ le sommet ensemble.",
+          "options": [
+            "gravissons",
+            "gravissez",
+            "gravissent"
+          ],
+          "answer": "gravissons",
+          "explanation_fa": "با nous می‌گوییم gravissons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "وسیلهٔ مناسب را انتخاب کن.",
+          "question": "Pour confirmer la direction, Mina utilise…",
+          "options": [
+            "une boussole",
+            "un minuteur",
+            "un fouet"
+          ],
+          "answer": "une boussole",
+          "explanation_fa": "قطب‌نما جهت را نشان می‌دهد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Le sommet se trouve entre deux montagnes, au niveau du…",
+          "options": [
+            "col",
+            "four",
+            "trottoir"
+          ],
+          "answer": "col",
+          "explanation_fa": "گردنه میان قله‌ها قرار دارد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Le dénivelé est important sur le parcours.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "اختلاف ارتفاع مسیر زیاد است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ la pente rocheuse.",
+          "answer": [
+            "gravis"
+          ],
+          "explanation_fa": "gravis"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Où passe l’itinéraire de montagne ?",
+          "answer": [
+            "Près du lac."
+          ],
+          "explanation_fa": "مسیر کوهستانی نزدیک دریاچه می‌گذرد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Où commence la randonnée ?",
+          "options": [
+            "Près d’un village",
+            "Dans une boulangerie",
+            "À l’aéroport"
+          ],
+          "answer": "Près d’un village",
+          "explanation_fa": "Le parcours commence près d’un village."
+        },
+        {
+          "type": "mcq",
+          "question": "Qu’est-ce qui confirme la direction ?",
+          "options": [
+            "La boussole",
+            "La lampe frontale",
+            "La gourde"
+          ],
+          "answer": "La boussole",
+          "explanation_fa": "La boussole montre le nord."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel élément indique la différence de hauteur ?",
+          "options": [
+            "Le dénivelé",
+            "Le panorama",
+            "Le refuge"
+          ],
+          "answer": "Le dénivelé",
+          "explanation_fa": "Le dénivelé est important."
+        },
+        {
+          "type": "mcq",
+          "question": "Que fait Hugo au sommet ?",
+          "options": [
+            "Il regarde la vallée avec des jumelles",
+            "Il prépare du pain",
+            "Il plante un arbre"
+          ],
+          "answer": "Il regarde la vallée avec des jumelles",
+          "explanation_fa": "Hugo observe la vallée."
+        },
+        {
+          "type": "mcq",
+          "question": "Que montre le panorama ?",
+          "options": [
+            "La forêt et le village",
+            "Un fournil",
+            "Une gare"
+          ],
+          "answer": "La forêt et le village",
+          "explanation_fa": "Le panorama montre le paysage alentour."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Décris une montée en randonnée : nomme l’outil pour trouver le nord, indique ce qui se trouve entre deux sommets et décris la vue.",
+      "suggested_prompts": [
+        "Je gravis le sommet.",
+        "La boussole indique le nord.",
+        "Le sentier balisé passe près du col."
+      ],
+      "focus": [
+        "gravir au présent",
+        "vocabulaire de la randonnée",
+        "décrire un itinéraire"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Une randonnée en montagne commence sur un sentier balisé."
+  }
+}
