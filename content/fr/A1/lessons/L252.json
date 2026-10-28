@@ -1,0 +1,473 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 252,
+    "title": "Mina cherche la médiathèque",
+    "subtitle": "Se repérer dans le quartier",
+    "description": "Trouvez un lieu public à partir de quelques repères.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "مکان‌ها و حرف اضافهٔ مکان برای پیدا کردن کتابخانهٔ عمومی",
+      "objectives": [
+        "Nommer quelques lieux du quartier.",
+        "Employer près de, loin de et en face de.",
+        "Demander où se trouve un lieu."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "گروه پس از پیاده‌شدن از اتوبوس باید کتابخانهٔ عمومی را پیدا کند. خیابان‌ها و میدان‌ها نشانه‌هایی برای مسیر هستند. چطور می‌توانیم بگوییم یک مکان نزدیک یا روبه‌روی مکان دیگر است؟",
+      "questions": [
+        {
+          "q": "«نزدیکِ» را در فرانسوی چگونه می‌گوییم؟",
+          "hint_fa": "از عبارت «près de» استفاده می‌کنیم."
+        },
+        {
+          "q": "برای گفتن «روبه‌رویِ» چه عبارتی داریم؟",
+          "hint_fa": "عبارت «en face de» را به کار می‌بریم."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Trouver un lieu",
+      "body_fa": "برای توصیف جای یک مکان، نام آن را با یک نشانهٔ آشنا پیوند می‌دهیم. «Près de» یعنی نزدیکِ، «loin de» یعنی دور از و «en face de» یعنی روبه‌رویِ. می‌گوییم «La médiathèque est près de la place» یا «Elle est en face de la mairie». پس از حرف اضافه، نام مکان را می‌آوریم. می‌توانیم از یک رهگذر دربارهٔ نشانی بپرسیم و سپس پاسخ را روی نقشه دنبال کنیم. اگر چند خیابان به هم می‌رسند، نام تقاطع را هم یادداشت می‌کنیم. بازخوانی نام خیابان پیش از حرکت احتمال اشتباه را کم می‌کند.",
+      "key_points": [
+        "«Près de» نزدیکی را بیان می‌کند.",
+        "«En face de» یعنی روبه‌رویِ.",
+        "برای توضیح مسیر از یک نشانهٔ روشن کمک بگیر."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "chercher",
+          "ipa": "/ʃɛʁ.ʃe/",
+          "translation_fa": "جست‌وجوکردن",
+          "example": "Mina cherche la médiathèque.",
+          "example_fa": "مینا کتابخانهٔ عمومی را جست‌وجو می‌کند.",
+          "tag": "فعل"
+        },
+        {
+          "term": "une médiathèque",
+          "ipa": "/yn me.dja.tɛk/",
+          "translation_fa": "کتابخانهٔ عمومی",
+          "example": "La médiathèque ouvre à dix heures.",
+          "example_fa": "کتابخانهٔ عمومی ساعت ده باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une rue",
+          "ipa": "/yn ʁy/",
+          "translation_fa": "خیابان",
+          "example": "La rue est calme le matin.",
+          "example_fa": "خیابان صبح آرام است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une avenue",
+          "ipa": "/yn a.və.ny/",
+          "translation_fa": "خیابان بزرگ",
+          "example": "L’avenue passe devant la mairie.",
+          "example_fa": "خیابان بزرگ از جلوی شهرداری می‌گذرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un carrefour",
+          "ipa": "/œ̃ kaʁ.fuʁ/",
+          "translation_fa": "چهارراه",
+          "example": "Le carrefour est près du marché.",
+          "example_fa": "چهارراه نزدیک بازار است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un quartier",
+          "ipa": "/œ̃ kaʁ.tje/",
+          "translation_fa": "محله",
+          "example": "Le quartier est près du centre.",
+          "example_fa": "محله نزدیک مرکز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "près de",
+          "ipa": "/pʁɛ də/",
+          "translation_fa": "نزدیکِ",
+          "example": "Le café est près de la place.",
+          "example_fa": "کافه نزدیک میدان است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "loin de",
+          "ipa": "/lwɛ̃ də/",
+          "translation_fa": "دور از",
+          "example": "La gare est loin du parc.",
+          "example_fa": "ایستگاه قطار از پارک دور است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "en face de",
+          "ipa": "/ɑ̃ fas də/",
+          "translation_fa": "روبه‌رویِ",
+          "example": "La banque est en face de la mairie.",
+          "example_fa": "بانک روبه‌روی شهرداری است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "une place",
+          "ipa": "/yn plas/",
+          "translation_fa": "میدان",
+          "example": "La place est au cœur du quartier.",
+          "example_fa": "میدان در مرکز محله است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Les prépositions de lieu",
+      "explanation_fa": "برای نشان‌دادن جای یک ساختمان از حرف اضافهٔ مکان و سپس نام نشانه استفاده می‌کنیم. «Près de» یعنی نزدیکِ، «loin de» یعنی دور از و «en face de» یعنی روبه‌رویِ. نمونه: «La médiathèque est près de la place». پیش از اسم مؤنث می‌گوییم «de la mairie» و پیش از اسم مذکر «du parc»؛ «du» از ترکیب «de + le» ساخته می‌شود. اگر پرسش داریم، می‌گوییم «Où se trouve la médiathèque ?». در پاسخ یک نشانهٔ آشنا را نام می‌بریم تا مسیر روشن شود. نقشه را دنبال کن و نام خیابان یا چهارراه را با دقت بخوان.",
+      "pattern": "lieu + être + préposition de lieu + repère",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "près",
+            "La médiathèque est près de la place.",
+            "کتابخانهٔ عمومی نزدیک میدان است."
+          ],
+          [
+            "en face",
+            "Le kiosque est en face de la mairie.",
+            "کیوسک روبه‌روی شهرداری است."
+          ],
+          [
+            "loin",
+            "La gare est loin du quartier.",
+            "ایستگاه قطار از محله دور است."
+          ],
+          [
+            "question",
+            "Où se trouve la médiathèque ?",
+            "کتابخانهٔ عمومی کجاست؟"
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Près de» و «loin de» نشانهٔ فاصله‌اند.",
+        "پیش از «le» می‌گوییم «du».",
+        "برای پرسیدن مکان از «Où se trouve… ?» استفاده کن."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "La médiathèque est près de la place.",
+          "fa": "کتابخانهٔ عمومی نزدیک میدان است.",
+          "note_fa": "«Près de» فاصلهٔ کم را بیان می‌کند."
+        },
+        {
+          "target": "Le marché est en face de la mairie.",
+          "fa": "بازار روبه‌روی شهرداری است.",
+          "note_fa": "«En face de» دو مکان روبه‌رو را نشان می‌دهد."
+        },
+        {
+          "target": "La gare est loin du quartier.",
+          "fa": "ایستگاه قطار از محله دور است.",
+          "note_fa": "«Du» ترکیب «de + le» است."
+        },
+        {
+          "target": "Mina cherche une rue calme.",
+          "fa": "مینا خیابانی آرام را جست‌وجو می‌کند.",
+          "note_fa": "فعل «chercher» یک فعل گروه اول است."
+        },
+        {
+          "target": "Le carrefour est près de l’avenue.",
+          "fa": "چهارراه نزدیک خیابان بزرگ است.",
+          "note_fa": "یک نشانهٔ آشنا به مسیر کمک می‌کند."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Une adresse dans le quartier",
+      "script": "Mina: Nous cherchons la médiathèque du quartier.\nHugo: Elle se trouve près de la grande place.\nMina: C’est loin de l’arrêt du bus ?\nHugo: Non, c’est à cinq minutes à pied.\nMina: Je vois une avenue devant la mairie.\nHugo: La médiathèque est en face de la mairie.\nMina: Faut-il traverser le carrefour ?\nHugo: Oui, puis prends la petite rue calme.\nMina: Est-ce que la porte est près du marché ?\nHugo: Oui, elle est à côté du kiosque.\nMina: Le plan montre bien le chemin.\nHugo: Nous pouvons demander à cette passante.\nMina: Elle confirme, nous sommes tout près.",
+      "script_fa": "مینا: کتابخانهٔ عمومی محله را جست‌وجو می‌کنیم.\nاوگو: نزدیک میدان بزرگ قرار دارد.\nمینا: از ایستگاه اتوبوس دور است؟\nاوگو: نه، پنج دقیقه پیاده‌روی است.\nمینا: خیابان بزرگی را جلوی شهرداری می‌بینم.\nاوگو: کتابخانه روبه‌روی شهرداری است.\nمینا: باید از چهارراه بگذریم؟\nاوگو: بله، سپس وارد خیابان کوچک و آرام شو.\nمینا: در نزدیک بازار است؟\nاوگو: بله، کنار کیوسک قرار دارد.\nمینا: نقشه مسیر را خوب نشان می‌دهد.\nاوگو: می‌توانیم از این رهگذر بپرسیم.\nمینا: او تأیید می‌کند، خیلی نزدیکیم.",
+      "question_fa": "Où se trouve la médiathèque ?",
+      "answer": "En face de la mairie.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Demander un repère",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Où se trouve la médiathèque ?",
+          "fa": "کتابخانهٔ عمومی کجاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Elle est près de la grande place.",
+          "fa": "نزدیک میدان بزرگ است."
+        },
+        {
+          "speaker": "A",
+          "target": "La place est loin d’ici ?",
+          "fa": "میدان از اینجا دور است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, elle est en face de la mairie.",
+          "fa": "نه، روبه‌روی شهرداری است."
+        },
+        {
+          "speaker": "A",
+          "target": "Nous suivons cette avenue ?",
+          "fa": "از این خیابان بزرگ برویم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, puis traversez le carrefour.",
+          "fa": "بله، سپس از چهارراه بگذرید."
+        },
+        {
+          "speaker": "A",
+          "target": "Je vois le kiosque près du marché.",
+          "fa": "کیوسک نزدیک بازار را می‌بینم."
+        },
+        {
+          "speaker": "B",
+          "target": "La médiathèque est juste derrière.",
+          "fa": "کتابخانهٔ عمومی درست پشت آن است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی مدرسه، از یک رهگذر نشانی کتابخانه را بپرس و پاسخ را با دو نشانهٔ مکانی تکرار کن.",
+      "useful_phrases": [
+        {
+          "target": "Où se trouve la médiathèque ?",
+          "fa": "کتابخانهٔ عمومی کجاست؟"
+        },
+        {
+          "target": "Elle est près de la place.",
+          "fa": "نزدیک میدان است."
+        },
+        {
+          "target": "La mairie est en face du marché.",
+          "fa": "شهرداری روبه‌روی بازار است."
+        },
+        {
+          "target": "Le carrefour est loin d’ici.",
+          "fa": "چهارراه از اینجا دور است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une promenade vers la médiathèque",
+      "text": "Mina et Hugo cherchent la médiathèque après leur trajet en bus. Ils regardent le plan du quartier devant la mairie. La grande place est près d’une avenue calme. La médiathèque se trouve en face de la mairie, à côté d’un petit kiosque. Le marché est plus loin, près du carrefour. Les deux amis traversent la place et suivent la rue indiquée sur le plan. Une passante confirme l’adresse et montre la porte bleue. Le groupe arrive quelques minutes plus tard et lit les horaires à l’entrée.",
+      "glossary": [
+        {
+          "term": "une promenade",
+          "fa": "گردش"
+        },
+        {
+          "term": "indiquer",
+          "fa": "نشان‌دادن"
+        },
+        {
+          "term": "une passante",
+          "fa": "رهگذر زن"
+        },
+        {
+          "term": "une entrée",
+          "fa": "ورودی"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "کتابخانه روبه‌روی چه مکانی است؟",
+          "a": "La mairie."
+        },
+        {
+          "q_fa": "بازار نزدیک چه چیزی قرار دارد؟",
+          "a": "Du carrefour."
+        },
+        {
+          "q_fa": "چه کسی نشانی را تأیید می‌کند؟",
+          "a": "Une passante."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "مکان نزدیک را انتخاب کن.",
+          "question": "La médiathèque est ___ de la place.",
+          "options": [
+            "près",
+            "loin",
+            "sous"
+          ],
+          "answer": "près",
+          "explanation_fa": "«Près de» یعنی نزدیکِ."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت روبه‌روی را کامل کن.",
+          "question": "Le kiosque est en face ___ la mairie.",
+          "options": [
+            "de",
+            "à",
+            "sur"
+          ],
+          "answer": "de",
+          "explanation_fa": "ساختار «en face de» به کار می‌رود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "محل قرارگرفتن کتابخانه را از گفت‌وگو پیدا کن.",
+          "question": "Où est la médiathèque ?",
+          "options": [
+            "En face de la mairie",
+            "Derrière la gare",
+            "Dans le bus"
+          ],
+          "answer": "En face de la mairie",
+          "explanation_fa": "اوگو می‌گوید روبه‌روی شهرداری است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ چهارراه را انتخاب کن.",
+          "question": "Quel mot désigne le croisement de rues ?",
+          "options": [
+            "Un carrefour",
+            "Un horaire",
+            "Un siège"
+          ],
+          "answer": "Un carrefour",
+          "explanation_fa": "«Un carrefour» محل برخورد چند خیابان است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "حرف اضافه را کامل کن.",
+          "question": "Le marché est en face ___ la mairie.",
+          "answer": [
+            "de"
+          ],
+          "explanation_fa": "در این ترکیب حرف اضافهٔ «de» می‌آید."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "با دو نشانه مکان کتابخانه را توضیح بده.",
+          "question": "Décris où se trouve la médiathèque.",
+          "answer": [
+            "Elle est près de la place et en face de la mairie.",
+            "La médiathèque est à côté du kiosque, près du marché."
+          ],
+          "explanation_fa": "از دو عبارت مکانی استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Où la médiathèque se trouve-t-elle ?",
+          "options": [
+            "En face de la mairie",
+            "Dans la gare",
+            "Sous le pont"
+          ],
+          "answer": "En face de la mairie",
+          "explanation_fa": "Elle est en face de la mairie."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel lieu est près du marché ?",
+          "options": [
+            "Le carrefour",
+            "Le bus",
+            "Le siège"
+          ],
+          "answer": "Le carrefour",
+          "explanation_fa": "Le marché est près du carrefour."
+        },
+        {
+          "type": "mcq",
+          "question": "Le lieu recherché est-il loin de l’arrêt ?",
+          "options": [
+            "Non, à cinq minutes à pied.",
+            "Oui, à une heure.",
+            "Il est fermé."
+          ],
+          "answer": "Non, à cinq minutes à pied.",
+          "explanation_fa": "Hugo dit que c’est proche."
+        },
+        {
+          "type": "mcq",
+          "question": "Que regarde Mina pour suivre le chemin ?",
+          "options": [
+            "Le plan du quartier",
+            "Un ticket de caisse",
+            "Un horaire de bus"
+          ],
+          "answer": "Le plan du quartier",
+          "explanation_fa": "Elle consulte le plan."
+        },
+        {
+          "type": "mcq",
+          "question": "Qui confirme l’adresse ?",
+          "options": [
+            "Une passante",
+            "Le conducteur",
+            "Le vendeur"
+          ],
+          "answer": "Une passante",
+          "explanation_fa": "Une passante confirme le repère."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Demandez à un passant où se trouve un lieu du quartier et reformulez la réponse avec deux repères.",
+      "suggested_prompts": [
+        "Demandez où se trouve la médiathèque.",
+        "Expliquez qu’un lieu est près d’une place.",
+        "Dites qu’un bâtiment est en face de la mairie.",
+        "Demandez si le carrefour est loin."
+      ],
+      "focus": [
+        "prépositions de lieu",
+        "question où se trouve",
+        "vocabulaire du quartier"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson: a small group locates the local media library using simple landmarks."
+  }
+}

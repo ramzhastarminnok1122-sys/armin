@@ -1,0 +1,473 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 253,
+    "title": "Hugo demande son chemin",
+    "subtitle": "Poser une question polie",
+    "description": "Demandez poliment une indication dans la rue.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف فعل pouvoir و پرسش مؤدبانه برای گرفتن نشانی",
+      "objectives": [
+        "Conjuguer pouvoir au présent.",
+        "Demander une indication avec politesse.",
+        "Comprendre quelques repères de rue."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "هیوگو در یک محلهٔ ناآشنا به دنبال یک نشانی است. او می‌خواهد از رهگذری کمک بخواهد. برای پرسیدن مؤدبانه در فرانسوی چه ساختاری مناسب است؟",
+      "questions": [
+        {
+          "q": "چطور با احترام از کسی کمک می‌خواهیم؟",
+          "hint_fa": "می‌گوییم «Pouvez-vous m’aider ?»."
+        },
+        {
+          "q": "مصدر فعل «توانستن» چیست؟",
+          "hint_fa": "مصدر «pouvoir» است."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Demander poliment",
+      "body_fa": "برای درخواست مؤدبانه می‌توانیم از پرسش «Pouvez-vous… ?» استفاده کنیم. فعل «pouvoir» معنی توانستن دارد و پس از آن مصدر فعل دیگری می‌آید: «Pouvez-vous indiquer la rue ?». در گفت‌وگوی روزمره، «s’il vous plaît» نیز درخواست را دوستانه و محترمانه می‌کند. اگر نشانی را نشنیدیم، می‌توانیم بگوییم «Pouvez-vous répéter ?». رهگذر ممکن است به نقشه، چراغ عابر یا گذرگاه اشاره کند. پاسخ را با تشکر تمام می‌کنیم و پیش از حرکت مسیر را دوباره بررسی می‌کنیم. اگر مسیر را نفهمیدیم، از رهگذر می‌خواهیم دوباره توضیح بدهد و سپس در نقشه بررسی می‌کنیم.",
+      "key_points": [
+        "«Pouvez-vous… ?» یک درخواست مؤدبانه است.",
+        "پس از «pouvoir» می‌آید مصدر فعل.",
+        "در پایان می‌توانیم بگوییم «merci»."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "pouvoir",
+          "ipa": "/pu.vwaʁ/",
+          "translation_fa": "توانستن",
+          "example": "Pouvez-vous m’aider ?",
+          "example_fa": "می‌توانید به من کمک کنید؟",
+          "tag": "فعل"
+        },
+        {
+          "term": "demander",
+          "ipa": "/də.mɑ̃.de/",
+          "translation_fa": "پرسیدن؛ درخواست‌کردن",
+          "example": "Hugo demande une adresse.",
+          "example_fa": "هیوگو نشانی را می‌پرسد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "indiquer",
+          "ipa": "/ɛ̃.di.ke/",
+          "translation_fa": "نشان‌دادن؛ راهنمایی‌کردن",
+          "example": "La passante indique le chemin.",
+          "example_fa": "رهگذر مسیر را نشان می‌دهد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "une adresse",
+          "ipa": "/yn a.dʁɛs/",
+          "translation_fa": "نشانی",
+          "example": "J’écris l’adresse sur le plan.",
+          "example_fa": "نشانی را روی نقشه می‌نویسم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un plan",
+          "ipa": "/œ̃ plɑ̃/",
+          "translation_fa": "نقشه",
+          "example": "Le plan est dans mon sac.",
+          "example_fa": "نقشه در کیف من است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un passage piéton",
+          "ipa": "/œ̃ pa.saʒ pje.tɔ̃/",
+          "translation_fa": "گذرگاه عابر پیاده",
+          "example": "Le passage piéton est devant nous.",
+          "example_fa": "گذرگاه عابر پیاده روبه‌روی ماست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un feu",
+          "ipa": "/œ̃ fø/",
+          "translation_fa": "چراغ راهنمایی",
+          "example": "Le feu est rouge.",
+          "example_fa": "چراغ قرمز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un rond-point",
+          "ipa": "/œ̃ ʁɔ̃.pwɛ̃/",
+          "translation_fa": "میدان ترافیکی",
+          "example": "Le rond-point est après le pont.",
+          "example_fa": "میدان ترافیکی بعد از پل است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "traverser",
+          "ipa": "/tʁa.vɛʁ.se/",
+          "translation_fa": "عبورکردن",
+          "example": "Nous traversons au feu vert.",
+          "example_fa": "با چراغ سبز عبور می‌کنیم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "un passant",
+          "ipa": "/œ̃ pa.sɑ̃/",
+          "translation_fa": "رهگذر",
+          "example": "Un passant répond à Hugo.",
+          "example_fa": "یک رهگذر به هیوگو پاسخ می‌دهد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Pouvoir pour demander de l’aide",
+      "explanation_fa": "فعل «pouvoir» بی‌قاعده است و برای درخواست کمک به کار می‌رود. در زمان حال می‌گوییم «je peux»، «tu peux»، «il peut»، «nous pouvons»، «vous pouvez» و «ils peuvent». برای پرسیدن مؤدبانه، جمله را با «Pouvez-vous» آغاز می‌کنیم و بعد مصدر می‌آوریم: «Pouvez-vous indiquer le passage piéton ?». عبارت «s’il vous plaît» درخواست را محترمانه‌تر می‌کند. اگر پاسخ را متوجه نشدیم، می‌توانیم بگوییم «Pouvez-vous répéter ?». پس از دریافت راهنمایی، تشکر می‌کنیم و نشانی را روی نقشه بررسی می‌کنیم.",
+      "pattern": "Pouvez-vous + infinitif + complément ?",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "aider",
+            "Pouvez-vous m’aider, s’il vous plaît ?",
+            "می‌توانید لطفاً به من کمک کنید؟"
+          ],
+          [
+            "indiquer",
+            "Pouvez-vous indiquer la rue ?",
+            "می‌توانید خیابان را نشان بدهید؟"
+          ],
+          [
+            "répéter",
+            "Pouvez-vous répéter l’adresse ?",
+            "می‌توانید نشانی را تکرار کنید؟"
+          ],
+          [
+            "répondre",
+            "Oui, je peux vous aider.",
+            "بله، می‌توانم به شما کمک کنم."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Pouvez-vous» یک پرسش مؤدبانه است.",
+        "بعد از «pouvoir» مصدر می‌آید.",
+        "«S’il vous plaît» درخواست را محترمانه می‌کند."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Pouvez-vous m’aider, s’il vous plaît ?",
+          "fa": "می‌توانید لطفاً به من کمک کنید؟",
+          "note_fa": "برای درخواست مؤدبانه از «pouvoir» استفاده می‌کنیم."
+        },
+        {
+          "target": "Hugo demande une adresse à un passant.",
+          "fa": "هیوگو نشانی را از یک رهگذر می‌پرسد.",
+          "note_fa": "«Demander» یک فعل گروه اول است."
+        },
+        {
+          "target": "La passante indique le passage piéton.",
+          "fa": "رهگذر گذرگاه عابر پیاده را نشان می‌دهد.",
+          "note_fa": "«Indiquer» به معنی نشان‌دادن است."
+        },
+        {
+          "target": "Nous traversons quand le feu est vert.",
+          "fa": "وقتی چراغ سبز است عبور می‌کنیم.",
+          "note_fa": "پیش از عبور به چراغ توجه می‌کنیم."
+        },
+        {
+          "target": "Pouvez-vous répéter le nom de la rue ?",
+          "fa": "می‌توانید نام خیابان را تکرار کنید؟",
+          "note_fa": "پس از «pouvoir» مصدر «répéter» می‌آید."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un passant donne une indication",
+      "script": "Hugo: Bonjour, pouvez-vous m’aider ?\nMina: Oui, quelle adresse cherchez-vous ?\nHugo: Je cherche la rue des Tilleuls.\nMina: Pouvez-vous montrer votre plan ?\nHugo: Oui, la rue est près du rond-point.\nMina: Traversez au passage piéton devant la poste.\nHugo: Le feu est vert maintenant ?\nMina: Non, attendez le signal vert.\nHugo: Puis-je traverser après le feu ?\nMina: Oui, puis prenez la rue à droite.\nHugo: Merci, pouvez-vous répéter son nom ?\nMina: La rue des Tilleuls, juste après le pont.\nHugo: Merci, cette indication est très utile.",
+      "script_fa": "هیوگو: سلام، می‌توانید به من کمک کنید؟\nمینا: بله، دنبال چه نشانی می‌گردید؟\nهیوگو: دنبال خیابان تیلو می‌گردم.\nمینا: می‌توانید نقشه‌تان را نشان دهید؟\nهیوگو: بله، خیابان نزدیک میدان ترافیکی است.\nمینا: از گذرگاه جلوی ادارهٔ پست عبور کنید.\nهیوگو: چراغ الان سبز است؟\nمینا: نه، منتظر علامت سبز بمانید.\nهیوگو: پس از چراغ می‌توانم عبور کنم؟\nمینا: بله، سپس وارد خیابان سمت راست شوید.\nهیوگو: ممنون، می‌توانید نامش را تکرار کنید؟\nمینا: خیابان تیلو، درست بعد از پل.\nهیوگو: ممنون، این راهنمایی بسیار مفید است.",
+      "question_fa": "Quel nom Hugo cherche-t-il ?",
+      "answer": "La rue des Tilleuls.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Demander une direction",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Pouvez-vous m’indiquer la rue des Tilleuls ?",
+          "fa": "می‌توانید خیابان تیلو را به من نشان دهید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, elle est après le rond-point.",
+          "fa": "بله، بعد از میدان ترافیکی است."
+        },
+        {
+          "speaker": "A",
+          "target": "Dois-je traverser au feu ?",
+          "fa": "باید از کنار چراغ عبور کنم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, attendez le signal vert.",
+          "fa": "بله، منتظر علامت سبز بمانید."
+        },
+        {
+          "speaker": "A",
+          "target": "Pouvez-vous répéter le nom de la rue ?",
+          "fa": "می‌توانید نام خیابان را تکرار کنید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "La rue des Tilleuls, près du pont.",
+          "fa": "خیابان تیلو، نزدیک پل."
+        },
+        {
+          "speaker": "A",
+          "target": "Merci beaucoup pour votre aide.",
+          "fa": "از کمکتان بسیار ممنونم."
+        },
+        {
+          "speaker": "B",
+          "target": "Avec plaisir, bonne promenade.",
+          "fa": "با کمال میل، گردش خوبی داشته باشید."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی مدرسه، از رهگذری نشانی بپرس. درخواست را با «Pouvez-vous… ?» آغاز کن، یک نشانه را تکرار کن و تشکر کن.",
+      "useful_phrases": [
+        {
+          "target": "Pouvez-vous m’aider ?",
+          "fa": "می‌توانید به من کمک کنید؟"
+        },
+        {
+          "target": "Pouvez-vous indiquer la rue ?",
+          "fa": "می‌توانید خیابان را نشان دهید؟"
+        },
+        {
+          "target": "Je traverse au feu vert.",
+          "fa": "با چراغ سبز عبور می‌کنم."
+        },
+        {
+          "target": "Merci pour votre aide.",
+          "fa": "از کمکتان ممنونم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une indication utile",
+      "text": "Hugo cherche une adresse près du centre. Il demande de l’aide à une passante et montre son plan. Elle lui indique un rond-point et un passage piéton devant la poste. Hugo attend le feu vert avant de traverser. De l’autre côté, il suit une rue calme et cherche le nom des Tilleuls sur une plaque. Il demande à la passante de répéter le nom, puis le note dans son carnet. Avant de partir, il la remercie poliment. La destination se trouve juste après un petit pont.",
+      "glossary": [
+        {
+          "term": "de l’autre côté",
+          "fa": "آن طرف"
+        },
+        {
+          "term": "une plaque",
+          "fa": "پلاک"
+        },
+        {
+          "term": "noter",
+          "fa": "یادداشت‌کردن"
+        },
+        {
+          "term": "poliment",
+          "fa": "باادبانه"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "هیوگو نقشه را به چه کسی نشان می‌دهد؟",
+          "a": "À une passante."
+        },
+        {
+          "q_fa": "او پیش از عبور منتظر چه چیزی می‌ماند؟",
+          "a": "Le feu vert."
+        },
+        {
+          "q_fa": "مقصد بعد از چه چیزی قرار دارد؟",
+          "a": "Après un petit pont."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را برای «vous» انتخاب کن.",
+          "question": "___-vous m’aider ?",
+          "options": [
+            "Pouvez",
+            "Peux",
+            "Peuvent"
+          ],
+          "answer": "Pouvez",
+          "explanation_fa": "در پرسش مؤدبانه از «pouvez-vous» استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "مصدر مناسب را پس از pouvoir انتخاب کن.",
+          "question": "Pouvez-vous ___ la rue ?",
+          "options": [
+            "indiquer",
+            "indiquez",
+            "indiqué"
+          ],
+          "answer": "indiquer",
+          "explanation_fa": "پس از فعل «pouvoir» مصدر می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "محل عبور عابر را پیدا کن.",
+          "question": "Où faut-il traverser ?",
+          "options": [
+            "Au passage piéton",
+            "Au comptoir",
+            "Dans le bus"
+          ],
+          "answer": "Au passage piéton",
+          "explanation_fa": "گذرگاه برای عبور عابر پیاده است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "علامت امن عبور را انتخاب کن.",
+          "question": "Quel signal permet de traverser ?",
+          "options": [
+            "Le feu vert",
+            "Le feu rouge",
+            "Le panneau fermé"
+          ],
+          "answer": "Le feu vert",
+          "explanation_fa": "برای عبور باید منتظر چراغ سبز بمانیم."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای «nous» کامل کن.",
+          "question": "Nous ___ l’adresse sur le plan. (pouvoir)",
+          "answer": [
+            "pouvons"
+          ],
+          "explanation_fa": "شکل فعل برای «nous» برابر «pouvons» است."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "یک درخواست مؤدبانه برای نشانی بساز.",
+          "question": "Demande une direction à un passant.",
+          "answer": [
+            "Pouvez-vous m’indiquer la rue, s’il vous plaît ?",
+            "Pouvez-vous répéter le nom du pont ?"
+          ],
+          "explanation_fa": "از «Pouvez-vous» و یک مصدر استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle rue Hugo cherche-t-il ?",
+          "options": [
+            "La rue des Tilleuls",
+            "La rue du Musée",
+            "L’avenue du Parc"
+          ],
+          "answer": "La rue des Tilleuls",
+          "explanation_fa": "Il cherche la rue des Tilleuls."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel repère se trouve devant la poste ?",
+          "options": [
+            "Un passage piéton",
+            "Un banc",
+            "Une fontaine"
+          ],
+          "answer": "Un passage piéton",
+          "explanation_fa": "La passante indique un passage piéton."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle lumière faut-il attendre ?",
+          "options": [
+            "Le feu vert",
+            "Le feu rouge",
+            "La lumière bleue"
+          ],
+          "answer": "Le feu vert",
+          "explanation_fa": "Hugo attend le signal vert."
+        },
+        {
+          "type": "mcq",
+          "question": "Comment Hugo demande-t-il poliment de l’aide ?",
+          "options": [
+            "Pouvez-vous m’aider ?",
+            "Tu aides moi ?",
+            "Je suis la rue ?"
+          ],
+          "answer": "Pouvez-vous m’aider ?",
+          "explanation_fa": "Il utilise «Pouvez-vous»."
+        },
+        {
+          "type": "mcq",
+          "question": "La rue des Tilleuls se trouve après quel repère ?",
+          "options": [
+            "Après un petit pont",
+            "Dans le bus",
+            "Près du musée"
+          ],
+          "answer": "Après un petit pont",
+          "explanation_fa": "La destination est juste après un petit pont."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Jouez une courte scène dans la rue. Demandez poliment une adresse, écoutez un repère, puis remerciez la personne.",
+      "suggested_prompts": [
+        "Demandez à quelqu’un de répéter une rue.",
+        "Employez pouvoir avec un infinitif.",
+        "Dites où se trouve le passage piéton.",
+        "Remerciez le passant après l’indication."
+      ],
+      "focus": [
+        "pouvoir au présent",
+        "Pouvez-vous + infinitif",
+        "repères et sécurité des piétons"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson: a learner politely asks a passer-by for directions."
+  }
+}
