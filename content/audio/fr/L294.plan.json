@@ -1,0 +1,398 @@
+{
+  "lesson": "L294",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L294-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Est-ce que le requin passe devant la vitre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L294-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, il passe devant les visiteurs.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L294-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "La raie est dans le même bassin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L294-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Non, elle nage près du corail.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L294-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La tortue marine avance rapidement ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L294-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Non, ses nageoires bougent doucement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L294-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Où sont les poissons-clowns ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L294-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Ils sont près de l’algue verte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L294-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le nouvel aquarium ouvre dimanche à dix heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L294-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Dans quel bassin nage le requin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L294-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Il traverse le grand bassin avec une raie.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L294-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La méduse reste près du corail ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L294-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Non, elle flotte sous une algue verte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L294-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Où se trouve la tortue marine ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L294-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Elle suit le poisson-clown le long de la vitre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L294-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Ses nageoires bougent très lentement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L294-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Nous explorons encore la salle des poissons tropicaux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L294-fr-vocab-unaquarium",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un aquarium. L’aquarium ouvre ses portes à dix heures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L294-fr-vocab-unbassin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un bassin. Le grand bassin abrite plusieurs poissons.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L294-fr-vocab-unrequin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un requin. Le requin nage près de la vitre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L294-fr-vocab-uneraie",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une raie. Une raie traverse le bassin lentement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L294-fr-vocab-unemeduse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une méduse. La méduse flotte près du corail.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L294-fr-vocab-unetortuemarine",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une tortue marine. La tortue marine avance dans l’eau claire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L294-fr-vocab-uncorail",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un corail. Le corail rouge attire les petits poissons.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L294-fr-vocab-unealgue",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une algue. Une algue verte pousse sur la pierre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L294-fr-vocab-unpoissonclown",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un poisson-clown. Le poisson-clown vit près des anémones.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L294-fr-vocab-unenageoire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une nageoire. La nageoire du poisson bouge dans l’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L294-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’explore le grand aquarium. Tu explores un bassin marin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L294-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il explore la salle des requins. Elle explore le nouvel espace.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L294-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous explorons les bassins. Vous explorez l’aquarium avec le guide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L294-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils explorent la salle des méduses.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L294-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina explore l’aquarium avec son frère.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L294-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous explorons le bassin des tortues.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L294-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu explores la salle des raies ce matin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L294-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les enfants explorent le nouvel espace marin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L294-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous explorez le parcours avec une guide.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L294-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina visite un aquarium avec son frère Hugo. Dans le premier bassin, un requin nage près de la vitre. Une raie avance doucement au fond de l’eau, puis elle tourne autour d’un rocher. Dans une autre salle, une méduse transparente flotte près du corail. Les enfants observent aussi une tortue marine qui suit un poisson-clown. Une grande algue verte bouge avec l’eau. Hugo lit les noms des animaux et Mina regarde chaque nageoire. Avant de partir, les deux enfants explorent encore la salle des poissons tropicaux et prennent une photo devant le bassin.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 551
+    },
+    {
+      "id": "L294-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L294)",
+      "tts_text": "در آکواریوم چه جانورانی می‌بینی و در کدام حوضچه شنا می‌کنند؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L294-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L294)",
+      "tts_text": "فعل باقاعدهٔ «explorer» برای گشتن و کشف‌کردن یک مکان به کار می‌رود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L294-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L294)",
+      "tts_text": "به گفت‌وگو گوش کن و جانوری را پیدا کن که از حوضچهٔ بزرگ می‌گذرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L294-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L294)",
+      "tts_text": "با فاعل «nous» می‌گوییم «nous explorons» و با «vous» می‌گوییم «vous explorez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L294-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L294)",
+      "tts_text": "دو جانور دریایی را نام ببر و دربارهٔ حوضچه‌شان صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L294-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L294)",
+      "tts_text": "با «explorer» و نام یک مکان جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 38
+    }
+  ]
+}

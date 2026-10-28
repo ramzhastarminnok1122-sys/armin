@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 294,
+    "title": "Mina explore l’aquarium",
+    "subtitle": "Découvrir les animaux d’un bassin marin",
+    "description": "Mina observe plusieurs espèces marines pendant une visite à l’aquarium.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان آکواریوم و صرف فعل explorer در زمان حال",
+      "objectives": [
+        "Nommer quelques animaux et éléments d’un aquarium marin.",
+        "Décrire ce qu’on voit dans un bassin.",
+        "Conjuguer le verbe explorer au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در آکواریوم چه جانورانی را می‌توان دید و هر کدام در کدام بخش آب زندگی می‌کنند؟",
+      "questions": [
+        {
+          "q": "جانوری با بدنی شفاف که در آب شناور می‌ماند چه نام دارد؟",
+          "hint_fa": "به واژهٔ «méduse» فکر کن."
+        },
+        {
+          "q": "جانور خال‌دار نارنجی و سفید چه نام دارد؟",
+          "hint_fa": "به واژهٔ «poisson-clown» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "کاوش در آکواریوم",
+      "body_fa": "فعل باقاعدهٔ «explorer» یعنی جایی را با دقت دیدن یا در آن کاوش‌کردن. در زمان حال می‌گوییم «j’explore»، «tu explores»، «il/elle explore»، «nous explorons»، «vous explorez» و «ils/elles explorent». در «nous» و «vous»، پسوندها به‌ترتیب «-ons» و «-ez» هستند. پس از فعل می‌توانیم مکان را بیاوریم: «explorer un aquarium», «explorer une salle» یا «explorer un nouveau bassin». در آکواریوم، بازدیدکننده ممکن است یک requin، une raie یا une méduse ببیند. فعل explorer در اینجا به معنی بازدیدکردن و نگاه‌کردن به بخش‌های مختلف است، نه سفر علمی طولانی.",
+      "key_points": [
+        "explorer یک فعل باقاعدهٔ گروه اول است.",
+        "با nous می‌گوییم nous explorons و با vous می‌گوییم vous explorez.",
+        "می‌توانیم بگوییم explorer un aquarium یا explorer un bassin."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "un aquarium",
+          "ipa": "/œ̃.na.ka.ʁjɔm/",
+          "translation_fa": "آکواریوم",
+          "example": "L’aquarium ouvre ses portes à dix heures.",
+          "example_fa": "آکواریوم ساعت ده درهایش را باز می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un bassin",
+          "ipa": "/œ̃ ba.sɛ̃/",
+          "translation_fa": "حوضچه؛ مخزن آب",
+          "example": "Le grand bassin abrite plusieurs poissons.",
+          "example_fa": "حوضچهٔ بزرگ چند ماهی را در خود جای می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un requin",
+          "ipa": "/œ̃ ʁə.kɛ̃/",
+          "translation_fa": "کوسه",
+          "example": "Le requin nage près de la vitre.",
+          "example_fa": "کوسه نزدیک شیشه شنا می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une raie",
+          "ipa": "/yn ʁɛ/",
+          "translation_fa": "سفره‌ماهی",
+          "example": "Une raie traverse le bassin lentement.",
+          "example_fa": "یک سفره‌ماهی آرام از حوضچه می‌گذرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une méduse",
+          "ipa": "/yn me.dyz/",
+          "translation_fa": "عروس دریایی",
+          "example": "La méduse flotte près du corail.",
+          "example_fa": "عروس دریایی نزدیک مرجان شناور است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une tortue marine",
+          "ipa": "/yn tɔʁ.ty ma.ʁin/",
+          "translation_fa": "لاک‌پشت دریایی",
+          "example": "La tortue marine avance dans l’eau claire.",
+          "example_fa": "لاک‌پشت دریایی در آب زلال جلو می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un corail",
+          "ipa": "/œ̃ kɔ.ʁaj/",
+          "translation_fa": "مرجان",
+          "example": "Le corail rouge attire les petits poissons.",
+          "example_fa": "مرجان قرمز ماهی‌های کوچک را جذب می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une algue",
+          "ipa": "/yn alɡ/",
+          "translation_fa": "جلبک",
+          "example": "Une algue verte pousse sur la pierre.",
+          "example_fa": "جلبکی سبز روی سنگ رشد می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un poisson-clown",
+          "ipa": "/œ̃ pwa.sɔ̃ klun/",
+          "translation_fa": "ماهی دلقک",
+          "example": "Le poisson-clown vit près des anémones.",
+          "example_fa": "ماهی دلقک نزدیک شقایق‌های دریایی زندگی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une nageoire",
+          "ipa": "/yn na.ʒwaʁ/",
+          "translation_fa": "باله",
+          "example": "La nageoire du poisson bouge dans l’eau.",
+          "example_fa": "بالهٔ ماهی در آب حرکت می‌کند.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent d’explorer",
+      "explanation_fa": "Le verbe régulier «explorer» signifie visiter un lieu pour le découvrir. Au présent, les formes sont «j’explore», «tu explores», «il/elle explore», «nous explorons», «vous explorez» et «ils/elles explorent». On retire la terminaison «-er» de l’infinitif puis on ajoute les terminaisons du premier groupe: «-e», «-es», «-e», «-ons», «-ez», «-ent». Devant une voyelle, «je» devient «j’». Le verbe peut recevoir directement un lieu ou un espace: explorer l’aquarium, explorer un bassin ou explorer une salle.",
+      "pattern": "sujet + explorer au présent + lieu",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "J’explore le grand aquarium. Tu explores un bassin marin.",
+            "من آکواریوم بزرگ را می‌گردم. تو یک مخزن دریایی را بررسی می‌کنی."
+          ],
+          [
+            "il / elle",
+            "Il explore la salle des requins. Elle explore le nouvel espace.",
+            "او سالن کوسه‌ها را می‌گردد. او فضای تازه را کاوش می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous explorons les bassins. Vous explorez l’aquarium avec le guide.",
+            "ما حوضچه‌ها را می‌گردیم. شما همراه راهنما آکواریوم را می‌گردید."
+          ],
+          [
+            "ils / elles",
+            "Ils explorent la salle des méduses.",
+            "آن‌ها سالن عروس‌های دریایی را می‌گردند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "پس از explorer، مکان را بدون حرف اضافه می‌آوریم.",
+        "پیش از واکه، je به j’ تبدیل می‌شود: j’explore."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mina explore l’aquarium avec son frère.",
+          "fa": "مینا همراه برادرش آکواریوم را می‌گردد.",
+          "note_fa": "Le lieu suit directement le verbe explorer."
+        },
+        {
+          "target": "Nous explorons le bassin des tortues.",
+          "fa": "ما حوضچهٔ لاک‌پشت‌ها را می‌گردیم.",
+          "note_fa": "Avec nous, la terminaison est -ons."
+        },
+        {
+          "target": "Tu explores la salle des raies ce matin.",
+          "fa": "تو امروز صبح سالن سفره‌ماهی‌ها را می‌گردی.",
+          "note_fa": "La forme tu prend la terminaison -es."
+        },
+        {
+          "target": "Les enfants explorent le nouvel espace marin.",
+          "fa": "بچه‌ها فضای دریایی تازه را می‌گردند.",
+          "note_fa": "Avec ils, on écrit explorent."
+        },
+        {
+          "target": "Vous explorez le parcours avec une guide.",
+          "fa": "شما مسیر را همراه یک راهنما می‌گردید.",
+          "note_fa": "Avec vous, le verbe se termine par -ez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Découvrir les bassins",
+      "script": "Mina: Le nouvel aquarium ouvre dimanche à dix heures.\nHugo: Dans quel bassin nage le requin ?\nMina: Il traverse le grand bassin avec une raie.\nHugo: La méduse reste près du corail ?\nMina: Non, elle flotte sous une algue verte.\nHugo: Où se trouve la tortue marine ?\nMina: Elle suit le poisson-clown le long de la vitre.\nHugo: Ses nageoires bougent très lentement.\nMina: Nous explorons encore la salle des poissons tropicaux.",
+      "script_fa": "مینا: آکواریوم تازه یکشنبه ساعت ده باز می‌شود.\nهوگو: کوسه در کدام حوضچه شنا می‌کند؟\nمینا: همراه یک سفره‌ماهی از حوضچهٔ بزرگ می‌گذرد.\nهوگو: عروس دریایی نزدیک مرجان می‌ماند؟\nمینا: نه، زیر یک جلبک سبز شناور است.\nهوگو: لاک‌پشت دریایی کجاست؟\nمینا: در امتداد شیشه دنبال ماهی دلقک می‌رود.\nهوگو: باله‌هایش خیلی آرام حرکت می‌کنند.\nمینا: هنوز سالن ماهی‌های گرمسیری را می‌گردیم.",
+      "question_fa": "Quel animal traverse le grand bassin ?",
+      "answer": "Le requin.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Observer les animaux marins",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Est-ce que le requin passe devant la vitre ?",
+          "fa": "آیا کوسه از جلوی شیشه می‌گذرد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, il passe devant les visiteurs.",
+          "fa": "بله، از جلوی بازدیدکنندگان می‌گذرد."
+        },
+        {
+          "speaker": "A",
+          "target": "La raie est dans le même bassin ?",
+          "fa": "سفره‌ماهی در همان حوضچه است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, elle nage près du corail.",
+          "fa": "نه، نزدیک مرجان شنا می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "La tortue marine avance rapidement ?",
+          "fa": "لاک‌پشت دریایی سریع جلو می‌رود؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, ses nageoires bougent doucement.",
+          "fa": "نه، باله‌هایش آرام حرکت می‌کنند."
+        },
+        {
+          "speaker": "A",
+          "target": "Où sont les poissons-clowns ?",
+          "fa": "ماهی‌های دلقک کجا هستند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Ils sont près de l’algue verte.",
+          "fa": "آن‌ها نزدیک جلبک سبز هستند."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «سفر»، بازدیدت از یک آکواریوم را توصیف کن؛ نام دو جانور را بگو، یکی از حوضچه‌ها را معرفی کن و بگو چه چیزی را می‌گردی.",
+      "useful_phrases": [
+        {
+          "target": "J’explore un grand aquarium.",
+          "fa": "یک آکواریوم بزرگ را می‌گردم."
+        },
+        {
+          "target": "Le requin nage dans un bassin.",
+          "fa": "کوسه در یک حوضچه شنا می‌کند."
+        },
+        {
+          "target": "Je vois une tortue marine.",
+          "fa": "یک لاک‌پشت دریایی می‌بینم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une visite à l’aquarium",
+      "text": "Mina visite un aquarium avec son frère Hugo. Dans le premier bassin, un requin nage près de la vitre. Une raie avance doucement au fond de l’eau, puis elle tourne autour d’un rocher. Dans une autre salle, une méduse transparente flotte près du corail. Les enfants observent aussi une tortue marine qui suit un poisson-clown. Une grande algue verte bouge avec l’eau. Hugo lit les noms des animaux et Mina regarde chaque nageoire. Avant de partir, les deux enfants explorent encore la salle des poissons tropicaux et prennent une photo devant le bassin.",
+      "glossary": [
+        {
+          "term": "transparent",
+          "fa": "شفاف"
+        },
+        {
+          "term": "au fond de",
+          "fa": "در انتهای"
+        },
+        {
+          "term": "un rocher",
+          "fa": "یک صخره"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Quel animal nage dans le premier bassin ?",
+          "a": "Un requin."
+        },
+        {
+          "q_fa": "Que regarde Mina de près ?",
+          "a": "Chaque nageoire."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ l’aquarium.",
+          "options": [
+            "explorons",
+            "explorez",
+            "explorent"
+          ],
+          "answer": "explorons",
+          "explanation_fa": "با nous از explorons استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جانور مناسب را انتخاب کن.",
+          "question": "Un animal avec un corps transparent qui flotte est…",
+          "options": [
+            "une méduse",
+            "un requin",
+            "un corail"
+          ],
+          "answer": "une méduse",
+          "explanation_fa": "عروس دریایی بدن شفافی دارد و در آب شناور است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Le requin nage dans…",
+          "options": [
+            "un bassin",
+            "un vestiaire",
+            "un formulaire"
+          ],
+          "answer": "un bassin",
+          "explanation_fa": "حوضچه محل زندگی جانوران آبزی در آکواریوم است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "La tortue marine suit un poisson-clown.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "لاک‌پشت دریایی دنبال ماهی دلقک می‌رود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ la salle des raies.",
+          "answer": [
+            "explores"
+          ],
+          "explanation_fa": "explores"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Quel animal nage dans le premier bassin ?",
+          "answer": [
+            "Un requin."
+          ],
+          "explanation_fa": "در حوضچهٔ نخست یک کوسه شنا می‌کند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quand le nouvel aquarium ouvre-t-il ?",
+          "options": [
+            "Dimanche à dix heures",
+            "Lundi à midi",
+            "Samedi soir"
+          ],
+          "answer": "Dimanche à dix heures",
+          "explanation_fa": "Mina annonce l’ouverture dimanche à dix heures."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel animal traverse le grand bassin ?",
+          "options": [
+            "Le requin",
+            "Le phoque",
+            "Le crabe"
+          ],
+          "answer": "Le requin",
+          "explanation_fa": "Le requin traverse le grand bassin."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel animal flotte près du corail ?",
+          "options": [
+            "La méduse",
+            "La tortue",
+            "Le dauphin"
+          ],
+          "answer": "La méduse",
+          "explanation_fa": "La méduse est près du corail."
+        },
+        {
+          "type": "mcq",
+          "question": "Que suit la tortue marine ?",
+          "options": [
+            "Un poisson-clown",
+            "Une raie",
+            "Un soigneur"
+          ],
+          "answer": "Un poisson-clown",
+          "explanation_fa": "La tortue suit un poisson-clown le long de la vitre."
+        },
+        {
+          "type": "mcq",
+          "question": "Que regardent les enfants avant de partir ?",
+          "options": [
+            "La salle des poissons tropicaux",
+            "Le vestiaire",
+            "La gare"
+          ],
+          "answer": "La salle des poissons tropicaux",
+          "explanation_fa": "Ils explorent encore cette salle avant de partir."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Raconte une visite à un aquarium : nomme deux animaux, décris le bassin et explique quelle salle tu explores.",
+      "suggested_prompts": [
+        "J’explore un grand aquarium.",
+        "Le requin nage près de la vitre.",
+        "La tortue suit un poisson-clown."
+      ],
+      "focus": [
+        "explorer au présent",
+        "vocabulaire de l’aquarium",
+        "décrire un animal marin"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Visite d’un aquarium; vocabulaire d’animaux marins illustré par des scènes simples."
+  }
+}

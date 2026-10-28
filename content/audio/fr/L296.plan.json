@@ -1,0 +1,398 @@
+{
+  "lesson": "L296",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L296-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La pieuvre se cache sous la pierre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L296-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, elle reste dans un abri sombre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L296-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le dauphin remonte parfois à la surface ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L296-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, il remonte parfois pour respirer.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L296-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La crevette est près de l’étoile de mer ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L296-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Elle se cache derrière le petit rocher.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L296-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Le courant marin bouge les plantes ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L296-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, mais les rochers restent en place.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L296-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le point d’observation est près du récif corallien.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L296-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "La pieuvre se cache dans un petit abri ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L296-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, elle reste derrière les pierres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L296-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Un hippocampe nage près des algues ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L296-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Il se tient près des plantes du bassin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L296-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "La crevette peut se cacher sous un rocher.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L296-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Exactement, le courant marin bouge les algues.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L296-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Le phoque reste loin de ce bassin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L296-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, il se repose dans un autre espace.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L296-fr-vocab-unrecifcorallien",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un récif corallien. Le récif corallien abrite plusieurs petits animaux.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 71
+    },
+    {
+      "id": "L296-fr-vocab-undauphin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un dauphin. Le dauphin nage près de la surface.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L296-fr-vocab-unphoque",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un phoque. Le phoque se repose sur une pierre plate.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L296-fr-vocab-unhippocampe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un hippocampe. Un hippocampe se tient près des plantes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L296-fr-vocab-unepieuvre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une pieuvre. La pieuvre cherche un abri entre les rochers.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L296-fr-vocab-uneetoiledemer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une étoile de mer. Une étoile de mer repose au fond du bassin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L296-fr-vocab-unecrevette",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une crevette. La crevette se cache sous une pierre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L296-fr-vocab-uncourantmarin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un courant marin. Le courant marin déplace doucement les algues.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L296-fr-vocab-unpredateur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un prédateur. Le petit poisson évite le prédateur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L296-fr-vocab-unabri",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un abri. Le rocher offre un abri à la pieuvre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L296-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je me cache derrière le corail. Tu te caches sous une pierre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L296-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il se cache dans le récif. Elle se cache derrière une algue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L296-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous nous cachons près des rochers. Vous vous cachez dans l’abri.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L296-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils se cachent sous les plantes marines.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L296-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La pieuvre se cache entre deux rochers.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L296-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Je me cache derrière l’algue verte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L296-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous nous cachons sous la pierre plate.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L296-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Vous vous cachez dans un abri naturel.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L296-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les crevettes se cachent près du récif.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L296-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Dans un grand bassin, les visiteurs observent un récif corallien. Une pieuvre se cache entre les rochers et attend que le passage soit calme. Un petit hippocampe reste près des plantes marines. Plus bas, une crevette cherche un abri sous une pierre. Une étoile de mer repose au fond, tandis qu’un dauphin nage près de la surface dans un autre espace. Le courant marin déplace lentement les algues. Le soigneur explique que chaque animal trouve un endroit sûr pour se reposer ou éviter un prédateur.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 498
+    },
+    {
+      "id": "L296-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L296)",
+      "tts_text": "کدام جانوران دریایی در میان صخره‌ها پنهان می‌شوند و از چه پناهگاهی استفاده می‌کنند؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 83
+    },
+    {
+      "id": "L296-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L296)",
+      "tts_text": "فعل ضمیری «se cacher» برای پنهان‌شدن به کار می‌رود و ضمیرش با فاعل هماهنگ می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 81
+    },
+    {
+      "id": "L296-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L296)",
+      "tts_text": "به گفت‌وگو گوش کن و جایی را پیدا کن که اختاپوس در آن پنهان می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L296-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L296)",
+      "tts_text": "با فاعل «nous» می‌گوییم «nous nous cachons» و برای مکان از «dans» استفاده می‌کنیم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L296-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L296)",
+      "tts_text": "یک جانور دریایی را معرفی کن و بگو کجا پنهان می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L296-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L296)",
+      "tts_text": "با «se cacher» و نام یک جایگاه دریایی جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    }
+  ]
+}
