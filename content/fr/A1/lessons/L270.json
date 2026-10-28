@@ -1,0 +1,452 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 270,
+    "title": "Mina demande conseil à la pharmacie",
+    "subtitle": "Poser une question au pharmacien",
+    "description": "Mina demande au pharmacien d’expliquer une phrase de la notice.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان داروخانه و صرف conseiller در زمان حال",
+      "objectives": [
+        "Employer conseiller au présent.",
+        "Nommer quelques objets de pharmacie.",
+        "Demander une explication simple sur une notice."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در داروخانه بخشی از برگهٔ همراه دارو را نمی‌فهمی. از چه کسی کمک می‌خواهی و چگونه درخواست توضیح می‌کنی؟",
+      "questions": [
+        {
+          "q": "چه کسی در داروخانه می‌تواند راهنمایی کند؟",
+          "hint_fa": "داروساز را به یاد بیاور."
+        },
+        {
+          "q": "اطلاعات چاپ‌شده همراه دارو را چه می‌نامیم؟",
+          "hint_fa": "برگهٔ راهنما را در نظر بگیر."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "گفت‌وگو در داروخانه",
+      "body_fa": "وقتی در داروخانه پرسشی داریم، می‌توانیم از داروساز راهنمایی بخواهیم. فعل «conseiller» یعنی راهنمایی کردن و در زمان حال به شکل‌های «je conseille»، «tu conseilles»، «il conseille»، «nous conseillons»، «vous conseillez» و «ils conseillent» صرف می‌شود. داروساز ممکن است دربارهٔ نسخه یا برگهٔ راهنما پرسشی داشته باشد. «une ordonnance» نسخه است و «une notice» اطلاعات همراه محصول را ارائه می‌دهد. در گفت‌وگو، خواسته‌مان را کوتاه و روشن توضیح می‌دهیم و اگر جمله‌ای را نمی‌فهمیم، درخواست می‌کنیم آن را دوباره توضیح دهند. این درس فقط واژگان مکالمه را تمرین می‌کند؛ دربارهٔ مصرف دارو باید از متخصص سؤال کرد. «une pharmacie de garde» داروخانه‌ای است که هنگام بسته‌بودن داروخانه‌های معمول باز می‌ماند.",
+      "key_points": [
+        "Conseiller یعنی به کسی راهنمایی‌دادن.",
+        "Pharmacien داروساز و notice برگهٔ اطلاعات همراه محصول است.",
+        "برای پرسش دربارهٔ مصرف دارو از متخصص کمک می‌گیریم."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "conseiller",
+          "ipa": "/kɔ̃.sɛ.je/",
+          "translation_fa": "راهنمایی کردن",
+          "example": "Le pharmacien conseille Mina.",
+          "example_fa": "داروساز مینا را راهنمایی می‌کند.",
+          "tag": "فعل"
+        },
+        {
+          "term": "une pharmacie",
+          "ipa": "/yn faʁ.ma.si/",
+          "translation_fa": "داروخانه",
+          "example": "La pharmacie ouvre tôt.",
+          "example_fa": "داروخانه زود باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un pharmacien",
+          "ipa": "/œ̃ faʁ.ma.sjɛ̃/",
+          "translation_fa": "داروساز",
+          "example": "Le pharmacien écoute la question.",
+          "example_fa": "داروساز به پرسش گوش می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un médicament",
+          "ipa": "/œ̃ me.di.ka.mɑ̃/",
+          "translation_fa": "دارو",
+          "example": "Le médicament est dans sa boîte.",
+          "example_fa": "دارو در جعبه‌اش است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une ordonnance",
+          "ipa": "/yn ɔʁ.dɔ.nɑ̃s/",
+          "translation_fa": "نسخه",
+          "example": "Mina montre son ordonnance au pharmacien.",
+          "example_fa": "مینا نسخه‌اش را به داروساز نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un comprimé",
+          "ipa": "/œ̃ kɔ̃.pʁi.me/",
+          "translation_fa": "قرص",
+          "example": "Le comprimé est dans la boîte.",
+          "example_fa": "قرص در جعبه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un sirop",
+          "ipa": "/œ̃ si.ʁo/",
+          "translation_fa": "شربت",
+          "example": "Le sirop est posé sur le comptoir.",
+          "example_fa": "شربت روی پیشخوان گذاشته شده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une notice",
+          "ipa": "/yn nɔ.tis/",
+          "translation_fa": "برگهٔ راهنما",
+          "example": "La notice présente le produit.",
+          "example_fa": "برگهٔ راهنما محصول را معرفی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une boîte de médicaments",
+          "ipa": "/yn bwat də me.di.ka.mɑ̃/",
+          "translation_fa": "جعبهٔ داروها",
+          "example": "La boîte de médicaments reste fermée.",
+          "example_fa": "جعبهٔ داروها بسته می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une pharmacie de garde",
+          "ipa": "/yn faʁ.ma.si də ɡaʁd/",
+          "translation_fa": "داروخانهٔ شبانه‌روزی",
+          "example": "La pharmacie de garde est ouverte ce soir.",
+          "example_fa": "امشب داروخانهٔ شبانه‌روزی باز است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de conseiller",
+      "explanation_fa": "«Conseiller» فعل گروه اول است و در زمان حال با پایان‌های معمول «-er» صرف می‌شود. شکل‌ها چنین‌اند: «je conseille», «tu conseilles», «il/elle conseille», «nous conseillons», «vous conseillez» و «ils/elles conseillent». در بیشتر شکل‌های مفرد دو حرف «l» می‌آید؛ شکل‌های «nous» و «vous» نیز باید با فاعل هماهنگ باشند. می‌توانیم بگوییم «Le pharmacien conseille Mina» یا «Je conseille une lecture». برای درخواست کمک می‌گوییم «Pouvez-vous me conseiller ?». این فعل در موقعیت‌های روزمره برای پیشنهاد یا راهنمایی کاربرد دارد. دربارهٔ درمان یا مقدار مصرف، پرسش را از متخصص می‌پرسیم.",
+      "pattern": "sujet + conseiller + personne",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu / il",
+            "Je conseille Mina. Tu conseilles ton ami. Elle conseille un client.",
+            "من مینا را راهنمایی می‌کنم. تو دوستت را راهنمایی می‌کنی. او مشتری را راهنمایی می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous conseillons Mina. Vous conseillez Hugo.",
+            "ما مینا را راهنمایی می‌کنیم. شما هوگو را راهنمایی می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Ils conseillent une lecture de la notice.",
+            "آن‌ها خواندن برگهٔ راهنما را توصیه می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "در شکل‌های مفرد، conseiller با دو l نوشته می‌شود.",
+        "Conseiller یعنی راهنمایی‌دادن؛ demander conseil یعنی درخواست راهنمایی‌کردن."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Le pharmacien conseille une lecture de la notice.",
+          "fa": "داروساز خواندن برگهٔ راهنما را توصیه می‌کند.",
+          "note_fa": "La notice accompagne le produit."
+        },
+        {
+          "target": "Tu demandes au pharmacien une explication claire.",
+          "fa": "تو از داروساز توضیح روشنی می‌خواهی.",
+          "note_fa": "Une question précise facilite la réponse."
+        },
+        {
+          "target": "Nous montrons l’ordonnance au comptoir.",
+          "fa": "ما نسخه را روی پیشخوان نشان می‌دهیم.",
+          "note_fa": "Une ordonnance est un document médical."
+        },
+        {
+          "target": "La boîte de médicaments reste fermée dans le sac.",
+          "fa": "جعبهٔ داروها در کیف بسته می‌ماند.",
+          "note_fa": "La phrase décrit la place de la boîte."
+        },
+        {
+          "target": "Ils conseillent à Mina de relire la notice.",
+          "fa": "آن‌ها به مینا توصیه می‌کنند برگهٔ راهنما را دوباره بخواند.",
+          "note_fa": "Le conseil porte sur la lecture du document."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Une question sur la notice",
+      "script": "Mina: Bonjour, je ne comprends pas une phrase sur cette notice.\nPharmacien: Je peux vous aider à la lire.\nMina: Est-ce que le nom du médicament est écrit ici ?\nPharmacien: Oui, il est en haut de la boîte.\nMina: Merci. Je voudrais aussi savoir si cette pharmacie est ouverte ce soir.\nPharmacien: Cette pharmacie ferme tôt, mais une pharmacie de garde est indiquée sur la porte.\nMina: Je vais lire l’adresse avant de partir.",
+      "script_fa": "مینا: سلام، یک جمله از این برگهٔ راهنما را نمی‌فهمم.\nداروساز: می‌توانم در خواندن آن کمک کنم.\nمینا: آیا نام دارو اینجا نوشته شده است؟\nداروساز: بله، بالای جعبه است.\nمینا: ممنون. همچنین می‌خواهم بدانم آیا این داروخانه امشب باز است.\nداروساز: این داروخانه زود می‌بندد، اما نشانی یک داروخانهٔ شبانه‌روزی روی در نوشته شده است.\nمینا: پیش از رفتن نشانی را می‌خوانم.",
+      "question_fa": "Où Mina trouve-t-elle le nom du médicament ?",
+      "answer": "En haut de la boîte.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Demander une explication",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Bonjour, pouvez-vous me conseiller ?",
+          "fa": "سلام، می‌توانید راهنمایی‌ام کنید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Bien sûr. Quelle est votre question ?",
+          "fa": "حتماً. پرسش شما چیست؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Je ne comprends pas cette notice.",
+          "fa": "این برگهٔ راهنما را نمی‌فهمم."
+        },
+        {
+          "speaker": "B",
+          "target": "Je peux vous aider à lire cette phrase.",
+          "fa": "می‌توانم در خواندن این جمله کمک کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "Où se trouve le nom du médicament ?",
+          "fa": "نام دارو کجا قرار دارد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Il est en haut de la boîte.",
+          "fa": "بالای جعبه است."
+        },
+        {
+          "speaker": "A",
+          "target": "La pharmacie ferme à quelle heure ?",
+          "fa": "داروخانه چه ساعتی می‌بندد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Lisez l’affiche sur la porte, s’il vous plaît.",
+          "fa": "لطفاً اطلاعیهٔ روی در را بخوانید."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «خرید»، در داروخانه دربارهٔ برگهٔ راهنما پرسش کن و از داروساز بخواه عبارتی را توضیح دهد.",
+      "useful_phrases": [
+        {
+          "target": "Pouvez-vous me conseiller ?",
+          "fa": "می‌توانید راهنمایی‌ام کنید؟"
+        },
+        {
+          "target": "Je ne comprends pas cette notice.",
+          "fa": "این برگهٔ راهنما را نمی‌فهمم."
+        },
+        {
+          "target": "Où se trouve cette pharmacie ?",
+          "fa": "این داروخانه کجاست؟"
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une visite à la pharmacie",
+      "text": "Mina entre dans une pharmacie pour poser une question sur une notice. Elle montre la boîte au pharmacien et lui demande où se trouve le nom du médicament. Le pharmacien lit la ligne avec elle et lui montre le titre. Mina vérifie ensuite l’ordonnance qu’elle a apportée. Elle ne demande pas de conseil sur une dose; elle veut seulement comprendre les mots imprimés. Avant de partir, elle regarde l’affiche près de la porte pour connaître l’adresse d’une pharmacie de garde. Le pharmacien lui conseille de garder la boîte et la notice ensemble. Mina remercie le professionnel et range les documents dans son sac.",
+      "glossary": [
+        {
+          "term": "imprimé",
+          "fa": "چاپ‌شده"
+        },
+        {
+          "term": "un professionnel",
+          "fa": "متخصص"
+        },
+        {
+          "term": "ensemble",
+          "fa": "با هم"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Que veut comprendre Mina ?",
+          "a": "Les mots imprimés sur la notice."
+        },
+        {
+          "q_fa": "Où trouve-t-elle l’adresse de la pharmacie de garde ?",
+          "a": "Sur l’affiche près de la porte."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست فعل را انتخاب کن.",
+          "question": "Nous ___ Mina à lire la notice.",
+          "options": [
+            "conseillons",
+            "conseillez",
+            "conseillent"
+          ],
+          "answer": "conseillons",
+          "explanation_fa": "فاعل nous با شکل conseillons می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ درست را انتخاب کن.",
+          "question": "Le professionnel qui travaille à la pharmacie est…",
+          "options": [
+            "un pharmacien",
+            "un patient",
+            "un invité"
+          ],
+          "answer": "un pharmacien",
+          "explanation_fa": "Pharmacien یعنی داروساز."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "معنای notice را انتخاب کن.",
+          "question": "Une notice est…",
+          "options": [
+            "un document d’information",
+            "un ustensile de cuisine",
+            "un sac de tri"
+          ],
+          "answer": "un document d’information",
+          "explanation_fa": "Notice اطلاعات همراه محصول را نشان می‌دهد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Le nom du médicament peut se trouver sur la boîte.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "نام دارو می‌تواند روی جعبه نوشته شود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل مناسب را بنویس.",
+          "question": "Je ___ une explication au client.",
+          "answer": [
+            "conseille"
+          ],
+          "explanation_fa": "با je شکل conseille به کار می‌رود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Quel document Mina montre-t-elle au pharmacien ?",
+          "answer": [
+            "une ordonnance"
+          ],
+          "explanation_fa": "مینا نسخه را به داروساز نشان می‌دهد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Que demande Mina au pharmacien ?",
+          "options": [
+            "De l’aide pour lire la notice",
+            "Un rendez-vous à l’école",
+            "Un sac pour les déchets"
+          ],
+          "answer": "De l’aide pour lire la notice",
+          "explanation_fa": "Elle demande de l’aide pour comprendre une phrase."
+        },
+        {
+          "type": "mcq",
+          "question": "Où est écrit le nom du médicament ?",
+          "options": [
+            "En haut de la boîte",
+            "Sous la table",
+            "Sur le balai"
+          ],
+          "answer": "En haut de la boîte",
+          "explanation_fa": "Le pharmacien indique le haut de la boîte."
+        },
+        {
+          "type": "mcq",
+          "question": "Que vérifie Mina après avoir lu la notice ?",
+          "options": [
+            "L’ordonnance",
+            "Le thermomètre",
+            "Le bac de tri"
+          ],
+          "answer": "L’ordonnance",
+          "explanation_fa": "Elle vérifie le document qu’elle a apporté."
+        },
+        {
+          "type": "mcq",
+          "question": "Où trouve-t-elle l’adresse de garde ?",
+          "options": [
+            "Sur l’affiche de la porte",
+            "Dans le réfrigérateur",
+            "Sur une invitation"
+          ],
+          "answer": "Sur l’affiche de la porte",
+          "explanation_fa": "L’adresse est indiquée sur l’affiche."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel verbe signifie donner une recommandation ?",
+          "options": [
+            "Conseiller",
+            "Nettoyer",
+            "Déposer"
+          ],
+          "answer": "Conseiller",
+          "explanation_fa": "Conseiller signifie donner une recommandation ou une aide."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Joue une courte scène à la pharmacie : demande de l’aide pour comprendre une notice et pose une question sur les horaires.",
+      "suggested_prompts": [
+        "Pouvez-vous m’aider à lire cette phrase ?",
+        "Où est écrit le nom du produit ?",
+        "La pharmacie ferme à quelle heure ?"
+      ],
+      "focus": [
+        "conseiller au présent",
+        "questions polies",
+        "vocabulaire de pharmacie"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Demander conseil à un professionnel, sans donner de consigne médicale."
+  }
+}

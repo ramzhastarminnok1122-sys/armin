@@ -1,0 +1,380 @@
+{
+  "lesson": "L272",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L272-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Bonjour, vous avez rendez-vous ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L272-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, avec le médecin, ce matin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L272-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Vous pouvez attendre dans cette salle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L272-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Merci. Le médecin va m’examiner ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L272-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, il va vous poser quelques questions.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L272-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Je vais expliquer comment je me sens.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L272-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Le cabinet est au bout du couloir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L272-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "D’accord, merci pour l’information.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L272-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "J’ai un rendez-vous au cabinet médical ce matin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L272-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Votre nom, s’il vous plaît ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L272-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Hugo Martin. Je me sens fatigué depuis hier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L272-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Le médecin va vous recevoir dans la salle d’attente.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L272-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "Bonjour, depuis quand avez-vous ces symptômes ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L272-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Depuis hier soir, et je tousse un peu.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L272-fr-listening-7",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "Je vais vous examiner calmement et vous poser quelques questions.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L272-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "D’accord, je vais répondre clairement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L272-fr-vocab-examiner",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "examiner. Le médecin examine Hugo calmement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L272-fr-vocab-unrendezvous",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un rendez-vous. Hugo a un rendez-vous ce matin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L272-fr-vocab-unmedecin",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un médecin. Le médecin écoute le patient.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L272-fr-vocab-unpatient",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un patient. Le patient attend dans la salle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L272-fr-vocab-unesalledattente",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une salle d’attente. La salle d’attente est calme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L272-fr-vocab-uneconsultation",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une consultation. La consultation commence le matin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L272-fr-vocab-uncabinetmedical",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un cabinet médical. Le cabinet médical est près de l’école.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L272-fr-vocab-unexamen",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un examen. L’examen est simple et rapide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L272-fr-vocab-unstethoscope",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un stéthoscope. Le médecin prend son stéthoscope.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L272-fr-vocab-unequestion",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une question. Le médecin pose une question à Hugo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L272-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’examine le document. Tu examines la question. Il examine Hugo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L272-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous examinons la réponse. Vous examinez le patient.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L272-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils examinent le dossier ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L272-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Le médecin examine Hugo dans le cabinet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L272-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "J’examine la question avant de répondre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L272-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous avons un rendez-vous ce matin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L272-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La salle d’attente est près de l’entrée.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L272-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ils examinent le dossier du patient.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L272-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Hugo arrive au cabinet médical avec un adulte de sa famille. Il a un rendez-vous le matin et attend quelques minutes dans la salle d’attente. La secrétaire vérifie son nom, puis le médecin l’appelle. Pendant la consultation, le médecin pose des questions simples sur son état et depuis quand il tousse. Hugo répond calmement et décrit ce qu’il ressent. Le médecin prend son stéthoscope et l’examine. Il demande ensuite à Hugo de rester assis pendant qu’il écrit quelques notes. L’adulte accompagne Hugo et peut poser une question à la fin de la visite. La consultation se termine sans précipitation.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 599
+    },
+    {
+      "id": "L272-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L272)",
+      "tts_text": "برای ملاقات با پزشک، ابتدا کجا منتظر می‌مانی و چه کسی نامت را می‌پرسد؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L272-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L272)",
+      "tts_text": "در مطب پزشک وقت می‌گیریم، در سالن انتظار می‌مانیم و حال خود را توضیح می‌دهیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L272-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L272)",
+      "tts_text": "به گفت‌وگوی هوگو گوش کن و جایی را پیدا کن که پیش از معاینه منتظر می‌ماند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L272-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L272)",
+      "tts_text": "فعل «examiner» مانند فعل‌های گروه اول صرف می‌شود و je پیش از واکه به j’ تبدیل می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 85
+    },
+    {
+      "id": "L272-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L272)",
+      "tts_text": "در نقش بیمار نامت را بگو، وقت ملاقاتت را یادآوری کن و حال خود را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L272-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L272)",
+      "tts_text": "یک جمله با «examiner» بساز و بگو چه کسی بررسی را انجام می‌دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    }
+  ]
+}

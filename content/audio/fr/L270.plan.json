@@ -1,0 +1,371 @@
+{
+  "lesson": "L270",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L270-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Bonjour, pouvez-vous me conseiller ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L270-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Bien sûr. Quelle est votre question ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L270-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Je ne comprends pas cette notice.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L270-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je peux vous aider à lire cette phrase.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L270-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Où se trouve le nom du médicament ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L270-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Il est en haut de la boîte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L270-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "La pharmacie ferme à quelle heure ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L270-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Lisez l’affiche sur la porte, s’il vous plaît.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L270-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bonjour, je ne comprends pas une phrase sur cette notice.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L270-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je peux vous aider à la lire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L270-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Est-ce que le nom du médicament est écrit ici ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L270-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, il est en haut de la boîte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L270-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Merci. Je voudrais aussi savoir si cette pharmacie est ouverte ce soir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 71
+    },
+    {
+      "id": "L270-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Cette pharmacie ferme tôt, mais une pharmacie de garde est indiquée sur la porte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 81
+    },
+    {
+      "id": "L270-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Je vais lire l’adresse avant de partir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L270-fr-vocab-conseiller",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "conseiller. Le pharmacien conseille Mina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L270-fr-vocab-unepharmacie",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une pharmacie. La pharmacie ouvre tôt.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L270-fr-vocab-unpharmacien",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un pharmacien. Le pharmacien écoute la question.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L270-fr-vocab-unmedicament",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un médicament. Le médicament est dans sa boîte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L270-fr-vocab-uneordonnance",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une ordonnance. Mina montre son ordonnance au pharmacien.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L270-fr-vocab-uncomprime",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un comprimé. Le comprimé est dans la boîte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L270-fr-vocab-unsirop",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un sirop. Le sirop est posé sur le comptoir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L270-fr-vocab-unenotice",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une notice. La notice présente le produit.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L270-fr-vocab-uneboitedemedicaments",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une boîte de médicaments. La boîte de médicaments reste fermée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L270-fr-vocab-unepharmaciedegarde",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une pharmacie de garde. La pharmacie de garde est ouverte ce soir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L270-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je conseille Mina. Tu conseilles ton ami. Elle conseille un client.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L270-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous conseillons Mina. Vous conseillez Hugo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L270-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils conseillent une lecture de la notice.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L270-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Le pharmacien conseille une lecture de la notice.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L270-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu demandes au pharmacien une explication claire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L270-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous montrons l’ordonnance au comptoir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L270-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La boîte de médicaments reste fermée dans le sac.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L270-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ils conseillent à Mina de relire la notice.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L270-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina entre dans une pharmacie pour poser une question sur une notice. Elle montre la boîte au pharmacien et lui demande où se trouve le nom du médicament. Le pharmacien lit la ligne avec elle et lui montre le titre. Mina vérifie ensuite l’ordonnance qu’elle a apportée. Elle ne demande pas de conseil sur une dose; elle veut seulement comprendre les mots imprimés. Avant de partir, elle regarde l’affiche près de la porte pour connaître l’adresse d’une pharmacie de garde. Le pharmacien lui conseille de garder la boîte et la notice ensemble. Mina remercie le professionnel et range les documents dans son sac.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 610
+    },
+    {
+      "id": "L270-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L270)",
+      "tts_text": "اگر برگهٔ همراه دارو را متوجه نشوی، از داروساز بخواه یک بخش را برایت توضیح دهد.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L270-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L270)",
+      "tts_text": "در داروخانه می‌توانیم دربارهٔ واژه‌های روی جعبه و برگهٔ راهنما سؤال کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L270-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L270)",
+      "tts_text": "به گفت‌وگوی مینا گوش کن و محل نام دارو را روی جعبه پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L270-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L270)",
+      "tts_text": "فعل «conseiller» با فاعل صرف می‌شود و برای درخواست کمک می‌گوییم «Pouvez-vous me conseiller ?».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 94
+    },
+    {
+      "id": "L270-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L270)",
+      "tts_text": "در نقش مشتری یک پرسش روشن بپرس و از داروساز توضیح کوتاهی بخواه.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L270-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L270)",
+      "tts_text": "یک جمله با «conseiller» بساز و بگو چه کسی راهنمایی می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    }
+  ]
+}
