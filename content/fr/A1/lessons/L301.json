@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 301,
+    "title": "Hugo regonfle un pneu",
+    "subtitle": "Réparer une crevaison avant de repartir",
+    "description": "Hugo vérifie son pneu et utilise une pompe à vélo avec un mécanicien.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان تعمیر دوچرخه و صرف gonfler در زمان حال",
+      "objectives": [
+        "Nommer les éléments d’une réparation simple de vélo.",
+        "Décrire un pneu crevé et l’usage d’une pompe.",
+        "Conjuguer gonfler au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "اگر تایر دوچرخه پنچر شود، چه کسی و با چه وسیله‌ای می‌تواند آن را تعمیر کند؟",
+      "questions": [
+        {
+          "q": "وسیله‌ای برای پرکردن تایر از هوا چه نام دارد؟",
+          "hint_fa": "به عبارت «pompe à vélo» فکر کن."
+        },
+        {
+          "q": "قطعهٔ لاستیکی که درون تایر قرار دارد چه نام دارد؟",
+          "hint_fa": "به عبارت «chambre à air» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "بادکردن تایر دوچرخه",
+      "body_fa": "فعل باقاعدهٔ «gonfler» یعنی چیزی را با هوا یا ماده‌ای دیگر پرکردن. برای تایر دوچرخه می‌گوییم «gonfler un pneu». در زمان حال صرف آن چنین است: «je gonfle»، «tu gonfles»، «il/elle gonfle»، «nous gonflons»، «vous gonflez» و «ils/elles gonflent». فعل از گروه اول است و ریشهٔ «gonfl-» در همهٔ شکل‌ها ثابت می‌ماند. اگر تایر هوا نداشته باشد، از یک pompe استفاده می‌کنیم. «une chambre à air» داخل تایر قرار دارد و هوای آن را نگه می‌دارد. اگر تایر سوراخ شود، ممکن است یک mécanicien آن را بررسی کند و پیش از حرکت دوباره باد کند.",
+      "key_points": [
+        "gonfler یک فعل باقاعدهٔ گروه اول است.",
+        "برای بادکردن تایر می‌گوییم gonfler un pneu.",
+        "une chambre à air هوای داخل تایر را نگه می‌دارد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "une crevaison",
+          "ipa": "/yn kʁe.vɛ.zɔ̃/",
+          "translation_fa": "پنچری",
+          "example": "Hugo découvre une crevaison près du parc.",
+          "example_fa": "هوگو نزدیک پارک پنچری را متوجه می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une pompe à vélo",
+          "ipa": "/yn pɔ̃p a ve.lo/",
+          "translation_fa": "تلمبهٔ دوچرخه",
+          "example": "La pompe à vélo est dans l’atelier.",
+          "example_fa": "تلمبهٔ دوچرخه در کارگاه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un pneu crevé",
+          "ipa": "/œ̃ p.nø kʁə.ve/",
+          "translation_fa": "تایر پنچر",
+          "example": "Le pneu crevé touche presque le sol.",
+          "example_fa": "تایر پنچر تقریباً با زمین تماس دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une chambre à air",
+          "ipa": "/yn ʃɑ̃bʁ a ɛʁ/",
+          "translation_fa": "تیوپ؛ تیوب داخلی",
+          "example": "La chambre à air garde l’air dans le pneu.",
+          "example_fa": "تیوپ هوا را در تایر نگه می‌دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un guidon",
+          "ipa": "/œ̃ ɡi.dɔ̃/",
+          "translation_fa": "فرمان دوچرخه",
+          "example": "Le guidon reste droit pendant le contrôle.",
+          "example_fa": "فرمان هنگام بررسی صاف می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un atelier de réparation",
+          "ipa": "/œ̃.na.tə.lje də ʁe.pa.ʁa.sjɔ̃/",
+          "translation_fa": "کارگاه تعمیر",
+          "example": "L’atelier de réparation ouvre à huit heures.",
+          "example_fa": "کارگاه تعمیر ساعت هشت باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un mécanicien",
+          "ipa": "/œ̃ me.ka.ni.sjɛ̃/",
+          "translation_fa": "مکانیک",
+          "example": "Le mécanicien vérifie la roue arrière.",
+          "example_fa": "مکانیک چرخ عقب را بررسی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une rustine",
+          "ipa": "/yn ʁys.tin/",
+          "translation_fa": "وصلهٔ پنچرگیری",
+          "example": "Une rustine bouche le petit trou du pneu.",
+          "example_fa": "وصله سوراخ کوچک تایر را می‌بندد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un rayon de vélo",
+          "ipa": "/œ̃ ʁɛ.jɔ̃ də ve.lo/",
+          "translation_fa": "پرهٔ چرخ دوچرخه",
+          "example": "Un rayon de vélo est un peu tordu.",
+          "example_fa": "پره‌ای از چرخ دوچرخه کمی خم شده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une clé Allen",
+          "ipa": "/yn kle a.lɛn/",
+          "translation_fa": "آچار آلن",
+          "example": "La clé Allen resserre la petite vis.",
+          "example_fa": "آچار آلن پیچ کوچک را سفت می‌کند.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de gonfler",
+      "explanation_fa": "Le verbe régulier «gonfler» signifie remplir d’air ou faire augmenter le volume. Au présent, il se conjugue ainsi: «je gonfle», «tu gonfles», «il/elle gonfle», «nous gonflons», «vous gonflez» et «ils/elles gonflent». On enlève «-er» puis on ajoute les terminaisons régulières du premier groupe. Le verbe peut recevoir directement son complément: gonfler un pneu, gonfler un ballon ou gonfler une chambre à air. Pour parler d’un vélo, on précise l’objet avec «un pneu» et l’outil avec «une pompe à vélo».",
+      "pattern": "sujet + gonfler au présent + objet",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je gonfle le pneu arrière. Tu gonfles la chambre à air.",
+            "من تایر عقب را باد می‌کنم. تو تیوپ را باد می‌کنی."
+          ],
+          [
+            "il / elle",
+            "Il gonfle le pneu crevé. Elle gonfle une roue de vélo.",
+            "او تایر پنچر را باد می‌کند. او چرخ دوچرخه‌ای را باد می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous gonflons le pneu avec une pompe. Vous gonflez la chambre à air.",
+            "ما تایر را با تلمبه باد می‌کنیم. شما تیوپ را باد می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Ils gonflent les pneus avant le départ.",
+            "آن‌ها پیش از حرکت تایرها را باد می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "gonfler مفعول مستقیم می‌گیرد: gonfler un pneu.",
+        "با nous و vous می‌گوییم gonflons و gonflez."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Hugo gonfle le pneu avant de repartir.",
+          "fa": "هوگو پیش از حرکت دوباره تایر را باد می‌کند.",
+          "note_fa": "Le complément pneu suit directement le verbe."
+        },
+        {
+          "target": "Nous gonflons la chambre à air avec la pompe.",
+          "fa": "ما تیوپ را با تلمبه باد می‌کنیم.",
+          "note_fa": "Avec nous, la terminaison est -ons."
+        },
+        {
+          "target": "Tu gonfles le pneu crevé dans l’atelier.",
+          "fa": "تو تایر پنچر را در کارگاه باد می‌کنی.",
+          "note_fa": "Le sujet tu prend la terminaison -es."
+        },
+        {
+          "target": "Les mécaniciens gonflent les pneus du vélo.",
+          "fa": "مکانیک‌ها تایرهای دوچرخه را باد می‌کنند.",
+          "note_fa": "Le sujet pluriel prend gonflent."
+        },
+        {
+          "target": "Vous gonflez la roue après la réparation.",
+          "fa": "شما پس از تعمیر چرخ را باد می‌کنید.",
+          "note_fa": "Avec vous, la terminaison est -ez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Réparer le vélo",
+      "script": "Hugo: Mon pneu arrière est crevé près du parc.\nMina: La pompe à vélo est dans l’atelier de réparation.\nHugo: Le mécanicien vérifie la chambre à air ?\nMina: Oui, il cherche un petit trou sur le bord du pneu.\nHugo: La rustine bouche bien la crevaison ?\nMina: Oui, ensuite il gonfle le pneu doucement.\nHugo: Le guidon reste droit après le contrôle ?\nMina: Oui, mais un rayon de vélo est encore tordu.\nHugo: Je peux repartir après le dernier réglage.",
+      "script_fa": "هوگو: تایر عقبم نزدیک پارک پنچر شده است.\nمینا: تلمبهٔ دوچرخه در کارگاه تعمیر است.\nهوگو: مکانیک تیوپ را بررسی می‌کند؟\nمینا: بله، نزدیک سوپاپ دنبال سوراخ کوچکی می‌گردد.\nهوگو: وصله پنچری را خوب می‌بندد؟\nمینا: بله، بعد تایر را آرام باد می‌کند.\nهوگو: پس از بررسی، فرمان صاف می‌ماند؟\nمینا: بله، اما یکی از پره‌ها هنوز خم است.\nهوگو: پس از تنظیم آخر می‌توانم حرکت کنم.",
+      "question_fa": "Qu’est-ce que le mécanicien gonfle après la réparation ?",
+      "answer": "Le pneu.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Réparer une chambre à air",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "La roue arrière touche le sol.",
+          "fa": "چرخ عقب با زمین تماس دارد."
+        },
+        {
+          "speaker": "B",
+          "target": "Le pneu est dégonflé, pas cassé.",
+          "fa": "تایر کم‌باد است، نه شکسته."
+        },
+        {
+          "speaker": "A",
+          "target": "Le mécanicien a une pompe à vélo.",
+          "fa": "مکانیک تلمبهٔ دوچرخه دارد."
+        },
+        {
+          "speaker": "B",
+          "target": "Il vérifie aussi le guidon et les rayons.",
+          "fa": "او فرمان و پره‌ها را هم بررسی می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "La petite rustine est sur l’établi.",
+          "fa": "وصلهٔ کوچک روی میز کار است."
+        },
+        {
+          "speaker": "B",
+          "target": "Elle ferme le trou dans la chambre à air.",
+          "fa": "آن سوراخ تیوپ را می‌بندد."
+        },
+        {
+          "speaker": "A",
+          "target": "Nous attendons la fin du contrôle.",
+          "fa": "منتظر پایان بررسی می‌مانیم."
+        },
+        {
+          "speaker": "B",
+          "target": "Ensuite, nous rentrons par la piste cyclable.",
+          "fa": "بعد از مسیر دوچرخه به خانه برمی‌گردیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، مشکل ساده‌ای در دوچرخه‌ات را توضیح بده؛ بگو تایر چه مشکلی دارد، از چه وسیله‌ای استفاده می‌کنی و مکانیک چه کاری انجام می‌دهد.",
+      "useful_phrases": [
+        {
+          "target": "Le pneu est crevé.",
+          "fa": "تایر پنچر است."
+        },
+        {
+          "target": "J’utilise une pompe à vélo.",
+          "fa": "از تلمبهٔ دوچرخه استفاده می‌کنم."
+        },
+        {
+          "target": "Le mécanicien gonfle le pneu.",
+          "fa": "مکانیک تایر را باد می‌کند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une petite réparation",
+      "text": "Hugo entend un bruit près de la roue arrière et s’arrête devant un atelier de réparation. Le mécanicien découvre un pneu crevé et retire la chambre à air. Il trouve un petit trou, puis pose une rustine dessus. Pendant ce temps, Hugo tient le guidon droit et regarde le rayon tordu. Le mécanicien utilise une clé Allen pour resserrer une vis. Ensuite, il gonfle le pneu avec une pompe à vélo. Hugo vérifie que la roue tourne bien et remercie le mécanicien avant de repartir vers le parc.",
+      "glossary": [
+        {
+          "term": "entendre",
+          "fa": "شنیدن"
+        },
+        {
+          "term": "un trou",
+          "fa": "سوراخ"
+        },
+        {
+          "term": "resserrer",
+          "fa": "سفت‌کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Que trouve le mécanicien dans la chambre à air ?",
+          "a": "Un petit trou."
+        },
+        {
+          "q_fa": "Avec quoi gonfle-t-il le pneu ?",
+          "a": "Avec une pompe à vélo."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ le pneu arrière.",
+          "options": [
+            "gonflons",
+            "gonflez",
+            "gonflent"
+          ],
+          "answer": "gonflons",
+          "explanation_fa": "با nous می‌گوییم gonflons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "ابزار مناسب را انتخاب کن.",
+          "question": "Pour remplir un pneu d’air, Hugo utilise…",
+          "options": [
+            "une pompe à vélo",
+            "un casque",
+            "un badge"
+          ],
+          "answer": "une pompe à vélo",
+          "explanation_fa": "تلمبه برای واردکردن هوا به تایر است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Le tube qui garde l’air dans le pneu est…",
+          "options": [
+            "une chambre à air",
+            "un guidon",
+            "un phare"
+          ],
+          "answer": "une chambre à air",
+          "explanation_fa": "تیوپ هوای داخل تایر را نگه می‌دارد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Le mécanicien trouve un petit trou.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "مکانیک سوراخ کوچکی پیدا می‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ la chambre à air.",
+          "answer": [
+            "gonfles"
+          ],
+          "explanation_fa": "gonfles"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Que pose le mécanicien sur le trou ?",
+          "answer": [
+            "Une rustine."
+          ],
+          "explanation_fa": "مکانیک روی سوراخ وصله می‌گذارد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quel pneu est crevé ?",
+          "options": [
+            "Le pneu arrière",
+            "Le pneu avant",
+            "Les deux pneus"
+          ],
+          "answer": "Le pneu arrière",
+          "explanation_fa": "Hugo signale que son pneu arrière est crevé."
+        },
+        {
+          "type": "mcq",
+          "question": "Où se trouve la pompe à vélo ?",
+          "options": [
+            "Dans l’atelier",
+            "Au parc",
+            "Dans le bus"
+          ],
+          "answer": "Dans l’atelier",
+          "explanation_fa": "Mina indique l’atelier de réparation."
+        },
+        {
+          "type": "mcq",
+          "question": "Que vérifie le mécanicien ?",
+          "options": [
+            "La chambre à air",
+            "Le casque",
+            "Le phare"
+          ],
+          "answer": "La chambre à air",
+          "explanation_fa": "Il vérifie la chambre à air et cherche un trou."
+        },
+        {
+          "type": "mcq",
+          "question": "Que pose-t-il sur le trou ?",
+          "options": [
+            "Une rustine",
+            "Un badge",
+            "Un ruban"
+          ],
+          "answer": "Une rustine",
+          "explanation_fa": "La rustine ferme le petit trou."
+        },
+        {
+          "type": "mcq",
+          "question": "Que fait Hugo après la réparation ?",
+          "options": [
+            "Il repart vers le parc",
+            "Il vend son vélo",
+            "Il prend le train"
+          ],
+          "answer": "Il repart vers le parc",
+          "explanation_fa": "Il remercie le mécanicien puis repart."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Décris une réparation simple de vélo : parle du pneu, de la pompe et de ce que le mécanicien vérifie.",
+      "suggested_prompts": [
+        "Le pneu est crevé.",
+        "J’utilise une pompe à vélo.",
+        "Le mécanicien gonfle le pneu."
+      ],
+      "focus": [
+        "gonfler au présent",
+        "vocabulaire de la réparation",
+        "décrire un problème simple"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Petite réparation avant un trajet; explication simple d’une crevaison."
+  }
+}

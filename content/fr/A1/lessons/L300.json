@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 300,
+    "title": "Mina pédale sur la piste cyclable",
+    "subtitle": "Parler du vélo et de la circulation à vélo",
+    "description": "Mina fait un trajet à vélo et porte un casque pour rouler en sécurité.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان دوچرخه و صرف pédaler در زمان حال",
+      "objectives": [
+        "Nommer des parties et des équipements d’un vélo.",
+        "Parler d’un trajet sur une piste cyclable.",
+        "Conjuguer le verbe pédaler au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای رفت‌وآمد با دوچرخه چه وسایلی لازم است و در شهر کجا باید دوچرخه‌سواری کرد؟",
+      "questions": [
+        {
+          "q": "مسیر جداگانه برای دوچرخه‌سواران چه نام دارد؟",
+          "hint_fa": "به عبارت «piste cyclable» فکر کن."
+        },
+        {
+          "q": "وسیله‌ای که از سر محافظت می‌کند چه نام دارد؟",
+          "hint_fa": "به واژهٔ «casque» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "دوچرخه‌سواری",
+      "body_fa": "فعل باقاعدهٔ «pédaler» یعنی با پا رکاب‌زدن. در زمان حال می‌گوییم «je pédale»، «tu pédales»، «il/elle pédale»، «nous pédalons»، «vous pédalez» و «ils/elles pédalent». این فعل از گروه اول است و در شکل‌های جمع پسوندهای «-ons»، «-ez» و «-ent» می‌گیرد. می‌توانیم بگوییم «pédaler sur une piste cyclable» یا «pédaler jusqu’au parc». برای دوچرخه‌سواری ایمن، یک casque می‌پوشیم و چراغ دوچرخه را بررسی می‌کنیم. عبارت «un vélo électrique» دوچرخه‌ای با کمک موتور است. هنگام رکاب‌زدن، باید به مسیر و دیگر cyclistes توجه کنیم.",
+      "key_points": [
+        "pédaler یک فعل باقاعدهٔ گروه اول است.",
+        "می‌گوییم je pédale، nous pédalons و vous pédalez.",
+        "برای بیان مسیر می‌توان گفت pédaler jusqu’au parc."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "un vélo",
+          "ipa": "/œ̃ ve.lo/",
+          "translation_fa": "دوچرخه",
+          "example": "Mina prend son vélo pour aller au parc.",
+          "example_fa": "مینا برای رفتن به پارک دوچرخه‌اش را برمی‌دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un vélo électrique",
+          "ipa": "/œ̃ ve.lo e.lɛk.tʁik/",
+          "translation_fa": "دوچرخهٔ برقی",
+          "example": "Le vélo électrique aide dans les montées.",
+          "example_fa": "دوچرخهٔ برقی در سربالایی‌ها کمک می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un casque",
+          "ipa": "/œ̃ kask/",
+          "translation_fa": "کلاه ایمنی",
+          "example": "Le casque protège la tête du cycliste.",
+          "example_fa": "کلاه ایمنی از سر دوچرخه‌سوار محافظت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une roue",
+          "ipa": "/yn ʁu/",
+          "translation_fa": "چرخ",
+          "example": "La roue avant tourne sans bruit.",
+          "example_fa": "چرخ جلو بی‌صدا می‌چرخد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un frein",
+          "ipa": "/œ̃ fʁɛ̃/",
+          "translation_fa": "ترمز",
+          "example": "Le frein ralentit le vélo avant le virage.",
+          "example_fa": "ترمز پیش از پیچ سرعت دوچرخه را کم می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une piste cyclable",
+          "ipa": "/yn pist si.klabl/",
+          "translation_fa": "مسیر دوچرخه",
+          "example": "La piste cyclable longe le parc.",
+          "example_fa": "مسیر دوچرخه در امتداد پارک است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un cycliste",
+          "ipa": "/œ̃ si.klist/",
+          "translation_fa": "دوچرخه‌سوار",
+          "example": "Le cycliste attend le feu vert.",
+          "example_fa": "دوچرخه‌سوار منتظر چراغ سبز می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un gilet réfléchissant",
+          "ipa": "/œ̃ ʒi.lɛ ʁe.fle.ʃi.sɑ̃/",
+          "translation_fa": "جلیقهٔ شب‌نما",
+          "example": "Un gilet réfléchissant est visible le soir.",
+          "example_fa": "جلیقهٔ شب‌نما عصرها دیده می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un phare",
+          "ipa": "/œ̃ faʁ/",
+          "translation_fa": "چراغ جلو؛ فانوس",
+          "example": "Le phare éclaire la route quand il fait sombre.",
+          "example_fa": "چراغ جلو هنگام تاریکی جاده را روشن می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une pédale",
+          "ipa": "/yn pe.dal/",
+          "translation_fa": "رکاب",
+          "example": "La pédale droite bouge quand Mina avance.",
+          "example_fa": "وقتی مینا جلو می‌رود رکاب راست حرکت می‌کند.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de pédaler",
+      "explanation_fa": "Le verbe régulier «pédaler» décrit le mouvement des jambes sur les pédales d’un vélo. Au présent, on dit «je pédale», «tu pédales», «il/elle pédale», «nous pédalons», «vous pédalez» et «ils/elles pédalent». On enlève «-er» de l’infinitif et on ajoute les terminaisons du premier groupe. Le verbe n’a pas besoin de préposition pour parler de l’action: pédaler. Pour ajouter un lieu, on peut dire «pédaler sur la piste cyclable»; pour un trajet, «pédaler jusqu’au parc». Le cycliste porte un casque et peut utiliser un gilet réfléchissant le soir.",
+      "pattern": "sujet + pédaler au présent + lieu / destination",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je pédale jusqu’au parc. Tu pédales sur la piste cyclable.",
+            "من تا پارک رکاب می‌زنم. تو در مسیر دوچرخه رکاب می‌زنی."
+          ],
+          [
+            "il / elle",
+            "Il pédale lentement. Elle pédale avec un casque.",
+            "او آرام رکاب می‌زند. او با کلاه ایمنی رکاب می‌زند."
+          ],
+          [
+            "nous / vous",
+            "Nous pédalons près du canal. Vous pédalez jusqu’à la place.",
+            "ما نزدیک آبراه رکاب می‌زنیم. شما تا میدان رکاب می‌زنید."
+          ],
+          [
+            "ils / elles",
+            "Ils pédalent ensemble après le travail.",
+            "آن‌ها پس از کار با هم رکاب می‌زنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "پیش از مکان از حرف اضافه استفاده کن: sur la piste, jusqu’au parc.",
+        "با nous می‌گوییم pédalons و با vous می‌گوییم pédalez."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mina pédale sur la piste cyclable après l’école.",
+          "fa": "مینا پس از مدرسه در مسیر دوچرخه رکاب می‌زند.",
+          "note_fa": "La forme pédale correspond à Mina."
+        },
+        {
+          "target": "Nous pédalons jusqu’au marché du quartier.",
+          "fa": "ما تا بازار محله رکاب می‌زنیم.",
+          "note_fa": "Avec nous, la terminaison est -ons."
+        },
+        {
+          "target": "Tu pédales près du canal le dimanche.",
+          "fa": "تو یکشنبه‌ها نزدیک آبراه رکاب می‌زنی.",
+          "note_fa": "Le sujet tu prend la terminaison -es."
+        },
+        {
+          "target": "Les cyclistes pédalent avant la tombée du jour.",
+          "fa": "دوچرخه‌سواران پیش از تاریک‌شدن رکاب می‌زنند.",
+          "note_fa": "Le sujet pluriel prend pédalent."
+        },
+        {
+          "target": "Vous pédalez avec un gilet réfléchissant.",
+          "fa": "شما با جلیقهٔ شب‌نما رکاب می‌زنید.",
+          "note_fa": "Avec vous, le verbe se termine par -ez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un trajet à vélo",
+      "script": "Mina: Je prends mon vélo électrique pour traverser la ville.\nHugo: Tu portes un casque pour ce trajet ?\nMina: Oui, et le phare est allumé devant.\nHugo: La piste cyclable passe près du parc.\nMina: Je pédale lentement jusqu’au grand carrefour.\nHugo: Ton frein fonctionne bien avant le virage ?\nMina: Oui, la roue avant tourne sans problème.\nHugo: Tu mets aussi le gilet réfléchissant ce soir ?\nMina: Oui, les voitures me voient mieux dans la pénombre.",
+      "script_fa": "مینا: برای عبور از شهر دوچرخهٔ برقی‌ام را برمی‌دارم.\nهوگو: برای این مسیر کلاه ایمنی می‌پوشی؟\nمینا: بله، چراغ جلو هم روشن است.\nهوگو: مسیر دوچرخه از نزدیک پارک می‌گذرد.\nمینا: تا تقاطع بزرگ آرام رکاب می‌زنم.\nهوگو: ترمزت پیش از پیچ خوب کار می‌کند؟\nمینا: بله، چرخ جلو بی‌مشکل می‌چرخد.\nهوگو: امشب جلیقهٔ شب‌نما هم می‌پوشی؟\nمینا: بله، ماشین‌ها در تاریکی مرا بهتر می‌بینند.",
+      "question_fa": "Quel équipement Mina porte-t-elle pour sa sécurité ?",
+      "answer": "Un casque.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Vérifier son vélo",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "La piste cyclable longe le canal ?",
+          "fa": "مسیر دوچرخه در امتداد آبراه است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, elle rejoint le parc au nord.",
+          "fa": "بله، در شمال به پارک می‌رسد."
+        },
+        {
+          "speaker": "A",
+          "target": "Mon phare fonctionne quand il fait sombre.",
+          "fa": "چراغ جلوی من هنگام تاریکی کار می‌کند."
+        },
+        {
+          "speaker": "B",
+          "target": "Le gilet réfléchissant est aussi utile.",
+          "fa": "جلیقهٔ شب‌نما هم مفید است."
+        },
+        {
+          "speaker": "A",
+          "target": "Je vérifie le frein avant de partir.",
+          "fa": "پیش از رفتن ترمز را بررسی می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Bonne idée; regarde aussi la roue avant.",
+          "fa": "فکر خوبی است؛ چرخ جلو را هم نگاه کن."
+        },
+        {
+          "speaker": "A",
+          "target": "Je pédale jusqu’au parc après le travail.",
+          "fa": "پس از کار تا پارک رکاب می‌زنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Je viens avec mon vélo électrique.",
+          "fa": "با دوچرخهٔ برقی‌ام می‌آیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «سفر»، رفت‌وآمد کوتاهت با دوچرخه را توصیف کن؛ نام مسیر و دو وسیلهٔ ایمنی را بگو و توضیح بده کجا رکاب می‌زنی.",
+      "useful_phrases": [
+        {
+          "target": "Je pédale sur la piste cyclable.",
+          "fa": "در مسیر دوچرخه رکاب می‌زنم."
+        },
+        {
+          "target": "Je porte un casque.",
+          "fa": "کلاه ایمنی می‌پوشم."
+        },
+        {
+          "target": "Le phare éclaire la route.",
+          "fa": "چراغ جلو جاده را روشن می‌کند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Mina va au parc à vélo",
+      "text": "Mina va au parc à vélo avec son frère. Elle choisit le vélo électrique parce que le trajet monte près du canal. Avant de partir, elle met un casque et vérifie le frein avant. La piste cyclable longe les arbres et passe devant une petite école. Hugo pédale derrière elle et porte un gilet réfléchissant. Quand le ciel devient sombre, Mina allume le phare. Les deux cyclistes ralentissent près d’un virage, puis ils rangent leurs vélos à côté de l’entrée du parc. Ils rentrent avant le dîner.",
+      "glossary": [
+        {
+          "term": "longer",
+          "fa": "در امتداد چیزی رفتن"
+        },
+        {
+          "term": "un virage",
+          "fa": "پیچ"
+        },
+        {
+          "term": "ralentir",
+          "fa": "سرعت را کم‌کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Pourquoi Mina choisit-elle le vélo électrique ?",
+          "a": "Parce que le trajet monte près du canal."
+        },
+        {
+          "q_fa": "Que porte Hugo ?",
+          "a": "Un gilet réfléchissant."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ jusqu’au parc.",
+          "options": [
+            "pédalons",
+            "pédalez",
+            "pédalent"
+          ],
+          "answer": "pédalons",
+          "explanation_fa": "با nous می‌گوییم pédalons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "وسیلهٔ ایمنی را انتخاب کن.",
+          "question": "Pour protéger la tête, Mina porte…",
+          "options": [
+            "un casque",
+            "un frein",
+            "une pédale"
+          ],
+          "answer": "un casque",
+          "explanation_fa": "کلاه ایمنی از سر محافظت می‌کند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "مسیر مناسب را انتخاب کن.",
+          "question": "Les cyclistes roulent sur…",
+          "options": [
+            "une piste cyclable",
+            "un vestiaire",
+            "un guichet"
+          ],
+          "answer": "une piste cyclable",
+          "explanation_fa": "مسیر دوچرخه برای دوچرخه‌سوارهاست."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Mina allume le phare quand le ciel devient sombre.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "مینا وقتی هوا تاریک می‌شود چراغ جلو را روشن می‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ près du canal.",
+          "answer": [
+            "pédales"
+          ],
+          "explanation_fa": "pédales"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Que porte Hugo ?",
+          "answer": [
+            "Un gilet réfléchissant."
+          ],
+          "explanation_fa": "هوگو جلیقهٔ شب‌نما می‌پوشد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quel vélo Mina choisit-elle ?",
+          "options": [
+            "Un vélo électrique",
+            "Une bicyclette rouge",
+            "Un vélo partagé"
+          ],
+          "answer": "Un vélo électrique",
+          "explanation_fa": "Elle choisit le vélo électrique pour la montée."
+        },
+        {
+          "type": "mcq",
+          "question": "Que porte Mina ?",
+          "options": [
+            "Un casque",
+            "Un tablier",
+            "Un costume"
+          ],
+          "answer": "Un casque",
+          "explanation_fa": "Elle met un casque avant de partir."
+        },
+        {
+          "type": "mcq",
+          "question": "Où passe la piste cyclable ?",
+          "options": [
+            "Devant une petite école",
+            "Dans un tunnel",
+            "Sur la plage"
+          ],
+          "answer": "Devant une petite école",
+          "explanation_fa": "Elle passe devant une école."
+        },
+        {
+          "type": "mcq",
+          "question": "Qu’allume Mina quand il fait sombre ?",
+          "options": [
+            "Le phare",
+            "La sonnette",
+            "Le frein"
+          ],
+          "answer": "Le phare",
+          "explanation_fa": "Elle allume le phare."
+        },
+        {
+          "type": "mcq",
+          "question": "Que porte Hugo ?",
+          "options": [
+            "Un gilet réfléchissant",
+            "Un sac de plage",
+            "Une veste de pluie"
+          ],
+          "answer": "Un gilet réfléchissant",
+          "explanation_fa": "Hugo porte un gilet réfléchissant."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Décris un petit déplacement à vélo : indique la piste, parle du casque et du phare, puis explique où tu pédales.",
+      "suggested_prompts": [
+        "Je pédale sur la piste cyclable.",
+        "Je porte un casque.",
+        "Le phare est allumé."
+      ],
+      "focus": [
+        "pédaler au présent",
+        "vocabulaire du vélo",
+        "parler de sécurité"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Déplacement urbain à vélo; sécurité et vocabulaire concret."
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "lesson": "L301",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L301-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La roue arrière touche le sol.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L301-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Le pneu est dégonflé, pas cassé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L301-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le mécanicien a une pompe à vélo.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L301-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Il vérifie aussi le guidon et les rayons.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L301-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La petite rustine est sur l’établi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L301-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Elle ferme le trou dans la chambre à air.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L301-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Nous attendons la fin du contrôle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L301-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Ensuite, nous rentrons par la piste cyclable.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L301-fr-listening-1",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[0]",
+      "tts_text": "Mon pneu arrière est crevé près du parc.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L301-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "La pompe à vélo est dans l’atelier de réparation.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L301-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Le mécanicien vérifie la chambre à air ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L301-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, il cherche un petit trou sur le bord du pneu.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L301-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "La rustine bouche bien la crevaison ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L301-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, ensuite il gonfle le pneu doucement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L301-fr-listening-7",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "Le guidon reste droit après le contrôle ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L301-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, mais un rayon de vélo est encore tordu.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L301-fr-listening-9",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[8]",
+      "tts_text": "Je peux repartir après le dernier réglage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L301-fr-vocab-unecrevaison",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "une crevaison. Hugo découvre une crevaison près du parc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L301-fr-vocab-unepompeavelo",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une pompe à vélo. La pompe à vélo est dans l’atelier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L301-fr-vocab-unpneucreve",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un pneu crevé. Le pneu crevé touche presque le sol.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L301-fr-vocab-unechambreaair",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une chambre à air. La chambre à air garde l’air dans le pneu.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L301-fr-vocab-unguidon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un guidon. Le guidon reste droit pendant le contrôle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L301-fr-vocab-unatelierdereparation",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un atelier de réparation. L’atelier de réparation ouvre à huit heures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L301-fr-vocab-unmecanicien",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un mécanicien. Le mécanicien vérifie la roue arrière.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L301-fr-vocab-unerustine",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une rustine. Une rustine bouche le petit trou du pneu.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L301-fr-vocab-unrayondevelo",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un rayon de vélo. Un rayon de vélo est un peu tordu.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L301-fr-vocab-unecleallen",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une clé Allen. La clé Allen resserre la petite vis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L301-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je gonfle le pneu arrière. Tu gonfles la chambre à air.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L301-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il gonfle le pneu crevé. Elle gonfle une roue de vélo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L301-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous gonflons le pneu avec une pompe. Vous gonflez la chambre à air.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L301-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils gonflent les pneus avant le départ.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L301-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Hugo gonfle le pneu avant de repartir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L301-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous gonflons la chambre à air avec la pompe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L301-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu gonfles le pneu crevé dans l’atelier.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L301-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les mécaniciens gonflent les pneus du vélo.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L301-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous gonflez la roue après la réparation.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L301-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Hugo entend un bruit près de la roue arrière et s’arrête devant un atelier de réparation. Le mécanicien découvre un pneu crevé et retire la chambre à air. Il trouve un petit trou, puis pose une rustine dessus. Pendant ce temps, Hugo tient le guidon droit et regarde le rayon tordu. Le mécanicien utilise une clé Allen pour resserrer une vis. Ensuite, il gonfle le pneu avec une pompe à vélo. Hugo vérifie que la roue tourne bien et remercie le mécanicien avant de repartir vers le parc.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 486
+    },
+    {
+      "id": "L301-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L301)",
+      "tts_text": "اگر تایر دوچرخه پنچر شود، چه وسیله‌ای برای تعمیر لازم است و چه کسی آن را بررسی می‌کند؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 86
+    },
+    {
+      "id": "L301-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L301)",
+      "tts_text": "فعل باقاعدهٔ «gonfler» یعنی با هوا پرکردن و برای تایر از آن استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L301-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L301)",
+      "tts_text": "به گفت‌وگو گوش کن و چیزی را پیدا کن که مکانیک پس از تعمیر باد می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L301-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L301)",
+      "tts_text": "با فاعل «nous» می‌گوییم «nous gonflons» و با «vous» می‌گوییم «vous gonflez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L301-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L301)",
+      "tts_text": "مشکل دوچرخه را توضیح بده و بگو مکانیک چه کاری انجام می‌دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L301-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L301)",
+      "tts_text": "با «gonfler» و نام یک وسیلهٔ دوچرخه جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "lesson": "L302",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L302-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le parking à vélos est-il gratuit ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L302-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, il est ouvert jusqu’à vingt heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L302-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Je gare le vélo près de l’arceau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L302-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Pense à fermer le cadenas avec ta clé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L302-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Le porte-bagages porte mon sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L302-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "La béquille garde le vélo droit.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L302-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "La borne propose encore un vélo partagé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L302-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Nous pouvons rentrer après la visite.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L302-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Il y a un parking à vélos derrière la bibliothèque.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L302-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "La borne de vélos partagés est près de l’entrée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L302-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, il reste deux vélos disponibles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L302-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Je gare mon vélo près de l’arceau bleu.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L302-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Attache la roue avec l’antivol.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L302-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Le cadenas est fermé, et la clé est dans ma poche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L302-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Le porte-bagages porte ton sac de sport.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L302-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "La béquille maintient le vélo droit.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L302-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Nous pouvons entrer dans le centre maintenant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L302-fr-vocab-unparkingavelos",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un parking à vélos. Le parking à vélos est derrière la bibliothèque.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L302-fr-vocab-unantivol",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un antivol. Mina attache un antivol autour de la roue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L302-fr-vocab-uncadenas",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un cadenas. Le cadenas ferme le vélo partagé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L302-fr-vocab-unecle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une clé. La clé ouvre le cadenas de Hugo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L302-fr-vocab-unvelopartage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un vélo partagé. Un vélo partagé attend près de la borne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L302-fr-vocab-unebornedevelo",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une borne de vélo. La borne de vélo se trouve près du centre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L302-fr-vocab-ungarageavelos",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un garage à vélos. Le garage à vélos reste ouvert toute la journée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L302-fr-vocab-unarceau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un arceau. L’arceau permet d’attacher deux vélos.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L302-fr-vocab-unportebagages",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un porte-bagages. Le porte-bagages porte le sac de Mina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L302-fr-vocab-unebequille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une béquille. La béquille maintient le vélo debout.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L302-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je gare mon vélo dans le parking. Tu gares le vélo près de la borne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L302-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il gare le vélo partagé près du centre. Elle gare son vélo derrière la bibliothèque.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 84
+    },
+    {
+      "id": "L302-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous garons les vélos près de l’entrée. Vous garez le vélo dans le garage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 74
+    },
+    {
+      "id": "L302-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils garent leurs vélos contre l’arceau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L302-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina gare son vélo près de la bibliothèque.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L302-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous garons les vélos dans le garage couvert.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L302-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu gares le vélo partagé près de la borne.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L302-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les cyclistes garent leurs vélos contre l’arceau.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L302-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous garez le vélo derrière le bâtiment.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L302-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Au centre-ville, Mina choisit un vélo partagé près de la bibliothèque. Elle prend la clé à la borne et vérifie que le cadenas est ouvert. Hugo gare son propre vélo dans le parking à vélos, puis il l’attache à un arceau. Son sac est posé sur le porte-bagages. Avant de partir, il ouvre la béquille pour maintenir le vélo droit. Les amis font une courte visite au centre, puis ils reviennent chercher leurs vélos. Le garage à vélos reste ouvert jusqu’au soir, mais le service de vélos partagés ferme à vingt heures.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 513
+    },
+    {
+      "id": "L302-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L302)",
+      "tts_text": "پس از رسیدن به مقصد دوچرخه را کجا پارک می‌کنی و چطور آن را قفل می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L302-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L302)",
+      "tts_text": "فعل باقاعدهٔ «garer» یعنی وسیله‌ای را در مکان مناسبی پارک‌کردن و مفعول مستقیم می‌گیرد.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 86
+    },
+    {
+      "id": "L302-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L302)",
+      "tts_text": "به گفت‌وگو گوش کن و جای دوچرخهٔ هوگو را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L302-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L302)",
+      "tts_text": "با فاعل «nous» می‌گوییم «nous garons» و پس از فعل وسیله را مستقیم می‌آوریم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L302-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L302)",
+      "tts_text": "جای پارک دوچرخه و وسیله‌ای را که برای قفل‌کردن استفاده می‌کنی توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L302-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L302)",
+      "tts_text": "با «garer» و یک مکان جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 31
+    }
+  ]
+}
