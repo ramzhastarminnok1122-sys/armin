@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 306,
+    "title": "Mina programme un robot",
+    "subtitle": "Écrire des instructions simples pour une machine",
+    "description": "Mina programme un petit robot qui suit un parcours dans l’atelier.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان رباتیک و صرف programmer در زمان حال",
+      "objectives": [
+        "Nommer des parties et des éléments d’un robot.",
+        "Donner une instruction simple à une machine.",
+        "Conjuguer programmer au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در کارگاه رباتیک چه کسی به ربات دستور می‌دهد و ربات برای حرکت به چه قطعه‌هایی نیاز دارد؟",
+      "questions": [
+        {
+          "q": "موتور کوچک برای هدایت حرکت ربات چه نام دارد؟",
+          "hint_fa": "به واژهٔ «moteur» فکر کن."
+        },
+        {
+          "q": "وسیله‌ای که وجود جسمی جلوی ربات را حس می‌کند چه نام دارد؟",
+          "hint_fa": "به واژهٔ «capteur» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "برنامه‌ریزی یک ربات",
+      "body_fa": "فعل باقاعدهٔ «programmer» یعنی دستورهایی را برای انجام یک کار به ماشین‌دادن. در زمان حال می‌گوییم «je programme»، «tu programmes»، «il/elle programme»، «nous programmons»، «vous programmez» و «ils/elles programment». این فعل باقاعده است و در چند شکل مفرد حرف m دو بار نوشته می‌شود. می‌توانیم بگوییم «programmer un robot» یا «programmer une machine». یک instruction مشخص می‌کند ربات چه کاری انجام دهد؛ مثلاً جلو برود یا پیش از مانع بایستد. در کارگاه رباتیک، circuit قطعه‌ها را به هم وصل می‌کند و pile انرژی لازم را می‌دهد. دستورها را معمولاً یکی‌یکی وارد می‌کنیم و نتیجه را آزمایش می‌کنیم.",
+      "key_points": [
+        "programmer یک فعل باقاعدهٔ گروه اول است.",
+        "در چند شکل مفرد، دو حرف m نوشته می‌شود: programme.",
+        "une instruction به ربات می‌گوید چه کاری انجام دهد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "un robot",
+          "ipa": "/œ̃ ʁɔ.bo/",
+          "translation_fa": "ربات",
+          "example": "Le robot avance sur le tapis de l’atelier.",
+          "example_fa": "ربات روی فرش کارگاه جلو می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un atelier de robotique",
+          "ipa": "/œ̃.na.tə.lje də ʁɔ.bɔ.tik/",
+          "translation_fa": "کارگاه رباتیک",
+          "example": "L’atelier de robotique ouvre après le déjeuner.",
+          "example_fa": "کارگاه رباتیک پس از ناهار باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un capteur",
+          "ipa": "/œ̃ kap.tœʁ/",
+          "translation_fa": "حسگر",
+          "example": "Le capteur détecte un objet devant le robot.",
+          "example_fa": "حسگر شیئی را جلوی ربات تشخیص می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un moteur",
+          "ipa": "/œ̃ mɔ.tœʁ/",
+          "translation_fa": "موتور",
+          "example": "Le moteur fait tourner les petites roues.",
+          "example_fa": "موتور چرخ‌های کوچک را می‌چرخاند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un bras mécanique",
+          "ipa": "/œ̃ bʁa me.ka.nik/",
+          "translation_fa": "بازوی مکانیکی",
+          "example": "Le bras mécanique déplace un petit cube.",
+          "example_fa": "بازوی مکانیکی مکعب کوچکی را جابه‌جا می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un bouton",
+          "ipa": "/œ̃ bu.tɔ̃/",
+          "translation_fa": "دکمه",
+          "example": "Mina appuie sur le bouton rouge.",
+          "example_fa": "مینا دکمهٔ قرمز را فشار می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un circuit",
+          "ipa": "/œ̃ siʁ.kɥi/",
+          "translation_fa": "مدار",
+          "example": "Le circuit relie les pièces du robot.",
+          "example_fa": "مدار قطعه‌های ربات را به هم وصل می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une pile",
+          "ipa": "/yn pil/",
+          "translation_fa": "باتری قلمی",
+          "example": "La pile donne de l’énergie au robot.",
+          "example_fa": "باتری به ربات انرژی می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une instruction",
+          "ipa": "/yn ɛ̃s.tʁyk.sjɔ̃/",
+          "translation_fa": "دستور",
+          "example": "Une instruction indique au robot où aller.",
+          "example_fa": "یک دستور به ربات می‌گوید کجا برود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un obstacle",
+          "ipa": "/œ̃.nɔps.takl/",
+          "translation_fa": "مانع",
+          "example": "Le robot s’arrête devant un obstacle.",
+          "example_fa": "ربات جلوی مانع می‌ایستد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de programmer",
+      "explanation_fa": "Le verbe régulier «programmer» signifie préparer une suite d’instructions pour une machine. Au présent, on dit «je programme», «tu programmes», «il/elle programme», «nous programmons», «vous programmez» et «ils/elles programment». Le radical est «programm-» et prend les terminaisons du premier groupe. Il faut écrire deux «m» dans les formes du singulier et dans la troisième personne du pluriel. Le verbe reçoit directement son objet: programmer un robot, programmer une commande ou programmer une activité. On peut ajouter le but avec «pour»: programmer un robot pour suivre un parcours.",
+      "pattern": "sujet + programmer au présent + machine / tâche",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je programme un petit robot. Tu programmes une instruction simple.",
+            "من یک ربات کوچک را برنامه‌ریزی می‌کنم. تو دستوری ساده برنامه‌ریزی می‌کنی."
+          ],
+          [
+            "il / elle",
+            "Il programme le moteur. Elle programme le bras mécanique.",
+            "او موتور را برنامه‌ریزی می‌کند. او بازوی مکانیکی را برنامه‌ریزی می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous programmons le circuit. Vous programmez le robot pour avancer.",
+            "ما مدار را برنامه‌ریزی می‌کنیم. شما ربات را برای جلو رفتن برنامه‌ریزی می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Ils programment une nouvelle instruction.",
+            "آن‌ها دستور تازه‌ای برنامه‌ریزی می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "در شکل‌های مفرد، دو حرف m نوشته می‌شود.",
+        "programmer مفعول مستقیم می‌گیرد: programmer un robot."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mina programme un robot pour suivre le parcours.",
+          "fa": "مینا رباتی را برنامه‌ریزی می‌کند تا مسیر را دنبال کند.",
+          "note_fa": "Le verbe reçoit directement le complément robot."
+        },
+        {
+          "target": "Nous programmons une instruction avant le départ.",
+          "fa": "ما پیش از شروع یک دستور برنامه‌ریزی می‌کنیم.",
+          "note_fa": "Avec nous, on écrit programmons."
+        },
+        {
+          "target": "Tu programmes le bras mécanique pour saisir le cube.",
+          "fa": "تو بازوی مکانیکی را برای گرفتن مکعب برنامه‌ریزی می‌کنی.",
+          "note_fa": "La forme tu prend la terminaison -es."
+        },
+        {
+          "target": "Les élèves programment le moteur à l’atelier.",
+          "fa": "دانش‌آموزها موتور را در کارگاه برنامه‌ریزی می‌کنند.",
+          "note_fa": "Le sujet pluriel prend programment."
+        },
+        {
+          "target": "Vous programmez le robot pour éviter l’obstacle.",
+          "fa": "شما ربات را برنامه‌ریزی می‌کنید تا از مانع دوری کند.",
+          "note_fa": "Avec vous, la terminaison est -ez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Le parcours du robot",
+      "script": "Mina: L’atelier de robotique ouvre après le cours.\nHugo: Le robot doit suivre quelle instruction ?\nMina: Appuie sur le bouton rouge puis active le moteur.\nHugo: Le capteur détecte l’obstacle ?\nMina: Oui, le bras mécanique s’arrête avant le cube.\nHugo: Le circuit reçoit assez d’énergie ?\nMina: La pile est neuve, le robot peut démarrer.\nHugo: Nous programmons une nouvelle direction ?\nMina: Oui, mais d’abord nous lisons le code de la machine.",
+      "script_fa": "مینا: کارگاه رباتیک پس از کلاس باز می‌شود.\nهوگو: ربات باید کدام دستور را دنبال کند؟\nمینا: دکمهٔ قرمز را فشار بده و موتور را روشن کن.\nهوگو: حسگر مانع را تشخیص می‌دهد؟\nمینا: بله، بازوی مکانیکی پیش از مکعب می‌ایستد.\nهوگو: مدار انرژی کافی می‌گیرد؟\nمینا: باتری نو است و ربات می‌تواند شروع کند.\nهوگو: جهت تازه‌ای برنامه‌ریزی کنیم؟\nمینا: بله، اما اول کد را می‌خوانیم.",
+      "question_fa": "Que détecte le capteur ?",
+      "answer": "L’obstacle.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Donner une instruction au robot",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Le robot avance jusqu’au cube jaune.",
+          "fa": "ربات تا مکعب زرد جلو می‌رود."
+        },
+        {
+          "speaker": "B",
+          "target": "Le capteur voit un obstacle devant lui.",
+          "fa": "حسگر مانعی را جلوی آن می‌بیند."
+        },
+        {
+          "speaker": "A",
+          "target": "Je programme un arrêt avant le mur.",
+          "fa": "ایستادن پیش از دیوار را برنامه‌ریزی می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Le moteur s’arrête au bon endroit.",
+          "fa": "موتور در جای درست می‌ایستد."
+        },
+        {
+          "speaker": "A",
+          "target": "Le bras mécanique peut prendre le cube.",
+          "fa": "بازوی مکانیکی می‌تواند مکعب را بردارد."
+        },
+        {
+          "speaker": "B",
+          "target": "Appuie sur le bouton vert pour démarrer.",
+          "fa": "برای شروع دکمهٔ سبز را فشار بده."
+        },
+        {
+          "speaker": "A",
+          "target": "La pile est assez forte pour le parcours.",
+          "fa": "باتری برای مسیر به‌اندازهٔ کافی نیرو دارد."
+        },
+        {
+          "speaker": "B",
+          "target": "Alors, lançons le robot maintenant.",
+          "fa": "پس حالا ربات را راه بیندازیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «مدرسه»، یک ربات کوچک را معرفی کن؛ بگو چه دستوری به آن می‌دهی و کدام قطعه به آن کمک می‌کند مانع را ببیند.",
+      "useful_phrases": [
+        {
+          "target": "Je programme un robot.",
+          "fa": "یک ربات را برنامه‌ریزی می‌کنم."
+        },
+        {
+          "target": "Le capteur voit un obstacle.",
+          "fa": "حسگر مانعی را می‌بیند."
+        },
+        {
+          "target": "Le moteur fait avancer le robot.",
+          "fa": "موتور ربات را جلو می‌برد."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Un robot à l’atelier",
+      "text": "Au club de robotique, Mina prépare un robot pour un petit parcours. Elle programme une instruction: le robot avance, puis s’arrête devant un obstacle. Un capteur placé à l’avant repère le cube. Le moteur fait tourner les roues, tandis qu’un bras mécanique peut déplacer une pièce légère. Le circuit relie les éléments et une pile fournit de l’énergie. Hugo appuie sur le bouton pour lancer le test. Le robot s’arrête au bon endroit. Les élèves modifient ensuite une instruction et recommencent l’expérience.",
+      "glossary": [
+        {
+          "term": "repérer",
+          "fa": "تشخیص‌دادن"
+        },
+        {
+          "term": "fournir",
+          "fa": "فراهم‌کردن"
+        },
+        {
+          "term": "recommencer",
+          "fa": "دوباره شروع‌کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Qu’est-ce qui repère le cube ?",
+          "a": "Un capteur."
+        },
+        {
+          "q_fa": "Que font les élèves après le test ?",
+          "a": "Ils modifient une instruction et recommencent."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ le robot pour avancer.",
+          "options": [
+            "programmons",
+            "programmez",
+            "programment"
+          ],
+          "answer": "programmons",
+          "explanation_fa": "با nous می‌نویسیم programmons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "قطعهٔ مناسب را انتخاب کن.",
+          "question": "Pour détecter un objet, le robot utilise…",
+          "options": [
+            "un capteur",
+            "un porte-bagages",
+            "un casque"
+          ],
+          "answer": "un capteur",
+          "explanation_fa": "حسگر وجود شیء را تشخیص می‌دهد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Le moteur sert à…",
+          "options": [
+            "faire tourner les roues",
+            "écrire le formulaire",
+            "fermer la porte"
+          ],
+          "answer": "faire tourner les roues",
+          "explanation_fa": "موتور چرخ‌ها را حرکت می‌دهد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Le bras mécanique peut déplacer une pièce légère.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "بازوی مکانیکی می‌تواند قطعه‌ای سبک را جابه‌جا کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ une instruction simple.",
+          "answer": [
+            "programmes"
+          ],
+          "explanation_fa": "programmes"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Que détecte le capteur ?",
+          "answer": [
+            "Un obstacle."
+          ],
+          "explanation_fa": "حسگر مانع را تشخیص می‌دهد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Où Mina prépare-t-elle le robot ?",
+          "options": [
+            "Au club de robotique",
+            "À la gare",
+            "À la plage"
+          ],
+          "answer": "Au club de robotique",
+          "explanation_fa": "Mina travaille au club de robotique."
+        },
+        {
+          "type": "mcq",
+          "question": "Que détecte le capteur ?",
+          "options": [
+            "Un obstacle",
+            "Une étoile",
+            "Un déchet"
+          ],
+          "answer": "Un obstacle",
+          "explanation_fa": "Le capteur voit un obstacle devant le robot."
+        },
+        {
+          "type": "mcq",
+          "question": "Qu’est-ce qui fait tourner les roues ?",
+          "options": [
+            "Le moteur",
+            "Le bras mécanique",
+            "Le bouton"
+          ],
+          "answer": "Le moteur",
+          "explanation_fa": "Le moteur fait tourner les roues."
+        },
+        {
+          "type": "mcq",
+          "question": "Que fournit la pile ?",
+          "options": [
+            "De l’énergie",
+            "Un plan",
+            "Une instruction"
+          ],
+          "answer": "De l’énergie",
+          "explanation_fa": "La pile donne de l’énergie au robot."
+        },
+        {
+          "type": "mcq",
+          "question": "Que font les élèves après le test ?",
+          "options": [
+            "Ils modifient une instruction",
+            "Ils rangent les vélos",
+            "Ils quittent le festival"
+          ],
+          "answer": "Ils modifient une instruction",
+          "explanation_fa": "Ils modifient une instruction puis recommencent."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Présente un petit robot à un camarade : explique quelle instruction tu programmes, ce que le capteur détecte et comment le moteur aide.",
+      "suggested_prompts": [
+        "Je programme un robot.",
+        "Le capteur voit un obstacle.",
+        "Le moteur fait avancer le robot."
+      ],
+      "focus": [
+        "programmer au présent",
+        "vocabulaire de la robotique",
+        "décrire une instruction"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Atelier de robotique à l’école; petit robot mobile et consignes faciles."
+  }
+}

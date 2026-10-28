@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 307,
+    "title": "Le robot suit un signal",
+    "subtitle": "Commander un robot mobile avec une télécommande",
+    "description": "Mina envoie des commandes et observe les signaux du robot mobile.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان کنترل ربات و صرف détecter در زمان حال",
+      "objectives": [
+        "Nommer des éléments d’un écran de contrôle et d’une télécommande.",
+        "Décrire un signal et un déplacement programmé.",
+        "Conjuguer détecter au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای هدایت ربات از راه دور چه وسیله‌ای به کار می‌رود و نمایشگر چه اطلاعاتی نشان می‌دهد؟",
+      "questions": [
+        {
+          "q": "وسیله‌ای برای فرستادن دستور از دور چه نام دارد؟",
+          "hint_fa": "به واژهٔ «télécommande» فکر کن."
+        },
+        {
+          "q": "چراغ کوچک روی دستگاه که وضعیت را نشان می‌دهد چه نام دارد؟",
+          "hint_fa": "به عبارت «voyant lumineux» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "تشخیص‌دادن یک نشانه",
+      "body_fa": "فعل باقاعدهٔ «détecter» یعنی چیزی را با ابزار یا حسگر تشخیص‌دادن. در زمان حال می‌گوییم «je détecte»، «tu détectes»، «il/elle détecte»، «nous détectons»، «vous détectez» و «ils/elles détectent». این فعل از گروه اول است و مفعول مستقیم می‌گیرد: détecter un signal, détecter un obstacle یا détecter une distance. برای هدایت یک robot mobile می‌توانیم از télécommande استفاده کنیم و نشانه‌ها را روی écran de contrôle ببینیم. یک voyant lumineux ممکن است سبز شود تا نشان دهد ربات آماده است. وقتی حسگر چیزی را تشخیص می‌دهد، ماشین می‌تواند مسیرش را عوض کند یا متوقف شود.",
+      "key_points": [
+        "détecter یک فعل باقاعدهٔ گروه اول است.",
+        "می‌گوییم détecter un signal یا détecter un obstacle.",
+        "voyant lumineux چراغی است که وضعیت دستگاه را نشان می‌دهد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "une télécommande",
+          "ipa": "/yn te.le.kɔ.mɑ̃d/",
+          "translation_fa": "کنترل از راه دور",
+          "example": "La télécommande dirige le robot mobile.",
+          "example_fa": "کنترل از راه دور ربات متحرک را هدایت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un signal",
+          "ipa": "/œ̃ si.ɲal/",
+          "translation_fa": "نشانه؛ سیگنال",
+          "example": "Un signal apparaît sur l’écran de contrôle.",
+          "example_fa": "نشانه‌ای روی نمایشگر کنترل ظاهر می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un écran de contrôle",
+          "ipa": "/œ̃.n‿e.kʁɑ̃ də kɔ̃.tʁol/",
+          "translation_fa": "نمایشگر کنترل",
+          "example": "L’écran de contrôle indique la direction choisie.",
+          "example_fa": "نمایشگر کنترل جهت انتخاب‌شده را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un voyant lumineux",
+          "ipa": "/œ̃ vwa.jɑ̃ ly.mi.nø/",
+          "translation_fa": "چراغ نشانگر",
+          "example": "Le voyant lumineux devient vert quand le robot démarre.",
+          "example_fa": "چراغ نشانگر هنگام شروع ربات سبز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un câble",
+          "ipa": "/œ̃ kɑbl/",
+          "translation_fa": "کابل",
+          "example": "Le câble relie la télécommande au boîtier.",
+          "example_fa": "کابل کنترل را به جعبهٔ دستگاه وصل می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un robot mobile",
+          "ipa": "/œ̃ ʁɔ.bo mɔ.bil/",
+          "translation_fa": "ربات متحرک",
+          "example": "Le robot mobile avance sur une ligne noire.",
+          "example_fa": "ربات متحرک روی خطی سیاه جلو می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un capteur de distance",
+          "ipa": "/œ̃ kap.tœʁ də dis.tɑ̃s/",
+          "translation_fa": "حسگر فاصله",
+          "example": "Le capteur de distance mesure l’espace devant lui.",
+          "example_fa": "حسگر فاصله فضای جلوی خود را اندازه می‌گیرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un déplacement programmé",
+          "ipa": "/œ̃ de.plas.mɑ̃ pʁɔ.ɡʁa.me/",
+          "translation_fa": "حرکت برنامه‌ریزی‌شده",
+          "example": "Le déplacement programmé s’arrête près du mur.",
+          "example_fa": "حرکت برنامه‌ریزی‌شده نزدیک دیوار می‌ایستد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un code",
+          "ipa": "/œ̃ kɔd/",
+          "translation_fa": "کد",
+          "example": "Hugo écrit un code pour tourner à gauche.",
+          "example_fa": "هوگو کدی برای چرخیدن به چپ می‌نویسد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un écran de test",
+          "ipa": "/œ̃.n‿e.kʁɑ̃ də tɛst/",
+          "translation_fa": "نمایشگر آزمایش",
+          "example": "Un écran de test montre la réponse du capteur.",
+          "example_fa": "نمایشگر آزمایش پاسخ حسگر را نشان می‌دهد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de détecter",
+      "explanation_fa": "Le verbe régulier «détecter» signifie remarquer ou repérer quelque chose à l’aide d’un sens ou d’un capteur. Au présent, on dit «je détecte», «tu détectes», «il/elle détecte», «nous détectons», «vous détectez» et «ils/elles détectent». On retire «-er» puis on ajoute les terminaisons du premier groupe. Le verbe prend un complément direct: détecter un signal, une distance ou un obstacle. Dans un robot, un capteur détecte ce qui se trouve devant lui, puis un programme peut modifier le déplacement.",
+      "pattern": "sujet + détecter au présent + signal / objet",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je détecte un signal sur l’écran. Tu détectes un objet près du mur.",
+            "من نشانه‌ای را روی نمایشگر تشخیص می‌دهم. تو شیئی را نزدیک دیوار تشخیص می‌دهی."
+          ],
+          [
+            "il / elle",
+            "Il détecte le mouvement. Elle détecte une distance courte.",
+            "او حرکت را تشخیص می‌دهد. او فاصله‌ای کوتاه را تشخیص می‌دهد."
+          ],
+          [
+            "nous / vous",
+            "Nous détectons le signal vert. Vous détectez le robot dans la salle.",
+            "ما نشانهٔ سبز را تشخیص می‌دهیم. شما ربات را در سالن پیدا می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Ils détectent un obstacle devant la ligne.",
+            "آن‌ها مانعی را جلوی خط تشخیص می‌دهند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "détecter مفعول مستقیم می‌گیرد.",
+        "با nous و vous به‌ترتیب détectons و détectez می‌گوییم."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mina détecte un signal sur l’écran de contrôle.",
+          "fa": "مینا نشانه‌ای را روی نمایشگر کنترل تشخیص می‌دهد.",
+          "note_fa": "Le verbe prend directement son complément."
+        },
+        {
+          "target": "Nous détectons un obstacle près du mur.",
+          "fa": "ما مانعی را نزدیک دیوار تشخیص می‌دهیم.",
+          "note_fa": "Avec nous, la terminaison est -ons."
+        },
+        {
+          "target": "Tu détectes un voyant lumineux sur le boîtier.",
+          "fa": "تو چراغ نشانگری را روی جعبه تشخیص می‌دهی.",
+          "note_fa": "Le sujet tu prend la terminaison -es."
+        },
+        {
+          "target": "Les capteurs détectent la distance du mur.",
+          "fa": "حسگرها فاصلهٔ دیوار را تشخیص می‌دهند.",
+          "note_fa": "Le sujet pluriel prend détectent."
+        },
+        {
+          "target": "Vous détectez le signal avant le déplacement.",
+          "fa": "شما پیش از حرکت نشانه را تشخیص می‌دهید.",
+          "note_fa": "Avec vous, la terminaison est -ez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Le robot mobile",
+      "script": "Mina: L’écran de contrôle affiche un signal rouge.\nHugo: Le voyant lumineux reste vert ?\nMina: Non, il clignote quand le robot mobile s’arrête.\nHugo: La télécommande envoie une nouvelle commande ?\nMina: Oui, le câble est relié au boîtier.\nHugo: Le capteur de distance détecte le mur ?\nMina: Oui, le déplacement programmé change de direction.\nHugo: Le code indique maintenant un virage à gauche.\nMina: Le robot avance quand le voyant devient vert.",
+      "script_fa": "مینا: نمایشگر کنترل نشانه‌ای قرمز نشان می‌دهد.\nهوگو: چراغ نشانگر سبز می‌ماند؟\nمینا: نه، وقتی ربات متحرک می‌ایستد چشمک می‌زند.\nهوگو: کنترل از راه دور دستور تازه‌ای می‌فرستد؟\nمینا: بله، کابل به جعبهٔ دستگاه وصل است.\nهوگو: حسگر فاصله دیوار را تشخیص می‌دهد؟\nمینا: بله، حرکت برنامه‌ریزی‌شده جهتش را عوض می‌کند.\nهوگو: کد حالا چرخش به چپ را نشان می‌دهد.\nمینا: وقتی چراغ سبز می‌شود ربات جلو می‌رود.",
+      "question_fa": "Que détecte le capteur de distance ?",
+      "answer": "Le mur.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Lire les signaux",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Le signal rouge reste sur l’écran de contrôle.",
+          "fa": "نشانهٔ قرمز روی نمایشگر کنترل می‌ماند."
+        },
+        {
+          "speaker": "B",
+          "target": "Le capteur détecte un obstacle devant le robot.",
+          "fa": "حسگر مانعی را جلوی ربات تشخیص می‌دهد."
+        },
+        {
+          "speaker": "A",
+          "target": "La télécommande envoie une commande à droite.",
+          "fa": "کنترل از راه دور دستوری به راست می‌فرستد."
+        },
+        {
+          "speaker": "B",
+          "target": "Le déplacement programmé change de direction.",
+          "fa": "حرکت برنامه‌ریزی‌شده جهتش را عوض می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "Le voyant lumineux devient vert.",
+          "fa": "چراغ نشانگر سبز می‌شود."
+        },
+        {
+          "speaker": "B",
+          "target": "Le robot mobile avance sur la ligne.",
+          "fa": "ربات متحرک روی خط جلو می‌رود."
+        },
+        {
+          "speaker": "A",
+          "target": "Le code est écrit sur l’écran.",
+          "fa": "کد روی نمایشگر نوشته شده است."
+        },
+        {
+          "speaker": "B",
+          "target": "Nous pouvons lancer le prochain test.",
+          "fa": "می‌توانیم آزمایش بعدی را شروع کنیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «مدرسه»، کنترل یک ربات متحرک را توصیف کن؛ بگو چه چیزی حسگر تشخیص می‌دهد و چراغ نشانگر چه زمانی سبز می‌شود.",
+      "useful_phrases": [
+        {
+          "target": "Le capteur détecte un obstacle.",
+          "fa": "حسگر مانعی را تشخیص می‌دهد."
+        },
+        {
+          "target": "Le signal apparaît à l’écran.",
+          "fa": "نشانه‌ای روی نمایشگر ظاهر می‌شود."
+        },
+        {
+          "target": "Le robot avance quand le voyant est vert.",
+          "fa": "وقتی چراغ سبز است ربات جلو می‌رود."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Tester le déplacement",
+      "text": "Au club, les élèves testent un robot mobile avec une télécommande. Mina regarde l’écran de contrôle tandis que Hugo suit le voyant lumineux. Un signal rouge indique que le capteur de distance détecte le mur. Le déplacement programmé s’arrête, puis le code change la direction vers la gauche. Mina vérifie le câble entre la télécommande et le boîtier. Quand le voyant devient vert, le robot avance sur une ligne au sol. Les élèves notent la réponse du capteur sur un écran de test. Ils recommencent ensuite le parcours avec une distance différente.",
+      "glossary": [
+        {
+          "term": "tandis que",
+          "fa": "درحالی‌که"
+        },
+        {
+          "term": "au sol",
+          "fa": "روی زمین"
+        },
+        {
+          "term": "une distance différente",
+          "fa": "فاصله‌ای متفاوت"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Que signifie le signal rouge ?",
+          "a": "Le capteur détecte le mur."
+        },
+        {
+          "q_fa": "Que fait le robot quand le voyant devient vert ?",
+          "a": "Il avance sur une ligne au sol."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ un signal rouge.",
+          "options": [
+            "détectons",
+            "détectez",
+            "détectent"
+          ],
+          "answer": "détectons",
+          "explanation_fa": "با nous می‌گوییم détectons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "وسیلهٔ مناسب را انتخاب کن.",
+          "question": "Pour envoyer une commande à distance, Mina utilise…",
+          "options": [
+            "une télécommande",
+            "un tournevis",
+            "un casque"
+          ],
+          "answer": "une télécommande",
+          "explanation_fa": "کنترل از راه دور دستور می‌فرستد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Un petit voyant vert ou rouge est…",
+          "options": [
+            "un voyant lumineux",
+            "un vélo électrique",
+            "un cratère"
+          ],
+          "answer": "un voyant lumineux",
+          "explanation_fa": "چراغ نشانگر وضعیت ربات را نشان می‌دهد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Le signal rouge indique que le capteur détecte le mur.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "نشانهٔ قرمز می‌گوید حسگر دیوار را تشخیص داده است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ la distance du mur.",
+          "answer": [
+            "détectes"
+          ],
+          "explanation_fa": "détectes"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Que détecte le capteur de distance ?",
+          "answer": [
+            "Le mur."
+          ],
+          "explanation_fa": "حسگر فاصله دیوار را تشخیص می‌دهد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Que regarde Mina ?",
+          "options": [
+            "L’écran de contrôle",
+            "Le ciel nocturne",
+            "La piste cyclable"
+          ],
+          "answer": "L’écran de contrôle",
+          "explanation_fa": "Elle lit l’écran pendant le test."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel élément se trouve devant le robot mobile ?",
+          "options": [
+            "Le mur",
+            "Une étoile",
+            "Un emballage"
+          ],
+          "answer": "Le mur",
+          "explanation_fa": "Le signal rouge indique que le mur est détecté."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel outil envoie une commande ?",
+          "options": [
+            "La télécommande",
+            "Le tournevis",
+            "Le sac en tissu"
+          ],
+          "answer": "La télécommande",
+          "explanation_fa": "La télécommande envoie une commande au robot."
+        },
+        {
+          "type": "mcq",
+          "question": "Quand le robot avance-t-il ?",
+          "options": [
+            "Quand le voyant devient vert",
+            "Quand le signal est rouge",
+            "Quand le câble est retiré"
+          ],
+          "answer": "Quand le voyant devient vert",
+          "explanation_fa": "Le robot avance quand le voyant est vert."
+        },
+        {
+          "type": "mcq",
+          "question": "Que fait le code ?",
+          "options": [
+            "Il change la direction",
+            "Il ferme le boîtier",
+            "Il ouvre la porte"
+          ],
+          "answer": "Il change la direction",
+          "explanation_fa": "Le code dirige le robot vers la gauche."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Explique comment tu contrôles un robot mobile : lis le signal, indique ce que détecte le capteur et décris le déplacement programmé.",
+      "suggested_prompts": [
+        "Le capteur détecte un obstacle.",
+        "Le signal apparaît à l’écran.",
+        "Le robot avance quand le voyant est vert."
+      ],
+      "focus": [
+        "détecter au présent",
+        "vocabulaire de la télécommande",
+        "décrire un signal"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Test d’un robot mobile; commandes à distance et indicateurs lumineux."
+  }
+}

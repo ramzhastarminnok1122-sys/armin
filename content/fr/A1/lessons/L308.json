@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 308,
+    "title": "Hugo contrôle le robot aspirateur",
+    "subtitle": "Vérifier les pièces et préparer le chargeur",
+    "description": "Hugo contrôle un robot aspirateur qui a besoin d’une petite réparation.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان تعمیر ربات و صرف contrôler در زمان حال",
+      "objectives": [
+        "Nommer quelques outils et pièces d’un appareil robotisé.",
+        "Expliquer ce qu’on contrôle avant de recharger un appareil.",
+        "Conjuguer contrôler au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "اگر ربات خانگی درست کار نکند، چه قطعه‌هایی را بررسی می‌کنی و شارژر را کجا وصل می‌کنی؟",
+      "questions": [
+        {
+          "q": "وسیله‌ای برای بازکردن پیچ چه نام دارد؟",
+          "hint_fa": "به واژهٔ «tournevis» فکر کن."
+        },
+        {
+          "q": "جعبه‌ای که قطعه‌های الکترونیکی را نگه می‌دارد چه نام دارد؟",
+          "hint_fa": "به واژهٔ «boîtier» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "بررسی قطعه‌های یک دستگاه",
+      "body_fa": "فعل باقاعدهٔ «contrôler» یعنی بررسی‌کردن وضعیت یک دستگاه یا قطعه. در زمان حال می‌گوییم «je contrôle»، «tu contrôles»، «il/elle contrôle»، «nous contrôlons»، «vous contrôlez» و «ils/elles contrôlent». فعل از گروه اول است و مفعول مستقیم می‌گیرد: contrôler un robot, contrôler un câble یا contrôler une pièce mécanique. پیش از شارژکردن دستگاه، می‌توانیم boîtier و chargeur را بررسی کنیم و مطمئن شویم سیم به prise électrique وصل است. اگر پیچ شل باشد، یک tournevis آن را سفت می‌کند. وقتی بررسی تمام شد، می‌توانیم دستگاه را دوباره روشن کنیم.",
+      "key_points": [
+        "contrôler یک فعل باقاعدهٔ گروه اول است.",
+        "می‌گوییم contrôler un câble یا contrôler un robot.",
+        "tournevis برای سفت یا شل‌کردن پیچ به کار می‌رود."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "un robot aspirateur",
+          "ipa": "/œ̃ ʁɔ.bo as.pi.ʁa.tœʁ/",
+          "translation_fa": "ربات جاروبرقی",
+          "example": "Le robot aspirateur nettoie le sol du salon.",
+          "example_fa": "ربات جاروبرقی کف اتاق نشیمن را تمیز می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un tournevis",
+          "ipa": "/œ̃ tuʁnə.vis/",
+          "translation_fa": "پیچ‌گوشتی",
+          "example": "Le tournevis ouvre le petit boîtier.",
+          "example_fa": "پیچ‌گوشتی جعبهٔ کوچک را باز می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une vis",
+          "ipa": "/yn vis/",
+          "translation_fa": "پیچ",
+          "example": "Une vis fixe la pièce au boîtier.",
+          "example_fa": "پیچی قطعه را به جعبه وصل می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un boîtier",
+          "ipa": "/œ̃ bwa.tje/",
+          "translation_fa": "جعبهٔ قطعات؛ محفظه",
+          "example": "Le boîtier contient les commandes du robot.",
+          "example_fa": "جعبه دستورهای ربات را در خود دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un chargeur",
+          "ipa": "/œ̃ ʃaʁ.ʒœʁ/",
+          "translation_fa": "شارژر",
+          "example": "Le chargeur est près de la prise.",
+          "example_fa": "شارژر نزدیک پریز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une prise électrique",
+          "ipa": "/yn pʁiz e.lɛk.tʁik/",
+          "translation_fa": "پریز برق",
+          "example": "La prise électrique est sous la table.",
+          "example_fa": "پریز برق زیر میز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une pièce mécanique",
+          "ipa": "/yn pjɛs me.ka.nik/",
+          "translation_fa": "قطعهٔ مکانیکی",
+          "example": "Une pièce mécanique tourne sous le capot.",
+          "example_fa": "قطعه‌ای مکانیکی زیر پوشش می‌چرخد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une pince robotique",
+          "ipa": "/yn pɛ̃s ʁɔ.bɔ.tik/",
+          "translation_fa": "انبر رباتیک",
+          "example": "La pince robotique attrape un petit objet.",
+          "example_fa": "انبر رباتیک شیئی کوچک را می‌گیرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un robot éducatif",
+          "ipa": "/œ̃ ʁɔ.bo e.dy.ka.tif/",
+          "translation_fa": "ربات آموزشی",
+          "example": "Un robot éducatif aide les enfants à apprendre.",
+          "example_fa": "ربات آموزشی به کودکان در یادگیری کمک می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une pièce de rechange",
+          "ipa": "/yn pjɛs də ʁə.ʃɑ̃ʒ/",
+          "translation_fa": "قطعهٔ یدکی",
+          "example": "Hugo garde une pièce de rechange dans la boîte.",
+          "example_fa": "هوگو قطعهٔ یدکی را در جعبه نگه می‌دارد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de contrôler",
+      "explanation_fa": "Le verbe régulier «contrôler» signifie vérifier l’état ou le fonctionnement d’un objet. Au présent, on dit «je contrôle», «tu contrôles», «il/elle contrôle», «nous contrôlons», «vous contrôlez» et «ils/elles contrôlent». Le verbe reçoit directement ce que l’on vérifie: contrôler le chargeur, contrôler une vis ou contrôler le robot. On peut préciser le moment avec «avant de démarrer» et le lieu avec «dans l’atelier». Pour un appareil électrique, on vérifie que le câble est en bon état et que le chargeur est bien placé près de la prise.",
+      "pattern": "sujet + contrôler au présent + objet",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je contrôle le chargeur. Tu contrôles la vis du boîtier.",
+            "من شارژر را بررسی می‌کنم. تو پیچ جعبه را بررسی می‌کنی."
+          ],
+          [
+            "il / elle",
+            "Il contrôle le robot aspirateur. Elle contrôle la pièce mécanique.",
+            "او ربات جاروبرقی را بررسی می‌کند. او قطعهٔ مکانیکی را بررسی می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous contrôlons le câble. Vous contrôlez le robot éducatif.",
+            "ما کابل را بررسی می‌کنیم. شما ربات آموزشی را بررسی می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Ils contrôlent les pièces avant le départ.",
+            "آن‌ها پیش از شروع قطعه‌ها را بررسی می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "contrôler مفعول مستقیم می‌گیرد.",
+        "با nous می‌گوییم contrôlons و با vous می‌گوییم contrôlez."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Hugo contrôle le robot aspirateur avant de le charger.",
+          "fa": "هوگو پیش از شارژکردن ربات جاروبرقی را بررسی می‌کند.",
+          "note_fa": "Le complément suit directement le verbe."
+        },
+        {
+          "target": "Nous contrôlons la prise électrique.",
+          "fa": "ما پریز برق را بررسی می‌کنیم.",
+          "note_fa": "Avec nous, la terminaison est -ons."
+        },
+        {
+          "target": "Tu contrôles le boîtier avec le tournevis.",
+          "fa": "تو جعبه را با پیچ‌گوشتی بررسی می‌کنی.",
+          "note_fa": "La forme tu prend -es."
+        },
+        {
+          "target": "Les techniciens contrôlent les pièces mécaniques.",
+          "fa": "تکنسین‌ها قطعه‌های مکانیکی را بررسی می‌کنند.",
+          "note_fa": "Le sujet pluriel prend contrôlent."
+        },
+        {
+          "target": "Vous contrôlez le chargeur avant le test.",
+          "fa": "شما پیش از آزمایش شارژر را بررسی می‌کنید.",
+          "note_fa": "Avec vous, la terminaison est -ez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un robot ménager à réparer",
+      "script": "Hugo: Le robot aspirateur s’arrête près de la table.\nMina: Le boîtier contrôle son déplacement.\nHugo: Il faut un tournevis pour ouvrir le boîtier ?\nMina: Oui, la vis est sous la pièce mécanique.\nHugo: Le chargeur doit être près d’une prise électrique ?\nMina: Oui, le robot éducatif a besoin d’une recharge.\nHugo: L’atelier propose une pince robotique ?\nMina: Oui, elle tient la petite pièce de rechange.\nHugo: Je contrôle le câble avant de brancher le chargeur.",
+      "script_fa": "هوگو: ربات جاروبرقی نزدیک میز می‌ایستد.\nمینا: جعبه حرکتش را کنترل می‌کند.\nهوگو: برای بازکردن جعبه پیچ‌گوشتی لازم است؟\nمینا: بله، پیچ زیر قطعهٔ مکانیکی است.\nهوگو: شارژر باید نزدیک پریز برق باشد؟\nمینا: بله، ربات آموزشی به شارژ نیاز دارد.\nهوگو: کارگاه انبر رباتیک دارد؟\nمینا: بله، قطعهٔ یدکی کوچک را نگه می‌دارد.\nهوگو: پیش از وصل‌کردن شارژر کابل را بررسی می‌کنم.",
+      "question_fa": "Qu’est-ce que Hugo contrôle avant de brancher le chargeur ?",
+      "answer": "Le câble.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Vérifier le robot aspirateur",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Le robot aspirateur ne démarre pas.",
+          "fa": "ربات جاروبرقی روشن نمی‌شود."
+        },
+        {
+          "speaker": "B",
+          "target": "Le chargeur est-il près de la prise électrique ?",
+          "fa": "شارژر نزدیک پریز برق است؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, mais le câble est sous la table.",
+          "fa": "بله، اما کابل زیر میز است."
+        },
+        {
+          "speaker": "B",
+          "target": "Je contrôle la prise et le boîtier.",
+          "fa": "پریز و جعبه را بررسی می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "La vis est un peu lâche.",
+          "fa": "پیچ کمی شل است."
+        },
+        {
+          "speaker": "B",
+          "target": "Le tournevis peut la serrer doucement.",
+          "fa": "پیچ‌گوشتی می‌تواند آن را آرام سفت کند."
+        },
+        {
+          "speaker": "A",
+          "target": "La pince robotique tient la pièce.",
+          "fa": "انبر رباتیک قطعه را نگه می‌دارد."
+        },
+        {
+          "speaker": "B",
+          "target": "Nous testons le robot après la recharge.",
+          "fa": "پس از شارژ ربات را آزمایش می‌کنیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، دستگاه رباتیک خانگی را توصیف کن؛ بگو چه قطعه‌ای را بررسی می‌کنی و شارژر را کجا وصل می‌کنی.",
+      "useful_phrases": [
+        {
+          "target": "Je contrôle le chargeur.",
+          "fa": "شارژر را بررسی می‌کنم."
+        },
+        {
+          "target": "Le câble est près de la prise.",
+          "fa": "کابل نزدیک پریز است."
+        },
+        {
+          "target": "Le robot aspirateur est prêt.",
+          "fa": "ربات جاروبرقی آماده است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Vérifier l’appareil",
+      "text": "Le robot aspirateur de Hugo s’arrête au milieu du salon. Mina contrôle d’abord le chargeur et le câble près de la prise électrique. Le boîtier est fermé par une petite vis. Hugo prend un tournevis et ouvre le couvercle avec soin. Une pièce mécanique est déplacée; ils la remettent en place. La pince robotique tient la pièce de rechange pendant le travail. Après la réparation, Hugo recharge le robot éducatif de sa sœur. Il appuie sur le bouton et le robot recommence à nettoyer le sol.",
+      "glossary": [
+        {
+          "term": "avec soin",
+          "fa": "با دقت"
+        },
+        {
+          "term": "remettre en place",
+          "fa": "دوباره در جای خود گذاشتن"
+        },
+        {
+          "term": "recharger",
+          "fa": "دوباره شارژکردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Qu’est-ce qui ferme le boîtier ?",
+          "a": "Une petite vis."
+        },
+        {
+          "q_fa": "Comment Hugo remet-il le robot en service ?",
+          "a": "Il recharge le robot éducatif."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ le câble avant le test.",
+          "options": [
+            "contrôlons",
+            "contrôlez",
+            "contrôlent"
+          ],
+          "answer": "contrôlons",
+          "explanation_fa": "با nous می‌گوییم contrôlons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "ابزار مناسب را انتخاب کن.",
+          "question": "Pour ouvrir le boîtier, Mina utilise…",
+          "options": [
+            "un tournevis",
+            "une télécommande",
+            "un casque"
+          ],
+          "answer": "un tournevis",
+          "explanation_fa": "پیچ‌گوشتی برای بازکردن پیچ است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Une pièce gardée pour remplacer une autre est…",
+          "options": [
+            "une pièce de rechange",
+            "un signal",
+            "un cratère"
+          ],
+          "answer": "une pièce de rechange",
+          "explanation_fa": "قطعهٔ یدکی برای جایگزینی به کار می‌رود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Le robot aspirateur s’arrête près de la table.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "ربات جاروبرقی نزدیک میز می‌ایستد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ la prise électrique.",
+          "answer": [
+            "contrôles"
+          ],
+          "explanation_fa": "contrôles"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Qu’est-ce que Hugo contrôle avant de brancher ?",
+          "answer": [
+            "Le câble."
+          ],
+          "explanation_fa": "هوگو پیش از وصل‌کردن کابل را بررسی می‌کند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Où le robot aspirateur s’arrête-t-il ?",
+          "options": [
+            "Près de la table",
+            "Dans la rue",
+            "Au garage"
+          ],
+          "answer": "Près de la table",
+          "explanation_fa": "Hugo indique qu’il s’arrête près de la table."
+        },
+        {
+          "type": "mcq",
+          "question": "Qu’est-ce qui ferme le boîtier ?",
+          "options": [
+            "Une vis",
+            "Un badge",
+            "Une étoile"
+          ],
+          "answer": "Une vis",
+          "explanation_fa": "Une petite vis fixe le boîtier."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel outil Hugo prend-il ?",
+          "options": [
+            "Un tournevis",
+            "Un télescope",
+            "Une pompe"
+          ],
+          "answer": "Un tournevis",
+          "explanation_fa": "Il utilise un tournevis pour ouvrir le boîtier."
+        },
+        {
+          "type": "mcq",
+          "question": "Qu’est-ce que la pince robotique tient ?",
+          "options": [
+            "Une pièce de rechange",
+            "Un sac",
+            "Un casque"
+          ],
+          "answer": "Une pièce de rechange",
+          "explanation_fa": "Elle tient la petite pièce pendant le travail."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel appareil Hugo recharge-t-il ?",
+          "options": [
+            "Le robot éducatif",
+            "Le vélo",
+            "Le téléphone"
+          ],
+          "answer": "Le robot éducatif",
+          "explanation_fa": "Il recharge le robot de sa sœur."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Explique à un ami comment tu vérifies un appareil robotisé : nomme le chargeur, le câble et une pièce, puis indique ce que tu contrôles.",
+      "suggested_prompts": [
+        "Je contrôle le chargeur.",
+        "Le câble est près de la prise.",
+        "Le robot aspirateur est prêt."
+      ],
+      "focus": [
+        "contrôler au présent",
+        "vocabulaire d’un appareil robotisé",
+        "décrire une vérification"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Dépannage d’un robot ménager; gestes simples avant la remise en service."
+  }
+}
