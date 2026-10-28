@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 322,
+    "title": "Hugo numérise un document",
+    "subtitle": "Scanner et enregistrer une copie",
+    "description": "Hugo numérise une feuille et l’enregistre sur une clé USB.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان چاپ و فایل دیجیتال و صرف numériser در زمان حال",
+      "objectives": [
+        "Nommer des éléments d’une imprimante et d’un fichier numérique.",
+        "Décrire comment numériser et enregistrer un document.",
+        "Conjuguer numériser au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای فرستادن نسخهٔ دیجیتال یک برگه از چه دستگاهی استفاده می‌کنی و فایل را کجا نگه می‌داری؟",
+      "questions": [
+        {
+          "q": "دستگاهی که صفحه را به فایل دیجیتال تبدیل می‌کند چه نام دارد؟",
+          "hint_fa": "به واژهٔ «scanner» فکر کن."
+        },
+        {
+          "q": "وسیلهٔ کوچکی برای ذخیرهٔ فایل چه نام دارد؟",
+          "hint_fa": "به واژهٔ «clé USB» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "تبدیل سند به فایل دیجیتال",
+      "body_fa": "فعل باقاعدهٔ «numériser» یعنی تبدیل‌کردن یک برگه یا تصویر به فایل دیجیتال. در زمان حال می‌گوییم «je numérise»، «tu numérises»، «il/elle numérise»، «nous numérisons»، «vous numérisez» و «ils/elles numérisent». فعل از گروه اول است و پایان‌هایش باقاعده‌اند. می‌توانیم numériser une feuille، numériser une photo یا numériser un document officiel بگوییم. یک scanner یا une imprimante multifonction crée une copie numérique. فایل را می‌توان به شکل fichier PDF ذخیره کرد یا روی clé USB نگه داشت. پیش از اسکن، cartouche d’encre و bac d’imprimante را vérifier اگر نیاز به چاپ باشد.",
+      "key_points": [
+        "numériser فعل باقاعدهٔ گروه اول است.",
+        "می‌گوییم numériser une feuille ou une photo.",
+        "فایل دیجیتال را می‌توان روی clé USB ذخیره کرد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "une imprimante",
+          "ipa": "/yn ɛ̃.pʁi.mɑ̃t/",
+          "translation_fa": "چاپگر",
+          "example": "L’imprimante prépare une copie papier.",
+          "example_fa": "چاپگر نسخهٔ کاغذی آماده می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un fichier PDF",
+          "ipa": "/œ̃ fi.ʃje pe.de.ɛf/",
+          "translation_fa": "فایل پی‌دی‌اف",
+          "example": "Le fichier PDF s’ouvre sur l’ordinateur.",
+          "example_fa": "فایل پی‌دی‌اف روی رایانه باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une copie numérique",
+          "ipa": "/yn kɔ.pi ny.me.ʁik/",
+          "translation_fa": "نسخهٔ دیجیتال",
+          "example": "Hugo envoie une copie numérique à Mina.",
+          "example_fa": "هوگو نسخهٔ دیجیتالی برای مینا می‌فرستد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un scanner",
+          "ipa": "/œ̃ ska.nœʁ/",
+          "translation_fa": "اسکنر",
+          "example": "Le scanner lit la page sans la modifier.",
+          "example_fa": "اسکنر صفحه را بدون تغییر می‌خواند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une photocopie",
+          "ipa": "/yn fɔ.to.kɔ.pi/",
+          "translation_fa": "فتوکپی",
+          "example": "La photocopie est claire et lisible.",
+          "example_fa": "فتوکپی واضح و خواناست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un câble USB",
+          "ipa": "/œ̃ kabel y.ɛs.be/",
+          "translation_fa": "کابل یواس‌بی",
+          "example": "Le câble USB relie le scanner à l’ordinateur.",
+          "example_fa": "کابل یواس‌بی اسکنر را به رایانه وصل می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une clé USB",
+          "ipa": "/yn kle y.ɛs.be/",
+          "translation_fa": "فلش یواس‌بی",
+          "example": "La clé USB garde le document numérisé.",
+          "example_fa": "فلش سند دیجیتال‌شده را نگه می‌دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une cartouche d’encre",
+          "ipa": "/yn kaʁ.tuʃ dɑ̃kʁ/",
+          "translation_fa": "کارتریج جوهر",
+          "example": "La cartouche d’encre est presque vide.",
+          "example_fa": "کارتریج جوهر تقریباً خالی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un bac d’imprimante",
+          "ipa": "/œ̃ bak dɛ̃.pʁi.mɑ̃t/",
+          "translation_fa": "سینی چاپگر",
+          "example": "Le bac d’imprimante contient du papier blanc.",
+          "example_fa": "سینی چاپگر کاغذ سفید دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un tirage papier",
+          "ipa": "/œ̃ ti.ʁaʒ pa.pje/",
+          "translation_fa": "نسخهٔ چاپی",
+          "example": "Hugo demande un tirage papier du fichier.",
+          "example_fa": "هوگو نسخهٔ چاپی فایل را می‌خواهد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de numériser",
+      "explanation_fa": "Le verbe régulier «numériser» signifie transformer un document papier en fichier numérique. Au présent, on dit «je numérise», «tu numérises», «il/elle numérise», «nous numérisons», «vous numérisez» et «ils/elles numérisent». Le radical «numéris-» prend les terminaisons du premier groupe. Le complément direct indique ce que l’on transforme: numériser une feuille, une photo ou un formulaire. On peut préciser la destination avec «sur»: numériser un document sur une clé USB. Une copie numérique peut aussi être enregistrée dans un fichier PDF.",
+      "pattern": "sujet + numériser au présent + document",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je numérise une feuille pour le projet. Tu numérises une photo sur l’ordinateur.",
+            "من برگه‌ای را برای پروژه دیجیتال می‌کنم. تو عکسی را در رایانه اسکن می‌کنی."
+          ],
+          [
+            "il / elle",
+            "Il numérise un formulaire. Elle numérise la page de garde.",
+            "او فرمی را دیجیتال می‌کند. او صفحهٔ رویی را دیجیتال می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous numérisons le document en fichier PDF. Vous numérisez les pages de la classe.",
+            "ما سند را به شکل فایل پی‌دی‌اف دیجیتال می‌کنیم. شما برگه‌های کلاس را اسکن می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Les élèves numérisent les photos du projet.",
+            "دانش‌آموزان عکس‌های پروژه را دیجیتال می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "numériser فعل باقاعدهٔ گروه اول است.",
+        "می‌گوییم numériser un document sur une clé USB."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Hugo numérise la feuille du projet.",
+          "fa": "هوگو برگهٔ پروژه را دیجیتال می‌کند.",
+          "note_fa": "Le complément direct suit le verbe."
+        },
+        {
+          "target": "Nous numérisons les photos en fichier PDF.",
+          "fa": "ما عکس‌ها را به شکل فایل پی‌دی‌اف دیجیتال می‌کنیم.",
+          "note_fa": "Avec nous, la terminaison est -ons."
+        },
+        {
+          "target": "Tu numérises le document sur la clé USB.",
+          "fa": "تو سند را روی فلش دیجیتال می‌کنی.",
+          "note_fa": "La forme tu prend -es."
+        },
+        {
+          "target": "Les élèves numérisent les pages de la classe.",
+          "fa": "دانش‌آموزان برگه‌های کلاس را دیجیتال می‌کنند.",
+          "note_fa": "Le sujet pluriel prend numérisent."
+        },
+        {
+          "target": "Vous numérisez la copie avant de l’envoyer.",
+          "fa": "شما پیش از فرستادن نسخه را دیجیتال می‌کنید.",
+          "note_fa": "Avec vous, on écrit numérisez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Une copie numérique",
+      "script": "Hugo: Le scanner est relié à l’ordinateur.\nMina: Je place la feuille face vers le bas.\nHugo: Le câble USB reste près du bac.\nMina: Le fichier PDF est maintenant dans le dossier partagé.\nHugo: La cartouche d’encre ne contient presque plus de noir.\nMina: Nous voulons aussi un tirage papier.\nHugo: La clé USB garde la copie numérique.\nMina: Le résultat sur papier reste net et lisible.\nHugo: J’envoie le document à la classe ce soir.",
+      "script_fa": "هوگو: اسکنر به رایانه وصل است.\nمینا: برگه را رو به پایین می‌گذارم.\nهوگو: کابل یواس‌بی کنار سینی است.\nمینا: فایل پی‌دی‌اف حالا در پوشهٔ مشترک است.\nهوگو: کارتریج جوهر دیگر تقریباً رنگ سیاه ندارد.\nمینا: ما نسخهٔ چاپی هم می‌خواهیم.\nهوگو: فلش نسخهٔ دیجیتال را نگه می‌دارد.\nمینا: نتیجهٔ چاپ‌شده تمیز و خواناست.\nهوگو: امشب سند را برای کلاس می‌فرستم.",
+      "question_fa": "Où le scanner est-il relié ?",
+      "answer": "À l’ordinateur.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Scanner la feuille",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Le fichier PDF est prêt.",
+          "fa": "فایل پی‌دی‌اف آماده است."
+        },
+        {
+          "speaker": "B",
+          "target": "Je garde une copie numérique sur ma clé.",
+          "fa": "یک نسخهٔ دیجیتال روی فلشم نگه می‌دارم."
+        },
+        {
+          "speaker": "A",
+          "target": "Le scanner lit la page rapidement.",
+          "fa": "اسکنر صفحه را سریع می‌خواند."
+        },
+        {
+          "speaker": "B",
+          "target": "Le câble USB est bien branché.",
+          "fa": "کابل یواس‌بی درست وصل شده است."
+        },
+        {
+          "speaker": "A",
+          "target": "La cartouche d’encre doit être changée.",
+          "fa": "کارتریج جوهر باید عوض شود."
+        },
+        {
+          "speaker": "B",
+          "target": "Nous pouvons faire une photocopie claire.",
+          "fa": "می‌توانیم فتوکپی واضحی تهیه کنیم."
+        },
+        {
+          "speaker": "A",
+          "target": "Le bac contient assez de papier.",
+          "fa": "سینی کاغذ کافی دارد."
+        },
+        {
+          "speaker": "B",
+          "target": "Le tirage papier est prêt.",
+          "fa": "نسخهٔ چاپی آماده است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «مدرسه»، توضیح بده چطور یک برگه را به نسخهٔ دیجیتال تبدیل و ذخیره می‌کنی؛ نام دستگاه و محل ذخیره را بگو.",
+      "useful_phrases": [
+        {
+          "target": "Je numérise une feuille pour le projet.",
+          "fa": "برگه‌ای را برای پروژه دیجیتال می‌کنم."
+        },
+        {
+          "target": "Le fichier PDF est sur la clé USB.",
+          "fa": "فایل پی‌دی‌اف روی فلش است."
+        },
+        {
+          "target": "L’imprimante prépare une copie papier.",
+          "fa": "چاپگر نسخهٔ کاغذی آماده می‌کند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Hugo numérise un document",
+      "text": "Hugo veut partager une page du projet avec la classe. Il place la feuille dans le scanner, qui est relié à l’ordinateur avec un câble USB. Le fichier PDF apparaît sur l’écran. Hugo enregistre une copie numérique sur une clé USB. Mina regarde la cartouche d’encre: elle est presque vide. Ils ajoutent du papier dans le bac d’imprimante et demandent un tirage papier. Le tirage papier permet de lire chaque ligne facilement. Avant de partir, Hugo vérifie que le fichier s’ouvre correctement. Il envoie ensuite une copie à ses camarades.",
+      "glossary": [
+        {
+          "term": "partager",
+          "fa": "به‌اشتراک‌گذاشتن"
+        },
+        {
+          "term": "correctement",
+          "fa": "به‌درستی"
+        },
+        {
+          "term": "camarades",
+          "fa": "هم‌کلاسی‌ها"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Comment le scanner est-il relié à l’ordinateur ?",
+          "a": "Avec un câble USB."
+        },
+        {
+          "q_fa": "Où Hugo enregistre-t-il la copie numérique ?",
+          "a": "Sur une clé USB."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ les photos en fichier PDF.",
+          "options": [
+            "numérisons",
+            "numérisez",
+            "numérisent"
+          ],
+          "answer": "numérisons",
+          "explanation_fa": "با nous می‌گوییم numérisons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "وسیلهٔ مناسب را انتخاب کن.",
+          "question": "Pour lire une page et la transformer en fichier, Hugo utilise…",
+          "options": [
+            "un scanner",
+            "un sécateur",
+            "un fouet"
+          ],
+          "answer": "un scanner",
+          "explanation_fa": "اسکنر صفحه را به فایل دیجیتال تبدیل می‌کند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Pour garder un document numérique, Mina prend…",
+          "options": [
+            "une clé USB",
+            "un râteau",
+            "une cape de pluie"
+          ],
+          "answer": "une clé USB",
+          "explanation_fa": "فلش فایل دیجیتال را نگه می‌دارد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "La cartouche d’encre est presque vide.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "کارتریج جوهر تقریباً خالی است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ la page du projet.",
+          "answer": [
+            "numérises"
+          ],
+          "explanation_fa": "numérises"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Où le scanner est-il relié ?",
+          "answer": [
+            "À l’ordinateur."
+          ],
+          "explanation_fa": "اسکنر به رایانه وصل است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "À quoi le scanner est-il relié ?",
+          "options": [
+            "À l’ordinateur",
+            "Au four",
+            "Au robinet"
+          ],
+          "answer": "À l’ordinateur",
+          "explanation_fa": "Le câble USB relie le scanner à l’ordinateur."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel fichier apparaît à l’écran ?",
+          "options": [
+            "Un fichier PDF",
+            "Un plan de randonnée",
+            "Une recette"
+          ],
+          "answer": "Un fichier PDF",
+          "explanation_fa": "Le fichier PDF apparaît sur l’écran."
+        },
+        {
+          "type": "mcq",
+          "question": "Où Hugo enregistre-t-il la copie ?",
+          "options": [
+            "Sur une clé USB",
+            "Dans le fournil",
+            "Sur le balcon"
+          ],
+          "answer": "Sur une clé USB",
+          "explanation_fa": "Il utilise une clé USB."
+        },
+        {
+          "type": "mcq",
+          "question": "Qu’est-ce qui est presque vide ?",
+          "options": [
+            "La cartouche d’encre",
+            "Le bac de papier",
+            "La clé USB"
+          ],
+          "answer": "La cartouche d’encre",
+          "explanation_fa": "La cartouche d’encre est presque vide."
+        },
+        {
+          "type": "mcq",
+          "question": "Comment est la photocopie ?",
+          "options": [
+            "Claire et lisible",
+            "Sombre et mouillée",
+            "Vide et cassée"
+          ],
+          "answer": "Claire et lisible",
+          "explanation_fa": "La photocopie est claire et lisible."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Explique comment tu crées une copie numérique : cite le scanner, le fichier obtenu, l’endroit où tu le gardes et une option pour imprimer.",
+      "suggested_prompts": [
+        "Je numérise une feuille pour le projet.",
+        "Le fichier PDF est sur la clé USB.",
+        "L’imprimante prépare une copie papier."
+      ],
+      "focus": [
+        "numériser au présent",
+        "vocabulaire du numérique",
+        "décrire une procédure"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Hugo prépare une copie numérique pour partager un document scolaire."
+  }
+}

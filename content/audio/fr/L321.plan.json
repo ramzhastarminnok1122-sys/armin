@@ -1,0 +1,398 @@
+{
+  "lesson": "L321",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L321-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La feuille quadrillée est pour le plan.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L321-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je note le titre sur une note adhésive.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L321-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le surligneur jaune est dans la trousse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L321-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "La perforatrice fait deux trous propres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L321-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La chemise cartonnée contient les pages.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L321-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "J’agrafe les documents dans le coin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L321-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Le classeur à anneaux est assez grand.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L321-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Le dossier de projet est prêt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L321-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le dossier de projet est presque prêt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L321-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je prends une feuille quadrillée pour le plan.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L321-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Le surligneur jaune marque le titre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L321-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La perforatrice fait deux trous ici.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L321-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Je place les feuilles dans le classeur à anneaux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L321-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "L’agrafeuse fixe la note à la chemise.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L321-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Une pochette transparente protège la photo.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L321-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Le trombone tient ces deux pages ensemble.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L321-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Nous apportons le dossier à la classe demain.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L321-fr-vocab-unclasseuraanneaux",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un classeur à anneaux. Le classeur à anneaux garde les pages du projet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 71
+    },
+    {
+      "id": "L321-fr-vocab-unechemisecartonnee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une chemise cartonnée. La chemise cartonnée protège les feuilles.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L321-fr-vocab-untrombone",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un trombone. Un trombone tient les deux pages ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L321-fr-vocab-uneagrafeuse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une agrafeuse. L’agrafeuse fixe les feuilles en haut.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L321-fr-vocab-uneperforatrice",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une perforatrice. La perforatrice fait deux trous dans la page.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L321-fr-vocab-unsurligneur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un surligneur. Mina prend un surligneur jaune pour le titre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L321-fr-vocab-unenoteadhesive",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une note adhésive. Une note adhésive indique la date de réunion.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L321-fr-vocab-unefeuillequadrillee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une feuille quadrillée. Hugo écrit le plan sur une feuille quadrillée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L321-fr-vocab-unepochettetransparente",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une pochette transparente. La pochette transparente protège une photo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L321-fr-vocab-undossierdeprojet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un dossier de projet. Le dossier de projet est prêt pour la classe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L321-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’agrafe les feuilles du projet. Tu agrafes la note au dossier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L321-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il agrafe la chemise en haut. Elle agrafe les deux pages ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L321-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous agrafons le dossier de projet. Vous agrafez les feuilles avant la réunion.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 79
+    },
+    {
+      "id": "L321-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves agrafent les documents de la classe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L321-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina agrafe deux feuilles du projet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L321-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous agrafons les pages avant la réunion.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L321-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu agrafes la photo dans la pochette.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L321-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les élèves agrafent le document en haut.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L321-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous agrafez le dossier de projet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L321-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina prépare un dossier de projet pour sa classe. Elle écrit le plan sur une feuille quadrillée et ajoute une note adhésive avec la date. Hugo prend un surligneur pour marquer le titre. Les pages sont perforées puis placées dans un classeur à anneaux. Mina glisse une photo dans une pochette transparente. Elle met aussi quelques feuilles dans une chemise cartonnée. Enfin, elle utilise une agrafeuse pour fixer deux documents ensemble. Le trombone rassemble provisoirement les pages qui doivent encore être relues. Le dossier est prêt pour la présentation de lundi.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 566
+    },
+    {
+      "id": "L321-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L321)",
+      "tts_text": "برای مرتب‌کردن پروندهٔ پروژه از چه لوازمی استفاده می‌کنی و عکس را چطور محافظت می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 85
+    },
+    {
+      "id": "L321-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L321)",
+      "tts_text": "فعل باقاعدهٔ «agrafer» یعنی وصل‌کردن چند برگه با یک منگنه.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L321-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L321)",
+      "tts_text": "به گفت‌وگو گوش کن و چیزی را پیدا کن که از عکس محافظت می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L321-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L321)",
+      "tts_text": "با «nous» می‌گوییم «nous agrafons» و با «vous» می‌گوییم «vous agrafez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L321-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L321)",
+      "tts_text": "پروندهٔ پروژه را توضیح بده و نام دو وسیلهٔ کاغذی را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L321-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L321)",
+      "tts_text": "با «agrafer» و نام یک وسیلهٔ اداری جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 323,
+    "title": "Mina archive le dossier",
+    "subtitle": "Finaliser et ranger les pages d’un projet",
+    "description": "Mina rédige une page de garde et archive les documents de la classe.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان ساختار پرونده و صرف archiver در زمان حال",
+      "objectives": [
+        "Nommer des éléments qui organisent un dossier.",
+        "Décrire comment préparer une page de garde et ranger les documents.",
+        "Conjuguer archiver au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای آماده‌کردن نسخهٔ نهایی پروژه چه بخش‌هایی را در پرونده قرار می‌دهی و آن را کجا نگه می‌داری؟",
+      "questions": [
+        {
+          "q": "صفحه‌ای که عنوان و نام پروژه در ابتدای پرونده دارد چه نام دارد؟",
+          "hint_fa": "به واژهٔ «page de garde» فکر کن."
+        },
+        {
+          "q": "بخشی که عنوان فصل‌ها و شمارهٔ صفحه‌ها را فهرست می‌کند چه نام دارد؟",
+          "hint_fa": "به واژهٔ «table des matières» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "بایگانی‌کردن یک سند",
+      "body_fa": "فعل باقاعدهٔ «archiver» یعنی سند یا پرونده را مرتب و در جای مشخص نگه‌داشتن. در زمان حال می‌گوییم «j’archive»، «tu archives»، «il/elle archive»، «nous archivons»، «vous archivez» و «ils/elles archivent». فعل از گروه اول است و مفعول مستقیم می‌گیرد: archiver un document، archiver un dossier یا archiver une copie. برای نسخهٔ نهایی، Mina صفحهٔ رویی را می‌نویسد، sommaire را بررسی می‌کند و برگه‌ها را در ordre مرتب می‌کند. یک reliure spirale نگه‌داشتن صفحه‌ها را آسان می‌کند. پرونده را می‌توان در placard یا در dossier numérique نگه‌داری کرد تا بعداً پیداکردنش آسان باشد.",
+      "key_points": [
+        "archiver یک فعل باقاعدهٔ گروه اول است.",
+        "می‌گوییم archiver un dossier ou un document.",
+        "در شکل nous می‌گوییم archivons."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "un brouillon",
+          "ipa": "/œ̃ bʁu.jɔ̃/",
+          "translation_fa": "پیش‌نویس",
+          "example": "Mina relit le brouillon avant de corriger le titre.",
+          "example_fa": "مینا پیش‌نویس را پیش از اصلاح عنوان دوباره می‌خواند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une marge",
+          "ipa": "/yn maʁʒ/",
+          "translation_fa": "حاشیه",
+          "example": "La marge reste vide autour du texte.",
+          "example_fa": "حاشیهٔ اطراف متن خالی می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une page de garde",
+          "ipa": "/yn paʒ də ɡaʁd/",
+          "translation_fa": "صفحهٔ رویی؛ جلد ابتدایی",
+          "example": "La page de garde présente le projet.",
+          "example_fa": "صفحهٔ رویی پروژه را معرفی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une table des matières",
+          "ipa": "/yn tabl de ma.tjɛʁ/",
+          "translation_fa": "فهرست مطالب",
+          "example": "La table des matières indique les sections.",
+          "example_fa": "فهرست مطالب بخش‌ها را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un sommaire",
+          "ipa": "/œ̃ sɔ.mɛʁ/",
+          "translation_fa": "خلاصه؛ فهرست کوتاه",
+          "example": "Un sommaire résume brièvement un dossier.",
+          "example_fa": "خلاصه پرونده را به‌اختصار جمع‌بندی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une liste à puces",
+          "ipa": "/yn list a pys/",
+          "translation_fa": "فهرست نشانه‌دار",
+          "example": "Hugo ajoute une liste à puces au document.",
+          "example_fa": "هوگو فهرست نشانه‌داری به سند اضافه می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un plan de dossier",
+          "ipa": "/œ̃ plɑ̃ də dɔ.sje/",
+          "translation_fa": "طرح پرونده",
+          "example": "Le plan de dossier place les sections dans l’ordre.",
+          "example_fa": "طرح پرونده بخش‌ها را به‌ترتیب قرار می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une reliure spirale",
+          "ipa": "/yn ʁə.ljyʁ spi.ʁal/",
+          "translation_fa": "صحافی فنری",
+          "example": "La reliure spirale garde les pages ensemble.",
+          "example_fa": "صحافی فنری برگه‌ها را کنار هم نگه می‌دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un document officiel",
+          "ipa": "/œ̃ dɔ.ky.mɑ̃.t‿ɔ.fi.sjɛl/",
+          "translation_fa": "سند رسمی",
+          "example": "Le document officiel porte une date.",
+          "example_fa": "سند رسمی تاریخی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un tampon dateur",
+          "ipa": "/œ̃ tɑ̃.pɔ̃ da.tœʁ/",
+          "translation_fa": "مهر تاریخ‌زن",
+          "example": "Le tampon dateur marque le jour de dépôt.",
+          "example_fa": "مهر تاریخ‌زن روز تحویل را مشخص می‌کند.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent d’archiver",
+      "explanation_fa": "Le verbe régulier «archiver» signifie ranger des documents afin de les retrouver plus tard. Au présent, on dit «j’archive», «tu archives», «il/elle archive», «nous archivons», «vous archivez» et «ils/elles archivent». Le radical «archiv-» prend les terminaisons du premier groupe. Le verbe reçoit un complément direct: archiver un dossier, archiver un document officiel. On peut préciser le support avec «dans»: archiver une copie dans un dossier numérique. Un sommaire et une table des matières aident à retrouver une section rapidement.",
+      "pattern": "sujet + archiver au présent + document/dossier",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "J’archive le document officiel. Tu archives le brouillon dans le dossier.",
+            "من سند رسمی را بایگانی می‌کنم. تو پیش‌نویس را در پرونده می‌گذاری."
+          ],
+          [
+            "il / elle",
+            "Il archive la page de garde. Elle archive les notes du projet.",
+            "او صفحهٔ رویی را بایگانی می‌کند. او یادداشت‌های پروژه را بایگانی می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous archivons les documents après la réunion. Vous archivez la copie dans le classeur.",
+            "ما اسناد را پس از جلسه بایگانی می‌کنیم. شما نسخه را در زونکن بایگانی می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Les élèves archivent leurs dossiers de classe.",
+            "دانش‌آموزان پرونده‌های کلاس خود را بایگانی می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "archiver فعل باقاعدهٔ گروه اول است.",
+        "می‌گوییم archiver un dossier ou un document."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mina archive le brouillon dans le dossier.",
+          "fa": "مینا پیش‌نویس را در پرونده بایگانی می‌کند.",
+          "note_fa": "Le complément direct suit le verbe."
+        },
+        {
+          "target": "Nous archivons les photos après la présentation.",
+          "fa": "ما عکس‌ها را پس از ارائه بایگانی می‌کنیم.",
+          "note_fa": "Avec nous, la terminaison est -ons."
+        },
+        {
+          "target": "Tu archives la page de garde avec le sommaire.",
+          "fa": "تو صفحهٔ رویی را همراه خلاصه بایگانی می‌کنی.",
+          "note_fa": "La forme tu prend -es."
+        },
+        {
+          "target": "Les élèves archivent les dossiers de la classe.",
+          "fa": "دانش‌آموزان پرونده‌های کلاس را بایگانی می‌کنند.",
+          "note_fa": "Le sujet pluriel prend archivent."
+        },
+        {
+          "target": "Vous archivez le document officiel dans une chemise.",
+          "fa": "شما سند رسمی را در پوشه بایگانی می‌کنید.",
+          "note_fa": "Avec vous, on écrit archivez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "La version finale",
+      "script": "Mina: La page de garde porte le titre du projet.\nHugo: Le sommaire résume les sections principales.\nMina: La table des matières indique les pages.\nHugo: Le brouillon est dans la chemise cartonnée.\nMina: Je vérifie la marge autour du texte.\nHugo: La liste à puces résume les résultats.\nMina: Le document officiel porte la date de lundi.\nHugo: Le tampon dateur marque le jour du dépôt.\nMina: Nous archivons tout dans le dossier de classe.",
+      "script_fa": "مینا: صفحهٔ رویی عنوان پروژه را دارد.\nهوگو: خلاصه بخش‌های اصلی را معرفی می‌کند.\nمینا: فهرست مطالب صفحه‌ها را نشان می‌دهد.\nهوگو: پیش‌نویس در پوشهٔ مقوایی است.\nمینا: حاشیهٔ اطراف متن را بررسی می‌کنم.\nهوگو: فهرست نشانه‌دار نتایج را خلاصه می‌کند.\nمینا: سند رسمی تاریخ دوشنبه را دارد.\nهوگو: مهر تاریخ‌زن روز تحویل را مشخص می‌کند.\nمینا: همه‌چیز را در پروندهٔ کلاس بایگانی می‌کنیم.",
+      "question_fa": "Que marque le tampon dateur ?",
+      "answer": "Le jour du dépôt.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Ranger les documents",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "La reliure spirale protège les feuilles du projet.",
+          "fa": "صحافی فنری از برگه‌های پروژه محافظت می‌کند."
+        },
+        {
+          "speaker": "B",
+          "target": "Le plan de dossier est sur la première page.",
+          "fa": "طرح پرونده روی صفحهٔ اول است."
+        },
+        {
+          "speaker": "A",
+          "target": "Le sommaire est court et clair.",
+          "fa": "خلاصه کوتاه و واضح است."
+        },
+        {
+          "speaker": "B",
+          "target": "J’archive les notes dans le dossier.",
+          "fa": "یادداشت‌ها را در پرونده بایگانی می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "La page de garde porte nos noms.",
+          "fa": "صفحهٔ رویی نام‌های ما را دارد."
+        },
+        {
+          "speaker": "B",
+          "target": "Le tampon dateur est près du classeur.",
+          "fa": "مهر تاریخ‌زن نزدیک زونکن است."
+        },
+        {
+          "speaker": "A",
+          "target": "La table des matières est complète.",
+          "fa": "فهرست مطالب کامل است."
+        },
+        {
+          "speaker": "B",
+          "target": "Nous pouvons présenter le projet demain.",
+          "fa": "می‌توانیم فردا پروژه را ارائه کنیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «مدرسه»، پروندهٔ نهایی پروژه را توصیف کن؛ نام دو بخش از پرونده را بگو و توضیح بده آن را کجا بایگانی می‌کنی.",
+      "useful_phrases": [
+        {
+          "target": "J’archive le document officiel.",
+          "fa": "سند رسمی را بایگانی می‌کنم."
+        },
+        {
+          "target": "La page de garde porte le titre.",
+          "fa": "صفحهٔ رویی عنوان را دارد."
+        },
+        {
+          "target": "Le sommaire présente les parties.",
+          "fa": "خلاصه بخش‌ها را معرفی می‌کند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Mina archive le dossier",
+      "text": "Mina termine le dossier de son projet scolaire. Elle prépare une page de garde avec le titre et les noms des élèves. Le sommaire présente les grandes parties, puis la table des matières indique les pages. Hugo relit le brouillon et vérifie la marge autour du texte. Une liste à puces résume les résultats. Le document officiel reçoit un tampon dateur avant le dépôt. Mina range les pages dans une reliure spirale. Elle archive ensuite une copie dans le dossier de la classe. Le plan de dossier permet de retrouver rapidement chaque section.",
+      "glossary": [
+        {
+          "term": "déposer",
+          "fa": "تحویل‌دادن"
+        },
+        {
+          "term": "recevoir un tampon",
+          "fa": "مهرخوردن"
+        },
+        {
+          "term": "rapidement",
+          "fa": "به‌سرعت"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Qu’est-ce que la liste à puces résume ?",
+          "a": "Les résultats."
+        },
+        {
+          "q_fa": "Où Mina archive-t-elle une copie ?",
+          "a": "Dans le dossier de la classe."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ les documents après la réunion.",
+          "options": [
+            "archivons",
+            "archivez",
+            "archivent"
+          ],
+          "answer": "archivons",
+          "explanation_fa": "با nous می‌گوییم archivons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "بخش مناسب را انتخاب کن.",
+          "question": "Pour montrer le titre et les noms au début du dossier, Mina prépare…",
+          "options": [
+            "une page de garde",
+            "un bac d’imprimante",
+            "une boussole"
+          ],
+          "answer": "une page de garde",
+          "explanation_fa": "صفحهٔ رویی عنوان و نام‌ها را دارد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Pour résumer les résultats avec des points, Hugo crée…",
+          "options": [
+            "une liste à puces",
+            "un sac de couchage",
+            "un tournevis"
+          ],
+          "answer": "une liste à puces",
+          "explanation_fa": "فهرست نشانه‌دار نکته‌های اصلی را نشان می‌دهد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "La table des matières indique les pages.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "فهرست مطالب شمارهٔ صفحه‌ها را نشان می‌دهد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ le brouillon dans le dossier.",
+          "answer": [
+            "archives"
+          ],
+          "explanation_fa": "archives"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Que marque le tampon dateur ?",
+          "answer": [
+            "Le jour du dépôt."
+          ],
+          "explanation_fa": "مهر تاریخ‌زن روز تحویل را مشخص می‌کند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Que porte la page de garde ?",
+          "options": [
+            "Le titre et les noms",
+            "La liste des outils",
+            "La météo"
+          ],
+          "answer": "Le titre et les noms",
+          "explanation_fa": "Elle présente le titre du projet."
+        },
+        {
+          "type": "mcq",
+          "question": "Que présente le sommaire ?",
+          "options": [
+            "Les grandes parties",
+            "Le poids du carton",
+            "La température"
+          ],
+          "answer": "Les grandes parties",
+          "explanation_fa": "Le sommaire montre les grandes parties."
+        },
+        {
+          "type": "mcq",
+          "question": "Que vérifie Hugo autour du texte ?",
+          "options": [
+            "La marge",
+            "La cartouche",
+            "Le boulon"
+          ],
+          "answer": "La marge",
+          "explanation_fa": "Hugo vérifie la marge."
+        },
+        {
+          "type": "mcq",
+          "question": "Que résume la liste à puces ?",
+          "options": [
+            "Les résultats",
+            "Les plans de randonnée",
+            "Les ingrédients"
+          ],
+          "answer": "Les résultats",
+          "explanation_fa": "Elle résume les résultats."
+        },
+        {
+          "type": "mcq",
+          "question": "Où Mina archive-t-elle une copie ?",
+          "options": [
+            "Dans le dossier de la classe",
+            "Dans le fournil",
+            "Dans le jardin"
+          ],
+          "answer": "Dans le dossier de la classe",
+          "explanation_fa": "Elle archive la copie dans le dossier."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Présente la version finale d’un dossier : cite la page de garde, le sommaire et l’endroit où tu archives les documents.",
+      "suggested_prompts": [
+        "J’archive le document officiel.",
+        "La page de garde porte le titre.",
+        "Le sommaire présente les parties."
+      ],
+      "focus": [
+        "archiver au présent",
+        "vocabulaire du dossier final",
+        "décrire une organisation"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Mina met en ordre la version finale d’un dossier de classe."
+  }
+}

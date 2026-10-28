@@ -1,0 +1,398 @@
+{
+  "lesson": "L322",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L322-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le fichier PDF est prêt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L322-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je garde une copie numérique sur ma clé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L322-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le scanner lit la page rapidement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L322-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Le câble USB est bien branché.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L322-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La cartouche d’encre doit être changée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L322-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Nous pouvons faire une photocopie claire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L322-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Le bac contient assez de papier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L322-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Le tirage papier est prêt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L322-fr-listening-1",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[0]",
+      "tts_text": "Le scanner est relié à l’ordinateur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L322-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Je place la feuille face vers le bas.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L322-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Le câble USB reste près du bac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L322-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "Le fichier PDF est maintenant dans le dossier partagé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L322-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "La cartouche d’encre ne contient presque plus de noir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L322-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Nous voulons aussi un tirage papier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L322-fr-listening-7",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "La clé USB garde la copie numérique.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L322-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Le résultat sur papier reste net et lisible.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L322-fr-listening-9",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[8]",
+      "tts_text": "J’envoie le document à la classe ce soir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L322-fr-vocab-uneimprimante",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "une imprimante. L’imprimante prépare une copie papier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L322-fr-vocab-unfichierpdf",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un fichier PDF. Le fichier PDF s’ouvre sur l’ordinateur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L322-fr-vocab-unecopienumerique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une copie numérique. Hugo envoie une copie numérique à Mina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L322-fr-vocab-unscanner",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un scanner. Le scanner lit la page sans la modifier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L322-fr-vocab-unephotocopie",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une photocopie. La photocopie est claire et lisible.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L322-fr-vocab-uncableusb",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un câble USB. Le câble USB relie le scanner à l’ordinateur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L322-fr-vocab-unecleusb",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une clé USB. La clé USB garde le document numérisé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L322-fr-vocab-unecartouchedencre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une cartouche d’encre. La cartouche d’encre est presque vide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L322-fr-vocab-unbacdimprimante",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un bac d’imprimante. Le bac d’imprimante contient du papier blanc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L322-fr-vocab-untiragepapier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un tirage papier. Hugo demande un tirage papier du fichier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L322-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je numérise une feuille pour le projet. Tu numérises une photo sur l’ordinateur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 80
+    },
+    {
+      "id": "L322-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il numérise un formulaire. Elle numérise la page de garde.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L322-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous numérisons le document en fichier PDF. Vous numérisez les pages de la classe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 82
+    },
+    {
+      "id": "L322-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves numérisent les photos du projet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L322-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Hugo numérise la feuille du projet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L322-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous numérisons les photos en fichier PDF.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L322-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu numérises le document sur la clé USB.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L322-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les élèves numérisent les pages de la classe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L322-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous numérisez la copie avant de l’envoyer.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L322-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Hugo veut partager une page du projet avec la classe. Il place la feuille dans le scanner, qui est relié à l’ordinateur avec un câble USB. Le fichier PDF apparaît sur l’écran. Hugo enregistre une copie numérique sur une clé USB. Mina regarde la cartouche d’encre: elle est presque vide. Ils ajoutent du papier dans le bac d’imprimante et demandent un tirage papier. Le tirage papier permet de lire chaque ligne facilement. Avant de partir, Hugo vérifie que le fichier s’ouvre correctement. Il envoie ensuite une copie à ses camarades.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 534
+    },
+    {
+      "id": "L322-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L322)",
+      "tts_text": "برای فرستادن نسخهٔ دیجیتال یک برگه از چه دستگاهی استفاده می‌کنی و فایل را کجا ذخیره می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 91
+    },
+    {
+      "id": "L322-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L322)",
+      "tts_text": "فعل باقاعدهٔ «numériser» یعنی تبدیل‌کردن سند کاغذی به فایل دیجیتال.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L322-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L322)",
+      "tts_text": "به گفت‌وگو گوش کن و جایی را پیدا کن که اسکنر به آن وصل است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L322-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L322)",
+      "tts_text": "با «nous» می‌گوییم «nous numérisons» و با «vous» می‌گوییم «vous numérisez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L322-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L322)",
+      "tts_text": "مراحل دیجیتال‌کردن یک برگه را توضیح بده و نام دستگاه را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L322-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L322)",
+      "tts_text": "با «numériser» و نام یک فایل جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 39
+    }
+  ]
+}

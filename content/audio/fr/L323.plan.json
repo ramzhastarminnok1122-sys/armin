@@ -1,0 +1,398 @@
+{
+  "lesson": "L323",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L323-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La reliure spirale protège les feuilles du projet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L323-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Le plan de dossier est sur la première page.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L323-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le sommaire est court et clair.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L323-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "J’archive les notes dans le dossier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L323-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La page de garde porte nos noms.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L323-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Le tampon dateur est près du classeur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L323-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "La table des matières est complète.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L323-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Nous pouvons présenter le projet demain.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L323-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La page de garde porte le titre du projet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L323-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Le sommaire résume les sections principales.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L323-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "La table des matières indique les pages.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L323-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Le brouillon est dans la chemise cartonnée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L323-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Je vérifie la marge autour du texte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L323-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "La liste à puces résume les résultats.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L323-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Le document officiel porte la date de lundi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L323-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Le tampon dateur marque le jour du dépôt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L323-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Nous archivons tout dans le dossier de classe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L323-fr-vocab-unbrouillon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un brouillon. Mina relit le brouillon avant de corriger le titre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L323-fr-vocab-unemarge",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une marge. La marge reste vide autour du texte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L323-fr-vocab-unepagedegarde",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une page de garde. La page de garde présente le projet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L323-fr-vocab-unetabledesmatieres",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une table des matières. La table des matières indique les sections.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L323-fr-vocab-unsommaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un sommaire. Un sommaire résume brièvement un dossier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L323-fr-vocab-unelisteapuces",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une liste à puces. Hugo ajoute une liste à puces au document.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L323-fr-vocab-unplandedossier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un plan de dossier. Le plan de dossier place les sections dans l’ordre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 71
+    },
+    {
+      "id": "L323-fr-vocab-unereliurespirale",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une reliure spirale. La reliure spirale garde les pages ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L323-fr-vocab-undocumentofficiel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un document officiel. Le document officiel porte une date.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L323-fr-vocab-untampondateur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un tampon dateur. Le tampon dateur marque le jour de dépôt.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L323-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’archive le document officiel. Tu archives le brouillon dans le dossier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 73
+    },
+    {
+      "id": "L323-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il archive la page de garde. Elle archive les notes du projet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L323-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous archivons les documents après la réunion. Vous archivez la copie dans le classeur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 87
+    },
+    {
+      "id": "L323-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves archivent leurs dossiers de classe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L323-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina archive le brouillon dans le dossier.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L323-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous archivons les photos après la présentation.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L323-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu archives la page de garde avec le sommaire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L323-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les élèves archivent les dossiers de la classe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L323-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous archivez le document officiel dans une chemise.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L323-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina termine le dossier de son projet scolaire. Elle prépare une page de garde avec le titre et les noms des élèves. Le sommaire présente les grandes parties, puis la table des matières indique les pages. Hugo relit le brouillon et vérifie la marge autour du texte. Une liste à puces résume les résultats. Le document officiel reçoit un tampon dateur avant le dépôt. Mina range les pages dans une reliure spirale. Elle archive ensuite une copie dans le dossier de la classe. Le plan de dossier permet de retrouver rapidement chaque section.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 540
+    },
+    {
+      "id": "L323-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L323)",
+      "tts_text": "برای آماده‌کردن نسخهٔ نهایی پروژه چه بخش‌هایی را می‌گذاری و آن را کجا نگه می‌داری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L323-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L323)",
+      "tts_text": "فعل باقاعدهٔ «archiver» یعنی مرتب‌کردن اسناد برای پیداکردن دوبارهٔ آن‌ها در آینده.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L323-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L323)",
+      "tts_text": "به گفت‌وگو گوش کن و چیزی را پیدا کن که روز تحویل را مشخص می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L323-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L323)",
+      "tts_text": "با «nous» می‌گوییم «nous archivons» و با «vous» می‌گوییم «vous archivez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L323-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L323)",
+      "tts_text": "پروندهٔ نهایی را توصیف کن و نام دو بخش آن را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L323-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L323)",
+      "tts_text": "با «archiver» و نام یک سند جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 37
+    }
+  ]
+}
