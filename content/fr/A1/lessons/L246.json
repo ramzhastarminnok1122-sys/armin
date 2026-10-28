@@ -1,0 +1,473 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 246,
+    "title": "Mina compare deux formats",
+    "subtitle": "Décrire des différences",
+    "description": "Comparez deux objets avec des adjectifs simples.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "مقایسهٔ دو قالب با ساختار plus ... que و صفت‌های ساده",
+      "objectives": [
+        "Comparer deux objets avec « plus ... que ».",
+        "Employer le présent du verbe comparer.",
+        "Décrire une taille et une différence visible."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در گالری دو قاب کنار هم قرار دارند. یکی بزرگ‌تر و دیگری کوچک‌تر است. برای گفتن این تفاوت به زبان فرانسوی از چه ساختاری استفاده می‌کنیم؟",
+      "questions": [
+        {
+          "q": "چطور می‌گوییم یک چیز از چیز دیگر بزرگ‌تر است؟",
+          "hint_fa": "از «plus» پیش از صفت و «que» پیش از چیز دوم استفاده می‌کنیم."
+        },
+        {
+          "q": "کدام واژه دو چیز را به هم وصل می‌کند؟",
+          "hint_fa": "واژهٔ «que» دو اسم را در مقایسه پیوند می‌دهد."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Comparer deux formats",
+      "body_fa": "برای مقایسهٔ اندازه و شکل، دو اسم را در یک جمله کنار هم می‌آوریم. ساختار «plus + صفت + que» تفاوت را نشان می‌دهد. صفت باید با اسم هماهنگ باشد؛ برای نمونه، «une feuille plus longue». می‌توانیم رنگ یا طول را نیز مقایسه کنیم. ابتدا ویژگی مشترک را پیدا کن و سپس بگو کدام چیز آن ویژگی را بیشتر دارد. در کلاس می‌توانی ابتدا دو نام را با رنگ متفاوت یادداشت کنی. سپس صفت را درست انتخاب کن و جمله را با صدای بلند بخوان تا ترتیب واژه‌ها بهتر در یادت بماند.",
+      "key_points": [
+        "برای مقایسه از «plus + صفت + que» استفاده کن.",
+        "صفت با اسم هماهنگ می‌شود.",
+        "دو قالب را با یک ویژگی روشن مقایسه کن."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "comparer",
+          "ipa": "/kɔ̃.pa.ʁe/",
+          "translation_fa": "مقایسه‌کردن",
+          "example": "Nous comparons deux formats.",
+          "example_fa": "دو قالب را مقایسه می‌کنیم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "le format",
+          "ipa": "/fɔʁ.ma/",
+          "translation_fa": "قالب؛ اندازه",
+          "example": "Le format carré est pratique.",
+          "example_fa": "قالب مربع کاربردی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "grand",
+          "ipa": "/ɡʁɑ̃/",
+          "translation_fa": "بزرگ",
+          "example": "Le dessin bleu est grand.",
+          "example_fa": "طرح آبی بزرگ است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "petit",
+          "ipa": "/pə.ti/",
+          "translation_fa": "کوچک",
+          "example": "Le modèle rond est petit.",
+          "example_fa": "مدل گرد کوچک است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "large",
+          "ipa": "/laʁʒ/",
+          "translation_fa": "پهن",
+          "example": "Cette feuille est large.",
+          "example_fa": "این برگه پهن است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "étroit",
+          "ipa": "/e.tʁwa/",
+          "translation_fa": "باریک",
+          "example": "Le passage est étroit.",
+          "example_fa": "گذرگاه باریک است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "clair",
+          "ipa": "/klɛʁ/",
+          "translation_fa": "روشن",
+          "example": "Le papier clair est visible.",
+          "example_fa": "کاغذ روشن دیده می‌شود.",
+          "tag": "صفت"
+        },
+        {
+          "term": "sombre",
+          "ipa": "/sɔ̃bʁ/",
+          "translation_fa": "تیره",
+          "example": "Le modèle sombre est joli.",
+          "example_fa": "مدل تیره زیباست.",
+          "tag": "صفت"
+        },
+        {
+          "term": "mesurer",
+          "ipa": "/mə.zy.ʁe/",
+          "translation_fa": "اندازه‌گرفتن",
+          "example": "Hugo mesure la largeur.",
+          "example_fa": "اوگو پهنا را اندازه می‌گیرد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "pareil",
+          "ipa": "/pa.ʁɛj/",
+          "translation_fa": "مشابه؛ یکسان",
+          "example": "Les deux formats sont pareils.",
+          "example_fa": "دو قالب یکسان هستند.",
+          "tag": "صفت"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Plus … que pour comparer",
+      "explanation_fa": "برای مقایسهٔ دو چیز، از ساختار «plus + صفت + que» استفاده می‌کنیم. واژهٔ «plus» پیش از صفت می‌آید و «que» دو اسم را به هم وصل می‌کند. جملهٔ «Le format bleu est plus grand que le format vert» می‌گوید قالب آبی از قالب سبز بزرگ‌تر است. صفت باید با اسم هماهنگ شود؛ برای اسم مؤنث شکل «grande» و برای اسم مذکر شکل «grand» را می‌آوریم. می‌توانیم اندازه، طول یا رنگ دو چیز را مقایسه کنیم. نخست دو اسم را مشخص کن، سپس صفت مناسب را انتخاب کن و در پایان «plus» و «que» را در جای خود قرار بده. اگر دو چیز برابرند، ساختار دیگری به کار می‌رود، اما در این درس روی مقایسهٔ بیشتر تمرکز می‌کنیم.",
+      "pattern": "A + être + plus + adjectif + que + B",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "masculin",
+            "Le format bleu est plus grand que le vert.",
+            "قالب آبی از قالب سبز بزرگ‌تر است."
+          ],
+          [
+            "féminin",
+            "La feuille claire est plus large que la sombre.",
+            "برگهٔ روشن از برگهٔ تیره پهن‌تر است."
+          ],
+          [
+            "longueur",
+            "Cette ligne est plus longue que l’autre.",
+            "این خط از خط دیگر بلندتر است."
+          ],
+          [
+            "négation",
+            "Le modèle rond n’est pas plus petit que le carré.",
+            "مدل گرد از مدل مربع کوچک‌تر نیست."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Plus» پیش از صفت می‌آید.",
+        "«Que» پیش از مورد دوم قرار می‌گیرد.",
+        "صفت مؤنث با اسم هماهنگ می‌شود."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Le format bleu est plus grand que le vert.",
+          "fa": "قالب آبی از قالب سبز بزرگ‌تر است.",
+          "note_fa": "از «plus» و «que» برای مقایسه استفاده می‌کنیم."
+        },
+        {
+          "target": "La feuille claire est plus large que la sombre.",
+          "fa": "برگهٔ روشن از برگهٔ تیره پهن‌تر است.",
+          "note_fa": "صفت با اسم مؤنث هماهنگ شده است."
+        },
+        {
+          "target": "Le dessin carré est plus petit que le dessin long.",
+          "fa": "طرح مربع از طرح بلند کوچک‌تر است.",
+          "note_fa": "دو اسم را با «que» مقایسه می‌کنیم."
+        },
+        {
+          "target": "Hugo mesure la longueur du papier.",
+          "fa": "اوگو طول کاغذ را اندازه می‌گیرد.",
+          "note_fa": "فعل «mesurer» یک فعل گروه اول است."
+        },
+        {
+          "target": "Les deux formats sont pareils.",
+          "fa": "دو قالب یکسان هستند.",
+          "note_fa": "«Pareil» شباهت دو چیز را نشان می‌دهد."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Deux modèles à comparer",
+      "script": "Mina: La galerie présente deux formats sur la table.\nHugo: Le format bleu est plus large que le vert.\nMina: Le dessin rond est plus petit que le carré.\nHugo: Et cette feuille claire est plus longue.\nMina: La professeure mesure le bord avec une règle.\nHugo: Le papier sombre est plus étroit.\nMina: Est-ce que les deux modèles sont pareils ?\nHugo: Non, le premier est plus grand que le second.\nMina: Je préfère la forme ronde.\nHugo: Moi, je choisis le format le plus clair.\nMina: Nous notons les différences dans le carnet.\nHugo: Le dessin bleu est plus court que l’autre.\nMina: Voilà, nous avons comparé les deux formats.",
+      "script_fa": "مینا: گالری دو قالب را روی میز گذاشته است.\nاوگو: قالب آبی از قالب سبز پهن‌تر است.\nمینا: طرح گرد از طرح مربع کوچک‌تر است.\nاوگو: این برگهٔ روشن هم بلندتر است.\nمینا: آموزگار لبه را با خط‌کش اندازه می‌گیرد.\nاوگو: کاغذ تیره باریک‌تر است.\nمینا: آیا دو مدل یکسان هستند؟\nاوگو: نه، اولی از دومی بزرگ‌تر است.\nمینا: من شکل گرد را ترجیح می‌دهم.\nاوگو: من قالب روشن‌تر را انتخاب می‌کنم.\nمینا: تفاوت‌ها را در دفتر یادداشت می‌کنیم.\nاوگو: طرح آبی از دیگری کوتاه‌تر است.\nمینا: بسیار خوب، دو قالب را مقایسه کردیم.",
+      "question_fa": "Quel format est plus large ?",
+      "answer": "Le format bleu.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Choisir une forme",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Quel format est le plus grand ?",
+          "fa": "کدام قالب بزرگ‌تر است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Le modèle bleu est plus grand que le rond.",
+          "fa": "مدل آبی از مدل گرد بزرگ‌تر است."
+        },
+        {
+          "speaker": "A",
+          "target": "Et la feuille claire ?",
+          "fa": "و برگهٔ روشن چطور؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Elle est plus longue que la feuille sombre.",
+          "fa": "از برگهٔ تیره بلندتر است."
+        },
+        {
+          "speaker": "A",
+          "target": "Nous gardons les deux formats ?",
+          "fa": "هر دو قالب را نگه می‌داریم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, ils sont différents.",
+          "fa": "بله، با هم فرق دارند."
+        },
+        {
+          "speaker": "A",
+          "target": "Je note la mesure dans le carnet.",
+          "fa": "اندازه را در دفتر یادداشت می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Bonne idée, le groupe peut comparer.",
+          "fa": "فکر خوبی است، گروه می‌تواند مقایسه کند."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی مدرسه، دو برگه یا دو تصویر را با هم‌کلاسی مقایسه کن. از «plus … que» و دست‌کم دو صفت استفاده کن.",
+      "useful_phrases": [
+        {
+          "target": "Le dessin bleu est plus grand.",
+          "fa": "طرح آبی بزرگ‌تر است."
+        },
+        {
+          "target": "La feuille claire est plus longue.",
+          "fa": "برگهٔ روشن بلندتر است."
+        },
+        {
+          "target": "Ce format est plus étroit que l’autre.",
+          "fa": "این قالب از دیگری باریک‌تر است."
+        },
+        {
+          "target": "Les deux formes sont pareilles.",
+          "fa": "دو شکل یکسان هستند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Deux affiches pour la classe",
+      "text": "Pour le projet de classe, Mina et Hugo regardent deux affiches. La première affiche est plus grande que la seconde. Elle montre un jardin clair avec un petit chemin. La deuxième affiche est plus étroite, mais son dessin est plus long. Les élèves mesurent les bords avec une règle et notent les résultats. La professeure demande quelle forme convient au mur. Mina choisit la grande affiche, tandis que Hugo préfère le format étroit. Ils comparent leurs raisons et gardent les deux modèles pour la réunion.",
+      "glossary": [
+        {
+          "term": "tandis que",
+          "fa": "در حالی که"
+        },
+        {
+          "term": "un bord",
+          "fa": "لبه"
+        },
+        {
+          "term": "convenir",
+          "fa": "مناسب‌بودن"
+        },
+        {
+          "term": "un résultat",
+          "fa": "نتیجه"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "کدام آگهی بزرگ‌تر است؟",
+          "a": "La première affiche."
+        },
+        {
+          "q_fa": "دانش‌آموزان با چه چیزی لبه‌ها را اندازه می‌گیرند؟",
+          "a": "Avec une règle."
+        },
+        {
+          "q_fa": "آیا مینا و اوگو یک مدل را ترجیح می‌دهند؟",
+          "a": "Non."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "ساختار درست را برای مقایسه انتخاب کن.",
+          "question": "Le format bleu est ___ grand ___ le vert.",
+          "options": [
+            "plus / que",
+            "que / plus",
+            "plus / à"
+          ],
+          "answer": "plus / que",
+          "explanation_fa": "در مقایسه، «plus» پیش از صفت و «que» پیش از مورد دوم می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "صفت را با اسم مؤنث هماهنگ کن.",
+          "question": "La feuille est plus ___.",
+          "options": [
+            "longue",
+            "long",
+            "longs"
+          ],
+          "answer": "longue",
+          "explanation_fa": "«Feuille» مؤنث است، پس صفت «longue» می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "گزینهٔ درست برای قالب باریک را انتخاب کن.",
+          "question": "Le modèle ___ est plus facile à tenir.",
+          "options": [
+            "étroit",
+            "étroite",
+            "étroits"
+          ],
+          "answer": "étroit",
+          "explanation_fa": "«Modèle» مذکر است و صفت «étroit» با آن هماهنگ می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ اندازه‌گیری را پیدا کن.",
+          "question": "Hugo ___ la largeur du papier.",
+          "options": [
+            "mesure",
+            "choisit",
+            "paye"
+          ],
+          "answer": "mesure",
+          "explanation_fa": "فعل «mesurer» به معنی اندازه‌گرفتن است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جای خالی را با واژهٔ مقایسه کامل کن.",
+          "question": "Le format bleu est ___ grand que le vert.",
+          "answer": [
+            "plus"
+          ],
+          "explanation_fa": "در این ساختار «plus» پیش از صفت می‌آید."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "دو برگه را با یک صفت مقایسه کن.",
+          "question": "Compare deux feuilles de couleurs différentes.",
+          "answer": [
+            "La feuille claire est plus longue que la sombre.",
+            "Le papier bleu est plus large que le jaune."
+          ],
+          "explanation_fa": "از «plus … que» و یک صفت استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quel format est plus large dans l’écoute ?",
+          "options": [
+            "Le format bleu",
+            "Le modèle rond",
+            "Le papier sombre"
+          ],
+          "answer": "Le format bleu",
+          "explanation_fa": "Mina indique que le format bleu est plus large."
+        },
+        {
+          "type": "mcq",
+          "question": "Avec quel objet Hugo mesure-t-il le bord ?",
+          "options": [
+            "Une règle",
+            "Un ticket",
+            "Un sac"
+          ],
+          "answer": "Une règle",
+          "explanation_fa": "Il mesure le bord avec une règle."
+        },
+        {
+          "type": "mcq",
+          "question": "Complète : «La feuille claire est plus ___ que la sombre.»",
+          "options": [
+            "large",
+            "larges",
+            "larger"
+          ],
+          "answer": "large",
+          "explanation_fa": "«Feuille» est féminin singulier."
+        },
+        {
+          "type": "mcq",
+          "question": "Pourquoi les élèves gardent-ils les deux modèles ?",
+          "options": [
+            "Pour les comparer à la réunion",
+            "Pour les vendre",
+            "Pour les jeter"
+          ],
+          "answer": "Pour les comparer à la réunion",
+          "explanation_fa": "Ils gardent les deux formats pour le projet."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle phrase exprime une comparaison ?",
+          "options": [
+            "Le bleu est plus grand que le vert.",
+            "Le bleu est sur la table.",
+            "Le vert est dans le carnet."
+          ],
+          "answer": "Le bleu est plus grand que le vert.",
+          "explanation_fa": "«Plus … que» sert à comparer."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Présente deux objets de la classe et compare leur taille, leur longueur ou leur couleur avec « plus … que ».",
+      "suggested_prompts": [
+        "Comparez deux formats avec grand et petit.",
+        "Décrivez une feuille claire et une feuille sombre.",
+        "Mesurez un objet et annoncez sa longueur.",
+        "Écoutez une autre comparaison et répondez poliment."
+      ],
+      "focus": [
+        "comparatif plus … que",
+        "accord simple des adjectifs",
+        "présent de comparer et mesurer"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson: pupils compare two display formats using familiar adjectives."
+  }
+}

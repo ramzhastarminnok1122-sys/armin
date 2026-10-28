@@ -1,0 +1,473 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 248,
+    "title": "Le groupe cherche la sortie",
+    "subtitle": "Suivre des indications simples",
+    "description": "Suivez des indications pour retrouver la sortie du musée.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "فرمان ساده و واژگان مسیر برای یافتن خروجی",
+      "objectives": [
+        "Comprendre des indications de direction.",
+        "Employer l’impératif pour donner une consigne.",
+        "Nommer quelques lieux d’un musée."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "بازدید تمام شده است و گروه باید خروجی را پیدا کند. تابلوها جهت حرکت را نشان می‌دهند. برای راهنمایی کوتاه در فرانسوی از چه شکل فعلی استفاده می‌کنیم؟",
+      "questions": [
+        {
+          "q": "در فرمان «به چپ بپیچ» ضمیر فاعلی را می‌گوییم؟",
+          "hint_fa": "نه، در فرمان ساده ضمیر «tu» را حذف می‌کنیم."
+        },
+        {
+          "q": "«Tout droit» چه معنی دارد؟",
+          "hint_fa": "یعنی مستقیم یا به جلو."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Indiquer le chemin",
+      "body_fa": "در یک موزه می‌توانیم با فرمان‌های کوتاه مسیر را توضیح دهیم. برای نمونه، «Tourne à gauche» یعنی به چپ بپیچ و «Continue tout droit» یعنی مستقیم ادامه بده. در فرمان مثبت با «tu»، ضمیر نوشته نمی‌شود. می‌توانیم نام راهرو، پله یا تابلو را اضافه کنیم تا دستور روشن‌تر باشد. بهتر است یک جهت را در هر جمله بیان کنیم و آرام صحبت کنیم. اگر تابلو را نمی‌بینی، از راهنمای موزه کمک بخواه و نزدیک گروه بمان. پیش از رفتن به پله‌ها، مطمئن شو مسیر برای همه باز و امن است.",
+      "key_points": [
+        "در فرمان مثبت، ضمیر «tu» حذف می‌شود.",
+        "از واژه‌های جهت برای روشن‌کردن مسیر استفاده کن.",
+        "هر بار یک دستور کوتاه بده."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "sortir",
+          "ipa": "/sɔʁ.tiʁ/",
+          "translation_fa": "بیرون‌رفتن",
+          "example": "Nous sortons après la visite.",
+          "example_fa": "پس از بازدید بیرون می‌رویم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "la sortie",
+          "ipa": "/la sɔʁ.ti/",
+          "translation_fa": "خروجی",
+          "example": "La sortie est près du hall.",
+          "example_fa": "خروجی نزدیک تالار است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un couloir",
+          "ipa": "/œ̃ ku.lwaʁ/",
+          "translation_fa": "راهرو",
+          "example": "Le couloir est long.",
+          "example_fa": "راهرو طولانی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un escalier",
+          "ipa": "/œ̃n ɛs.ka.lje/",
+          "translation_fa": "راه‌پله",
+          "example": "L’escalier monte au premier étage.",
+          "example_fa": "راه‌پله به طبقهٔ اول می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une flèche",
+          "ipa": "/yn flɛʃ/",
+          "translation_fa": "پیکان",
+          "example": "Le panneau montre une flèche jaune.",
+          "example_fa": "تابلو یک پیکان زرد را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "à droite",
+          "ipa": "/a dʁwat/",
+          "translation_fa": "به راست",
+          "example": "Tourne à droite au panneau.",
+          "example_fa": "کنار تابلو به راست بپیچ.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "à gauche",
+          "ipa": "/a ɡoʃ/",
+          "translation_fa": "به چپ",
+          "example": "La porte est à gauche.",
+          "example_fa": "در به سمت چپ است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "indiquer",
+          "ipa": "/ɛ̃.di.ke/",
+          "translation_fa": "نشان‌دادن؛ راهنمایی‌کردن",
+          "example": "La flèche indique la sortie.",
+          "example_fa": "پیکان خروجی را نشان می‌دهد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "traverser",
+          "ipa": "/tʁa.vɛʁ.se/",
+          "translation_fa": "از میان گذشتن",
+          "example": "Nous traversons le hall.",
+          "example_fa": "از تالار می‌گذریم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "un panneau",
+          "ipa": "/œ̃ pa.no/",
+          "translation_fa": "تابلو؛ علامت",
+          "example": "Le panneau indique la sortie.",
+          "example_fa": "تابلو خروجی را نشان می‌دهد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "L’impératif pour donner une direction",
+      "explanation_fa": "در فرانسوی برای دادن راهنمایی کوتاه می‌توانیم از حالت امری استفاده کنیم. در فرمان مثبت با «tu»، فاعل نوشته نمی‌شود: «Tourne à gauche» یعنی به چپ بپیچ. برای رفتن مستقیم می‌گوییم «Continue tout droit» و برای گذشتن از یک فضا می‌گوییم «Traverse le hall». شکل فعل شبیه زمان حال است، اما ضمیر حذف می‌شود. در بسیاری از فعل‌های گروه اول، پایان «-s» در فرمان مثبت کوتاه حذف می‌شود: «Tu tournes», اما «Tourne !». جهت را می‌توان با عبارت‌هایی مانند «à droite» یا «à gauche» روشن کرد. یک دستور در هر جمله بده، نام مکان را اضافه کن و از تابلو برای بررسی مسیر کمک بگیر.",
+      "pattern": "verbe à l’impératif + direction / lieu",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "tourner",
+            "Tourne à gauche au couloir.",
+            "در راهرو به چپ بپیچ."
+          ],
+          [
+            "continuer",
+            "Continue tout droit vers le hall.",
+            "به‌سوی تالار مستقیم ادامه بده."
+          ],
+          [
+            "traverser",
+            "Traverse la salle lentement.",
+            "آرام از سالن عبور کن."
+          ],
+          [
+            "regarder",
+            "Regarde le panneau bleu.",
+            "به تابلوی آبی نگاه کن."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "ضمیر «tu» را در فرمان مثبت نمی‌آوریم.",
+        "«Tourne» یک دستور برای پیچیدن است.",
+        "جهت را با «à gauche» یا «à droite» بیان کن."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Tourne à gauche près du panneau.",
+          "fa": "نزدیک تابلو به چپ بپیچ.",
+          "note_fa": "در فرمان، ضمیر فاعلی حذف می‌شود."
+        },
+        {
+          "target": "Continue tout droit jusqu’au hall.",
+          "fa": "تا تالار مستقیم ادامه بده.",
+          "note_fa": "«Tout droit» یعنی مستقیم."
+        },
+        {
+          "target": "Traverse le couloir avec le groupe.",
+          "fa": "همراه گروه از راهرو عبور کن.",
+          "note_fa": "فعل «traverser» یک فعل گروه اول است."
+        },
+        {
+          "target": "Regarde le plan à côté de l’escalier.",
+          "fa": "کنار پله به نقشه نگاه کن.",
+          "note_fa": "فرمان مثبت از شکل کوتاه فعل استفاده می‌کند."
+        },
+        {
+          "target": "La sortie est derrière la porte vitrée.",
+          "fa": "خروجی پشت در شیشه‌ای است.",
+          "note_fa": "«La sortie» یعنی خروجی."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Où est la sortie ?",
+      "script": "Hugo: La visite est terminée, mais je ne vois pas la sortie.\nMina: Regarde le panneau près du couloir.\nHugo: Il indique l’escalier ?\nMina: Oui, tourne à droite au bout du couloir.\nHugo: Puis-je prendre cet escalier ?\nMina: Oui, monte au premier étage.\nHugo: La sortie est à gauche ?\nMina: Non, traverse le hall et continue tout droit.\nHugo: Le panneau bleu indique la porte vitrée.\nMina: C’est bien la sortie principale.\nHugo: Nous sortons avec le groupe.\nMina: La professeure attend près de l’entrée.\nHugo: Alors, suivons-la sans courir.",
+      "script_fa": "اوگو: بازدید تمام شده، اما خروجی را نمی‌بینم.\nمینا: به تابلوی کنار راهرو نگاه کن.\nاوگو: راه‌پله را نشان می‌دهد؟\nمینا: بله، در انتهای راهرو به راست بپیچ.\nاوگو: می‌توانم از این پله استفاده کنم؟\nمینا: بله، به طبقهٔ اول برو.\nاوگو: خروجی سمت چپ است؟\nمینا: نه، از تالار بگذر و مستقیم ادامه بده.\nاوگو: تابلوی آبی در شیشه‌ای را نشان می‌دهد.\nمینا: بله، آن خروجی اصلی است.\nاوگو: با گروه بیرون می‌رویم.\nمینا: آموزگار نزدیک ورودی منتظر است.\nاوگو: پس بدون دویدن دنبالش برویم.",
+      "question_fa": "Dans quelle direction Hugo tourne-t-il au bout du couloir ?",
+      "answer": "À droite.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Retrouver la porte",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Où se trouve la sortie principale ?",
+          "fa": "خروجی اصلی کجاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Traverse le hall et regarde le panneau bleu.",
+          "fa": "از تالار بگذر و به تابلوی آبی نگاه کن."
+        },
+        {
+          "speaker": "A",
+          "target": "Je tourne à droite ici ?",
+          "fa": "اینجا به راست بپیچم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, continue tout droit jusqu’à l’escalier.",
+          "fa": "نه، تا پله مستقیم ادامه بده."
+        },
+        {
+          "speaker": "A",
+          "target": "Puis-je utiliser la porte vitrée ?",
+          "fa": "می‌توانم از در شیشه‌ای استفاده کنم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, elle mène au jardin.",
+          "fa": "بله، به باغ می‌رسد."
+        },
+        {
+          "speaker": "A",
+          "target": "Le groupe attend près de l’entrée.",
+          "fa": "گروه نزدیک ورودی منتظر است."
+        },
+        {
+          "speaker": "B",
+          "target": "Alors, sortons ensemble et sans courir.",
+          "fa": "پس با هم و بدون دویدن بیرون برویم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی مدرسه، مسیر خروجی را برای یک هم‌کلاسی توضیح بده. از دست‌کم سه فرمان و دو عبارت جهت استفاده کن.",
+      "useful_phrases": [
+        {
+          "target": "Tourne à droite au panneau.",
+          "fa": "کنار تابلو به راست بپیچ."
+        },
+        {
+          "target": "Continue tout droit dans le hall.",
+          "fa": "در تالار مستقیم ادامه بده."
+        },
+        {
+          "target": "Traverse le couloir avec le groupe.",
+          "fa": "همراه گروه از راهرو بگذر."
+        },
+        {
+          "target": "Regarde la sortie à gauche.",
+          "fa": "به خروجی سمت چپ نگاه کن."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "La fin de la visite",
+      "text": "La classe quitte la dernière salle du musée. La professeure montre un panneau bleu et demande aux élèves de rester ensemble. Ils traversent un long couloir, puis tournent à droite près de l’escalier. Le hall est calme. Mina regarde le plan et voit une flèche vers la sortie. Hugo continue tout droit jusqu’à la porte vitrée. Le groupe attend quelques secondes pour vérifier que personne ne reste derrière. Ensuite, les élèves sortent dans le jardin et remercient leur guide. Ils attendent ensuite près du bus.",
+      "glossary": [
+        {
+          "term": "quitter",
+          "fa": "ترک‌کردن"
+        },
+        {
+          "term": "une flèche",
+          "fa": "پیکان"
+        },
+        {
+          "term": "vérifier",
+          "fa": "بررسی‌کردن"
+        },
+        {
+          "term": "derrière",
+          "fa": "عقب؛ پشت سر"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "گروه کنار چه چیزی به راست می‌پیچد؟",
+          "a": "Près de l’escalier."
+        },
+        {
+          "q_fa": "مینا روی نقشه چه چیزی می‌بیند؟",
+          "a": "Une flèche vers la sortie."
+        },
+        {
+          "q_fa": "دانش‌آموزان پس از خروج کجا می‌روند؟",
+          "a": "Dans le jardin."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "دستور را با عبارت جهت کامل کن.",
+          "question": "___ à gauche au panneau.",
+          "options": [
+            "Tourne",
+            "Tournes",
+            "Tourner"
+          ],
+          "answer": "Tourne",
+          "explanation_fa": "در فرمان مثبت، ضمیر «tu» حذف می‌شود و شکل «Tourne» می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "معنی «tout droit» را انتخاب کن.",
+          "question": "Continue ___.",
+          "options": [
+            "tout droit",
+            "à gauche",
+            "en dessous"
+          ],
+          "answer": "tout droit",
+          "explanation_fa": "«Tout droit» یعنی مستقیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جملهٔ فرمان درست را پیدا کن.",
+          "question": "___ le hall avec le groupe.",
+          "options": [
+            "Traverse",
+            "Traverses",
+            "Traverser"
+          ],
+          "answer": "Traverse",
+          "explanation_fa": "در فرمان مثبت می‌گوییم «Traverse»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "تابلویی را انتخاب کن که مسیر را نشان می‌دهد.",
+          "question": "Quel objet indique le chemin ?",
+          "options": [
+            "Un panneau",
+            "Un reçu",
+            "Un marque-page"
+          ],
+          "answer": "Un panneau",
+          "explanation_fa": "تابلو می‌تواند جهت یا خروجی را نشان دهد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فرمان را کامل کن.",
+          "question": "___ tout droit jusqu’au hall.",
+          "answer": [
+            "Continue"
+          ],
+          "explanation_fa": "در فرمان مثبت ضمیر «tu» حذف می‌شود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "مسیر خروجی را با سه دستور توضیح بده.",
+          "question": "Indique le chemin vers la sortie.",
+          "answer": [
+            "Traverse le hall, tourne à gauche et continue tout droit.",
+            "Regarde le panneau, traverse le couloir et sors avec le groupe."
+          ],
+          "explanation_fa": "از فعل امری و واژه‌های جهت استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quel panneau Hugo regarde-t-il ?",
+          "options": [
+            "Le panneau bleu",
+            "Le ticket rouge",
+            "La carte verte"
+          ],
+          "answer": "Le panneau bleu",
+          "explanation_fa": "Mina lui indique le panneau bleu."
+        },
+        {
+          "type": "mcq",
+          "question": "Où Hugo tourne-t-il au bout du couloir ?",
+          "options": [
+            "À droite",
+            "À gauche",
+            "Il ne tourne pas"
+          ],
+          "answer": "À droite",
+          "explanation_fa": "Il tourne à droite."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle instruction signifie «go straight» ?",
+          "options": [
+            "Continue tout droit.",
+            "Traverse la salle.",
+            "Regarde derrière."
+          ],
+          "answer": "Continue tout droit.",
+          "explanation_fa": "«Tout droit» signifie directement devant."
+        },
+        {
+          "type": "mcq",
+          "question": "Que voit Mina sur le plan ?",
+          "options": [
+            "Une flèche vers la sortie",
+            "Un prix en euros",
+            "Une carte postale"
+          ],
+          "answer": "Une flèche vers la sortie",
+          "explanation_fa": "Le plan montre une flèche vers la sortie."
+        },
+        {
+          "type": "mcq",
+          "question": "Où les élèves vont-ils après le musée ?",
+          "options": [
+            "Dans le jardin",
+            "Dans la boutique",
+            "Dans la salle de classe"
+          ],
+          "answer": "Dans le jardin",
+          "explanation_fa": "Ils sortent dans le jardin."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Donnez à un camarade des indications simples pour aller d’un couloir à la sortie. Employez des impératifs et des mots de direction.",
+      "suggested_prompts": [
+        "Indiquez comment tourner au bout du couloir.",
+        "Dites comment traverser le hall.",
+        "Expliquez où se trouve le panneau.",
+        "Vérifiez poliment que votre camarade a compris."
+      ],
+      "focus": [
+        "impératif positif avec tu",
+        "direction à droite / à gauche / tout droit",
+        "lieux du musée"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson: a group follows simple directions to find the museum exit."
+  }
+}

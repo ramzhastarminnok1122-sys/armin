@@ -4,7 +4,8 @@ Updated: 2026-10-28
 
 ## Content
 
-- Installed and validated: French L001–L245 (245 of 340).
+- Installed and validated: French L001–L248 (248 of 340).
+- L246–L248 validation against L001–L245: 3 lessons, 4,382 checks, 0 errors; independent QA: 127 assertions passed.
 - L243–L245 validation against L001–L242: 3 lessons, 4,376 checks, 0 errors; independent QA: 139 assertions passed.
 - L231–L233: prepare a calm reading corner with `s’installer`; browse a shared album with `feuilleter`; tell a short story with `raconter`.
 - L234–L236: continue the shared-reading project and consolidate present-tense forms through a group activity.
@@ -159,10 +160,10 @@ Updated: 2026-10-28
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 245; plan manifests: 245; planned clips: 11,025 (L152–L245 add 4,349 clips: 3,785 French and 564 Persian; L228–L230, L231–L233, L234–L236, L237–L239, L240–L242, and L243–L245 each add 141 clips: 123 French and 18 Persian).
+- French lessons: 248; plan manifests: 248; planned clips: 11,166 (L152–L248 add 4,490 clips: 3,908 French and 582 Persian; L228–L230, L231–L233, L234–L236, L237–L239, L240–L242, L243–L245, and L246–L248 each add 141 clips: 123 French and 18 Persian).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 11,025.
-- Lessons with complete real audio: 0; lessons without real audio: 245.
+- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 11,166.
+- Lessons with complete real audio: 0; lessons without real audio: 248.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -174,4 +175,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue French sequentially from L246. Preserve completed lessons, work in explicit isolated ranges, validate before install, and keep English/Spanish data unchanged.
+Continue French sequentially from L249. Preserve completed lessons, work in explicit isolated ranges, validate before install, and keep English/Spanish data unchanged.
