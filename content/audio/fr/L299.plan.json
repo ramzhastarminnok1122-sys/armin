@@ -1,0 +1,398 @@
+{
+  "lesson": "L299",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L299-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu as pris un sac en tissu pour les courses ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L299-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, je le garde dans mon sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L299-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "La boîte réutilisable est pour le déjeuner ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L299-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, elle protège le repas dans le train.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L299-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Le robinet coule encore dans la cuisine ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L299-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Non, je le ferme après avoir rempli le contenant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L299-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "La paille réutilisable est dans le tiroir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L299-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Parfait, nous réduisons les objets jetables.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L299-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La famille réduit les emballages pendant les courses.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L299-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Le sac en tissu remplace les sacs jetables.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L299-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "On choisit un produit en vrac quand c’est possible.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L299-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Un contenant sert à garder les aliments.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L299-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Cette boîte réutilisable est pratique pour le déjeuner.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L299-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Nous utilisons une paille réutilisable au café.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L299-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Je ferme le robinet pendant que je me brosse les dents.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L299-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Ce geste écologique économise de l’eau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L299-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Un achat local demande parfois moins d’emballage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L299-fr-vocab-unsacentissu",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un sac en tissu. Le sac en tissu sert pour les courses.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L299-fr-vocab-unemballageenpapier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un emballage en papier. L’emballage en papier se recycle facilement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L299-fr-vocab-uneboitereutilisable",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une boîte réutilisable. La boîte réutilisable garde le déjeuner frais.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L299-fr-vocab-unproduitenvrac",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un produit en vrac. Ce produit en vrac coûte moins cher.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L299-fr-vocab-uncontenant",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un contenant. Ce contenant protège les aliments du soleil.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L299-fr-vocab-unachatlocal",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un achat local. Un achat local soutient les commerces du quartier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L299-fr-vocab-unrobinet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un robinet. Le robinet reste fermé pendant le brossage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L299-fr-vocab-uneeconomiedeau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une économie d’eau. Une douche courte permet une économie d’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L299-fr-vocab-ungesteecologique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un geste écologique. Éteindre la lumière est un geste écologique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L299-fr-vocab-unepaillereutilisable",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une paille réutilisable. Mina prend une paille réutilisable au café.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L299-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je réduis les emballages. Tu réduis ta consommation d’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L299-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il réduit les déchets du déjeuner. Elle réduit le plastique à la maison.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L299-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous réduisons les emballages. Vous réduisez les déchets avec un sac en tissu.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 78
+    },
+    {
+      "id": "L299-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils réduisent les déchets chaque semaine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L299-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina réduit les emballages pendant les courses.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L299-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous réduisons les déchets à la maison.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L299-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu réduis l’usage du plastique.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L299-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les familles réduisent leurs emballages.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L299-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous réduisez votre consommation d’eau.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L299-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Chez Mina, la famille cherche à réduire les déchets du quotidien. Pour les courses, Mina utilise un sac en tissu et choisit parfois un produit en vrac. À la maison, son frère garde le déjeuner dans une boîte réutilisable. La famille préfère aussi l’emballage en papier quand il est disponible. Dans la salle de bains, Hugo ferme le robinet pendant qu’il se brosse les dents. Une paille réutilisable reste dans le tiroir de la cuisine pour les boissons. Ces gestes sont faciles à répéter. La famille pense qu’un petit changement chaque semaine peut réduire les emballages et économiser de l’eau.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 594
+    },
+    {
+      "id": "L299-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L299)",
+      "tts_text": "چه عادت‌های ساده‌ای در خرید و خانه به کاهش بسته‌بندی و صرفه‌جویی در آب کمک می‌کند؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L299-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L299)",
+      "tts_text": "فعل «réduire» یعنی کم‌کردن مقدار چیزی و در زمان حال به‌صورت بی‌قاعده صرف می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 80
+    },
+    {
+      "id": "L299-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L299)",
+      "tts_text": "به گفت‌وگو گوش کن و وسیله‌ای را پیدا کن که جای کیسه‌های نازک را می‌گیرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L299-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L299)",
+      "tts_text": "با فاعل «nous» می‌گوییم «nous réduisons» و با «ils» می‌گوییم «ils réduisent».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L299-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L299)",
+      "tts_text": "دو وسیلهٔ چندبارمصرف را نام ببر و یک عادت صرفه‌جویی را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L299-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L299)",
+      "tts_text": "با «réduire» یک جمله دربارهٔ بسته‌بندی بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 44
+    }
+  ]
+}
