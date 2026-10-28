@@ -1,0 +1,371 @@
+{
+  "lesson": "L258",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L258-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Bonjour, je voudrais expédier cette lettre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L258-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Elle part en France ou à l’étranger ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L258-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Elle part à Lille, donc en France.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L258-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Avez-vous déjà écrit le code postal ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L258-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Oui, il est sur l’enveloppe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L258-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Choisissez un timbre adapté, s’il vous plaît.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L258-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Je peux la déposer dans la boîte bleue ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L258-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, après l’affranchissement au guichet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L258-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Ce matin, j’écris une lettre à ma tante qui habite à Rouen.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L258-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Je glisse la feuille dans une enveloppe et je vérifie le code postal.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L258-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Au guichet, l’employé regarde le courrier puis me donne un timbre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L258-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Collez le timbre en haut, à droite.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L258-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Je l’affranchis et je dépose la lettre dans la boîte bleue.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L258-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Elle est devant la porte du bureau de poste.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L258-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Le service annonce une livraison rapide, en quelques jours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L258-fr-vocab-rediger",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "rédiger. Léa rédige une courte lettre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L258-fr-vocab-uneenveloppe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une enveloppe. Je prends une enveloppe blanche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L258-fr-vocab-untimbre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un timbre. Le timbre est en haut de la lettre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L258-fr-vocab-unguichet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un guichet. Le guichet ouvre après le déjeuner.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L258-fr-vocab-lecourrier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "le courrier. Le courrier arrive chaque matin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L258-fr-vocab-uneboiteauxlettres",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une boîte aux lettres. La boîte aux lettres est près de la porte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L258-fr-vocab-undestinataire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un destinataire. Le destinataire habite à Rouen.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L258-fr-vocab-unexpediteur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un expéditeur. L’expéditeur signe au dos.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L258-fr-vocab-affranchir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "affranchir. Il faut affranchir la lettre avant son départ.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L258-fr-vocab-uncodepostal",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un code postal. Le code postal est lisible sur l’enveloppe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L258-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’expédie une lettre. Tu expédies le dossier. Elle expédie un colis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L258-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous expédions le courrier. Vous expédiez le dossier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L258-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils expédient les documents.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L258-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’expédie un document à ma sœur.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L258-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "L’employée vérifie le code postal.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L258-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous affranchissons les enveloppes au guichet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L258-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le destinataire reçoit le courrier à son domicile.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L258-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ils expédient le paquet avant la fermeture.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L258-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina écrit une lettre à son cousin et choisit une enveloppe assez grande pour les feuilles. Elle recopie le nom du destinataire et son code postal, puis elle colle un timbre dans le coin supérieur droit. Au bureau de poste, l’employé vérifie que l’enveloppe est bien fermée. Mina paie au guichet et garde le reçu dans son sac. Comme la boîte aux lettres de son immeuble est pleine, elle dépose la lettre dans la boîte bleue devant la poste. Le courrier part ensuite vers le centre de tri. L’expéditeur espère que son cousin recevra la lettre sans retard.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 554
+    },
+    {
+      "id": "L258-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L258)",
+      "tts_text": "به ادارهٔ پست فکر کن و بگو برای فرستادن نامه چه چیزهایی آماده می‌کنی.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L258-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L258)",
+      "tts_text": "برای فرستادن نامه، نشانی و کد پستی را روی پاکت می‌نویسیم و تمبر مناسب را می‌چسبانیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 84
+    },
+    {
+      "id": "L258-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L258)",
+      "tts_text": "به گفت‌وگوی مینا در ادارهٔ پست گوش کن و ببین کدام اطلاعات روی پاکت بررسی می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 80
+    },
+    {
+      "id": "L258-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L258)",
+      "tts_text": "فعل اکسپدیه در زمان حال صرف می‌شود؛ به شکل‌های مفرد و جمع دقت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L258-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L258)",
+      "tts_text": "حالا نقش فرستنده را بازی کن و در باجهٔ پست درخواستت را روشن بیان کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L258-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L258)",
+      "tts_text": "یک جمله با فعل اکسپدیه بساز و یک واژهٔ تازه از ادارهٔ پست به کار ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    }
+  ]
+}

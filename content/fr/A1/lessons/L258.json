@@ -1,0 +1,452 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 258,
+    "title": "Mina poste une lettre",
+    "subtitle": "Envoyer un courrier au bureau de poste",
+    "description": "Mina prépare une enveloppe, vérifie le code postal et dépose son courrier au bureau de poste.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان فرستادن نامه و صرف فعل expédier در زمان حال",
+      "objectives": [
+        "Nommer les éléments nécessaires pour envoyer une lettre.",
+        "Employer expédier au présent.",
+        "Suivre les étapes simples d’un envoi postal."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "تصور کن می‌خواهی برای دوستی در شهری دیگر نامه بفرستی. پیش از رفتن به ادارهٔ پست، چه چیزهایی را آماده می‌کنی؟",
+      "questions": [
+        {
+          "q": "برای فرستادن نامه چه چیزی روی پاکت می‌نویسی؟",
+          "hint_fa": "نشانی و کد پستی را به یاد بیاور."
+        },
+        {
+          "q": "نامه را پس از خرید تمبر کجا می‌اندازی؟",
+          "hint_fa": "به صندوق پستی فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "از پاکت تا صندوق پستی",
+      "body_fa": "وقتی می‌خواهیم نامه یا مدرکی را با پست بفرستیم، از فعل «expédier» استفاده می‌کنیم. این فعل در زمان حال مانند فعل‌های گروه اول صرف می‌شود، اما پایان نوشتاری آن با توجه به فاعل تغییر می‌کند. می‌گوییم «j’expédie»، «tu expédies» و «elle expédie». برای «nous» شکل «expédions» و برای «vous» شکل «expédiez» به کار می‌رود. در سوم شخص جمع می‌گوییم «ils expédient». پیش از فرستادن، نشانی و کد پستی را روی پاکت می‌نویسیم و تمبر مناسب را می‌چسبانیم. «un expéditeur» فرستنده و «un destinataire» گیرنده است. پس از پرداخت، نامه را در صندوق پستی می‌اندازیم یا به باجه می‌دهیم. این واژه‌ها کمک می‌کنند مراحل ارسال را به ترتیب توضیح دهیم.",
+      "key_points": [
+        "برای فرستادن نامه از «expédier» استفاده می‌کنیم.",
+        "تمبر روی پاکت قرار می‌گیرد و کد پستی نشانی را کامل می‌کند.",
+        "«Expéditeur» فرستنده و «destinataire» گیرنده است."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "rédiger",
+          "ipa": "/ʁe.di.ʒe/",
+          "translation_fa": "نوشتن و تنظیم کردن",
+          "example": "Léa rédige une courte lettre.",
+          "example_fa": "لیا یک نامهٔ کوتاه می‌نویسد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "une enveloppe",
+          "ipa": "/yn ɑ̃.və.lɔp/",
+          "translation_fa": "پاکت نامه",
+          "example": "Je prends une enveloppe blanche.",
+          "example_fa": "من یک پاکت سفید برمی‌دارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un timbre",
+          "ipa": "/œ̃ tɛ̃bʁ/",
+          "translation_fa": "تمبر",
+          "example": "Le timbre est en haut de la lettre.",
+          "example_fa": "تمبر بالای نامه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un guichet",
+          "ipa": "/œ̃ ɡi.ʃe/",
+          "translation_fa": "باجه",
+          "example": "Le guichet ouvre après le déjeuner.",
+          "example_fa": "باجه پس از ناهار باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "le courrier",
+          "ipa": "/lə ku.ʁje/",
+          "translation_fa": "نامه‌های پستی",
+          "example": "Le courrier arrive chaque matin.",
+          "example_fa": "نامه‌های پستی هر صبح می‌رسند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une boîte aux lettres",
+          "ipa": "/yn bwat o lɛtʁ/",
+          "translation_fa": "صندوق پستی",
+          "example": "La boîte aux lettres est près de la porte.",
+          "example_fa": "صندوق پستی نزدیک در است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un destinataire",
+          "ipa": "/œ̃ dɛs.ti.na.tɛʁ/",
+          "translation_fa": "گیرنده",
+          "example": "Le destinataire habite à Rouen.",
+          "example_fa": "گیرنده در روآن زندگی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un expéditeur",
+          "ipa": "/œ̃.n‿ɛk.spe.di.tœʁ/",
+          "translation_fa": "فرستنده",
+          "example": "L’expéditeur signe au dos.",
+          "example_fa": "فرستنده پشت آن را امضا می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "affranchir",
+          "ipa": "/a.fʁɑ̃.ʃiʁ/",
+          "translation_fa": "تمبر زدن و آمادهٔ ارسال کردن",
+          "example": "Il faut affranchir la lettre avant son départ.",
+          "example_fa": "باید پیش از رفتن نامه تمبر بخورد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "un code postal",
+          "ipa": "/œ̃ kɔd pɔs.tal/",
+          "translation_fa": "کد پستی",
+          "example": "Le code postal est lisible sur l’enveloppe.",
+          "example_fa": "کد پستی روی پاکت خواناست.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent d’expédier",
+      "explanation_fa": "فعل «expédier» از گروه اول است و در زمان حال ریشهٔ «expédi-» می‌گیرد. برای «je» به پایان «-e» می‌رسیم: «j’expédie»؛ برای «tu» شکل «tu expédies» با پایان «-es» و برای «il/elle» شکل «il expédie» با پایان «-e» می‌آید. با «nous» می‌گوییم «nous expédions» و با «vous» «vous expédiez». در «ils/elles expédient» پایان «-ent» نوشته می‌شود ولی تلفظ نمی‌شود. این فعل با مفعولی مثل نامه، بسته یا مدارک می‌آید. برای بیان مقصد از «à» استفاده می‌کنیم، مثلاً «expédier une lettre à Lyon». هنگام گفتن این جمله‌ها، به تفاوت نوشتاری شکل‌های مفرد و جمع دقت کن، چون پایان‌های نوشتاری همیشه در گفتار شنیده نمی‌شوند.",
+      "pattern": "sujet + expédier au présent + courrier",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu / il",
+            "J’expédie une lettre. Tu expédies le dossier. Elle expédie un colis.",
+            "من یک نامه می‌فرستم. تو پرونده را می‌فرستی. او یک بسته می‌فرستد."
+          ],
+          [
+            "nous / vous",
+            "Nous expédions le courrier. Vous expédiez le dossier.",
+            "ما نامه را می‌فرستیم. شما پرونده را می‌فرستید."
+          ],
+          [
+            "ils / elles",
+            "Ils expédient les documents.",
+            "آن‌ها مدارک را می‌فرستند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "در «nous expédions»، پایان فعل «-ons» است؛ آن را با «vous expédiez» اشتباه نکن.",
+        "پایان «-ent» در «ils expédient» نوشته می‌شود، اما به‌تنهایی تلفظ نمی‌شود."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "J’expédie un document à ma sœur.",
+          "fa": "من یک مدرک برای خواهرم می‌فرستم.",
+          "note_fa": "À introduit ici la personne qui reçoit le document."
+        },
+        {
+          "target": "L’employée vérifie le code postal.",
+          "fa": "کارمند کد پستی را بررسی می‌کند.",
+          "note_fa": "Le code postal complète l’adresse."
+        },
+        {
+          "target": "Nous affranchissons les enveloppes au guichet.",
+          "fa": "ما پاکت‌ها را در باجه تمبر می‌زنیم.",
+          "note_fa": "Le verbe affranchir décrit la préparation postale."
+        },
+        {
+          "target": "Le destinataire reçoit le courrier à son domicile.",
+          "fa": "گیرنده نامهٔ پستی را در خانه‌اش دریافت می‌کند.",
+          "note_fa": "Le destinataire est la personne qui reçoit."
+        },
+        {
+          "target": "Ils expédient le paquet avant la fermeture.",
+          "fa": "آن‌ها بسته را پیش از تعطیلی می‌فرستند.",
+          "note_fa": "Expédient s’accorde avec ils."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Une lettre pour Rouen",
+      "script": "Mina: Ce matin, j’écris une lettre à ma tante qui habite à Rouen.\nMina: Je glisse la feuille dans une enveloppe et je vérifie le code postal.\nMina: Au guichet, l’employé regarde le courrier puis me donne un timbre.\nEmployé: Collez le timbre en haut, à droite.\nMina: Je l’affranchis et je dépose la lettre dans la boîte bleue.\nMina: Elle est devant la porte du bureau de poste.\nMina: Le service annonce une livraison rapide, en quelques jours.",
+      "script_fa": "مینا: امروز صبح برای خاله‌ام که در روآن زندگی می‌کند نامه می‌نویسم.\nمینا: برگه را در پاکت می‌گذارم و کد پستی را بررسی می‌کنم.\nمینا: کارمند باجه نامه را نگاه می‌کند و بعد تمبری به من می‌دهد.\nکارمند: لطفاً تمبر را بالا، سمت راست بچسبانید.\nمینا: تمبر را می‌زنم و نامه را در صندوق آبی می‌اندازم.\nمینا: صندوق جلوی در ادارهٔ پست است.\nمینا: اداره می‌گوید نامه طی چند روز می‌رسد.",
+      "question_fa": "Mina vérifie quelle information sur l’enveloppe ?",
+      "answer": "Elle vérifie le code postal.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Au bureau de poste",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Bonjour, je voudrais expédier cette lettre.",
+          "fa": "سلام، می‌خواهم این نامه را بفرستم."
+        },
+        {
+          "speaker": "B",
+          "target": "Elle part en France ou à l’étranger ?",
+          "fa": "نامه به فرانسه می‌رود یا خارج از کشور؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Elle part à Lille, donc en France.",
+          "fa": "به لیل می‌رود، پس مقصدش فرانسه است."
+        },
+        {
+          "speaker": "B",
+          "target": "Avez-vous déjà écrit le code postal ?",
+          "fa": "آیا کد پستی را نوشته‌اید؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Oui, il est sur l’enveloppe.",
+          "fa": "بله، روی پاکت است."
+        },
+        {
+          "speaker": "B",
+          "target": "Choisissez un timbre adapté, s’il vous plaît.",
+          "fa": "لطفاً تمبر مناسبی انتخاب کنید."
+        },
+        {
+          "speaker": "A",
+          "target": "Je peux la déposer dans la boîte bleue ?",
+          "fa": "می‌توانم آن را در صندوق آبی بیندازم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, après l’affranchissement au guichet.",
+          "fa": "بله، پس از تمبر زدن در باجه."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «خرید» در ادارهٔ پست، درخواست فرستادن نامه را مطرح کن و نشانی گیرنده را بررسی کن.",
+      "useful_phrases": [
+        {
+          "target": "Je voudrais expédier cette lettre.",
+          "fa": "می‌خواهم این نامه را بفرستم."
+        },
+        {
+          "target": "Voici le code postal du destinataire.",
+          "fa": "این کد پستی گیرنده است."
+        },
+        {
+          "target": "Où se trouve la boîte aux lettres ?",
+          "fa": "صندوق پستی کجاست؟"
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Le trajet d’une enveloppe",
+      "text": "Mina écrit une lettre à son cousin et choisit une enveloppe assez grande pour les feuilles. Elle recopie le nom du destinataire et son code postal, puis elle colle un timbre dans le coin supérieur droit. Au bureau de poste, l’employé vérifie que l’enveloppe est bien fermée. Mina paie au guichet et garde le reçu dans son sac. Comme la boîte aux lettres de son immeuble est pleine, elle dépose la lettre dans la boîte bleue devant la poste. Le courrier part ensuite vers le centre de tri. L’expéditeur espère que son cousin recevra la lettre sans retard.",
+      "glossary": [
+        {
+          "term": "un centre de tri",
+          "fa": "مرکز تفکیک مرسوله‌ها"
+        },
+        {
+          "term": "un reçu",
+          "fa": "رسید"
+        },
+        {
+          "term": "un coin supérieur",
+          "fa": "گوشهٔ بالایی"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Où Mina dépose-t-elle sa lettre ?",
+          "a": "Dans la boîte bleue devant la poste."
+        },
+        {
+          "q_fa": "Que vérifie l’employé ?",
+          "a": "Il vérifie que l’enveloppe est bien fermée."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "حرف تعریف درست را انتخاب کن.",
+          "question": "Je glisse la feuille dans ___ enveloppe.",
+          "options": [
+            "un",
+            "une",
+            "du"
+          ],
+          "answer": "une",
+          "explanation_fa": "«Enveloppe» مؤنث است؛ می‌گوییم «une enveloppe»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ les documents aujourd’hui.",
+          "options": [
+            "expédions",
+            "expédiez",
+            "expédient"
+          ],
+          "answer": "expédions",
+          "explanation_fa": "فاعل «nous» با پایان «-ons» می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "معنای destinataire را پیدا کن.",
+          "question": "Le destinataire est la personne qui…",
+          "options": [
+            "envoie le courrier",
+            "reçoit le courrier",
+            "colle le timbre"
+          ],
+          "answer": "reçoit le courrier",
+          "explanation_fa": "گیرنده کسی است که نامه را دریافت می‌کند."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Le timbre se colle sur l’enveloppe.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "تمبر را روی پاکت می‌چسبانیم."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "واژهٔ مناسب را کامل کن.",
+          "question": "Avant l’envoi, je dois ___ la lettre.",
+          "answer": [
+            "affranchir"
+          ],
+          "explanation_fa": "affranchir"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Quelle information postale complète le code de l’adresse ?",
+          "answer": [
+            "le code postal"
+          ],
+          "explanation_fa": "کد پستی بخشی از نشانی است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Que vérifie Mina avant d’aller au guichet ?",
+          "options": [
+            "Le code postal",
+            "Le poids du carton",
+            "L’heure du train"
+          ],
+          "answer": "Le code postal",
+          "explanation_fa": "Elle vérifie le code postal de l’enveloppe."
+        },
+        {
+          "type": "mcq",
+          "question": "Qui reçoit le courrier ?",
+          "options": [
+            "L’expéditeur",
+            "Le destinataire",
+            "Le guichet"
+          ],
+          "answer": "Le destinataire",
+          "explanation_fa": "Le destinataire est la personne qui reçoit la lettre."
+        },
+        {
+          "type": "mcq",
+          "question": "Où colle-t-on le timbre ?",
+          "options": [
+            "Sur l’enveloppe",
+            "Dans le sac",
+            "Sous la boîte"
+          ],
+          "answer": "Sur l’enveloppe",
+          "explanation_fa": "Le timbre se colle sur l’enveloppe."
+        },
+        {
+          "type": "mcq",
+          "question": "Que fait Mina après l’affranchissement ?",
+          "options": [
+            "Elle dépose la lettre",
+            "Elle ferme le guichet",
+            "Elle écrit un colis"
+          ],
+          "answer": "Elle dépose la lettre",
+          "explanation_fa": "Elle dépose la lettre dans la boîte bleue."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel verbe signifie envoyer un courrier ?",
+          "options": [
+            "Expédier",
+            "Peser",
+            "Sonner"
+          ],
+          "answer": "Expédier",
+          "explanation_fa": "Expédier signifie envoyer un courrier ou un paquet."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Joue une scène au bureau de poste : demande à envoyer une lettre, donne le code postal et pose une question sur le timbre.",
+      "suggested_prompts": [
+        "Bonjour, je voudrais envoyer une lettre.",
+        "Pouvez-vous vérifier ce code postal ?",
+        "Où dois-je déposer l’enveloppe ?"
+      ],
+      "focus": [
+        "expédier au présent",
+        "vocabulaire postal",
+        "questions polies"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Leçon de transition vers les services postaux ; le français cible reste entièrement en français."
+  }
+}
