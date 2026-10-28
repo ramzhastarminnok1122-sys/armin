@@ -1,0 +1,452 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 261,
+    "title": "Mina assaisonne la salade",
+    "subtitle": "Doser doucement les épices d’une recette",
+    "description": "Mina ajoute des épices à une sauce et vérifie le goût avant de l’ajouter à la salade.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان ادویه و صرف doser در زمان حال",
+      "objectives": [
+        "Nommer quelques épices et ingrédients.",
+        "Employer doser au présent.",
+        "Indiquer une petite quantité dans une recette."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای مزه‌دار کردن سالاد، چه چیزهایی را کم‌کم اضافه می‌کنی تا مزهٔ مواد اصلی حفظ شود؟",
+      "questions": [
+        {
+          "q": "برای مقدار بسیار کم از چه عبارتی استفاده می‌کنی؟",
+          "hint_fa": "یک پنسه را به یاد بیاور."
+        },
+        {
+          "q": "پیش از اضافه‌کردن ادویه چه کاری انجام می‌دهی؟",
+          "hint_fa": "سس را می‌چشی."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "اندازه‌گیری ادویه در آشپزی",
+      "body_fa": "برای مزه‌دارکردن سالاد، ادویه را کم‌کم اضافه می‌کنیم و پس از هر بار، غذا را می‌چشیم. فعل «doser» یعنی مقدار چیزی را با دقت اندازه‌گرفتن. این فعل از گروه اول است و در زمان حال مانند «je dose»، «tu doses» و «elle dose» صرف می‌شود. با «nous» می‌گوییم «nous dosons» و با «vous» «vous dosez». شکل «ils dosent» با «-ent» نوشته می‌شود، اما این پایان تلفظ نمی‌شود. برای مقدار بسیار کم از «une pincée de poivre» استفاده می‌کنیم؛ «une cuillère» مقدار بیشتری را نشان می‌دهد. «une épice» به غذا بو یا مزه می‌دهد و «parfumer» یعنی خوش‌بو یا خوش‌مزه کردن. همیشه از مقدار کم شروع کن تا مزهٔ اصلی مواد گم نشود.",
+      "key_points": [
+        "Doser یعنی مقدار را با دقت اندازه گرفتن.",
+        "Une pincée مقدار کمی از ادویه است.",
+        "ادویه را کم‌کم اضافه می‌کنیم و غذا را می‌چشیم."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "une épice",
+          "ipa": "/yn e.pis/",
+          "translation_fa": "ادویه",
+          "example": "Cette épice donne du goût à la sauce.",
+          "example_fa": "این ادویه به سس مزه می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "du poivre",
+          "ipa": "/dy pwavʁ/",
+          "translation_fa": "فلفل",
+          "example": "Je mets du poivre dans le bol.",
+          "example_fa": "من در کاسه فلفل می‌ریزم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "du persil",
+          "ipa": "/dy pɛʁ.si/",
+          "translation_fa": "جعفری",
+          "example": "Le persil parfume la salade.",
+          "example_fa": "جعفری به سالاد عطر می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "du cumin",
+          "ipa": "/dy ky.mɛ̃/",
+          "translation_fa": "زیرهٔ سبز",
+          "example": "Un peu de cumin suffit.",
+          "example_fa": "کمی زیرهٔ سبز کافی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un ingrédient",
+          "ipa": "/œ̃.n‿ɛ̃.ɡʁe.djɑ̃/",
+          "translation_fa": "مادهٔ تشکیل‌دهنده",
+          "example": "Le citron est un ingrédient de la sauce.",
+          "example_fa": "لیمو یکی از مواد سس است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une recette",
+          "ipa": "/yn ʁə.sɛt/",
+          "translation_fa": "دستور پخت",
+          "example": "La recette indique les épices.",
+          "example_fa": "دستور پخت ادویه‌ها را مشخص می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "doser",
+          "ipa": "/do.ze/",
+          "translation_fa": "مقدار را اندازه گرفتن",
+          "example": "Je dose le poivre avec une cuillère.",
+          "example_fa": "من فلفل را با قاشق اندازه می‌گیرم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "une pincée",
+          "ipa": "/yn pɛ̃.se/",
+          "translation_fa": "یک پنسه؛ مقدار بسیار کم",
+          "example": "Ajoute une pincée de cumin.",
+          "example_fa": "یک پنسه زیره اضافه کن.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une cuillère",
+          "ipa": "/yn kɥi.jɛʁ/",
+          "translation_fa": "قاشق",
+          "example": "La cuillère reste près du bol.",
+          "example_fa": "قاشق کنار کاسه می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "parfumer",
+          "ipa": "/paʁ.fy.me/",
+          "translation_fa": "عطر یا مزه دادن",
+          "example": "Les herbes parfument la sauce.",
+          "example_fa": "سبزی‌های معطر به سس عطر می‌دهند.",
+          "tag": "فعل"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de doser",
+      "explanation_fa": "«Doser» یک فعل گروه اول است و ریشهٔ «dose-» را با پایان‌های معمول زمان حال می‌گیرد. می‌گوییم «je dose», «tu doses», «il/elle dose», «nous dosons», «vous dosez», «ils/elles dosent». در نوشتار، پایان فعل با فاعل هماهنگ می‌شود؛ پایان «-ent» سوم‌شخص جمع نوشته می‌شود اما تلفظ ندارد. پس از «doser» می‌توانیم ماده و مقدار را بیاوریم: «Je dose le poivre» یا «Nous dosons les épices». عبارت «une pincée de» برای مقدار بسیار کم به کار می‌رود. هنگام آشپزی، افزودن تدریجی به حفظ تعادل مزه کمک می‌کند.",
+      "pattern": "sujet + doser au présent + ingrédient",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu / il",
+            "Je dose le poivre. Tu doses le cumin. Elle dose les épices.",
+            "من فلفل را اندازه می‌گیرم. تو زیره را اندازه می‌گیری. او ادویه‌ها را اندازه می‌گیرد."
+          ],
+          [
+            "nous / vous",
+            "Nous dosons la sauce. Vous dosez le persil.",
+            "ما سس را اندازه می‌گیریم. شما جعفری را اندازه می‌گیرید."
+          ],
+          [
+            "ils / elles",
+            "Ils dosent les ingrédients avec soin.",
+            "آن‌ها مواد را با دقت اندازه می‌گیرند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "با «nous» پایان فعل «-ons» است: «nous dosons».",
+        "در «ils dosent»، پایان «-ent» نوشته می‌شود و تلفظ نمی‌شود."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je dose le cumin avec une petite cuillère.",
+          "fa": "من زیره را با یک قاشق کوچک اندازه می‌گیرم.",
+          "note_fa": "Doser signifie mesurer une quantité."
+        },
+        {
+          "target": "Nous ajoutons une pincée de poivre.",
+          "fa": "ما یک پنسه فلفل اضافه می‌کنیم.",
+          "note_fa": "Une pincée est une toute petite quantité."
+        },
+        {
+          "target": "Le persil parfume la sauce au citron.",
+          "fa": "جعفری به سس لیمو عطر می‌دهد.",
+          "note_fa": "Le persil est une herbe aromatique."
+        },
+        {
+          "target": "Tu doses les épices avant de goûter.",
+          "fa": "تو ادویه‌ها را پیش از چشیدن اندازه می‌گیری.",
+          "note_fa": "Le sujet tu donne la forme doses."
+        },
+        {
+          "target": "Elles parfument la salade avec du cumin.",
+          "fa": "آن‌ها با زیره به سالاد عطر می‌دهند.",
+          "note_fa": "Les herbes et les épices changent la saveur."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "La sauce de Mina",
+      "script": "Mina: La recette demande du persil et un peu de cumin.\nMina: Je coupe les herbes, puis je prépare la sauce dans un petit bol.\nFrère: J’ajoute une pincée de poivre, mais je ne veux pas trop parfumer la salade.\nMina: Nous goûtons la sauce avant de la verser sur les légumes.\nFrère: Elle manque encore de sel.\nMina: Alors, je dose les épices avec une petite cuillère.\nFrère: La salade reste fraîche et toute la famille la trouve bonne.",
+      "script_fa": "مینا: دستور پخت جعفری و کمی زیره می‌خواهد.\nمینا: سبزی‌ها را خرد می‌کنم و بعد سس را در یک کاسهٔ کوچک آماده می‌کنم.\nبرادر: یک پنسه فلفل اضافه می‌کنم، اما نمی‌خواهم سالاد را خیلی معطر کنم.\nمینا: پیش از ریختن سس روی سبزی‌ها، آن را می‌چشیم.\nبرادر: هنوز کمی نمک کم دارد.\nمینا: پس ادویه‌ها را با یک قاشق کوچک اندازه می‌گیرم.\nبرادر: سالاد تازه می‌ماند و همهٔ خانواده آن را خوشمزه می‌دانند.",
+      "question_fa": "Avec quel ustensile Mina dose-t-elle les épices ?",
+      "answer": "Avec une petite cuillère.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Goûter la sauce",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu as goûté la sauce ?",
+          "fa": "سس را چشیده‌ای؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, elle manque un peu de poivre.",
+          "fa": "بله، کمی فلفل کم دارد."
+        },
+        {
+          "speaker": "A",
+          "target": "J’ajoute une pincée, pas davantage.",
+          "fa": "یک پنسه اضافه می‌کنم، نه بیشتر."
+        },
+        {
+          "speaker": "B",
+          "target": "Peux-tu doser aussi le cumin ?",
+          "fa": "می‌توانی زیره را هم اندازه بگیری؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Je prends une petite cuillère.",
+          "fa": "یک قاشق کوچک برمی‌دارم."
+        },
+        {
+          "speaker": "B",
+          "target": "La recette indique quelle quantité ?",
+          "fa": "دستور پخت چه مقداری را مشخص می‌کند؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Une pincée suffit pour cette salade.",
+          "fa": "یک پنسه برای این سالاد کافی است."
+        },
+        {
+          "speaker": "B",
+          "target": "Parfait, son parfum est délicat.",
+          "fa": "عالی است، عطرش ملایم است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «رستوران»، سس سالاد را بچش، یک ادویه را با پنسه اندازه بگیر و از همراهت دربارهٔ مزه بپرس.",
+      "useful_phrases": [
+        {
+          "target": "Je dose le poivre avec une cuillère.",
+          "fa": "من فلفل را با قاشق اندازه می‌گیرم."
+        },
+        {
+          "target": "Une pincée de cumin suffit.",
+          "fa": "یک پنسه زیره کافی است."
+        },
+        {
+          "target": "Est-ce que la sauce manque de sel ?",
+          "fa": "آیا سس نمک کم دارد؟"
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une sauce équilibrée",
+      "text": "Pour la salade, Mina prépare une sauce avec du citron, du persil et un peu de cumin. Elle lit la recette, mais elle préfère ajuster les épices selon le goût de sa famille. Son frère dose le poivre avec une petite cuillère et ajoute une pincée de sel. Ils mélangent la sauce, puis ils en goûtent une petite quantité. Le parfum est agréable, sans être trop fort. Mina ajoute encore quelques herbes fraîches et pose le bol près des légumes. Chacun pourra choisir la quantité de sauce qu’il souhaite. Grâce aux petites étapes, les ingrédients restent visibles et leur goût naturel n’est pas caché par les épices.",
+      "glossary": [
+        {
+          "term": "ajuster",
+          "fa": "تنظیم کردن"
+        },
+        {
+          "term": "agréable",
+          "fa": "دلپذیر"
+        },
+        {
+          "term": "cacher",
+          "fa": "پنهان کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Que dose le frère de Mina ?",
+          "a": "Le poivre avec une petite cuillère."
+        },
+        {
+          "q_fa": "Pourquoi Mina ajoute-t-elle les épices petit à petit ?",
+          "a": "Pour garder le goût naturel des ingrédients."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست فعل را انتخاب کن.",
+          "question": "Nous ___ les épices avec soin.",
+          "options": [
+            "dosons",
+            "dosez",
+            "dosent"
+          ],
+          "answer": "dosons",
+          "explanation_fa": "فاعل «nous» با شکل dosons می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت مناسب را انتخاب کن.",
+          "question": "Pour une très petite quantité, on ajoute…",
+          "options": [
+            "une pincée",
+            "un carton",
+            "un timbre"
+          ],
+          "answer": "une pincée",
+          "explanation_fa": "Une pincée désigne une petite quantité."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "معنای فعل را انتخاب کن.",
+          "question": "Doser, c’est…",
+          "options": [
+            "mesurer une quantité",
+            "recevoir un colis",
+            "fermer une porte"
+          ],
+          "answer": "mesurer une quantité",
+          "explanation_fa": "Doser signifie mesurer avec attention."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Le persil peut parfumer une sauce.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "جعفری می‌تواند به سس عطر و مزه بدهد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل مناسب را بنویس.",
+          "question": "Je ___ le cumin avec une cuillère.",
+          "answer": [
+            "dose"
+          ],
+          "explanation_fa": "فعل doser در این جمله به شکل dose می‌آید."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Quel petit ustensile peut mesurer le poivre ?",
+          "answer": [
+            "une cuillère"
+          ],
+          "explanation_fa": "Une cuillère peut mesurer une petite quantité."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quel ingrédient la recette demande-t-elle ?",
+          "options": [
+            "Du persil et du cumin",
+            "Une enveloppe et un timbre",
+            "Un carton et du ruban"
+          ],
+          "answer": "Du persil et du cumin",
+          "explanation_fa": "La recette demande du persil et du cumin."
+        },
+        {
+          "type": "mcq",
+          "question": "Avec quoi Mina mesure-t-elle les épices ?",
+          "options": [
+            "Une petite cuillère",
+            "Une balance",
+            "Une louche"
+          ],
+          "answer": "Une petite cuillère",
+          "explanation_fa": "Elle dose les épices avec une petite cuillère."
+        },
+        {
+          "type": "mcq",
+          "question": "Que signifie une pincée ?",
+          "options": [
+            "Une petite quantité",
+            "Un grand récipient",
+            "Une recette complète"
+          ],
+          "answer": "Une petite quantité",
+          "explanation_fa": "Une pincée est une très petite quantité."
+        },
+        {
+          "type": "mcq",
+          "question": "Pourquoi faut-il goûter la sauce ?",
+          "options": [
+            "Pour vérifier son goût",
+            "Pour fermer le bol",
+            "Pour peser les légumes"
+          ],
+          "answer": "Pour vérifier son goût",
+          "explanation_fa": "Mina et son frère goûtent la sauce avant de l’ajouter."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel verbe décrit la mesure précise d’un ingrédient ?",
+          "options": [
+            "Doser",
+            "Servir",
+            "Mijoter"
+          ],
+          "answer": "Doser",
+          "explanation_fa": "Doser signifie mesurer avec précision."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Décris une sauce simple, choisis une épice et explique à un partenaire comment tu doses cette quantité.",
+      "suggested_prompts": [
+        "Je dose une pincée de poivre.",
+        "La recette demande du persil.",
+        "La sauce manque-t-elle de sel ?"
+      ],
+      "focus": [
+        "doser au présent",
+        "quantités culinaires",
+        "goûter et ajuster"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Nouvelle étape du repas partagé : assaisonner sans masquer les saveurs."
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "language": "fr",
+  "level": "A1",
+  "note": "French authoring specification for sequential L261-L263 production.",
+  "lessons": [
+    {
+      "n": 263,
+      "title": "Le groupe sert la soupe",
+      "subtitle": "Distribuer le repas et parler des portions",
+      "desc": "La classe apporte la soupe à table, sert chaque bol et propose une garniture.",
+      "min": 18,
+      "topic": "پذیرایی از گروه و صرف فعل نامنظم servir در زمان حال",
+      "obj": [
+        "Nommer les ustensiles utilisés pour servir une soupe.",
+        "Conjuguer servir au présent.",
+        "Proposer une portion et une garniture."
+      ],
+      "notes": "Dernière étape du repas partagé : répartir la soupe et servir les convives.",
+      "warm": {
+        "p": "سوپ آماده است و چند نفر دور میز نشسته‌اند. برای سرو غذا چه ظرفی می‌آوری و چگونه مقدار هر نفر را می‌پرسی؟",
+        "q": [
+          [
+            "با چه وسیله‌ای سوپ را از قابلمه برمی‌داری؟",
+            "ملاقه را به یاد بیاور."
+          ],
+          [
+            "برای هر نفر چه چیزی در کاسه می‌ریزی؟",
+            "یک سهم غذا را در نظر بگیر."
+          ]
+        ]
+      },
+      "expl": {
+        "title": "سرو غذا و تقسیم سهم‌ها",
+        "body": "هنگام سرو غذا، هر فرد سهم خودش را در کاسه یا بشقاب می‌گیرد. فعل «servir» نامنظم است: «je sers»، «tu sers»، «il sert»، «nous servons»، «vous servez»، «ils servent». پس از فعل می‌توانیم نام غذا یا شخص را بیاوریم: «servir la soupe» یا «servir un bol à Mina». «une louche» برای برداشتن مایع از قابلمه است و «une soupière» ظرف بزرگی برای آوردن سوپ به میز است. فعل «verser» حرکت مایع به داخل ظرف را توصیف می‌کند. «une portion» مقدار غذای یک نفر است و «une garniture» چیزی است که کنار غذای اصلی قرار می‌گیرد. هنگام پذیرایی، آرام کار کن و بپرس هر نفر چه مقدار می‌خواهد.",
+        "kp": [
+          "Servir یعنی غذا را به کسی دادن یا در ظرف ریختن.",
+          "Une louche برای برداشتن سوپ از قابلمه است.",
+          "Une portion سهم یک نفر و garniture همراهِ غذای اصلی است."
+        ]
+      },
+      "vocab": [
+        [
+          "servir",
+          "/sɛʁ.viʁ/",
+          "سرو کردن؛ خدمت کردن",
+          "Nous servons la soupe à table.",
+          "ما سوپ را سر میز سرو می‌کنیم.",
+          "فعل"
+        ],
+        [
+          "une louche",
+          "/yn luʃ/",
+          "ملاقه",
+          "La louche est près de la soupière.",
+          "ملاقه کنار ظرف سوپ است.",
+          "اسم"
+        ],
+        [
+          "une portion",
+          "/yn pɔʁ.sjɔ̃/",
+          "یک سهم غذا",
+          "Cette portion est pour mon frère.",
+          "این سهم برای برادرم است.",
+          "اسم"
+        ],
+        [
+          "un bol",
+          "/œ̃ bɔl/",
+          "کاسه",
+          "Je prends un bol pour la soupe.",
+          "برای سوپ یک کاسه برمی‌دارم.",
+          "اسم"
+        ],
+        [
+          "verser",
+          "/vɛʁ.se/",
+          "ریختن مایع",
+          "Elle verse la soupe dans le bol.",
+          "او سوپ را در کاسه می‌ریزد.",
+          "فعل"
+        ],
+        [
+          "un plateau",
+          "/œ̃ pla.to/",
+          "سینی",
+          "Le plateau porte les bols chauds.",
+          "سینی کاسه‌های گرم را حمل می‌کند.",
+          "اسم"
+        ],
+        [
+          "une soupe",
+          "/yn sup/",
+          "سوپ",
+          "La soupe sent bon.",
+          "سوپ بوی خوبی دارد.",
+          "اسم"
+        ],
+        [
+          "une soupière",
+          "/yn su.pjɛʁ/",
+          "ظرف بزرگ سرو سوپ",
+          "La soupière reste au centre de la table.",
+          "ظرف بزرگ سوپ وسط میز می‌ماند.",
+          "اسم"
+        ],
+        [
+          "un couvert",
+          "/œ̃ ku.vɛʁ/",
+          "قاشق و چنگال و کاردِ یک نفر",
+          "Chaque couvert est près d’un bol.",
+          "قاشق و چنگال هر نفر کنار یک کاسه است.",
+          "اسم"
+        ],
+        [
+          "une garniture",
+          "/yn ɡaʁ.ni.tyʁ/",
+          "مخلفات یا افزودنی کنار غذا",
+          "Le persil est une garniture légère.",
+          "جعفری مخلفاتی سبک است.",
+          "اسم"
+        ]
+      ],
+      "gram": {
+        "title": "Le présent de servir",
+        "exp": "«Servir» یک فعل نامنظم از گروه سوم است؛ شکل‌های زمان حال آن را باید به خاطر سپرد. می‌گوییم «je sers»، «tu sers»، «il/elle sert»، «nous servons»، «vous servez» و «ils/elles servent». در مفرد، پایهٔ فعل «ser-» است، اما در «nous» و «vous» شکل «serv-» دیده می‌شود. فعل می‌تواند غذا را به عنوان مفعول بگیرد: «servir la soupe». برای مشخص‌کردن فرد، از «à» استفاده می‌کنیم: «Je sers un bol à Léa». این کاربرد با «se servir» که یعنی برای خود غذا برداشتن فرق دارد. فاعل را پیدا کن تا میان «sert», «servons» و «servent» شکل درست را انتخاب کنی.",
+        "pattern": "sujet + servir au présent + plat / personne",
+        "rows": [
+          [
+            "je / tu / il",
+            "Je sers la soupe. Tu sers le premier bol. Il sert Léa.",
+            "من سوپ می‌دهم. تو اولین کاسه را سرو می‌کنی. او برای لیا سرو می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous servons le repas. Vous servez les invités.",
+            "ما غذا را سرو می‌کنیم. شما از مهمانان پذیرایی می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Ils servent une portion à chacun.",
+            "آن‌ها به هر نفر یک سهم می‌دهند."
+          ]
+        ],
+        "pit": [
+          "در «je sers» و «il sert»، شکل فعل با «nous servons» تفاوت دارد.",
+          "«Servir un bol à quelqu’un» یعنی یک کاسه غذا را برای آن شخص سرو کردن."
+        ]
+      },
+      "ex": [
+        [
+          "Je sers un bol de soupe à mon amie.",
+          "من برای دوستم یک کاسه سوپ سرو می‌کنم.",
+          "La personne servie est introduite par «à»."
+        ],
+        [
+          "Nous servons le repas dans la salle commune.",
+          "ما غذا را در سالن مشترک سرو می‌کنیم.",
+          "Avec nous, le verbe devient servons."
+        ],
+        [
+          "Tu verses la soupe avec une louche.",
+          "تو سوپ را با ملاقه می‌ریزی.",
+          "Verser décrit le mouvement du liquide."
+        ],
+        [
+          "La garniture ajoute du persil au plat.",
+          "مخلفات به غذا جعفری اضافه می‌کند.",
+          "Une garniture accompagne un plat."
+        ],
+        [
+          "Ils servent une petite portion à chaque invité.",
+          "آن‌ها برای هر مهمان یک سهم کوچک سرو می‌کنند.",
+          "Avec ils, on écrit servent."
+        ]
+      ],
+      "lst": {
+        "t": "Le dîner de la classe",
+        "script": "Mina: Le repas est prêt. Je pose la soupière au centre de la table.\nHugo: Je prends une louche et je sers un bol pour chaque personne.\nLéa: J’ajoute une petite garniture de persil.\nMina: Je verse la soupe sans remplir le bol jusqu’au bord.\nHugo: Ensuite, nous apportons le plateau au salon.\nLéa: Chaque invité choisit une portion, puis nous demandons si quelqu’un souhaite encore de la soupe.\nMina: Le dîner commence calmement et tout le monde attend son premier plat.",
+        "script_fa": "مینا: غذا آماده است. ظرف بزرگ سوپ را وسط میز می‌گذارم.\nهوگو: ملاقه را برمی‌دارم و برای هر نفر یک کاسه سرو می‌کنم.\nلیا: کمی جعفری به عنوان مخلفات اضافه می‌کنم.\nمینا: سوپ را می‌ریزم، بدون این‌که کاسه را تا لبه پر کنم.\nهوگو: بعد سینی را به سالن می‌بریم.\nلیا: هر مهمان سهمی انتخاب می‌کند و می‌پرسیم آیا کسی سوپ بیشتری می‌خواهد.\nمینا: شام آرام شروع می‌شود و همه منتظر غذای اولشان هستند.",
+        "q": "Avec quel ustensile Hugo sert-il la soupe ?",
+        "a": "Avec une louche."
+      },
+      "listening_roles": {
+        "Mina": "FR-CHAR-A",
+        "Hugo": "FR-CHAR-B",
+        "Léa": "FR-CHAR-A"
+      },
+      "dlg": {
+        "t": "À table",
+        "lines": [
+          [
+            "A",
+            "On sert la soupe maintenant ?",
+            "حالا سوپ را سرو کنیم؟"
+          ],
+          [
+            "B",
+            "Oui, la soupière est sur la table.",
+            "بله، ظرف بزرگ سوپ روی میز است."
+          ],
+          [
+            "A",
+            "Tu peux me passer la louche ?",
+            "می‌توانی ملاقه را به من بدهی؟"
+          ],
+          [
+            "B",
+            "La voici ; les bols sont prêts.",
+            "بفرما؛ کاسه‌ها آماده‌اند."
+          ],
+          [
+            "A",
+            "Quelle portion veux-tu ?",
+            "چه سهمی می‌خواهی؟"
+          ],
+          [
+            "B",
+            "Un petit bol, s’il te plaît.",
+            "لطفاً یک کاسهٔ کوچک."
+          ],
+          [
+            "A",
+            "J’ajoute du persil comme garniture ?",
+            "جعفری را به عنوان مخلفات اضافه کنم؟"
+          ],
+          [
+            "B",
+            "Oui, et pose le plateau près des invités.",
+            "بله، و سینی را نزدیک مهمان‌ها بگذار."
+          ]
+        ]
+      },
+      "spk": {
+        "task": "در سناریوی «زندگی روزمره»، برای اعضای خانواده سوپ سرو کن، اندازهٔ سهم را بپرس و یک مخلفات پیشنهاد بده.",
+        "ph": [
+          [
+            "Quelle portion voulez-vous ?",
+            "چه سهمی می‌خواهید؟"
+          ],
+          [
+            "Je vous sers un bol de soupe.",
+            "یک کاسه سوپ برایتان سرو می‌کنم."
+          ],
+          [
+            "Voulez-vous un peu de persil ?",
+            "کمی جعفری می‌خواهید؟"
+          ]
+        ],
+        "sec": 180
+      },
+      "read": {
+        "title": "Le repas est servi",
+        "text": "Après la cuisson, la classe apporte le repas dans la salle commune. Mina pose la soupière au milieu de la table et place les bols sur un plateau. Hugo utilise une louche pour verser la soupe sans éclabousser les invités. Léa propose une garniture de persil et demande à chacun quelle portion il souhaite. Certains prennent un petit bol, tandis que d’autres en demandent davantage. Chaque couvert reste près de sa place. Le groupe sert d’abord les enfants, puis les adultes. Quand tout le monde a reçu son repas, Mina s’assoit à son tour. La soupe est chaude, et les conversations commencent autour de la table.",
+        "gloss": [
+          [
+            "éclabousser",
+            "پاشیدن مایع"
+          ],
+          [
+            "à son tour",
+            "به نوبت خودش"
+          ],
+          [
+            "davantage",
+            "بیشتر"
+          ]
+        ],
+        "qs": [
+          [
+            "Avec quoi Hugo verse-t-il la soupe ?",
+            "Avec une louche."
+          ],
+          [
+            "Qui sert le groupe avant de s’asseoir ?",
+            "Mina sert le groupe avant de s’asseoir."
+          ]
+        ]
+      },
+      "exr": [
+        [
+          "mcq",
+          "شکل درست فعل را انتخاب کن.",
+          "Il ___ la soupe aux invités.",
+          [
+            "sert",
+            "sers",
+            "servons"
+          ],
+          "sert",
+          "فاعل il با شکل sert می‌آید."
+        ],
+        [
+          "mcq",
+          "وسیلهٔ مناسب را انتخاب کن.",
+          "Pour prendre la soupe dans la soupière, on utilise…",
+          [
+            "une louche",
+            "un timbre",
+            "une passoire"
+          ],
+          "une louche",
+          "Une louche permet de prendre et verser la soupe."
+        ],
+        [
+          "mcq",
+          "معنای portion را انتخاب کن.",
+          "Une portion est…",
+          [
+            "la quantité servie à une personne",
+            "un ustensile de cuisson",
+            "un avis postal"
+          ],
+          "la quantité servie à une personne",
+          "Une portion correspond à la part d’une personne."
+        ],
+        [
+          "truefalse",
+          "درست یا نادرست بودن جمله را مشخص کن.",
+          "Servir peut être suivi du nom d’un plat.",
+          "True",
+          "می‌توان پس از servir نام غذا را آورد."
+        ],
+        [
+          "fill",
+          "فعل مناسب را بنویس.",
+          "Nous ___ le repas à table.",
+          [
+            "servons"
+          ],
+          "با nous شکل servons به کار می‌رود."
+        ],
+        [
+          "short",
+          "پاسخ کوتاه بده.",
+          "Dans quel récipient apporte-t-on une grande quantité de soupe ?",
+          [
+            "une soupière"
+          ],
+          "ظرف بزرگ سوپ برای آوردن مقدار زیادی سوپ است."
+        ]
+      ],
+      "quiz": [
+        [
+          "Où Mina pose-t-elle la soupière ?",
+          [
+            "Au centre de la table",
+            "Sur la plaque de cuisson",
+            "Dans une enveloppe"
+          ],
+          0,
+          "Elle pose la soupière au centre de la table."
+        ],
+        [
+          "Avec quoi Hugo sert-il la soupe ?",
+          [
+            "Une louche",
+            "Une cuillère à café",
+            "Un couvercle"
+          ],
+          0,
+          "Il prend une louche pour servir les bols."
+        ],
+        [
+          "Que propose Léa comme garniture ?",
+          [
+            "Du persil",
+            "Du cumin",
+            "Du poivre en grains"
+          ],
+          0,
+          "Léa ajoute une garniture de persil."
+        ],
+        [
+          "Que choisit chaque invité ?",
+          [
+            "Une portion",
+            "Un timbre",
+            "Un créneau"
+          ],
+          0,
+          "Chaque invité choisit la quantité souhaitée."
+        ],
+        [
+          "Quel verbe signifie apporter un plat à table ?",
+          [
+            "Servir",
+            "Mijoter",
+            "Doser"
+          ],
+          0,
+          "Servir signifie apporter ou distribuer un plat."
+        ]
+      ],
+      "ai": {
+        "task": "Joue le rôle d’une personne qui sert le repas : propose une portion, demande si l’invité souhaite une garniture et réponds poliment.",
+        "prompts": [
+          "Je vous sers un bol.",
+          "Quelle portion souhaitez-vous ?",
+          "Voulez-vous du persil ?"
+        ],
+        "focus": [
+          "servir au présent",
+          "vocabulaire de table",
+          "offrir une portion"
+        ]
+      },
+      "fa": [
+        [
+          "warmup",
+          "غذا آماده است؛ بگو برای سرو سوپ چه ظرف و وسیله‌ای لازم داری."
+        ],
+        [
+          "explanation",
+          "برای سرو سوپ از ملاقه استفاده می‌کنیم و مقدار هر نفر را جداگانه می‌پرسیم."
+        ],
+        [
+          "listening-intro",
+          "به گفت‌وگوی گروه گوش کن و وسیله‌ای را پیدا کن که هوگو با آن سوپ می‌کشد."
+        ],
+        [
+          "grammar-note",
+          "فعل سِرویر نامنظم است؛ شکل آن را با فاعل جمله هماهنگ کن."
+        ],
+        [
+          "speaking",
+          "برای اعضای خانواده سوپ سرو کن و از آن‌ها دربارهٔ سهمشان بپرس."
+        ],
+        [
+          "closing",
+          "یک جمله با سِرویر بساز و نام ظرفی را که برای سوپ لازم است بیاور."
+        ]
+      ]
+    }
+  ]
+}
