@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 325,
+    "title": "Hugo paie par carte",
+    "subtitle": "Faire un paiement sans contact et un virement",
+    "description": "Hugo paie ses achats et transfère une somme sur son compte.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان پرداخت بانکی و صرف transférer در زمان حال",
+      "objectives": [
+        "Nommer des moyens de paiement et des éléments d’un compte.",
+        "Décrire un paiement sans contact et un virement simple.",
+        "Conjuguer transférer au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای خرید روزانه چطور با کارت پرداخت می‌کنی و اگر لازم باشد پول را به حساب دیگری می‌فرستی؟",
+      "questions": [
+        {
+          "q": "دستگاهی که پرداخت کارتی را می‌خواند چه نام دارد؟",
+          "hint_fa": "به واژهٔ «terminal de paiement» فکر کن."
+        },
+        {
+          "q": "جابه‌جایی پول از یک حساب به حساب دیگر چه نام دارد؟",
+          "hint_fa": "به واژهٔ «virement bancaire» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "انتقال پول بین حساب‌ها",
+      "body_fa": "فعل باقاعدهٔ «transférer» یعنی جابه‌جاکردن چیزی از جایی به جای دیگر. برای پول می‌گوییم transférer une somme، transférer de l’argent sur un compte یا transférer un paiement. در زمان حال می‌گوییم «je transfère»، «tu transfères»، «il/elle transfère»، «nous transférons»، «vous transférez» و «ils/elles transfèrent». در شکل‌های je، tu، il/elle و ils/elles، accent grave روی è می‌آید. یک virement bancaire می‌تواند پول را به حساب دیگری بفرستد. برای خرید کوچک، carte bancaire و paiement sans contact سریع‌تر است. کد PIN را نباید با دیگران در میان گذاشت.",
+      "key_points": [
+        "transférer فعل باقاعدهٔ گروه اول است.",
+        "در شکل‌های مفرد، é به è تغییر می‌کند.",
+        "می‌گوییم transférer une somme sur un compte."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "une carte bancaire",
+          "ipa": "/yn kaʁt bɑ̃.kɛʁ/",
+          "translation_fa": "کارت بانکی",
+          "example": "Hugo paie avec une carte bancaire.",
+          "example_fa": "هوگو با کارت بانکی پرداخت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un code PIN",
+          "ipa": "/œ̃ kɔd pin/",
+          "translation_fa": "رمز پین",
+          "example": "Le code PIN reste secret.",
+          "example_fa": "رمز پین محرمانه می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un paiement sans contact",
+          "ipa": "/œ̃ pɛ.mɑ̃ sɑ̃ kɔ̃.takt/",
+          "translation_fa": "پرداخت بدون تماس",
+          "example": "Le paiement sans contact prend quelques secondes.",
+          "example_fa": "پرداخت بدون تماس چند ثانیه طول می‌کشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un terminal de paiement",
+          "ipa": "/œ̃ tɛʁ.mi.nal də pɛ.mɑ̃/",
+          "translation_fa": "دستگاه پرداخت",
+          "example": "Le terminal de paiement lit la carte.",
+          "example_fa": "دستگاه پرداخت کارت را می‌خواند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une carte de crédit",
+          "ipa": "/yn kaʁt də kʁe.di/",
+          "translation_fa": "کارت اعتباری",
+          "example": "La carte de crédit sert pour cet achat.",
+          "example_fa": "کارت اعتباری برای این خرید به کار می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un compte bancaire",
+          "ipa": "/œ̃ kɔ̃t bɑ̃.kɛʁ/",
+          "translation_fa": "حساب بانکی",
+          "example": "Hugo vérifie son compte bancaire en ligne.",
+          "example_fa": "هوگو حساب بانکی‌اش را آنلاین بررسی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un virement bancaire",
+          "ipa": "/œ̃ viʁ.mɑ̃ bɑ̃.kɛʁ/",
+          "translation_fa": "انتقال بانکی",
+          "example": "Le virement bancaire arrive le lendemain.",
+          "example_fa": "انتقال بانکی روز بعد می‌رسد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un relevé de compte",
+          "ipa": "/œ̃ ʁə.lə.ve də kɔ̃t/",
+          "translation_fa": "صورت‌حساب حساب بانکی",
+          "example": "Le relevé de compte montre les opérations.",
+          "example_fa": "صورت‌حساب عملیات را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une agence bancaire",
+          "ipa": "/yn a.ʒɑ̃s bɑ̃.kɛʁ/",
+          "translation_fa": "شعبهٔ بانک",
+          "example": "L’agence bancaire ferme à dix-sept heures.",
+          "example_fa": "شعبهٔ بانک ساعت هفده بسته می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un solde bancaire",
+          "ipa": "/œ̃ sɔld bɑ̃.kɛʁ/",
+          "translation_fa": "موجودی حساب",
+          "example": "Le solde bancaire change après le paiement.",
+          "example_fa": "موجودی حساب پس از پرداخت تغییر می‌کند.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de transférer",
+      "explanation_fa": "Le verbe régulier «transférer» signifie déplacer quelque chose d’un endroit ou d’un compte à un autre. Au présent, on dit «je transfère», «tu transfères», «il/elle transfère», «nous transférons», «vous transférez» et «ils/elles transfèrent». Dans les formes du singulier et avec «ils/elles», le dernier «é» du radical devient «è». Avec «nous» et «vous», on garde «é». Le verbe reçoit un complément direct: transférer une somme, puis on peut indiquer la destination avec «sur»: transférer de l’argent sur un compte.",
+      "pattern": "sujet + transférer au présent + somme + destination",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je transfère une somme sur mon compte. Tu transfères le paiement aujourd’hui.",
+            "من مبلغی به حسابم منتقل می‌کنم. تو پرداخت را امروز انتقال می‌دهی."
+          ],
+          [
+            "il / elle",
+            "Il transfère l’argent vers son compte. Elle transfère le montant exact.",
+            "او پول را به حسابش منتقل می‌کند. او مبلغ دقیق را منتقل می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous transférons le paiement après l’achat. Vous transférez une somme sur le compte commun.",
+            "ما پرداخت را پس از خرید انتقال می‌دهیم. شما مبلغی به حساب مشترک منتقل می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Les clients transfèrent l’argent en ligne.",
+            "مشتری‌ها پول را آنلاین منتقل می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "در شکل‌های مفرد، é به è تغییر می‌کند.",
+        "با nous و vous می‌گوییم transférons و transférez."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Hugo transfère une somme sur son compte bancaire.",
+          "fa": "هوگو مبلغی به حساب بانکی‌اش منتقل می‌کند.",
+          "note_fa": "Le verbe reçoit un complément direct."
+        },
+        {
+          "target": "Nous transférons le montant après la confirmation.",
+          "fa": "ما مبلغ را پس از تأیید منتقل می‌کنیم.",
+          "note_fa": "Avec nous, on garde é dans transférons."
+        },
+        {
+          "target": "Tu transfères l’argent vers le compte commun.",
+          "fa": "تو پول را به حساب مشترک انتقال می‌دهی.",
+          "note_fa": "Avec tu, le radical prend è."
+        },
+        {
+          "target": "Les clients transfèrent une somme en ligne.",
+          "fa": "مشتری‌ها مبلغی را آنلاین منتقل می‌کنند.",
+          "note_fa": "Le sujet pluriel prend transfèrent."
+        },
+        {
+          "target": "Vous transférez le montant exact au vendeur.",
+          "fa": "شما مبلغ دقیق را به فروشنده انتقال می‌دهید.",
+          "note_fa": "Avec vous, on garde é dans transférez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Payer à la boutique",
+      "script": "Hugo: Le terminal de paiement est prêt.\nMina: Je passe ma carte bancaire sans contact.\nHugo: Le paiement prend seulement quelques secondes.\nMina: Le code PIN reste privé si le terminal le demande.\nHugo: Mon compte bancaire affiche le montant.\nMina: Tu fais aussi un virement bancaire ?\nHugo: Oui, je transfère une somme sur le compte commun.\nMina: Le relevé de compte montre la date du transfert.\nHugo: L’agence bancaire ouvre demain à neuf heures.",
+      "script_fa": "هوگو: دستگاه پرداخت آماده است.\nمینا: کارت بانکی‌ام را بدون تماس می‌گذارم.\nهوگو: پرداخت فقط چند ثانیه طول می‌کشد.\nمینا: اگر دستگاه خواست، رمز پین محرمانه می‌ماند.\nهوگو: حساب بانکی‌ام مبلغ را نشان می‌دهد.\nمینا: انتقال بانکی هم انجام می‌دهی؟\nهوگو: بله، مبلغی به حساب مشترک منتقل می‌کنم.\nمینا: صورت‌حساب تاریخ انتقال را نشان می‌دهد.\nهوگو: شعبهٔ بانک فردا ساعت نه باز می‌شود.",
+      "question_fa": "Que transfère Hugo sur le compte commun ?",
+      "answer": "Une somme.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Payer un achat",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Le terminal affiche le montant.",
+          "fa": "دستگاه مبلغ را نشان می‌دهد."
+        },
+        {
+          "speaker": "B",
+          "target": "Je paie avec ma carte bancaire.",
+          "fa": "با کارت بانکی‌ام پرداخت می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "Le paiement sans contact est rapide.",
+          "fa": "پرداخت بدون تماس سریع است."
+        },
+        {
+          "speaker": "B",
+          "target": "Je garde mon code PIN secret.",
+          "fa": "رمز پینم را محرمانه نگه می‌دارم."
+        },
+        {
+          "speaker": "A",
+          "target": "Le solde bancaire change après l’achat.",
+          "fa": "موجودی پس از خرید تغییر می‌کند."
+        },
+        {
+          "speaker": "B",
+          "target": "Je vérifie le relevé de compte ce soir.",
+          "fa": "امشب صورت‌حساب را بررسی می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "Le virement part demain matin.",
+          "fa": "انتقال فردا صبح انجام می‌شود."
+        },
+        {
+          "speaker": "B",
+          "target": "Le montant sera visible sur le compte.",
+          "fa": "مبلغ در حساب دیده خواهد شد."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «خرید»، خریدی با کارت بانکی را توضیح بده؛ نام دستگاه پرداخت و روشی برای انتقال پول را بگو.",
+      "useful_phrases": [
+        {
+          "target": "Je paie avec ma carte bancaire.",
+          "fa": "با کارت بانکی‌ام پرداخت می‌کنم."
+        },
+        {
+          "target": "Le terminal affiche le montant.",
+          "fa": "دستگاه مبلغ را نشان می‌دهد."
+        },
+        {
+          "target": "Je transfère une somme sur mon compte.",
+          "fa": "مبلغی به حسابم منتقل می‌کنم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Hugo paie par carte",
+      "text": "Hugo achète un cahier dans une boutique. Il paie avec sa carte bancaire sur le terminal de paiement. Le paiement sans contact ne prend que quelques secondes. Le terminal demande parfois un code PIN, que Hugo garde secret. Plus tard, il ouvre son compte bancaire pour vérifier le solde. Il transfère une somme sur un compte commun afin de partager le prix d’un cadeau. Le relevé de compte indique la date du virement bancaire. Mina passe ensuite à l’agence bancaire pour poser une question. Ils regardent les opérations ensemble et vérifient le montant du paiement.",
+      "glossary": [
+        {
+          "term": "poser une question",
+          "fa": "پرسیدن سؤال"
+        },
+        {
+          "term": "partager le prix",
+          "fa": "تقسیم قیمت"
+        },
+        {
+          "term": "une opération",
+          "fa": "یک عملیات"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Comment Hugo paie-t-il le cahier ?",
+          "a": "Avec sa carte bancaire."
+        },
+        {
+          "q_fa": "Où transfère-t-il une somme ?",
+          "a": "Sur un compte commun."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ une somme sur le compte commun.",
+          "options": [
+            "transférons",
+            "transférez",
+            "transfèrent"
+          ],
+          "answer": "transférons",
+          "explanation_fa": "با nous می‌گوییم transférons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "وسیلهٔ مناسب را انتخاب کن.",
+          "question": "Pour payer par carte, Hugo utilise…",
+          "options": [
+            "un terminal de paiement",
+            "une bêche",
+            "un thermomètre"
+          ],
+          "answer": "un terminal de paiement",
+          "explanation_fa": "دستگاه پرداخت کارت را می‌خواند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "اطلاعات مناسب را انتخاب کن.",
+          "question": "Pour vérifier les opérations d’un compte, Mina regarde…",
+          "options": [
+            "un relevé de compte",
+            "une carte topographique",
+            "une notice de montage"
+          ],
+          "answer": "un relevé de compte",
+          "explanation_fa": "صورت‌حساب عملیات حساب را نشان می‌دهد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Hugo garde son code PIN secret.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "هوگو رمز پینش را محرمانه نگه می‌دارد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ le montant vers le compte commun.",
+          "answer": [
+            "transfères"
+          ],
+          "explanation_fa": "transfères"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Que transfère Hugo sur le compte commun ?",
+          "answer": [
+            "Une somme."
+          ],
+          "explanation_fa": "هوگو مبلغی به حساب مشترک منتقل می‌کند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Comment Hugo paie-t-il le cahier ?",
+          "options": [
+            "Avec sa carte bancaire",
+            "Avec une pièce de puzzle",
+            "Avec un billet de théâtre"
+          ],
+          "answer": "Avec sa carte bancaire",
+          "explanation_fa": "Il utilise sa carte bancaire."
+        },
+        {
+          "type": "mcq",
+          "question": "Combien de temps prend le paiement sans contact ?",
+          "options": [
+            "Quelques secondes",
+            "Une heure",
+            "Une journée entière"
+          ],
+          "answer": "Quelques secondes",
+          "explanation_fa": "Le paiement est très rapide."
+        },
+        {
+          "type": "mcq",
+          "question": "Qu’est-ce que Hugo garde secret ?",
+          "options": [
+            "Son code PIN",
+            "Son numéro de bus",
+            "Son plan de dossier"
+          ],
+          "answer": "Son code PIN",
+          "explanation_fa": "Il ne partage pas son code PIN."
+        },
+        {
+          "type": "mcq",
+          "question": "Où Hugo transfère-t-il une somme ?",
+          "options": [
+            "Sur un compte commun",
+            "Dans une tirelire",
+            "Sur une clé USB"
+          ],
+          "answer": "Sur un compte commun",
+          "explanation_fa": "Il transfère l’argent sur le compte commun."
+        },
+        {
+          "type": "mcq",
+          "question": "Que montre le relevé de compte ?",
+          "options": [
+            "La date du virement",
+            "La météo du jour",
+            "La taille du cahier"
+          ],
+          "answer": "La date du virement",
+          "explanation_fa": "Le relevé indique la date du virement."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Décris un paiement par carte : nomme le terminal, indique comment garder le code confidentiel et explique où tu peux transférer une somme.",
+      "suggested_prompts": [
+        "Je paie avec ma carte bancaire.",
+        "Le terminal affiche le montant.",
+        "Je transfère une somme sur mon compte."
+      ],
+      "focus": [
+        "transférer au présent",
+        "vocabulaire du paiement",
+        "décrire une opération simple"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Hugo utilise une carte bancaire pour payer dans une petite boutique."
+  }
+}
