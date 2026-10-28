@@ -1,0 +1,398 @@
+{
+  "lesson": "L289",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L289-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La valse commence à gauche ou à droite ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L289-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Le professeur part du côté droit.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L289-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Je me déplace près de toi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L289-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, puis tu avances le pied gauche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L289-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Mon bras doit rester ici ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L289-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Garde-le près de mon épaule.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L289-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Notre duo avance trop vite ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L289-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Non, tu te déplaces très bien.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L289-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La salle de danse est libre pour notre groupe ce matin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L289-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Nous commençons par la valse ou le tango ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L289-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Le professeur choisit la valse pour travailler le premier mouvement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L289-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Je fais un tour au milieu ou près du mur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L289-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Au milieu; déplace-toi ensuite vers la gauche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L289-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Mon pied droit avance avant le pied gauche ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L289-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, puis nous nous déplaçons en duo autour de la salle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L289-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Je garde le bras près de ton épaule ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L289-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, et je place ma main sur ton bras.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L289-fr-vocab-unevalse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "une valse. La valse commence avec un pas lent.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L289-fr-vocab-untango",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un tango. Le tango se danse souvent à deux.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L289-fr-vocab-unmouvement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un mouvement. Ce mouvement suit la musique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L289-fr-vocab-untour",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un tour. Nous faisons un tour au centre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L289-fr-vocab-unbras",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un bras. Son bras reste près de son épaule.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L289-fr-vocab-unemain",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une main. Mina tend la main à son partenaire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L289-fr-vocab-uneepaule",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une épaule. Hugo garde une épaule détendue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L289-fr-vocab-unedirection",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une direction. La professeure indique une direction simple.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L289-fr-vocab-unpied",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un pied. Le pied gauche avance en premier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L289-fr-vocab-ungenou",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un genou. Le genou reste souple pendant le tour.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L289-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je me déplace lentement pendant la valse. Tu te déplaces vers la gauche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L289-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il se déplace autour de sa partenaire. Elle se déplace vers le centre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L289-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous nous déplaçons au même rythme. Vous vous déplacez près du mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L289-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils se déplacent en duo dans la salle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L289-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina se déplace autour du centre de la salle.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L289-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Je me déplace vers la droite après le tour.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L289-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous nous déplaçons sans toucher les autres danseurs.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L289-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Vous vous déplacez vers le mur opposé.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L289-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Elles se déplacent ensemble au milieu de la salle.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L289-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Pour son deuxième cours, Hugo essaie une valse avec Mina dans la salle de danse. Le professeur explique un mouvement simple: un tour, puis deux petits pas sur le côté. Hugo place son bras près de l’épaule de sa partenaire et garde une main ouverte. Au début, son pied gauche avance trop tôt; ils s’arrêtent et recommencent lentement. Le duo se déplace autour de la salle sans toucher les autres élèves. Mina préfère la valse au tango, car elle connaît déjà le premier tour. À la fin, Hugo réussit le mouvement sans regarder ses pieds.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 534
+    },
+    {
+      "id": "L289-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L289)",
+      "tts_text": "در رقص دونفره چطور جهت حرکت و جای پاها را با همراهت هماهنگ می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L289-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L289)",
+      "tts_text": "فعل ضمیری «se déplacer» برای حرکت از یک جا به جای دیگر به کار می‌رود و با فاعل صرف می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 90
+    },
+    {
+      "id": "L289-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L289)",
+      "tts_text": "به گفت‌وگوی مینا و هوگو گوش کن و نوع رقصی را پیدا کن که مربی انتخاب می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L289-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L289)",
+      "tts_text": "در صرف «nous» می‌نویسیم «nous nous déplaçons» و روی حرف «c» علامت زیرین می‌گذاریم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L289-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L289)",
+      "tts_text": "جهت حرکتت را بگو و توضیح بده چطور با همراهت حرکت می‌کنی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L289-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L289)",
+      "tts_text": "یک جمله با «se déplacer» و نام یک جهت بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 43
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "lesson": "L288",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L288-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu t’entraînes avec la professeure ce soir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L288-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, la chorégraphie est nouvelle pour nous.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L288-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Quel pas de danse préfères-tu ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L288-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Celui qui commence près du miroir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L288-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Ton partenaire sera dans le studio ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L288-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, il apporte sa tenue de danse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L288-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Retrouvons-nous avant le cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L288-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "D’accord, je viens plus tôt pour préparer la salle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L288-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le professeur de danse ouvre le studio à neuf heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L288-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Le cours commence avec la nouvelle chorégraphie ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L288-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "D’abord, la danseuse montre un pas de danse aux élèves.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L288-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Chaque partenaire répète devant le miroir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L288-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, puis nous nous entraînons en petit groupe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L288-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Ta tenue de danse est dans le sac vert ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L288-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Elle est prête; je peux commencer après l’échauffement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L288-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "À la fin, nous aidons le professeur à ranger la salle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L288-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Je veux refaire la chorégraphie à la maison.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L288-fr-vocab-unstudiodedanse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un studio de danse. Le studio de danse ouvre à neuf heures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L288-fr-vocab-uncoursdedanse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un cours de danse. Le cours de danse finit avant midi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L288-fr-vocab-unprofesseurdedanse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un professeur de danse. Le professeur de danse prépare une nouvelle chorégraphie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 81
+    },
+    {
+      "id": "L288-fr-vocab-unedanseuse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une danseuse. La danseuse répète devant le miroir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L288-fr-vocab-undanseur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un danseur. Le danseur suit les pas du groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L288-fr-vocab-unpasdedanse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un pas de danse. Mina apprend un pas de danse facile.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L288-fr-vocab-unechoregraphie",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une chorégraphie. La chorégraphie commence près de la fenêtre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L288-fr-vocab-unetenuededanse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une tenue de danse. Sa tenue de danse est légère et confortable.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L288-fr-vocab-unmiroir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un miroir. Un miroir aide les élèves à voir leur position.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L288-fr-vocab-unpartenaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un partenaire. Hugo est le partenaire de Mina pour la leçon.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L288-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je m’entraîne chaque mercredi. Tu t’entraînes avec un partenaire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L288-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Elle s’entraîne devant le miroir. Il s’entraîne pour le cours.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L288-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous nous entraînons au studio. Vous vous entraînez avant la leçon.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L288-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils s’entraînent pour la chorégraphie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L288-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina s’entraîne au studio après l’école.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L288-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Les danseurs s’entraînent devant une grande glace.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L288-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous nous entraînons pour le cours de vendredi.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L288-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Tu t’entraînes avec Hugo cette semaine.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L288-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Elles s’entraînent avant de montrer la chorégraphie.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L288-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Le mercredi après-midi, Mina suit un cours de danse dans un studio près de son école. La professeure accueille le groupe et annonce une nouvelle chorégraphie. Hugo est le partenaire de Mina pour la première partie. Il connaît deux pas, mais il regarde encore le miroir pour garder la même direction. Mina s’entraîne devant la glace et répète chaque pas lentement. Sa tenue de danse est confortable; elle porte un pantalon souple et un haut clair. À la fin du cours, la professeure félicite le groupe. Les élèves rangent leurs affaires et parlent déjà du cours suivant.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 568
+    },
+    {
+      "id": "L288-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L288)",
+      "tts_text": "در یک کلاس رقص، هنرجوها کجا و با چه کسی تمرین می‌کنند؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L288-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L288)",
+      "tts_text": "برای گفتن تمرین‌کردن از فعل ضمیری «s’entraîner» استفاده می‌کنیم و ضمیر آن با فاعل تغییر می‌کند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 95
+    },
+    {
+      "id": "L288-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L288)",
+      "tts_text": "به گفت‌وگوی مینا و هوگو گوش کن و چیزی را پیدا کن که رقصنده به هنرجوها نشان می‌دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L288-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L288)",
+      "tts_text": "در زمان حال، برای «ما تمرین می‌کنیم» می‌گوییم «nous nous entraînons».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L288-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L288)",
+      "tts_text": "از کلاس رقصت بگو و توضیح بده کجا و با چه کسی تمرین می‌کنی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L288-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L288)",
+      "tts_text": "یک جمله با «s’entraîner» و یک واژه از کلاس رقص بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    }
+  ]
+}

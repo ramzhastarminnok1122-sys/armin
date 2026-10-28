@@ -1,0 +1,398 @@
+{
+  "lesson": "L290",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L290-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Hugo, tu m’invites sur la piste de danse ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L290-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Avec plaisir, j’accepte ton invitation.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L290-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le groupe folklorique commence la fête ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L290-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, il présente une danse traditionnelle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L290-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Je laisse mon sac au vestiaire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L290-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Ta tenue élégante est très jolie.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L290-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Partons quand la musique commence.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L290-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "D’accord, nous prenons la première danse ensemble.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L290-fr-listening-1",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[0]",
+      "tts_text": "La fête de quartier commence à dix-neuf heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L290-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Le groupe de danse ouvre avec une danse folklorique.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L290-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Le bal populaire aura lieu sur la place après leur présentation.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L290-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "Je porte ma tenue élégante pour la soirée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L290-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "Tu peux déposer ton manteau au vestiaire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L290-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "La piste de danse ouvre après le discours ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L290-fr-listening-7",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, le maire parle quelques minutes.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L290-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "J’ai reçu ton invitation à danser; j’accepte avec plaisir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L290-fr-listening-9",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[8]",
+      "tts_text": "Alors, nous dansons ensemble après le discours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L290-fr-vocab-unbal",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un bal. Le bal commence après le repas.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L290-fr-vocab-unepistededanse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une piste de danse. La piste de danse est près de la scène.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L290-fr-vocab-unesoireedansante",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une soirée dansante. La soirée dansante réunit les voisins.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L290-fr-vocab-uneinvitationadanser",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une invitation à danser. Mina reçoit une invitation à danser.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L290-fr-vocab-uncostumededanse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un costume de danse. Le costume de danse est bleu et blanc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L290-fr-vocab-unvestiaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un vestiaire. Nous laissons nos manteaux au vestiaire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L290-fr-vocab-ungroupededanse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un groupe de danse. Le groupe de danse arrive vers sept heures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L290-fr-vocab-unedansefolklorique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une danse folklorique. Une danse folklorique ouvre la fête.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L290-fr-vocab-unefetedequartier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une fête de quartier. La fête de quartier commence samedi soir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L290-fr-vocab-unetenueelegante",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une tenue élégante. Elle porte une tenue élégante pour le bal.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L290-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’accepte ton invitation. Tu acceptes de danser avec Hugo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L290-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il accepte la proposition. Elle accepte de rejoindre la piste.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L290-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous acceptons de participer au bal. Vous acceptez notre invitation.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L290-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ils acceptent l’invitation à danser.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L290-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina accepte de danser après la présentation.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L290-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous acceptons leur invitation pour samedi.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L290-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu acceptes de rejoindre le groupe ?",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L290-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les voisins acceptent la proposition du comité.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L290-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "J’accepte avec plaisir cette invitation à danser.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L290-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Dans le quartier de Mina, les voisins organisent une fête samedi. Le groupe de danse ouvre le programme avec une danse folklorique. Les personnes qui arrivent déposent leurs manteaux au vestiaire avant de rejoindre la soirée dansante. Hugo porte une tenue élégante et aide à placer des chaises près de la piste de danse. Une voisine lui tend une invitation à danser; il l’accepte et sourit. Après le spectacle, les amis rejoignent le bal populaire sur la place. La fête de quartier finit à dix heures, mais la musique continue encore un peu dans la salle.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 555
+    },
+    {
+      "id": "L290-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L290)",
+      "tts_text": "اگر دوستی تو را به رقص دعوت کند، چطور می‌توانی پاسخ مثبت و مؤدبانه بدهی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L290-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L290)",
+      "tts_text": "فعل «accepter» برای پذیرفتن دعوت یا پیشنهاد به کار می‌رود و در زمان حال باقاعده صرف می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 91
+    },
+    {
+      "id": "L290-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L290)",
+      "tts_text": "به گفت‌وگوی هوگو و مینا گوش کن و نام کسی را پیدا کن که دعوت به رقص را می‌پذیرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L290-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L290)",
+      "tts_text": "می‌گوییم «accepter une invitation» یا «accepter de danser».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L290-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L290)",
+      "tts_text": "دوستی را به رقص دعوت کن یا با یک جملهٔ مؤدبانه دعوتش را بپذیر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L290-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L290)",
+      "tts_text": "با «accepter» یک پاسخ مثبت به دعوت بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 40
+    }
+  ]
+}

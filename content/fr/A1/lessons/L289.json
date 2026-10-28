@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 289,
+    "title": "Hugo apprend une valse",
+    "subtitle": "Se déplacer et suivre une direction pendant la danse",
+    "description": "Hugo et Mina apprennent un mouvement de valse puis répètent un tour.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان جهت‌ها و بخش‌های بدن در رقص؛ صرف se déplacer",
+      "objectives": [
+        "Nommer des danses et des parties du corps utiles pour danser.",
+        "Indiquer une direction et décrire un déplacement.",
+        "Conjuguer le verbe pronominal se déplacer au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "وقتی دو نفر با هم می‌رقصند، چطور جهت حرکتشان را هماهنگ می‌کنند؟ کدام بخش‌های بدن در حرکت مهم‌اند؟",
+      "questions": [
+        {
+          "q": "رقص آرام و چرخشی دونفره چه نام دارد؟",
+          "hint_fa": "به واژهٔ «valse» فکر کن."
+        },
+        {
+          "q": "برای حرکت از یک جا به جای دیگر، از کدام فعل استفاده می‌کنیم؟",
+          "hint_fa": "فعل ضمیری «se déplacer» را به یاد بیاور."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "حرکت‌کردن در رقص",
+      "body_fa": "فعل ضمیری «se déplacer» برای گفتن تغییر مکان یا حرکت از جایی به جای دیگر به کار می‌رود. در زمان حال می‌گوییم «je me déplace»، «tu te déplaces»، «il/elle se déplace»، «nous nous déplaçons»، «vous vous déplacez» و «ils/elles se déplacent». در شکل «nous nous déplaçons»، حرف c پیش از o با علامت زیرین نوشته می‌شود تا صدای /s/ حفظ شود. بعد از این فعل می‌توان جهت را اضافه کرد: «vers la gauche»، «vers la droite» یا «autour de la salle». در رقص، این ساخت برای توصیف حرکت آرام و هماهنگ یک نفر یا یک دوئت کاربرد دارد. ضمیر بازتابی باید با فاعل هماهنگ بماند؛ آن را حذف نمی‌کنیم.",
+      "key_points": [
+        "در se déplacer ضمیر بازتابی با فاعل تغییر می‌کند.",
+        "در صرف nous، شکل درست «nous nous déplaçons» است.",
+        "برای افزودن جهت می‌گوییم vers la gauche یا vers la droite."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "une valse",
+          "ipa": "/yn vals/",
+          "translation_fa": "والس؛ رقص دونفرهٔ آرام",
+          "example": "La valse commence avec un pas lent.",
+          "example_fa": "والس با حرکتی آرام شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un tango",
+          "ipa": "/œ̃ tɑ̃.ɡo/",
+          "translation_fa": "تانگو",
+          "example": "Le tango se danse souvent à deux.",
+          "example_fa": "تانگو اغلب دونفره رقصیده می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un mouvement",
+          "ipa": "/œ̃ muv.mɑ̃/",
+          "translation_fa": "حرکت",
+          "example": "Ce mouvement suit la musique.",
+          "example_fa": "این حرکت با موسیقی هماهنگ است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un tour",
+          "ipa": "/œ̃ tuʁ/",
+          "translation_fa": "یک دور؛ چرخش",
+          "example": "Nous faisons un tour au centre.",
+          "example_fa": "ما در مرکز یک دور می‌چرخیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un bras",
+          "ipa": "/œ̃ bʁa/",
+          "translation_fa": "بازو",
+          "example": "Son bras reste près de son épaule.",
+          "example_fa": "بازوی او نزدیک شانه‌اش می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une main",
+          "ipa": "/yn mɛ̃/",
+          "translation_fa": "دست",
+          "example": "Mina tend la main à son partenaire.",
+          "example_fa": "مینا دستش را به‌سوی همراهش دراز می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une épaule",
+          "ipa": "/yn e.pol/",
+          "translation_fa": "شانه",
+          "example": "Hugo garde une épaule détendue.",
+          "example_fa": "هوگو شانه‌ای آرام و رها دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une direction",
+          "ipa": "/yn di.ʁɛk.sjɔ̃/",
+          "translation_fa": "جهت",
+          "example": "La professeure indique une direction simple.",
+          "example_fa": "مربی جهت ساده‌ای را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un pied",
+          "ipa": "/œ̃ pje/",
+          "translation_fa": "پا",
+          "example": "Le pied gauche avance en premier.",
+          "example_fa": "پای چپ اول جلو می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un genou",
+          "ipa": "/œ̃ ʒə.nu/",
+          "translation_fa": "زانو",
+          "example": "Le genou reste souple pendant le tour.",
+          "example_fa": "زانو هنگام چرخش نرم و منعطف می‌ماند.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de se déplacer",
+      "explanation_fa": "Le verbe pronominal «se déplacer» indique qu’une personne change de place ou avance. Au présent, le pronom réfléchi s’accorde avec le sujet: «je me déplace», «tu te déplaces», «il/elle se déplace», «nous nous déplaçons», «vous vous déplacez» et «ils/elles se déplacent». À la première personne du pluriel, le «c» prend une cédille dans «déplaçons» afin de garder le son /s/ devant «o». On peut ajouter une direction: vers la gauche, vers la droite ou autour de la salle. Dans une danse, cette expression décrit le mouvement d’une personne ou d’un duo.",
+      "pattern": "sujet + pronom réfléchi + déplacer au présent",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je me déplace lentement pendant la valse. Tu te déplaces vers la gauche.",
+            "من هنگام والس آرام حرکت می‌کنم. تو به‌سوی چپ حرکت می‌کنی."
+          ],
+          [
+            "il / elle",
+            "Il se déplace autour de sa partenaire. Elle se déplace vers le centre.",
+            "او دور همراهش حرکت می‌کند. او به‌سوی مرکز حرکت می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous nous déplaçons au même rythme. Vous vous déplacez près du mur.",
+            "ما با آهنگ یکسان حرکت می‌کنیم. شما نزدیک دیوار حرکت می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Ils se déplacent en duo dans la salle.",
+            "آن‌ها دونفره در سالن حرکت می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "در شکل nous، حرف c در «déplaçons» علامت زیرین می‌گیرد.",
+        "جهت را پس از فعل بیاور: se déplacer vers la gauche."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mina se déplace autour du centre de la salle.",
+          "fa": "مینا دور مرکز سالن حرکت می‌کند.",
+          "note_fa": "La phrase précise le trajet de Mina."
+        },
+        {
+          "target": "Je me déplace vers la droite après le tour.",
+          "fa": "پس از چرخش به‌سوی راست حرکت می‌کنم.",
+          "note_fa": "Avec je, on emploie me déplace."
+        },
+        {
+          "target": "Nous nous déplaçons sans toucher les autres danseurs.",
+          "fa": "ما بدون برخورد با رقصنده‌های دیگر حرکت می‌کنیم.",
+          "note_fa": "Le pronom et le sujet sont tous deux nous."
+        },
+        {
+          "target": "Vous vous déplacez vers le mur opposé.",
+          "fa": "شما به‌سوی دیوار روبه‌رو حرکت می‌کنید.",
+          "note_fa": "La forme vous déplacez garde le pronom vous."
+        },
+        {
+          "target": "Elles se déplacent ensemble au milieu de la salle.",
+          "fa": "آن‌ها با هم در وسط سالن حرکت می‌کنند.",
+          "note_fa": "Le sujet elles commande se déplacent."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un mouvement de valse",
+      "script": "Mina: La salle de danse est libre pour notre groupe ce matin.\nHugo: Nous commençons par la valse ou le tango ?\nMina: Le professeur choisit la valse pour travailler le premier mouvement.\nHugo: Je fais un tour au milieu ou près du mur ?\nMina: Au milieu; déplace-toi ensuite vers la gauche.\nHugo: Mon pied droit avance avant le pied gauche ?\nMina: Oui, puis nous nous déplaçons en duo autour de la salle.\nHugo: Je garde le bras près de ton épaule ?\nMina: Oui, et je place ma main sur ton bras.",
+      "script_fa": "مینا: سالن رقص امروز صبح برای گروه ما خالی است.\nهوگو: با والس شروع می‌کنیم یا تانگو؟\nمینا: مربی والس را برای تمرین نخستین حرکت انتخاب می‌کند.\nهوگو: وسط سالن یک دور می‌چرخم یا نزدیک دیوار؟\nمینا: وسط؛ بعد به‌سوی چپ حرکت کن.\nهوگو: پای راستم پیش از پای چپ جلو می‌رود؟\nمینا: بله، سپس دونفره دور سالن حرکت می‌کنیم.\nهوگو: بازویم نزدیک شانه‌ات بماند؟\nمینا: بله، و دستم را روی بازویت می‌گذارم.",
+      "question_fa": "Quelle danse le professeur choisit-il pour le cours ?",
+      "answer": "La valse.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Suivre la direction",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "La valse commence à gauche ou à droite ?",
+          "fa": "والس از چپ شروع می‌شود یا از راست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Le professeur part du côté droit.",
+          "fa": "مربی از سمت راست شروع می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "Je me déplace près de toi ?",
+          "fa": "نزدیک تو حرکت کنم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, puis tu avances le pied gauche.",
+          "fa": "بله، بعد پای چپت را جلو می‌بری."
+        },
+        {
+          "speaker": "A",
+          "target": "Mon bras doit rester ici ?",
+          "fa": "بازویم باید اینجا بماند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Garde-le près de mon épaule.",
+          "fa": "آن را نزدیک شانه‌ام نگه دار."
+        },
+        {
+          "speaker": "A",
+          "target": "Notre duo avance trop vite ?",
+          "fa": "دوئت ما خیلی تند حرکت می‌کند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Non, tu te déplaces très bien.",
+          "fa": "نه، خیلی خوب حرکت می‌کنی."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «مدرسه»، به همراه رقصت توضیح بده به کدام جهت حرکت می‌کنی، کدام پا را جلو می‌گذاری و چطور با او هماهنگ می‌شوی.",
+      "useful_phrases": [
+        {
+          "target": "Je me déplace vers la gauche.",
+          "fa": "به‌سوی چپ حرکت می‌کنم."
+        },
+        {
+          "target": "Mon pied droit avance.",
+          "fa": "پای راستم جلو می‌رود."
+        },
+        {
+          "target": "Nous nous déplaçons en duo.",
+          "fa": "ما دونفره حرکت می‌کنیم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Apprendre la valse",
+      "text": "Pour son deuxième cours, Hugo essaie une valse avec Mina dans la salle de danse. Le professeur explique un mouvement simple: un tour, puis deux petits pas sur le côté. Hugo place son bras près de l’épaule de sa partenaire et garde une main ouverte. Au début, son pied gauche avance trop tôt; ils s’arrêtent et recommencent lentement. Le duo se déplace autour de la salle sans toucher les autres élèves. Mina préfère la valse au tango, car elle connaît déjà le premier tour. À la fin, Hugo réussit le mouvement sans regarder ses pieds.",
+      "glossary": [
+        {
+          "term": "un petit pas",
+          "fa": "یک گام کوچک"
+        },
+        {
+          "term": "recommencer",
+          "fa": "دوباره شروع‌کردن"
+        },
+        {
+          "term": "réussir",
+          "fa": "موفق‌شدن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Avec qui Hugo essaie-t-il la valse ?",
+          "a": "Avec Mina."
+        },
+        {
+          "q_fa": "Quel pied avance trop tôt au début ?",
+          "a": "Son pied gauche."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ vers le centre.",
+          "options": [
+            "nous déplaçons",
+            "se déplaçons",
+            "me déplace"
+          ],
+          "answer": "nous déplaçons",
+          "explanation_fa": "در شکل nous از nous déplaçons استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ درست را انتخاب کن.",
+          "question": "Une danse lente à deux peut être…",
+          "options": [
+            "une valse",
+            "un miroir",
+            "un vestiaire"
+          ],
+          "answer": "une valse",
+          "explanation_fa": "والس رقصی دونفره و آرام است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "اندام مناسب را کامل کن.",
+          "question": "Hugo garde son ___ près de l’épaule.",
+          "options": [
+            "bras",
+            "pied",
+            "côté"
+          ],
+          "answer": "bras",
+          "explanation_fa": "بازو نزدیک شانه می‌ماند."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "Le duo se déplace autour de la salle.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "دوئت دور سالن حرکت می‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "ضمیر بازتابی را کامل کن.",
+          "question": "Tu ___ déplaces vers la gauche.",
+          "answer": [
+            "te"
+          ],
+          "explanation_fa": "te"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Quelle danse Mina préfère-t-elle ?",
+          "answer": [
+            "La valse."
+          ],
+          "explanation_fa": "مینا والس را ترجیح می‌دهد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle danse le professeur choisit-il ?",
+          "options": [
+            "La valse",
+            "Le tango",
+            "La salsa"
+          ],
+          "answer": "La valse",
+          "explanation_fa": "Le cours commence par la valse."
+        },
+        {
+          "type": "mcq",
+          "question": "Avec qui Hugo apprend-il la valse ?",
+          "options": [
+            "Mina",
+            "Le maire",
+            "Son voisin"
+          ],
+          "answer": "Mina",
+          "explanation_fa": "Hugo essaie la valse avec Mina."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel pied avance trop tôt ?",
+          "options": [
+            "Le pied gauche",
+            "Le pied droit",
+            "Les deux pieds"
+          ],
+          "answer": "Le pied gauche",
+          "explanation_fa": "Son pied gauche avance trop tôt."
+        },
+        {
+          "type": "mcq",
+          "question": "Où le duo se déplace-t-il ?",
+          "options": [
+            "Autour de la salle",
+            "Dans le vestiaire",
+            "Sur la scène"
+          ],
+          "answer": "Autour de la salle",
+          "explanation_fa": "Ils se déplacent autour de la salle."
+        },
+        {
+          "type": "mcq",
+          "question": "Quelle partie du corps Hugo place-t-il près de l’épaule ?",
+          "options": [
+            "Son bras",
+            "Son pied",
+            "Son sac"
+          ],
+          "answer": "Son bras",
+          "explanation_fa": "Il place son bras près de l’épaule de sa partenaire."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Explique à ton partenaire comment apprendre une valse : donne une direction, décris un mouvement et dis comment vous vous déplacez ensemble.",
+      "suggested_prompts": [
+        "Je me déplace vers la gauche.",
+        "Nous faisons un tour.",
+        "Nous avançons en duo."
+      ],
+      "focus": [
+        "se déplacer au présent",
+        "dire une direction",
+        "vocabulaire de la valse"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Cours de danse en duo; déplacements lents et directions faciles à suivre."
+  }
+}
