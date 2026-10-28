@@ -1,0 +1,389 @@
+{
+  "lesson": "L275",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L275-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La table est à l’ombre des arbres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L275-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je pose la nappe ici.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L275-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le sandwich est dans la boîte-repas.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L275-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Le thermos est près de ton sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L275-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Nous pique-niquons sous les arbres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L275-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Voici une serviette en papier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L275-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Une miette est tombée sur la nappe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L275-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Je la ramasse avant de partir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L275-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La table de pique-nique est libre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L275-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Je pose la nappe sur la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L275-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Le repas froid est dans la boîte-repas.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L275-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "J’ai aussi préparé un sandwich pour chacun.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L275-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Le thermos contient du thé chaud.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L275-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Voici une serviette en papier pour la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L275-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Une miette est tombée près de la boîte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L275-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Je la ramasse, puis nous commençons le pique-nique.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L275-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Après le repas, nous rangeons le thermos.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L275-fr-vocab-piqueniquer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "pique-niquer. Nous pique-niquons près du parc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L275-fr-vocab-unpiquenique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un pique-nique. Le pique-nique commence à midi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L275-fr-vocab-unenappe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une nappe. Mina étend la nappe près de la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L275-fr-vocab-unsandwich",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un sandwich. Hugo prépare un sandwich simple.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L275-fr-vocab-unrepasfroid",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un repas froid. Le repas froid est dans le sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L275-fr-vocab-uneboiterepas",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une boîte-repas. La boîte-repas ferme bien.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L275-fr-vocab-uneservietteenpapier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une serviette en papier. Une serviette en papier est près du verre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L275-fr-vocab-unemiette",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une miette. Une miette tombe sur la nappe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L275-fr-vocab-unthermos",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un thermos. Le thermos garde le thé au chaud.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L275-fr-vocab-unetabledepiquenique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une table de pique-nique. Les visiteurs déjeunent à la table de pique-nique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L275-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je pique-nique au parc. Tu pique-niques avec tes amis. Il pique-nique dehors.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 77
+    },
+    {
+      "id": "L275-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous pique-niquons près de la table. Vous pique-niquez dans le parc.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L275-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils pique-niquent sous les arbres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L275-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Nous pique-niquons près de la table.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L275-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mina pose une nappe sur la table.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L275-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Le thermos contient une boisson chaude.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L275-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Hugo range le sandwich dans la boîte-repas.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L275-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Elles pique-niquent dans le parc avec leurs amis.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L275-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina et Hugo arrivent au parc avec un petit repas froid. Une table de pique-nique est libre sous les arbres. Mina pose une nappe propre sur la table, tandis que Hugo sort les boîtes-repas de son sac. Il a préparé un sandwich pour chacun et un thermos de thé. Les amis prennent une serviette en papier et s’installent tranquillement. Une miette tombe près de la boîte; Hugo la ramasse avant de commencer à manger. Après le repas, ils replient la nappe, ferment les boîtes et vérifient que la table est propre. Ils rangent les affaires et reprennent leur promenade dans le parc.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 576
+    },
+    {
+      "id": "L275-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L275)",
+      "tts_text": "برای خوردن غذا در پارک چه چیزهایی همراه می‌بری و آن‌ها را کجا می‌گذاری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L275-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L275)",
+      "tts_text": "در فضای باز می‌توانیم رومیزی پهن کنیم، غذای سرد بیاوریم و وسایل را پس از غذا جمع کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 86
+    },
+    {
+      "id": "L275-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L275)",
+      "tts_text": "به گفت‌وگوی مینا و هوگو گوش کن و ظرفی را پیدا کن که غذا در آن است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L275-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L275)",
+      "tts_text": "فعل «pique-niquer» خط تیره دارد و با فاعل صرف می‌شود؛ اسم آن «un pique-nique» است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L275-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L275)",
+      "tts_text": "یک پیک‌نیک را توصیف کن و از محل غذاخوردن و وسایلت نام ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L275-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L275)",
+      "tts_text": "یک جمله با «pique-niquer» بساز و بگو کجا غذا می‌خوری.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    }
+  ]
+}

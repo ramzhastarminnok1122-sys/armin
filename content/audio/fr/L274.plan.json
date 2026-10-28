@@ -1,0 +1,380 @@
+{
+  "lesson": "L274",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L274-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Nous nous promenons dans la forêt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L274-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "La carte indique un petit détour.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L274-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le sentier passe près du ruisseau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L274-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Après le virage, je vois le belvédère.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L274-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La vallée est belle depuis ici.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L274-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Arrêtons-nous près du point de vue.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L274-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Tu veux regarder la carte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L274-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, puis nous continuons la promenade.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L274-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Nous nous promenons dans la forêt ce matin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L274-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "La carte indique un détour après le virage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L274-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Est-ce que le ruisseau passe près du sentier ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L274-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, il est sous le petit pont.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L274-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Le paysage est très calme ici.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L274-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Le belvédère est au bout du chemin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L274-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Nous pouvons nous arrêter au point de vue.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L274-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Bonne idée, je regarde la carte une dernière fois.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L274-fr-vocab-sepromener",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "se promener. Je me promène dans la forêt.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L274-fr-vocab-unepromenade",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une promenade. La promenade commence près du village.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L274-fr-vocab-uneforet",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une forêt. La forêt est calme le matin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L274-fr-vocab-unpaysage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un paysage. Le paysage change après le virage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L274-fr-vocab-undetour",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un détour. La carte montre un détour près du ruisseau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L274-fr-vocab-unvirage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un virage. Le sentier tourne après le virage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L274-fr-vocab-unecarte",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une carte. Hugo regarde la carte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L274-fr-vocab-unpointdevue",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un point de vue. Le point de vue est près du belvédère.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L274-fr-vocab-unruisseau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un ruisseau. Un ruisseau passe sous le petit pont.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L274-fr-vocab-unbelvedere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un belvédère. Le belvédère regarde la vallée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L274-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je me promène près du belvédère. Tu te promènes près du ruisseau. Elle se promène au calme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 91
+    },
+    {
+      "id": "L274-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous nous promenons près du belvédère. Vous vous promenez sur le sentier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 73
+    },
+    {
+      "id": "L274-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils se promènent dans le paysage ouvert.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L274-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je me promène près du ruisseau.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L274-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous nous promenons au bord du ruisseau.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L274-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La carte montre un détour après le virage.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L274-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le paysage est visible depuis le belvédère.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L274-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Elles se promènent jusqu’au point de vue.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L274-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina et Hugo se promènent dans une forêt près du village. Ils suivent une carte qui montre un petit détour vers un belvédère. Le sentier longe un ruisseau et passe sous des arbres. Après un virage, la forêt s’ouvre sur un paysage de collines. Les amis s’arrêtent quelques instants pour regarder le point de vue. Mina compare le chemin devant elle avec le dessin de la carte. Hugo remarque un petit pont au-dessus du ruisseau. Ils prennent ensuite le sentier qui retourne vers le village. La promenade reste calme et les amis marchent ensemble sans quitter le chemin indiqué.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 574
+    },
+    {
+      "id": "L274-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L274)",
+      "tts_text": "در گردش در طبیعت چه منظره‌ها یا مسیرهایی را ممکن است ببینی؟ چگونه نقشه را دنبال می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 87
+    },
+    {
+      "id": "L274-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L274)",
+      "tts_text": "برای قدم‌زدن تفریحی از فعل «se promener» استفاده می‌کنیم و می‌توانیم منظره را توصیف کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 89
+    },
+    {
+      "id": "L274-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L274)",
+      "tts_text": "به گفت‌وگوی مینا و هوگو گوش کن و جای جویبار را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L274-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L274)",
+      "tts_text": "فعل «se promener» ضمیری است و در چند شکل، e به è تبدیل می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L274-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L274)",
+      "tts_text": "یک گردش را برای دوستت توصیف کن و از مسیر و منظره نام ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L274-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L274)",
+      "tts_text": "یک جمله با «se promener» بساز و محل قدم‌زدن را مشخص کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    }
+  ]
+}

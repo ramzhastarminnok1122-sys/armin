@@ -1,0 +1,380 @@
+{
+  "lesson": "L273",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L273-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu as l’itinéraire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L273-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, il est dans mon sac à dos.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L273-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Nous nous arrêtons près du panneau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L273-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Le sentier continue à gauche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L273-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La gourde est dans la poche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L273-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Faisons une pause sur le banc public.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L273-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Tu peux relire l’itinéraire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L273-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, puis nous repartons ensemble.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L273-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Nous faisons une randonnée près du village.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L273-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "J’ai le sac à dos et la gourde.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L273-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Le panneau directionnel montre le chemin de campagne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L273-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Est-ce que le sentier est long ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L273-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Non, nous avançons doucement et faisons une pause près du banc public.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L273-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Je m’arrête pour relire l’itinéraire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L273-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "D’accord, puis nous reprenons le sentier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L273-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Le banc public est juste après le panneau directionnel.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L273-fr-vocab-sarreter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "s’arrêter. Je m’arrête près du banc public.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L273-fr-vocab-unerandonnee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une randonnée. Nous faisons une randonnée en groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L273-fr-vocab-unsentier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un sentier. Le sentier traverse la campagne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L273-fr-vocab-unitineraire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un itinéraire. L’itinéraire est sur la feuille.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L273-fr-vocab-unsacados",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un sac à dos. Le sac à dos est léger.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L273-fr-vocab-unegourde",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une gourde. La gourde reste dans le sac à dos.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L273-fr-vocab-unepause",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une pause. Nous faisons une pause près du sentier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L273-fr-vocab-unpanneaudirectionnel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un panneau directionnel. Le panneau directionnel indique deux chemins.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L273-fr-vocab-unchemindecampagne",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un chemin de campagne. Le chemin de campagne est calme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L273-fr-vocab-unbancpublic",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un banc public. Le banc public est près du départ.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L273-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je m’arrête près du panneau. Tu t’arrêtes sur le sentier. Il s’arrête un instant.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 81
+    },
+    {
+      "id": "L273-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous nous arrêtons près du banc. Vous vous arrêtez pour lire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L273-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils s’arrêtent au début du chemin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L273-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je m’arrête près du panneau directionnel.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L273-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous faisons une pause avant la montée.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L273-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La gourde est rangée dans une poche du sac.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L273-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le sentier passe près du banc public.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L273-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ils s’arrêtent pour relire l’itinéraire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L273-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Hugo et Mina commencent une randonnée près du village. Ils suivent un itinéraire imprimé et avancent sur un sentier de campagne. Le sac à dos de Mina contient une gourde et une veste légère. Après quelques minutes, les amis arrivent à un panneau directionnel qui présente deux chemins. Hugo s’arrête pour lire les indications et Mina vérifie la feuille. Ils choisissent le chemin le plus court et continuent jusqu’à un banc public. Là, ils font une pause, boivent un peu d’eau et regardent la carte. Quand tout le monde est prêt, le groupe reprend tranquillement sa marche.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 573
+    },
+    {
+      "id": "L273-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L273)",
+      "tts_text": "برای رفتن به مسیر پیاده‌روی چه وسایلی همراهت می‌بری و کجا می‌ایستی تا راه را بررسی کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 87
+    },
+    {
+      "id": "L273-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L273)",
+      "tts_text": "در مسیر پیاده‌روی می‌توانیم کنار تابلو بایستیم، مسیر را بخوانیم و کمی استراحت کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 83
+    },
+    {
+      "id": "L273-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L273)",
+      "tts_text": "به گفت‌وگوی هوگو و مینا گوش کن و محل استراحت کوتاه آن‌ها را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L273-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L273)",
+      "tts_text": "فعل «s’arrêter» ضمیری است و در بعضی شکل‌ها e به è تغییر می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L273-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L273)",
+      "tts_text": "با همراهت دربارهٔ مسیر حرف بزن و بگو کجا توقف می‌کنی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L273-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L273)",
+      "tts_text": "یک جمله با «s’arrêter» بساز و محل توقف را مشخص کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    }
+  ]
+}
