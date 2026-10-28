@@ -1,0 +1,389 @@
+{
+  "lesson": "L287",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L287-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le concert scolaire commence bientôt.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L287-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Le chef d’orchestre est près du pupitre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L287-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu sais où se trouve le saxophone ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L287-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Il est derrière le piano.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L287-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Nous nous produisons après l’accueil.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L287-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "La répétition musicale est terminée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L287-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Le solo est dans la deuxième partie.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L287-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Alors, l’orchestre peut commencer.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L287-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Chef d’orchestre: Nous nous produisons dans la salle après les cours.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L287-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Le concert scolaire commence quand ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L287-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Chef d’orchestre: Après l’accueil des familles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L287-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "Où est le saxophone ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L287-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Il est près du pupitre, derrière le piano.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L287-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Les musiciens attendent près de leurs pupitres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L287-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Chef d’orchestre: La répétition musicale commence maintenant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L287-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Le solo de saxophone est très court.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L287-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "L’orchestre est prêt à se produire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L287-fr-vocab-seproduire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "se produire. L’orchestre se produit dans la salle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L287-fr-vocab-unorchestre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un orchestre. L’orchestre joue avant le concert.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L287-fr-vocab-unconcert",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un concert. Le concert commence après l’accueil.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L287-fr-vocab-unchefdorchestre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un chef d’orchestre. Le chef d’orchestre lève la main.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L287-fr-vocab-unesalledeconcert",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une salle de concert. La salle de concert est près de l’école.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L287-fr-vocab-unsaxophone",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un saxophone. Le saxophone est près du pupitre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L287-fr-vocab-unpupitre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un pupitre. Le pupitre porte la partition.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L287-fr-vocab-unerepetitionmusicale",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une répétition musicale. La répétition musicale finit tôt.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L287-fr-vocab-unconcertscolaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un concert scolaire. Le concert scolaire réunit les classes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L287-fr-vocab-unsolo",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un solo. Le solo commence après la mélodie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L287-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je me produis en concert. Tu te produis sur scène. Il se produit avec l’orchestre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 82
+    },
+    {
+      "id": "L287-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous nous produisons dans la salle. Vous vous produisez devant les classes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 75
+    },
+    {
+      "id": "L287-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils se produisent au concert scolaire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L287-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Le chef d’orchestre dirige le concert scolaire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L287-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mina range le saxophone après la répétition.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L287-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous nous produisons dans la salle de concert.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L287-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La répétition musicale commence après les cours.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L287-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Elles se produisent en solo devant la classe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L287-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "L’orchestre de l’école prépare un concert scolaire dans la salle de concert près de la cour. Le chef d’orchestre vérifie que chaque pupitre est à sa place. Le saxophone attend près du piano, et la partition est posée sur le pupitre. Après une courte répétition musicale, les familles entrent dans la salle. Le groupe se produit devant les classes et commence par un morceau lent. Ensuite, un élève joue un solo de saxophone, accompagné par l’orchestre. Le chef lève la main pour annoncer la dernière partie. À la fin du concert, les musiciens saluent les familles et rangent leurs instruments.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 593
+    },
+    {
+      "id": "L287-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L287)",
+      "tts_text": "در کنسرت مدرسه چه کسی گروه را هدایت می‌کند و سازها کجا قرار می‌گیرند؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L287-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L287)",
+      "tts_text": "ارکستر در سالن اجرا می‌کند و رهبر گروه شروع و پایان بخش‌ها را مشخص می‌کند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L287-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L287)",
+      "tts_text": "به گفت‌وگوی گروه گوش کن و جای ساکسوفون را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L287-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L287)",
+      "tts_text": "فعل «se produire» ضمیری و نامنظم است؛ ضمیر باید با فاعل هماهنگ باشد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L287-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L287)",
+      "tts_text": "یک کنسرت مدرسه را معرفی کن و نام ساز یا رهبر گروه را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L287-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L287)",
+      "tts_text": "یک جمله با «se produire» بساز و مکان اجرا را مشخص کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    }
+  ]
+}
