@@ -1,0 +1,434 @@
+{
+  "lesson": "L235",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L235-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Quel personnage préfères-tu ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L235-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je préfère le héros courageux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L235-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Pourquoi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 10
+    },
+    {
+      "id": "L235-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Il aide ses amis.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 17
+    },
+    {
+      "id": "L235-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Tu préfères aussi la tortue ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L235-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Non, je préfère le lapin drôle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L235-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Nous avons le même avis ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L235-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Non, mais les deux choix sont bons.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L235-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Nous comparons trois personnages.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L235-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Tu préfères le héros au manteau rouge ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L235-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, je préfère ce héros courageux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L235-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Il est aussi très gentil.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L235-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Il aide ses amis dans l’histoire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L235-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Moi, je préfère la tortue calme.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L235-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Elle est curieuse et drôle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L235-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Le petit lapin est rapide ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L235-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, mais il est un peu timide.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L235-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Quel personnage préférez-vous ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L235-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Nous préférons chacun un personnage différent.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L235-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Nous lisons les trois pages ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L235-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "Oui, puis chacun explique son choix.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L235-fr-vocab-preferer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "préférer. Je préfère le héros courageux.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L235-fr-vocab-heros",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "héros. Le héros aide ses amis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L235-fr-vocab-favori",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "favori. Mon personnage favori est calme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L235-fr-vocab-patient",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "patient. Le lapin patient attend son tour.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L235-fr-vocab-honnete",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "honnête. La fille honnête dit la vérité.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L235-fr-vocab-courageux",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "courageux. Le héros courageux aide un ami.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L235-fr-vocab-timide",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "timide. La souris timide parle doucement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L235-fr-vocab-rapide",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "rapide. Le lapin rapide court sur le chemin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L235-fr-vocab-genereux",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "généreux. Le héros généreux partage son goûter.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L235-fr-vocab-serieux",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "sérieux. Le garçon sérieux écoute l’histoire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L235-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je préfère le héros. Tu préfères la tortue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L235-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina préfère le personnage calme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L235-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous préférons la tortue. Vous préférez le lapin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L235-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves préfèrent des personnages différents.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L235-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je préfère le héros au manteau rouge.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L235-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu préfères la tortue calme.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L235-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous préférons un personnage drôle.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L235-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Vous préférez le héros courageux.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L235-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves préfèrent une histoire calme.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L235-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Au coin lecture, les élèves regardent les personnages d’un album. Le héros porte un manteau rouge et aide un ami. Une tortue marche lentement, mais elle trouve une solution. Un petit lapin court vite et pose beaucoup de questions. Mina préfère le héros courageux. Hugo préfère la tortue calme et curieuse. Ils ne choisissent pas le même personnage, et cela ne pose aucun problème. Chacun donne une raison simple. La professeure écrit les deux choix sur une feuille. Puis le groupe lit la page où les personnages se rencontrent. L’histoire plaît à toute la classe.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 563
+    },
+    {
+      "id": "L235-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L235)",
+      "tts_text": "برای بیان ترجیح از فعل «préférer» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 45
+    },
+    {
+      "id": "L235-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L235)",
+      "tts_text": "تغییر اَکسان در فعل «préférer» را تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 43
+    },
+    {
+      "id": "L235-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L235)",
+      "tts_text": "گوش بده و شخصیت موردعلاقهٔ مینا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 43
+    },
+    {
+      "id": "L235-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L235)",
+      "tts_text": "در «nous préférons» اَکسان «é» باقی می‌ماند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 44
+    },
+    {
+      "id": "L235-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L235)",
+      "tts_text": "شخصیت دلخواهت را با یک صفت توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 36
+    },
+    {
+      "id": "L235-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L235)",
+      "tts_text": "به انتخاب متفاوت هم‌کلاسی احترام بگذار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 39
+    }
+  ]
+}
