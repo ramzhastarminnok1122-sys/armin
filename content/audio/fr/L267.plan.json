@@ -1,0 +1,371 @@
+{
+  "lesson": "L267",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L267-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Il reste du jus sur la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L267-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je prends un chiffon propre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L267-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu peux aussi nettoyer le sol ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L267-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, le balai est près de la porte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L267-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Je jette les papiers dans la poubelle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L267-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Il y a une tache près de la chaise.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L267-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "L’éponge va l’enlever.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L267-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Merci, la salle sera bientôt propre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L267-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La fête est terminée et les invités sont partis.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L267-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Je vois une tache de jus près de la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L267-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Je prends une éponge et un peu d’eau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L267-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "Le balai est derrière la porte; je nettoie le sol.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L267-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nous mettons les papiers dans le sac poubelle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L267-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Le chiffon enlève aussi les traces sur les chaises.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L267-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Quand la salle est propre, nous rangeons le seau et la poubelle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L267-fr-vocab-nettoyer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "nettoyer. Nous nettoyons la salle après la fête.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L267-fr-vocab-unbalai",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un balai. Le balai est derrière la porte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L267-fr-vocab-unepoubelle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une poubelle. La poubelle est près de la sortie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L267-fr-vocab-unchiffon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un chiffon. J’essuie la table avec un chiffon.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L267-fr-vocab-unsol",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un sol. Le sol est propre maintenant.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L267-fr-vocab-unseau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un seau. Je remplis le seau avec de l’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L267-fr-vocab-uneeponge",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une éponge. L’éponge enlève la tache sur la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L267-fr-vocab-unetache",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une tache. Il reste une tache de jus.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L267-fr-vocab-unetrace",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une trace. La trace disparaît avec un peu d’eau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L267-fr-vocab-unsacpoubelle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un sac poubelle. Le sac poubelle est presque plein.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L267-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je nettoie la table. Tu nettoies le sol. Elle nettoie la salle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L267-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous nettoyons les chaises. Vous nettoyez la porte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L267-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils nettoient la grande table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L267-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je nettoie la table avec un chiffon humide.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L267-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous nettoyons le sol après le goûter.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L267-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu enlèves la tache avec une éponge.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L267-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La poubelle reste près de la sortie.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L267-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ils nettoient la salle avant de partir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L267-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après la fête, la salle est pleine de petites traces. Mina enlève les décorations en papier et place les déchets dans un sac. Hugo passe le balai près des chaises, puis il remplit un seau avec un peu d’eau. Léa utilise une éponge pour nettoyer une tache de boisson sur le sol. La table est essuyée avec un chiffon propre. Les amis vérifient les coins de la pièce pour ne rien oublier. Quand le sol est sec et que la poubelle est fermée, ils remettent les meubles à leur place. La salle est prête pour le cours du lendemain.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 523
+    },
+    {
+      "id": "L267-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L267)",
+      "tts_text": "پس از یک جشن، چند وسیله روی زمین مانده است؛ بگو با چه وسیله‌ای سالن را تمیز می‌کنی.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 83
+    },
+    {
+      "id": "L267-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L267)",
+      "tts_text": "برای تمیزکاری از پارچه، اسفنج و جارو استفاده می‌کنیم و زباله‌ها را جمع می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L267-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L267)",
+      "tts_text": "به گفت‌وگوی دوستان گوش کن و ببین مینا نزدیک میز چه چیزی می‌بیند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L267-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L267)",
+      "tts_text": "فعل «nettoyer» در بعضی شکل‌ها حرف «y» به «i» تبدیل می‌شود؛ شکل‌های «nous» و «vous» را جدا تمرین کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 99
+    },
+    {
+      "id": "L267-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L267)",
+      "tts_text": "کارهای تمیزکاری را بین خودتان تقسیم کن و وسیله‌های لازم را نام ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L267-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L267)",
+      "tts_text": "یک جمله با «nettoyer» بساز و بگو کدام سطح را تمیز می‌کنی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    }
+  ]
+}

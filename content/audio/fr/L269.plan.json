@@ -1,0 +1,380 @@
+{
+  "lesson": "L269",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L269-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Il reste un morceau de tarte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L269-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je le mets dans une boîte fermée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L269-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu peux écrire la date sur l’étiquette ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L269-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, elle restera lisible.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L269-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Nous gardons la boîte au réfrigérateur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L269-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Demain, tu réchauffes une part ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L269-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Oui, seulement la quantité nécessaire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L269-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Parfait, le reste reste bien fermé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L269-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Il reste une part de tarte après la fête.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L269-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Je la mets dans une boîte hermétique et je ferme le couvercle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L269-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Tu places la boîte sur quelle étagère ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L269-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "Sur l’étagère du réfrigérateur, près du lait.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L269-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "La date limite est encore lisible ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L269-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, la date reste lisible sur le papier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L269-fr-listening-7",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "Demain, nous réchauffons seulement la part que nous allons manger.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L269-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Nous gardons le reste de tarte au congélateur pour une autre journée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L269-fr-vocab-rechauffer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "réchauffer. Je réchauffe une part de tarte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L269-fr-vocab-unreste",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un reste. Le reste de soupe est dans la boîte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L269-fr-vocab-unrefrigerateur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un réfrigérateur. Le réfrigérateur garde les aliments au frais.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L269-fr-vocab-uneboitehermetique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une boîte hermétique. La boîte hermétique ferme bien.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L269-fr-vocab-uneetagere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une étagère. Le pot est sur l’étagère du réfrigérateur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L269-fr-vocab-unedatelimite",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une date limite. La date limite est écrite sur l’étiquette.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L269-fr-vocab-unfilmalimentaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un film alimentaire. Le film alimentaire couvre le bol.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L269-fr-vocab-unepart",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une part. Je prends une part pour le déjeuner.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L269-fr-vocab-unrecipient",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un récipient. Le récipient est propre et sec.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L269-fr-vocab-uncongelateur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un congélateur. Le congélateur garde les aliments longtemps.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L269-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je réchauffe la soupe. Tu réchauffes une part. Elle réchauffe le repas.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 71
+    },
+    {
+      "id": "L269-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous réchauffons les restes. Vous réchauffez le plat.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L269-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils réchauffent une portion pour le déjeuner.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L269-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je réchauffe une part de tarte pour le goûter.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L269-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous gardons les restes dans une boîte fermée.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L269-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu vérifies la date limite avant le repas.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L269-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le récipient reste sur l’étagère du réfrigérateur.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L269-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ils réchauffent seulement la portion nécessaire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L269-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après le goûter, Mina trouve encore une part de tarte et un peu de soupe. Elle range chaque aliment dans un récipient propre et ferme la boîte hermétique. Hugo lit la date limite sur l’étiquette avant de placer le tout dans le réfrigérateur. La boîte de tarte va sur l’étagère du haut, tandis que la soupe reste plus bas. Le lendemain, les amis prennent seulement la quantité qu’ils veulent manger. Mina réchauffe une part dans une petite casserole et remet immédiatement le reste au frais. Le film alimentaire protège le bol de soupe. Grâce aux boîtes fermées, les aliments ne se renversent pas et restent faciles à retrouver.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 627
+    },
+    {
+      "id": "L269-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L269)",
+      "tts_text": "پس از یک مهمانی مقداری غذا باقی مانده است؛ بگو چگونه آن را تا فردا نگهداری می‌کنی.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L269-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L269)",
+      "tts_text": "باقی‌مانده را در ظرف تمیز و بسته در یخچال می‌گذاریم و فقط مقدار لازم را گرم می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 84
+    },
+    {
+      "id": "L269-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L269)",
+      "tts_text": "به گفت‌وگوی مینا و هوگو گوش کن و جای ظرف را در یخچال پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L269-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L269)",
+      "tts_text": "فعل «réchauffer» مانند فعل‌های گروه اول صرف می‌شود؛ فاعل را پیش از انتخاب پایان ببین.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 85
+    },
+    {
+      "id": "L269-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L269)",
+      "tts_text": "دربارهٔ غذای باقی‌مانده توضیح بده و بگو کجا آن را نگه می‌داری.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L269-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L269)",
+      "tts_text": "یک جمله با «réchauffer» بساز و غذایی را که دوباره گرم می‌کنی نام ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    }
+  ]
+}
