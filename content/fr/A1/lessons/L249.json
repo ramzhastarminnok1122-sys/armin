@@ -1,0 +1,473 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 249,
+    "title": "Le groupe attend le bus",
+    "subtitle": "Lire un horaire simple",
+    "description": "Attendez le bus et vérifiez l’horaire avec le groupe.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف فعل attendre و خواندن زمان حرکت اتوبوس",
+      "objectives": [
+        "Conjuguer attendre au présent.",
+        "Lire une heure simple sur un horaire.",
+        "Dire si un bus arrive à l’heure ou en retard."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "گروه از موزه بیرون آمده و کنار ایستگاه منتظر اتوبوس است. روی تابلو زمان حرکت نوشته شده است. فعل فرانسوی برای «منتظرماندن» چیست؟",
+      "questions": [
+        {
+          "q": "مصدر فعل «منتظرماندن» چیست؟",
+          "hint_fa": "مصدر «attendre» است."
+        },
+        {
+          "q": "برای گفتن اینکه اتوبوس دیر کرده چه می‌گوییم؟",
+          "hint_fa": "می‌گوییم «Le bus est en retard»."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Attendre le bus",
+      "body_fa": "فعل «attendre» برای منتظرماندن به کار می‌رود. در ایستگاه می‌توانیم زمان حرکت را روی تابلو بخوانیم و بگوییم اتوبوس به‌موقع می‌رسد یا تأخیر دارد. با «j’attends» دربارهٔ خودمان حرف می‌زنیم و با «nous attendons» دربارهٔ گروه. زمان را با «à» بیان می‌کنیم، مانند «à huit heures». بهتر است کنار ایستگاه بمانیم و تا رسیدن اتوبوس با گروه حرکت نکنیم. هنگام انتظار می‌توانیم نام خط و زمان حرکت را با هم‌کلاسی مرور کنیم. اگر تابلو تغییر کرد، از آموزگار سؤال می‌پرسیم و از ایستگاه دور نمی‌شویم.",
+      "key_points": [
+        "«Attendre» فعل گروه سوم است.",
+        "برای «nous» می‌گوییم «nous attendons».",
+        "زمان حرکت را با «à» معرفی می‌کنیم."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "attendre",
+          "ipa": "/a.tɑ̃dʁ/",
+          "translation_fa": "منتظرماندن",
+          "example": "Nous attendons le bus ensemble.",
+          "example_fa": "با هم منتظر اتوبوس می‌مانیم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "un arrêt",
+          "ipa": "/œ̃ a.ʁɛ/",
+          "translation_fa": "ایستگاه",
+          "example": "L’arrêt est près du musée.",
+          "example_fa": "ایستگاه نزدیک موزه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un horaire",
+          "ipa": "/œ̃ ɔ.ʁɛʁ/",
+          "translation_fa": "برنامهٔ زمانی",
+          "example": "Je lis l’horaire du bus.",
+          "example_fa": "برنامهٔ زمانی اتوبوس را می‌خوانم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une ligne",
+          "ipa": "/yn liɲ/",
+          "translation_fa": "خط؛ مسیر",
+          "example": "La ligne quatre arrive bientôt.",
+          "example_fa": "خط چهار به‌زودی می‌رسد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "à l’heure",
+          "ipa": "/a lœʁ/",
+          "translation_fa": "به‌موقع",
+          "example": "Le bus est à l’heure.",
+          "example_fa": "اتوبوس به‌موقع است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "en retard",
+          "ipa": "/ɑ̃ ʁə.taʁ/",
+          "translation_fa": "با تأخیر",
+          "example": "La ligne est en retard.",
+          "example_fa": "مسیر با تأخیر است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "un banc",
+          "ipa": "/œ̃ bɑ̃/",
+          "translation_fa": "نیمکت",
+          "example": "Hugo attend près du banc.",
+          "example_fa": "اوگو نزدیک نیمکت منتظر می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "arriver",
+          "ipa": "/a.ʁi.ve/",
+          "translation_fa": "رسیدن",
+          "example": "Le bus arrive à neuf heures.",
+          "example_fa": "اتوبوس ساعت نه می‌رسد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "partir",
+          "ipa": "/paʁ.tiʁ/",
+          "translation_fa": "حرکت‌کردن؛ رفتن",
+          "example": "Le bus part à neuf heures dix.",
+          "example_fa": "اتوبوس ساعت نه و ده دقیقه حرکت می‌کند.",
+          "tag": "فعل"
+        },
+        {
+          "term": "bientôt",
+          "ipa": "/bjɛ̃.to/",
+          "translation_fa": "به‌زودی",
+          "example": "Le bus arrive bientôt.",
+          "example_fa": "اتوبوس به‌زودی می‌رسد.",
+          "tag": "قید"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent d’attendre",
+      "explanation_fa": "فعل «attendre» از گروه سوم است و در زمان حال پایان‌های متفاوت دارد. می‌گوییم «j’attends»، «tu attends»، «il attend»، «nous attendons»، «vous attendez» و «ils attendent». در شکل‌های مفرد، پایان نوشتاری «-s» یا «-d» دیده می‌شود، اما صدای فعل تقریباً یکسان می‌ماند. با «à» زمان حرکت را بیان می‌کنیم: «Le bus part à neuf heures». برای برنامهٔ روزانه می‌توانیم بگوییم «Nous attendons à l’arrêt». اگر وسیله نرسیده باشد، عبارت «en retard» را به کار می‌بریم؛ اگر مطابق برنامه برسد، می‌گوییم «à l’heure». ساعت را با دقت از تابلو بخوان و سپس جملهٔ کوتاه بساز.",
+      "pattern": "sujet + attendre / arriver / partir au présent",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "J’attends le bus. Tu attends près du banc.",
+            "من منتظر اتوبوس می‌مانم. تو نزدیک نیمکت منتظر می‌مانی."
+          ],
+          [
+            "il / elle",
+            "Le bus arrive à neuf heures.",
+            "اتوبوس ساعت نه می‌رسد."
+          ],
+          [
+            "nous / vous",
+            "Nous attendons à l’arrêt. Vous partez à neuf heures dix.",
+            "ما در ایستگاه منتظریم. شما ساعت نه و ده حرکت می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Les élèves attendent la ligne quatre.",
+            "دانش‌آموزان منتظر خط چهار هستند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای «nous» می‌گوییم «attendons».",
+        "«À l’heure» یعنی به‌موقع.",
+        "«En retard» یعنی با تأخیر."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "J’attends le bus à l’arrêt.",
+          "fa": "در ایستگاه منتظر اتوبوس می‌مانم.",
+          "note_fa": "فعل «attendre» با فاعل صرف می‌شود."
+        },
+        {
+          "target": "Nous attendons près du banc.",
+          "fa": "نزدیک نیمکت منتظر می‌مانیم.",
+          "note_fa": "در شکل «nous» پایان «-ons» می‌آید."
+        },
+        {
+          "target": "Le bus arrive à neuf heures.",
+          "fa": "اتوبوس ساعت نه می‌رسد.",
+          "note_fa": "زمان را با «à» بیان می‌کنیم."
+        },
+        {
+          "target": "La ligne quatre est en retard.",
+          "fa": "خط چهار با تأخیر است.",
+          "note_fa": "«En retard» وضعیت دیرکردن را بیان می‌کند."
+        },
+        {
+          "target": "Le bus part à neuf heures dix.",
+          "fa": "اتوبوس ساعت نه و ده دقیقه حرکت می‌کند.",
+          "note_fa": "فعل «partir» حرکت از یک مکان را نشان می‌دهد."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "À l’arrêt après la visite",
+      "script": "Mina: Nous sommes à l’arrêt près du musée.\nHugo: Je regarde l’horaire sur le panneau.\nMina: Quelle ligne va vers la gare ?\nHugo: La ligne quatre arrive à neuf heures.\nMina: Il est déjà neuf heures moins cinq.\nHugo: Le bus est à l’heure aujourd’hui.\nMina: Où pouvons-nous attendre ?\nHugo: Il y a un banc sous l’abri.\nMina: La classe attend ici avec la professeure.\nHugo: Le bus part dans cinq minutes.\nMina: Je prépare mon sac et mon billet.\nHugo: Voilà le bus, il arrive maintenant.\nMina: Nous montons quand tout le monde est prêt.",
+      "script_fa": "مینا: ما در ایستگاه نزدیک موزه هستیم.\nاوگو: برنامهٔ زمانی را روی تابلو نگاه می‌کنم.\nمینا: کدام خط به ایستگاه قطار می‌رود؟\nاوگو: خط چهار ساعت نه می‌رسد.\nمینا: حالا پنج دقیقه به نه است.\nاوگو: امروز اتوبوس به‌موقع است.\nمینا: کجا می‌توانیم منتظر بمانیم؟\nاوگو: زیر سرپناه یک نیمکت هست.\nمینا: کلاس اینجا همراه آموزگار منتظر می‌ماند.\nاوگو: اتوبوس پنج دقیقهٔ دیگر حرکت می‌کند.\nمینا: کیف و بلیتم را آماده می‌کنم.\nاوگو: اتوبوس رسید، همین حالا می‌آید.\nمینا: وقتی همه آماده‌اند سوار می‌شویم.",
+      "question_fa": "Quelle ligne va vers la gare ?",
+      "answer": "La ligne quatre.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Vérifier l’horaire",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Le bus arrive-t-il à l’heure ?",
+          "fa": "اتوبوس به‌موقع می‌رسد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, il arrive dans trois minutes.",
+          "fa": "بله، سه دقیقهٔ دیگر می‌رسد."
+        },
+        {
+          "speaker": "A",
+          "target": "Nous attendons sous l’abri ?",
+          "fa": "زیر سرپناه منتظر بمانیم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, le banc est libre.",
+          "fa": "بله، نیمکت خالی است."
+        },
+        {
+          "speaker": "A",
+          "target": "La ligne quatre va au centre ?",
+          "fa": "خط چهار به مرکز می‌رود؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, elle part à neuf heures dix.",
+          "fa": "بله، ساعت نه و ده دقیقه حرکت می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "Je vérifie l’heure sur mon téléphone.",
+          "fa": "زمان را در تلفنم بررسی می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Bonne idée, notre groupe est prêt.",
+          "fa": "فکر خوبی است، گروه ما آماده است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی مدرسه، با هم‌کلاسی کنار ایستگاه منتظر بمان و دربارهٔ زمان رسیدن و حرکت اتوبوس صحبت کن.",
+      "useful_phrases": [
+        {
+          "target": "Nous attendons à l’arrêt.",
+          "fa": "در ایستگاه منتظریم."
+        },
+        {
+          "target": "Le bus arrive à neuf heures.",
+          "fa": "اتوبوس ساعت نه می‌رسد."
+        },
+        {
+          "target": "La ligne est en retard.",
+          "fa": "خط تأخیر دارد."
+        },
+        {
+          "target": "Il part dans cinq minutes.",
+          "fa": "پنج دقیقهٔ دیگر حرکت می‌کند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Le départ de la classe",
+      "text": "Après la visite, la classe attend le bus près d’un grand arrêt. Hugo lit l’horaire affiché sous l’abri. La ligne quatre arrive à neuf heures et part dix minutes plus tard. Mina s’assoit sur un banc avec son sac. La professeure vérifie que chaque élève est présent. Aujourd’hui, le bus n’est pas en retard. Un autre véhicule arrive bientôt, mais il suit la ligne deux. Les élèves restent près du panneau jusqu’à l’arrivée du bon bus. Ensuite, ils montent ensemble et montrent leurs billets au conducteur.",
+      "glossary": [
+        {
+          "term": "affiché",
+          "fa": "نمایش‌داده‌شده"
+        },
+        {
+          "term": "un abri",
+          "fa": "سرپناه"
+        },
+        {
+          "term": "un conducteur",
+          "fa": "راننده"
+        },
+        {
+          "term": "présent",
+          "fa": "حاضر"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "هوگو برنامه را کجا می‌خواند؟",
+          "a": "Sous l’abri."
+        },
+        {
+          "q_fa": "کدام خط به‌زودی می‌رسد؟",
+          "a": "La ligne quatre."
+        },
+        {
+          "q_fa": "آیا اتوبوس امروز تأخیر دارد؟",
+          "a": "Non."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ le bus à l’arrêt.",
+          "options": [
+            "attendons",
+            "attendez",
+            "attend"
+          ],
+          "answer": "attendons",
+          "explanation_fa": "برای «nous» می‌گوییم «nous attendons»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت درست برای اتوبوس به‌موقع را انتخاب کن.",
+          "question": "Le bus arrive ___.",
+          "options": [
+            "à l’heure",
+            "en retard",
+            "bientôt hier"
+          ],
+          "answer": "à l’heure",
+          "explanation_fa": "«À l’heure» یعنی به‌موقع."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "زمان حرکت را کامل کن.",
+          "question": "Le bus part ___ neuf heures.",
+          "options": [
+            "à",
+            "de",
+            "sur"
+          ],
+          "answer": "à",
+          "explanation_fa": "برای گفتن ساعت از حرف اضافهٔ «à» استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "مکان انتظار را پیدا کن.",
+          "question": "Dans quel lieu les élèves attendent-ils le bus ?",
+          "options": [
+            "À l’arrêt",
+            "Dans la boutique",
+            "Au musée"
+          ],
+          "answer": "À l’arrêt",
+          "explanation_fa": "گروه کنار ایستگاه منتظر می‌ماند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای «vous» کامل کن.",
+          "question": "Vous ___ la ligne quatre. (attendre)",
+          "answer": [
+            "attendez"
+          ],
+          "explanation_fa": "برای «vous» پایان «-ez» به کار می‌رود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "بگو اتوبوس چه زمانی می‌رسد یا حرکت می‌کند.",
+          "question": "Donne une heure pour le bus.",
+          "answer": [
+            "Le bus arrive à neuf heures. Il part à neuf heures dix.",
+            "Nous attendons le bus qui arrive à neuf heures."
+          ],
+          "explanation_fa": "از فعل «arriver» یا «partir» و یک ساعت استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle ligne va vers la gare ?",
+          "options": [
+            "La ligne quatre",
+            "La ligne deux",
+            "La ligne neuf"
+          ],
+          "answer": "La ligne quatre",
+          "explanation_fa": "Hugo dit que la ligne quatre va vers la gare."
+        },
+        {
+          "type": "mcq",
+          "question": "Où la classe attend-elle le bus ?",
+          "options": [
+            "Sous l’abri, près du banc",
+            "Dans la boutique",
+            "Au premier étage"
+          ],
+          "answer": "Sous l’abri, près du banc",
+          "explanation_fa": "Les élèves attendent près de l’arrêt."
+        },
+        {
+          "type": "mcq",
+          "question": "À quelle heure le bus part-il ?",
+          "options": [
+            "À neuf heures dix",
+            "À huit heures",
+            "À dix heures trente"
+          ],
+          "answer": "À neuf heures dix",
+          "explanation_fa": "Le départ est prévu à neuf heures dix."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel véhicule arrive bientôt mais suit une autre ligne ?",
+          "options": [
+            "Le bus de la ligne deux",
+            "Le train de la ligne quatre",
+            "Le taxi de la classe"
+          ],
+          "answer": "Le bus de la ligne deux",
+          "explanation_fa": "Un autre bus arrive, mais il suit la ligne deux."
+        },
+        {
+          "type": "mcq",
+          "question": "Que fait la professeure avant de monter ?",
+          "options": [
+            "Elle vérifie les présences.",
+            "Elle achète un marque-page.",
+            "Elle lit une carte postale."
+          ],
+          "answer": "Elle vérifie les présences.",
+          "explanation_fa": "Elle vérifie que tous les élèves sont présents."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Parlez avec un camarade à l’arrêt de bus. Vérifiez une heure, nommez une ligne et dites si le bus est en avance ou en retard.",
+      "suggested_prompts": [
+        "Demandez l’heure d’arrivée du bus.",
+        "Dites que vous attendez près d’un banc.",
+        "Annoncez que le bus est en retard.",
+        "Expliquez à quelle heure il part."
+      ],
+      "focus": [
+        "attendre au présent",
+        "lire une heure",
+        "à l’heure et en retard"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson: pupils wait together and check a simple bus timetable."
+  }
+}

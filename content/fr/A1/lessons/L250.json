@@ -1,0 +1,473 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 250,
+    "title": "Mina prend un ticket",
+    "subtitle": "Acheter un trajet simple",
+    "description": "Achetez un ticket pour le trajet du groupe.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف فعل prendre و خرید بلیت برای یک مسیر",
+      "objectives": [
+        "Conjuguer prendre au présent.",
+        "Demander un ticket pour un trajet simple.",
+        "Comprendre quelques mots d’un distributeur."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "اتوبوس نزدیک است و گروه باید بلیت تهیه کند. در ایستگاه یک دستگاه فروش بلیت وجود دارد. فعل فرانسوی برای «گرفتن یا خریدن» یک بلیت چیست؟",
+      "questions": [
+        {
+          "q": "مصدر فعل «گرفتن» چیست؟",
+          "hint_fa": "مصدر «prendre» است."
+        },
+        {
+          "q": "چطور مقصد خود را مشخص می‌کنیم؟",
+          "hint_fa": "نام مقصد یا مسیر را روی صفحه انتخاب می‌کنیم."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Prendre un ticket",
+      "body_fa": "فعل «prendre» برای گرفتن یا انتخاب‌کردن چیزی به کار می‌رود. در زمان حال شکل‌های آن تغییر می‌کنند: «je prends», «tu prends», «il prend», «nous prenons», «vous prenez» و «ils prennent». در دستگاه فروش، ابتدا مقصد را انتخاب می‌کنیم و سپس نوع مسیر را مشخص می‌سازیم. یک بلیت ساده را می‌توان برای رفتن به یک مقصد به کار برد. پس از دریافت بلیت، آن را در جای مناسب اعتبارسنجی می‌کنیم و تا پایان مسیر نگه می‌داریم. اگر دستگاه بلیت چاپ نکند، دوباره مبلغ را نمی‌پردازیم و از مسئول ایستگاه کمک می‌گیریم. هنگام استفاده از پول نقد، پول خرد را نیز می‌شماریم.",
+      "key_points": [
+        "«Prendre» یک فعل بی‌قاعده است.",
+        "برای «nous» می‌گوییم «nous prenons».",
+        "پیش از سوارشدن، بلیت را اعتبارسنجی کن."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "prendre",
+          "ipa": "/pʁɑ̃dʁ/",
+          "translation_fa": "گرفتن؛ انتخاب‌کردن",
+          "example": "Je prends un ticket au distributeur.",
+          "example_fa": "از دستگاه یک بلیت می‌گیرم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "un ticket",
+          "ipa": "/œ̃ ti.kɛ/",
+          "translation_fa": "بلیت",
+          "example": "Le ticket est dans ma poche.",
+          "example_fa": "بلیت در جیب من است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un distributeur",
+          "ipa": "/œ̃ dis.tʁi.by.tœʁ/",
+          "translation_fa": "دستگاه فروش",
+          "example": "Le distributeur accepte les pièces.",
+          "example_fa": "دستگاه سکه می‌پذیرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un trajet",
+          "ipa": "/œ̃ tʁa.ʒɛ/",
+          "translation_fa": "مسیر",
+          "example": "Le trajet dure vingt minutes.",
+          "example_fa": "مسیر بیست دقیقه طول می‌کشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un tarif",
+          "ipa": "/œ̃ ta.ʁif/",
+          "translation_fa": "بها؛ نرخ",
+          "example": "Le tarif est affiché ici.",
+          "example_fa": "نرخ اینجا نمایش داده شده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un aller simple",
+          "ipa": "/œ̃ a.le sɛ̃pl/",
+          "translation_fa": "بلیت یک‌طرفه",
+          "example": "Je prends un aller simple.",
+          "example_fa": "یک بلیت یک‌طرفه می‌گیرم.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "une destination",
+          "ipa": "/yn dɛs.ti.na.sjɔ̃/",
+          "translation_fa": "مقصد",
+          "example": "La destination est le centre-ville.",
+          "example_fa": "مقصد مرکز شهر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "valider",
+          "ipa": "/va.li.de/",
+          "translation_fa": "اعتبارسنجی‌کردن",
+          "example": "Il faut valider le ticket.",
+          "example_fa": "باید بلیت را اعتبارسنجی کرد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "une pièce",
+          "ipa": "/yn pjɛs/",
+          "translation_fa": "سکه",
+          "example": "Mina donne une pièce au guichet.",
+          "example_fa": "مینا یک سکه به باجه می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une monnaie",
+          "ipa": "/yn mɔ.nɛ/",
+          "translation_fa": "پول خرد",
+          "example": "Le distributeur rend la monnaie.",
+          "example_fa": "دستگاه پول خرد پس می‌دهد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de prendre",
+      "explanation_fa": "فعل «prendre» بی‌قاعده است و صورت‌های آن را باید همراه کاربردشان تمرین کنیم. می‌گوییم «je prends»، «tu prends»، «il prend»، «nous prenons»، «vous prenez» و «ils prennent». شکل «nous» با «prenons» نوشته می‌شود و با شکل مفرد تفاوت دارد. پس از فعل می‌توانیم نام چیزی را که می‌گیریم بیاوریم: «Je prends un ticket». برای انتخاب مسیر می‌گوییم «Nous prenons un aller simple pour le centre». در دستگاه، مقصد را با دقت می‌خوانیم، بلیت درست را انتخاب می‌کنیم و دستور اعتبارسنجی را دنبال می‌کنیم. بلیت را تا پایان سفر در دسترس نگه می‌داریم.",
+      "pattern": "sujet + prendre au présent + ticket / trajet",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je prends un ticket. Tu prends un aller simple.",
+            "من بلیت می‌گیرم. تو بلیت یک‌طرفه می‌گیری."
+          ],
+          [
+            "il / elle",
+            "Mina prend un trajet pour le centre.",
+            "مینا مسیری به‌سوی مرکز انتخاب می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous prenons deux tickets. Vous prenez la ligne quatre.",
+            "ما دو بلیت می‌گیریم. شما خط چهار را انتخاب می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Les élèves prennent leurs tickets.",
+            "دانش‌آموزان بلیت‌هایشان را می‌گیرند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "شکل «nous» برابر «prenons» است.",
+        "«Un aller simple» برای یک مسیر است.",
+        "«Valider» یعنی بلیت را معتبرکردن."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je prends un ticket pour le centre.",
+          "fa": "برای مرکز یک بلیت می‌گیرم.",
+          "note_fa": "فعل «prendre» بی‌قاعده است."
+        },
+        {
+          "target": "Nous prenons deux tickets au distributeur.",
+          "fa": "از دستگاه دو بلیت می‌گیریم.",
+          "note_fa": "برای «nous» شکل «prenons» می‌آید."
+        },
+        {
+          "target": "Mina choisit une destination sur l’écran.",
+          "fa": "مینا مقصدی را روی صفحه انتخاب می‌کند.",
+          "note_fa": "«Une destination» جایی است که می‌خواهیم به آن برسیم."
+        },
+        {
+          "target": "Il faut valider le ticket avant le trajet.",
+          "fa": "پیش از مسیر باید بلیت را اعتبارسنجی کرد.",
+          "note_fa": "فعل «valider» روی بلیت به کار می‌رود."
+        },
+        {
+          "target": "Le distributeur rend une pièce.",
+          "fa": "دستگاه یک سکه پس می‌دهد.",
+          "note_fa": "«Une pièce» یک سکه است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Au distributeur de tickets",
+      "script": "Mina: Le bus arrive dans quatre minutes.\nHugo: Nous prenons un ticket au distributeur ?\nMina: Oui, choisis la destination sur l’écran.\nHugo: Je sélectionne le centre-ville.\nMina: Le tarif est indiqué en haut.\nHugo: Un aller simple coûte deux euros.\nMina: Je donne une pièce de deux euros.\nHugo: Le distributeur imprime le ticket.\nMina: Il faut le valider avant de monter.\nHugo: Où est le lecteur ?\nMina: Il est près de la porte du bus.\nHugo: Voilà, le ticket est validé.\nMina: Nous gardons le ticket jusqu’au centre.",
+      "script_fa": "مینا: اتوبوس چهار دقیقهٔ دیگر می‌رسد.\nاوگو: از دستگاه بلیت بگیریم؟\nمینا: بله، مقصد را روی صفحه انتخاب کن.\nاوگو: مرکز شهر را انتخاب می‌کنم.\nمینا: نرخ در قسمت بالا نوشته شده است.\nاوگو: بلیت یک‌طرفه دو یورو قیمت دارد.\nمینا: یک سکهٔ دو یورویی می‌دهم.\nاوگو: دستگاه بلیت را چاپ می‌کند.\nمینا: پیش از سوارشدن باید آن را اعتبارسنجی کرد.\nاوگو: دستگاه‌خوان کجاست؟\nمینا: کنار در اتوبوس است.\nاوگو: انجام شد، بلیت معتبر شد.\nمینا: بلیت را تا مرکز نگه می‌داریم.",
+      "question_fa": "Quelle destination Mina choisit-elle ?",
+      "answer": "Le centre-ville.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Acheter un billet de bus",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu peux prendre un ticket pour le centre ?",
+          "fa": "می‌توانی برای مرکز بلیت بگیری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, je choisis la destination sur l’écran.",
+          "fa": "بله، مقصد را روی صفحه انتخاب می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "Quel est le tarif ?",
+          "fa": "نرخ چقدر است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Deux euros pour un aller simple.",
+          "fa": "برای یک مسیر دو یورو."
+        },
+        {
+          "speaker": "A",
+          "target": "Nous payons avec une pièce ?",
+          "fa": "با سکه پرداخت کنیم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, le distributeur rend la monnaie.",
+          "fa": "بله، دستگاه پول خرد پس می‌دهد."
+        },
+        {
+          "speaker": "A",
+          "target": "Le ticket est validé ?",
+          "fa": "بلیت اعتبارسنجی شده است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, nous pouvons monter.",
+          "fa": "بله، می‌توانیم سوار شویم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی مدرسه، از دستگاه بلیت بخر. مقصد را انتخاب کن، قیمت را بپرس و بگو بلیت را کجا اعتبارسنجی می‌کنی.",
+      "useful_phrases": [
+        {
+          "target": "Je prends un ticket.",
+          "fa": "یک بلیت می‌گیرم."
+        },
+        {
+          "target": "La destination est le centre.",
+          "fa": "مقصد مرکز است."
+        },
+        {
+          "target": "Le tarif est de deux euros.",
+          "fa": "نرخ دو یورو است."
+        },
+        {
+          "target": "Je valide le ticket avant de monter.",
+          "fa": "پیش از سوارشدن بلیت را اعتبارسنجی می‌کنم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Un ticket pour le centre",
+      "text": "À l’arrêt, Mina utilise un distributeur pour acheter un ticket. Elle choisit le centre-ville comme destination et lit le tarif sur l’écran. Un aller simple coûte deux euros. Hugo prend deux pièces dans son portefeuille et les insère dans la machine. Le distributeur imprime les tickets et rend une petite monnaie. Avant de monter dans le bus, les élèves valident leurs tickets près de la porte. Mina garde le sien dans une poche facile à ouvrir. Le trajet vers le centre dure environ vingt minutes.",
+      "glossary": [
+        {
+          "term": "insérer",
+          "fa": "واردکردن"
+        },
+        {
+          "term": "un portefeuille",
+          "fa": "کیف پول"
+        },
+        {
+          "term": "une machine",
+          "fa": "دستگاه"
+        },
+        {
+          "term": "environ",
+          "fa": "حدوداً"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "مینا کدام مقصد را انتخاب می‌کند؟",
+          "a": "Le centre-ville."
+        },
+        {
+          "q_fa": "بلیت یک‌طرفه چند است؟",
+          "a": "Deux euros."
+        },
+        {
+          "q_fa": "دانش‌آموزان کجا بلیت را اعتبارسنجی می‌کنند؟",
+          "a": "Près de la porte."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست را برای «nous» انتخاب کن.",
+          "question": "Nous ___ deux tickets.",
+          "options": [
+            "prenons",
+            "prenez",
+            "prend"
+          ],
+          "answer": "prenons",
+          "explanation_fa": "برای «nous» در فعل «prendre» می‌گوییم «prenons»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "بلیت یک‌طرفه را پیدا کن.",
+          "question": "Quel ticket correspond à un seul trajet ?",
+          "options": [
+            "Un aller simple",
+            "Une ligne quatre",
+            "Un horaire"
+          ],
+          "answer": "Un aller simple",
+          "explanation_fa": "«Un aller simple» برای یک مسیر است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جای انتخاب مقصد را مشخص کن.",
+          "question": "Où Mina choisit-elle la destination ?",
+          "options": [
+            "Sur l’écran",
+            "Sous le banc",
+            "Dans le couloir"
+          ],
+          "answer": "Sur l’écran",
+          "explanation_fa": "مینا مقصد را روی صفحه انتخاب می‌کند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل اعتبارسنجی را پیدا کن.",
+          "question": "Avant de monter, il faut ___ le ticket.",
+          "options": [
+            "valider",
+            "attendre",
+            "comparer"
+          ],
+          "answer": "valider",
+          "explanation_fa": "فعل «valider» برای معتبرکردن بلیت است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای «vous» کامل کن.",
+          "question": "Vous ___ un ticket pour le centre. (prendre)",
+          "answer": [
+            "prenez"
+          ],
+          "explanation_fa": "برای «vous» شکل «prenez» به کار می‌رود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "بگو چه بلیتی می‌گیری و کجا آن را معتبر می‌کنی.",
+          "question": "Explique ton achat au distributeur.",
+          "answer": [
+            "Je prends un aller simple pour le centre et je valide mon ticket près de la porte.",
+            "Nous prenons deux tickets et nous les validons avant de monter."
+          ],
+          "explanation_fa": "از «prendre» و «valider» استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quelle destination Mina choisit-elle ?",
+          "options": [
+            "Le centre-ville",
+            "La galerie",
+            "Le jardin"
+          ],
+          "answer": "Le centre-ville",
+          "explanation_fa": "Elle sélectionne le centre-ville."
+        },
+        {
+          "type": "mcq",
+          "question": "Combien coûte un aller simple ?",
+          "options": [
+            "Deux euros",
+            "Un euro",
+            "Quatre euros"
+          ],
+          "answer": "Deux euros",
+          "explanation_fa": "Le tarif est de deux euros."
+        },
+        {
+          "type": "mcq",
+          "question": "Que fait le distributeur après le paiement ?",
+          "options": [
+            "Il imprime le ticket.",
+            "Il ouvre la porte.",
+            "Il appelle le bus."
+          ],
+          "answer": "Il imprime le ticket.",
+          "explanation_fa": "La machine imprime le ticket."
+        },
+        {
+          "type": "mcq",
+          "question": "Où les élèves valident-ils leur ticket ?",
+          "options": [
+            "Près de la porte",
+            "Au musée",
+            "Sur le banc"
+          ],
+          "answer": "Près de la porte",
+          "explanation_fa": "Le lecteur est près de la porte du bus."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel verbe complète «Nous ___ un ticket» ?",
+          "options": [
+            "prenons",
+            "prend",
+            "prenez"
+          ],
+          "answer": "prenons",
+          "explanation_fa": "La forme de «nous» est «prenons»."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Achetez un ticket dans un dialogue. Choisissez une destination, demandez le tarif et expliquez comment valider le ticket.",
+      "suggested_prompts": [
+        "Conjuguez prendre avec je et nous.",
+        "Demandez le prix d’un aller simple.",
+        "Indiquez une destination sur l’écran.",
+        "Expliquez quand valider le ticket."
+      ],
+      "focus": [
+        "prendre au présent",
+        "tickets et destinations",
+        "valider avant de monter"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson: a learner uses a ticket machine to buy a simple bus ticket."
+  }
+}

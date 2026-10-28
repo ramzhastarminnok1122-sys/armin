@@ -1,0 +1,473 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 251,
+    "title": "La classe monte dans le bus",
+    "subtitle": "Trouver une place",
+    "description": "Montez dans le bus et installez-vous avec le groupe.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "صرف monter و descendre و کاربرد dans و de در مسیر اتوبوس",
+      "objectives": [
+        "Employer monter et descendre au présent.",
+        "Dire où les passagers s’installent.",
+        "Suivre une consigne simple dans le bus."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "بلیت‌ها آماده‌اند و اتوبوس در ایستگاه توقف کرده است. گروه باید سوار شود و جای مناسبی پیدا کند. برای گفتن «سوارشدن» از کدام فعل فرانسوی استفاده می‌کنیم؟",
+      "questions": [
+        {
+          "q": "فعل فرانسوی برای «سوارشدن» چیست؟",
+          "hint_fa": "فعل «monter» است."
+        },
+        {
+          "q": "برای گفتن «از اتوبوس پیاده‌شدن» چه می‌گوییم؟",
+          "hint_fa": "می‌گوییم «descendre du bus»."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Monter et descendre du bus",
+      "body_fa": "در سفر با اتوبوس، «monter» یعنی سوارشدن و «descendre» یعنی پیاده‌شدن. می‌گوییم «Je monte dans le bus» و «Je descends du bus». برای ورود از «dans» و برای بیرون‌آمدن از وسیله از «de» استفاده می‌کنیم. وقتی سوار شدیم، می‌توانیم یک صندلی خالی پیدا کنیم و کنار گروه بنشینیم. پیش از پیاده‌شدن، نام ایستگاه بعدی را گوش می‌دهیم و وسایل خود را جمع می‌کنیم. برای سفر امن، از در باز دور نمی‌ایستیم و راه عبور را آزاد نگه می‌داریم. هنگام شنیدن نام ایستگاه، آرام برمی‌خیزیم و وسایل را بررسی می‌کنیم.",
+      "key_points": [
+        "«Monter dans le bus» یعنی سوار اتوبوس‌شدن.",
+        "«Descendre du bus» یعنی از اتوبوس پیاده‌شدن.",
+        "پیش از پیاده‌شدن وسایل خود را بررسی کن."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "monter",
+          "ipa": "/mɔ̃.te/",
+          "translation_fa": "سوارشدن؛ بالا‌رفتن",
+          "example": "Les élèves montent dans le bus.",
+          "example_fa": "دانش‌آموزان سوار اتوبوس می‌شوند.",
+          "tag": "فعل"
+        },
+        {
+          "term": "descendre",
+          "ipa": "/de.sɑ̃dʁ/",
+          "translation_fa": "پیاده‌شدن؛ پایین‌آمدن",
+          "example": "Hugo descend au prochain arrêt.",
+          "example_fa": "اوگو در ایستگاه بعدی پیاده می‌شود.",
+          "tag": "فعل"
+        },
+        {
+          "term": "une porte",
+          "ipa": "/yn pɔʁt/",
+          "translation_fa": "در",
+          "example": "La porte du bus est ouverte.",
+          "example_fa": "در اتوبوس باز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un siège",
+          "ipa": "/œ̃ sjɛʒ/",
+          "translation_fa": "صندلی",
+          "example": "Mina trouve un siège libre.",
+          "example_fa": "مینا یک صندلی خالی پیدا می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une fenêtre",
+          "ipa": "/yn fə.nɛtʁ/",
+          "translation_fa": "پنجره",
+          "example": "La fenêtre est près de Mina.",
+          "example_fa": "پنجره نزدیک میناست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une ceinture",
+          "ipa": "/yn sɛ̃.tyʁ/",
+          "translation_fa": "کمربند",
+          "example": "La ceinture est facile à fermer.",
+          "example_fa": "کمربند به‌راحتی بسته می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "s’asseoir",
+          "ipa": "/a.swaʁ/",
+          "translation_fa": "نشستن",
+          "example": "Nous nous asseyons au fond.",
+          "example_fa": "در عقب می‌نشینیم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "libre",
+          "ipa": "/libʁ/",
+          "translation_fa": "خالی؛ آزاد",
+          "example": "Cette place est libre.",
+          "example_fa": "این صندلی خالی است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "occupé",
+          "ipa": "/ɔ.ky.pe/",
+          "translation_fa": "اشغال‌شده",
+          "example": "Le premier siège est occupé.",
+          "example_fa": "صندلی اول اشغال شده است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "prochain",
+          "ipa": "/pʁɔ.ʃɛ̃/",
+          "translation_fa": "بعدی",
+          "example": "Le prochain arrêt est le centre.",
+          "example_fa": "ایستگاه بعدی مرکز است.",
+          "tag": "صفت"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Monter dans le bus, descendre du bus",
+      "explanation_fa": "فعل «monter» را برای سوارشدن به اتوبوس و «descendre» را برای پیاده‌شدن به کار می‌بریم. در زمان حال می‌گوییم «je monte»، «nous montons»، «je descends» و «nous descendons». هنگام ورود به وسیله از «dans» استفاده می‌کنیم: «Je monte dans le bus». هنگام بیرون‌آمدن می‌گوییم «Je descends du bus»؛ واژهٔ «du» از ترکیب «de + le» ساخته می‌شود. بعد از سوارشدن، می‌توانیم یک صندلی خالی پیدا کنیم و بنشینیم. پیش از ایستگاه مقصد، نام ایستگاه بعدی را گوش بده و وسایل را بررسی کن.",
+      "pattern": "monter dans + véhicule / descendre de + véhicule",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "entrée",
+            "Je monte dans le bus.",
+            "من سوار اتوبوس می‌شوم."
+          ],
+          [
+            "sortie",
+            "Nous descendons du bus au centre.",
+            "ما در مرکز از اتوبوس پیاده می‌شویم."
+          ],
+          [
+            "place",
+            "Mina trouve un siège libre.",
+            "مینا یک صندلی خالی پیدا می‌کند."
+          ],
+          [
+            "annonce",
+            "Le prochain arrêt est la gare.",
+            "ایستگاه بعدی ایستگاه قطار است."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای ورود می‌گوییم «dans le bus».",
+        "برای خروج می‌گوییم «du bus».",
+        "«Le prochain arrêt» یعنی ایستگاه بعدی."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Je monte dans le bus avec ma classe.",
+          "fa": "همراه کلاس سوار اتوبوس می‌شوم.",
+          "note_fa": "«Monter dans» ورود به وسیله را بیان می‌کند."
+        },
+        {
+          "target": "Hugo descend au prochain arrêt.",
+          "fa": "اوگو در ایستگاه بعدی پیاده می‌شود.",
+          "note_fa": "«Descendre» خروج از وسیله را بیان می‌کند."
+        },
+        {
+          "target": "Nous trouvons deux sièges libres.",
+          "fa": "دو صندلی خالی پیدا می‌کنیم.",
+          "note_fa": "«Libre» یعنی خالی یا آزاد."
+        },
+        {
+          "target": "Mina s’assoit près de la fenêtre.",
+          "fa": "مینا نزدیک پنجره می‌نشیند.",
+          "note_fa": "فعل «s’asseoir» به معنی نشستن است."
+        },
+        {
+          "target": "La classe descend du bus au centre.",
+          "fa": "کلاس در مرکز از اتوبوس پیاده می‌شود.",
+          "note_fa": "«Du» ترکیب «de + le» است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Dans le bus avec la classe",
+      "script": "Mina: Le bus est arrivé devant l’arrêt.\nHugo: Nous montons par la porte avant.\nMina: Il reste des sièges libres ?\nHugo: Oui, deux places sont libres au fond.\nMina: Je m’assois près de la fenêtre.\nHugo: La professeure vérifie les ceintures.\nMina: Quel est le prochain arrêt ?\nHugo: Le centre, après la grande place.\nMina: Nous descendons tous au centre ?\nHugo: Oui, gardons nos sacs avec nous.\nMina: J’entends l’annonce de l’arrêt.\nHugo: Alors, préparons-nous près de la porte.\nMina: Nous descendons calmement avec la classe.",
+      "script_fa": "مینا: اتوبوس جلوی ایستگاه رسید.\nاوگو: از در جلویی سوار می‌شویم.\nمینا: صندلی خالی باقی مانده است؟\nاوگو: بله، دو جای خالی در عقب هست.\nمینا: نزدیک پنجره می‌نشینم.\nاوگو: آموزگار کمربندها را بررسی می‌کند.\nمینا: ایستگاه بعدی کجاست؟\nاوگو: مرکز، پس از میدان بزرگ.\nمینا: همه در مرکز پیاده می‌شویم؟\nاوگو: بله، کیف‌هایمان را همراه نگه داریم.\nمینا: اعلام ایستگاه را می‌شنوم.\nاوگو: پس کنار در آماده شویم.\nمینا: آرام همراه کلاس پیاده می‌شویم.",
+      "question_fa": "Quel est le prochain arrêt ?",
+      "answer": "Le centre.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Trouver une place",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu montes dans le bus avec la classe ?",
+          "fa": "با کلاس سوار اتوبوس می‌شوی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, je monte par la porte avant.",
+          "fa": "بله، از در جلویی سوار می‌شوم."
+        },
+        {
+          "speaker": "A",
+          "target": "Il y a un siège libre ?",
+          "fa": "صندلی خالی وجود دارد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, près de la fenêtre.",
+          "fa": "بله، نزدیک پنجره."
+        },
+        {
+          "speaker": "A",
+          "target": "Nous descendons au centre ?",
+          "fa": "در مرکز پیاده می‌شویم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, c’est le prochain arrêt après la place.",
+          "fa": "بله، ایستگاه بعدی پس از میدان است."
+        },
+        {
+          "speaker": "A",
+          "target": "Je prends mon sac avec moi.",
+          "fa": "کیفم را همراه خودم برمی‌دارم."
+        },
+        {
+          "speaker": "B",
+          "target": "Très bien, la porte va bientôt s’ouvrir.",
+          "fa": "خیلی خوب، در به‌زودی باز می‌شود."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی مدرسه، ورود به اتوبوس، پیدا کردن صندلی و پیاده‌شدن در مقصد را با هم‌کلاسی تمرین کن.",
+      "useful_phrases": [
+        {
+          "target": "Nous montons dans le bus.",
+          "fa": "سوار اتوبوس می‌شویم."
+        },
+        {
+          "target": "Cette place est libre.",
+          "fa": "این صندلی خالی است."
+        },
+        {
+          "target": "Le prochain arrêt est le centre.",
+          "fa": "ایستگاه بعدی مرکز است."
+        },
+        {
+          "target": "Nous descendons du bus ensemble.",
+          "fa": "با هم از اتوبوس پیاده می‌شویم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Un trajet en groupe",
+      "text": "La classe monte dans le bus par la porte avant. La professeure compte les élèves et leur demande de garder leurs sacs près d’eux. Mina s’assoit près d’une fenêtre, tandis que Hugo trouve un siège au fond. Une annonce présente le prochain arrêt : le centre. Les élèves entendent le nom de la place et préparent leurs affaires. Quand le bus s’arrête, ils descendent calmement avec leur professeure. Personne ne laisse un ticket ou un sac sur le siège. Le groupe attend ensuite le signal avant de traverser la rue.",
+      "glossary": [
+        {
+          "term": "compter",
+          "fa": "شمردن"
+        },
+        {
+          "term": "une annonce",
+          "fa": "اعلام"
+        },
+        {
+          "term": "une affaire",
+          "fa": "وسیله"
+        },
+        {
+          "term": "un signal",
+          "fa": "علامت"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "مینا کجا می‌نشیند؟",
+          "a": "Près d’une fenêtre."
+        },
+        {
+          "q_fa": "ایستگاه بعدی کجاست؟",
+          "a": "Au centre."
+        },
+        {
+          "q_fa": "دانش‌آموزان پیش از عبور از خیابان منتظر چه چیزی می‌مانند؟",
+          "a": "Le signal."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت ورود به اتوبوس را کامل کن.",
+          "question": "Je monte ___ le bus.",
+          "options": [
+            "dans",
+            "du",
+            "sur"
+          ],
+          "answer": "dans",
+          "explanation_fa": "برای سوارشدن می‌گوییم «monter dans le bus»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت درست برای پیاده‌شدن را انتخاب کن.",
+          "question": "Nous descendons ___ bus au centre.",
+          "options": [
+            "du",
+            "dans le",
+            "sur le"
+          ],
+          "answer": "du",
+          "explanation_fa": "«Du» ترکیب «de + le» است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "صندلی خالی را پیدا کن.",
+          "question": "Quel siège peut-on prendre ?",
+          "options": [
+            "Un siège libre",
+            "Un siège occupé",
+            "La porte avant"
+          ],
+          "answer": "Un siège libre",
+          "explanation_fa": "«Libre» یعنی صندلی اشغال نشده است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "ایستگاه بعدی را انتخاب کن.",
+          "question": "Quel est le prochain arrêt dans l’écoute ?",
+          "options": [
+            "Le centre",
+            "Le musée",
+            "La boutique"
+          ],
+          "answer": "Le centre",
+          "explanation_fa": "اوگو می‌گوید ایستگاه بعدی مرکز است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را برای «les élèves» کامل کن.",
+          "question": "Les élèves ___ dans le bus. (monter)",
+          "answer": [
+            "montent"
+          ],
+          "explanation_fa": "برای جمع سوم‌شخص پایان «-ent» می‌آید."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "بگو کجا سوار می‌شوی و کجا پیاده می‌شوی.",
+          "question": "Décris un trajet en bus.",
+          "answer": [
+            "Je monte dans le bus à l’arrêt du musée et je descends au centre.",
+            "Nous montons par la porte avant et descendons près de la gare."
+          ],
+          "explanation_fa": "از «monter dans» و «descendre de» استفاده کن."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Par quelle porte les élèves montent-ils ?",
+          "options": [
+            "La porte avant",
+            "La porte arrière",
+            "La porte du musée"
+          ],
+          "answer": "La porte avant",
+          "explanation_fa": "Ils montent par la porte avant."
+        },
+        {
+          "type": "mcq",
+          "question": "Où Mina trouve-t-elle une place ?",
+          "options": [
+            "Près de la fenêtre",
+            "Près du distributeur",
+            "Dans le couloir"
+          ],
+          "answer": "Près de la fenêtre",
+          "explanation_fa": "Elle s’assoit près de la fenêtre."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel est le prochain arrêt ?",
+          "options": [
+            "Le centre",
+            "La galerie",
+            "Le jardin"
+          ],
+          "answer": "Le centre",
+          "explanation_fa": "Hugo annonce le centre."
+        },
+        {
+          "type": "mcq",
+          "question": "Que gardent les élèves près d’eux ?",
+          "options": [
+            "Leurs sacs",
+            "Leurs affiches",
+            "Leurs cadres"
+          ],
+          "answer": "Leurs sacs",
+          "explanation_fa": "La professeure leur demande de garder leurs sacs."
+        },
+        {
+          "type": "mcq",
+          "question": "Que font les élèves après être descendus ?",
+          "options": [
+            "Ils attendent le signal.",
+            "Ils retournent au musée.",
+            "Ils achètent un ticket."
+          ],
+          "answer": "Ils attendent le signal.",
+          "explanation_fa": "Ils attendent le signal avant de traverser."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Racontez un court trajet en bus : dites où vous montez, où vous vous asseyez et où vous descendez.",
+      "suggested_prompts": [
+        "Dites que vous montez dans le bus avec le groupe.",
+        "Demandez si un siège est libre.",
+        "Annoncez le prochain arrêt.",
+        "Expliquez où vous descendez."
+      ],
+      "focus": [
+        "monter dans / descendre de",
+        "place libre ou occupée",
+        "présent de monter et descendre"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "French-native A1 lesson: pupils board a bus, find seats, and prepare to get off together."
+  }
+}
