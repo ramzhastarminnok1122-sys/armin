@@ -1,0 +1,371 @@
+{
+  "lesson": "L265",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L265-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu allumes les bougies maintenant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L265-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Non, j’attends l’arrivée des invités.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L265-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "La guirlande est déjà au mur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L265-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, et les ballons sont près de la porte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L265-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Où est l’affiche de la fête ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L265-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Elle est au-dessus de la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L265-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Je peux tenir le ruban ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L265-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Merci, je fixe le fanion à côté.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L265-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La salle est presque prête pour la fête.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L265-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "J’accroche une guirlande au mur et je place des ballons près de la porte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 73
+    },
+    {
+      "id": "L265-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Je mets l’affiche au-dessus de la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L265-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Ma sœur pose les bougies sur le gâteau, mais nous ne les allumons pas encore.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 77
+    },
+    {
+      "id": "L265-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Les fanions donnent de la couleur à la pièce.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L265-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Le ruban tient bien la décoration.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L265-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Quand les invités sont là, tu allumes les bougies et nous chantons ensemble.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L265-fr-vocab-allumer",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "allumer. J’allume les bougies après le repas.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L265-fr-vocab-uneguirlande",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une guirlande. La guirlande traverse la salle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L265-fr-vocab-unballon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un ballon. Un ballon rouge est près du mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L265-fr-vocab-unebougie",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une bougie. La bougie reste sur le gâteau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L265-fr-vocab-unruban",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un ruban. Le ruban tient la décoration.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L265-fr-vocab-unmur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un mur. L’affiche est contre le mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L265-fr-vocab-unedecoration",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une décoration. Cette décoration est faite en papier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L265-fr-vocab-unesalle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une salle. La salle est prête pour les invités.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L265-fr-vocab-uneaffiche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une affiche. L’affiche annonce la fête.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L265-fr-vocab-unfanion",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un fanion. Un fanion bleu pend au-dessus de la porte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L265-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’allume la bougie. Tu allumes la lampe. Elle allume les lumières.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L265-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous allumons les bougies. Vous allumez la guirlande lumineuse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L265-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils allument la salle avant la fête.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L265-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’allume une bougie après le dîner.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L265-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous allumons les lumières de la salle.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L265-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu accroches un fanion au mur.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L265-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La guirlande traverse la porte.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L265-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ils allument les bougies quand les invités arrivent.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L265-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Pour la fête de son frère, Mina décore la salle avec Hugo. Ils placent une affiche près de l’entrée et tendent une guirlande au-dessus de la table. Plusieurs ballons sont attachés à des chaises, tandis que des fanions colorés décorent le mur. La sœur de Mina pose le gâteau au centre et installe les bougies. Personne ne les allume encore, car les invités ne sont pas arrivés. Hugo vérifie que le ruban ne gêne pas le passage. Quand la pièce est prête, Mina éteint la grande lumière et allume une petite lampe près du gâteau. La salle est accueillante et les amis peuvent entrer.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 579
+    },
+    {
+      "id": "L265-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L265)",
+      "tts_text": "سالن جشن را تصور کن و بگو تزئینات را کجا می‌گذاری و چه زمانی شمع‌ها را روشن می‌کنی.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 83
+    },
+    {
+      "id": "L265-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L265)",
+      "tts_text": "ریسه و بادکنک را نصب می‌کنیم و شمع‌ها را وقتی مهمان‌ها آماده‌اند روشن می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L265-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L265)",
+      "tts_text": "به گفت‌وگوی مینا و هوگو گوش کن و زمان روشن‌کردن شمع‌ها را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L265-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L265)",
+      "tts_text": "فعل اَلومه مانند فعل‌های گروه اول صرف می‌شود و je به j’ کوتاه می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L265-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L265)",
+      "tts_text": "جای تزئینات را توصیف کن و زمان روشن‌کردن شمع را مشخص کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L265-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L265)",
+      "tts_text": "یک جمله با اَلومه بساز و نام یک تزئین جشن را در آن بیاور.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "lesson": "L264",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L264-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu organises une fête samedi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L264-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, c’est l’anniversaire de mon frère.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L264-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "À quelle heure commence la fête ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L264-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Après le déjeuner, vers trois heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L264-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Je peux apporter une boisson ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L264-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, merci. Voici le carton d’invitation.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L264-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Je réponds ce soir par message.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L264-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Parfait, je note ta réponse sur ma liste.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L264-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "J’organise une fête pour l’anniversaire de mon frère.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L264-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "La date est samedi prochain, après le déjeuner.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L264-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Combien d’invités veux-tu appeler ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L264-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "J’écris un message à huit amis et je prépare les cartons d’invitation.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L264-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "La salle de la maison a assez de place.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L264-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Je viens et j’apporte une boisson.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L264-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Deux amis ne sont pas libres; je note leur réponse sur ma liste.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L264-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Ce soir, nous vérifions le nombre d’invités avant d’acheter les décorations.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L264-fr-vocab-organiser",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "organiser. Nous organisons une petite fête.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L264-fr-vocab-uneinvitation",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une invitation. L’invitation indique la date.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L264-fr-vocab-unefete",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une fête. La fête commence après le déjeuner.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L264-fr-vocab-uneliste",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une liste. Mina prépare une liste de noms.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L264-fr-vocab-uninvite",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un invité. Chaque invité reçoit un message.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L264-fr-vocab-unedate",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une date. La date convient à tout le groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L264-fr-vocab-unmessage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un message. J’envoie un message à Léa.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L264-fr-vocab-unereponse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une réponse. Hugo donne sa réponse ce soir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L264-fr-vocab-uncartondinvitation",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un carton d’invitation. Le carton d’invitation est bleu.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L264-fr-vocab-unanniversaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un anniversaire. L’anniversaire de Sam est samedi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L264-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’organise la fête. Tu organises la liste. Elle organise le goûter.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L264-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous organisons la rencontre. Vous organisez les invitations.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L264-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils organisent un anniversaire samedi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L264-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’organise une fête pour mon frère.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L264-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tu organises la liste des invités.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L264-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nous envoyons une invitation par message.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L264-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La date convient à tous les amis.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L264-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ils organisent un goûter après les cours.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L264-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La classe veut préparer une petite fête pour le départ de son professeur. Mina organise les préparatifs et choisit une date qui convient au groupe. Elle écrit un message aux élèves et leur demande de répondre avant vendredi. Hugo prépare la liste des invités et compte les personnes qui viennent. Léa dessine un carton d’invitation avec le nom de la classe et l’heure de la rencontre. Les élèves décident de se retrouver après les cours dans la salle commune. Ils vérifient le nombre de réponses afin de prévoir assez de boissons et de goûter. Chacun reçoit les mêmes informations, et l’organisation reste simple pour tout le monde.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 632
+    },
+    {
+      "id": "L264-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L264)",
+      "tts_text": "برای یک جشن کوچک، ابتدا تاریخ و ساعت را مشخص کن و بعد مهمان‌ها را به یاد بیاور.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L264-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L264)",
+      "tts_text": "برای برنامه‌ریزی جشن، تاریخ را انتخاب می‌کنیم و اطلاعات را در دعوت‌نامه می‌نویسیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L264-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L264)",
+      "tts_text": "به گفت‌وگوی مینا گوش کن و روزی را که برای جشن انتخاب کرده است پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L264-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L264)",
+      "tts_text": "فعل ارگانیزه در زمان حال مانند فعل‌های گروه اول صرف می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L264-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L264)",
+      "tts_text": "با یک همکلاسی روز و ساعت جشن را تعیین کن و از او پاسخ بخواه.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L264-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L264)",
+      "tts_text": "یک جمله با ارگانیزه بساز و یک اطلاعات مهم جشن را در آن بیاور.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "lesson": "L266",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L266-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Joyeux anniversaire, Mina !",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L266-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Merci, c’est une belle surprise.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L266-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Nous t’offrons cette carte et ce cadeau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L266-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Qui a signé la carte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L266-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Tous les amis de la classe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L266-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Je souhaite prendre une photo avec vous.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L266-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Bien sûr, après la chanson.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L266-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Merci d’avoir organisé cette fête.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L266-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "J’ai préparé une surprise pour l’anniversaire de Mina.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L266-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Le cadeau est caché derrière le gâteau au chocolat.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L266-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Nous avons aussi une carte signée par tous les amis.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L266-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "C’est très gentil, merci !",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L266-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nous t’offrons ce petit appareil photo pour garder des souvenirs.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L266-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Après le gâteau, nous chantons une chanson ensemble.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L266-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Je souhaite prendre une photo avec tout le groupe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L266-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Parfait, nous garderons une belle image de cette fête.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L266-fr-vocab-offrir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "offrir. J’offre un livre à mon amie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L266-fr-vocab-uncadeau",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un cadeau. Le cadeau est pour Mina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L266-fr-vocab-unesurprise",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une surprise. La surprise attend sur la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L266-fr-vocab-unvu",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un vœu. Hugo fait un vœu pour son amie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L266-fr-vocab-unechanson",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une chanson. Les amis chantent une chanson ensemble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L266-fr-vocab-ungateauauchocolat",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un gâteau au chocolat. Le gâteau au chocolat est sur la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L266-fr-vocab-unappareilphoto",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un appareil photo. Je sors l’appareil photo de mon sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L266-fr-vocab-unephoto",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une photo. La photo garde un souvenir de la fête.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L266-fr-vocab-souhaiter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "souhaiter. Nous souhaitons un bon anniversaire à Mina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L266-fr-vocab-unecartedanniversaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une carte d’anniversaire. La carte d’anniversaire est signée par les amis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 74
+    },
+    {
+      "id": "L266-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’offre une carte. Tu offres un livre. Il offre un gâteau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L266-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous offrons un cadeau à Mina. Vous offrez une photo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L266-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils offrent une surprise à leur amie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L266-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "J’offre une carte d’anniversaire à mon frère.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L266-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous offrons un gâteau au chocolat à Mina.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L266-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu souhaites un joyeux anniversaire à ton amie.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L266-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La photo garde le souvenir de la fête.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L266-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Ils offrent une surprise aux invités.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L266-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Le jour de son anniversaire, Mina retrouve ses amis dans la salle décorée. Hugo lui offre une petite surprise et lui souhaite une très belle journée. Le cadeau contient un appareil photo simple que Mina peut utiliser pendant les sorties. Léa a préparé une carte d’anniversaire où chacun a écrit un vœu. Après avoir partagé le gâteau au chocolat, les amis chantent ensemble et prennent une photo de groupe. Mina remercie tout le monde et garde la carte dans son sac. La fête se termine sans bruit, mais chacun repart avec un souvenir agréable. Le lendemain, Hugo envoie la photo aux invités pour qu’ils se rappellent cette rencontre.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 632
+    },
+    {
+      "id": "L266-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L266)",
+      "tts_text": "برای جشن تولد دوستی، یک هدیه انتخاب کن و جمله‌ای برای تبریک آماده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L266-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L266)",
+      "tts_text": "برای هدیه‌دادن می‌گوییم «offrir» و با حرف اضافهٔ «à» شخصی را که هدیه می‌گیرد معرفی می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 91
+    },
+    {
+      "id": "L266-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L266)",
+      "tts_text": "به گفت‌وگوی هوگو و مینا گوش کن و هدیه‌ای را که مینا دریافت می‌کند پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L266-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L266)",
+      "tts_text": "فعل «offrir» نامنظم است؛ شکل‌های «j’offre»، «nous offrons» و «ils offrent» را با هم مقایسه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 94
+    },
+    {
+      "id": "L266-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L266)",
+      "tts_text": "تولد دوستت را تبریک بگو، هدیه بده و پیشنهاد عکس گروهی مطرح کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L266-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L266)",
+      "tts_text": "یک جمله با اُفغیر بساز و شخصی را که هدیه می‌گیرد نام ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    }
+  ]
+}
