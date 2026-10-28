@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 305,
+    "title": "La planète tourne autour de son étoile",
+    "subtitle": "Parler d’une orbite et du système solaire",
+    "description": "Hugo découvre comment une planète tourne autour d’une étoile.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان منظومهٔ شمسی و صرف tourner در زمان حال",
+      "objectives": [
+        "Nommer quelques objets du système solaire et de l’exploration spatiale.",
+        "Expliquer simplement ce qu’est une orbite.",
+        "Conjuguer tourner au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "سیاره‌ها در منظومهٔ شمسی به دور چه چیزی حرکت می‌کنند؟ برای سفر به فضا از چه وسیله‌ای استفاده می‌شود؟",
+      "questions": [
+        {
+          "q": "مسیر گردش یک سیاره به دور ستاره چه نام دارد؟",
+          "hint_fa": "به واژهٔ «orbite» فکر کن."
+        },
+        {
+          "q": "کسی که به فضا سفر می‌کند چه نام دارد؟",
+          "hint_fa": "به واژهٔ «astronaute» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "چرخیدن به دور یک ستاره",
+      "body_fa": "فعل باقاعدهٔ «tourner» یعنی چرخیدن یا دور چیزی حرکت‌کردن. در زمان حال می‌گوییم «je tourne»، «tu tournes»، «il/elle tourne»، «nous tournons»، «vous tournez» و «ils/elles tournent». برای بیان مسیر، می‌توانیم از «autour de» استفاده کنیم: «la planète tourne autour de son étoile». واژهٔ «une orbite» نام مسیری است که یک جرم فضایی هنگام حرکت دنبال می‌کند. در منظومهٔ شمسی، سیاره‌ها به دور خورشید می‌چرخند. یک fusée می‌تواند فضانوردی را به فضا ببرد و یک vaisseau spatial برای مأموریتی فضایی استفاده می‌شود. این فعل برای چرخش یک جسم به دور جسم دیگر نیز به کار می‌رود.",
+      "key_points": [
+        "tourner فعل باقاعدهٔ گروه اول است.",
+        "برای مسیر مداری می‌گوییم tourner autour de.",
+        "une orbite مسیری است که یک جرم فضایی دنبال می‌کند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "une planète",
+          "ipa": "/yn pla.nɛt/",
+          "translation_fa": "سیاره",
+          "example": "Une planète tourne autour d’une étoile.",
+          "example_fa": "سیاره‌ای به دور یک ستاره می‌چرخد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un système solaire",
+          "ipa": "/œ̃ sis.tɛm sɔ.lɛʁ/",
+          "translation_fa": "منظومهٔ شمسی",
+          "example": "Notre système solaire contient plusieurs planètes.",
+          "example_fa": "منظومهٔ شمسی ما چندین سیاره دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une orbite",
+          "ipa": "/yn ɔʁ.bit/",
+          "translation_fa": "مدار",
+          "example": "L’orbite de la planète est autour du Soleil.",
+          "example_fa": "مدار سیاره به دور خورشید است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un anneau",
+          "ipa": "/œ̃.nɑ.no/",
+          "translation_fa": "حلقه",
+          "example": "La planète porte un anneau lumineux.",
+          "example_fa": "سیاره حلقه‌ای درخشان دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un astre",
+          "ipa": "/œ̃.nastʁ/",
+          "translation_fa": "جرم آسمانی",
+          "example": "Un astre brille dans le ciel nocturne.",
+          "example_fa": "جرمی آسمانی در آسمان شب می‌درخشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une fusée",
+          "ipa": "/yn fy.ze/",
+          "translation_fa": "موشک فضایی",
+          "example": "La fusée décolle depuis une base spatiale.",
+          "example_fa": "موشک از پایگاهی فضایی پرتاب می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un astronaute",
+          "ipa": "/œ̃.nas.tʁɔ.not/",
+          "translation_fa": "فضانورد",
+          "example": "Un astronaute prépare son voyage dans l’espace.",
+          "example_fa": "فضانورد سفرش به فضا را آماده می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un vaisseau spatial",
+          "ipa": "/œ̃ vɛ.so spa.sjal/",
+          "translation_fa": "فضاپیما",
+          "example": "Le vaisseau spatial transporte l’équipage.",
+          "example_fa": "فضاپیما خدمه را جابه‌جا می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une mission spatiale",
+          "ipa": "/yn mi.sjɔ̃ spa.sjal/",
+          "translation_fa": "مأموریت فضایی",
+          "example": "La mission spatiale dure plusieurs jours.",
+          "example_fa": "مأموریت فضایی چند روز طول می‌کشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un lancement",
+          "ipa": "/œ̃ lɑ̃s.mɑ̃/",
+          "translation_fa": "پرتاب",
+          "example": "Le lancement de la fusée est prévu le matin.",
+          "example_fa": "پرتاب موشک برای صبح برنامه‌ریزی شده است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de tourner",
+      "explanation_fa": "Le verbe régulier «tourner» signifie faire un mouvement circulaire ou suivre un parcours autour d’un objet. Au présent, on dit «je tourne», «tu tournes», «il/elle tourne», «nous tournons», «vous tournez» et «ils/elles tournent». Pour préciser l’objet central, on emploie «autour de»: tourner autour du Soleil, autour d’une étoile ou autour d’un axe. La planète est le sujet qui tourne; son orbite décrit le chemin qu’elle suit. Le verbe peut aussi décrire une roue ou un objet qui fait un mouvement circulaire.",
+      "pattern": "sujet + tourner au présent + autour de + objet",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je tourne autour du point central. Tu tournes autour de l’étoile.",
+            "من دور نقطهٔ مرکزی می‌چرخم. تو دور ستاره می‌چرخی."
+          ],
+          [
+            "il / elle",
+            "La planète tourne autour du Soleil. La fusée tourne dans une simulation.",
+            "سیاره به دور خورشید می‌چرخد. موشک در یک شبیه‌سازی می‌چرخد."
+          ],
+          [
+            "nous / vous",
+            "Nous tournons autour de l’astre. Vous tournez autour de la planète.",
+            "ما به دور جرم آسمانی می‌چرخیم. شما دور سیاره می‌چرخید."
+          ],
+          [
+            "ils / elles",
+            "Les planètes tournent autour de leur étoile.",
+            "سیاره‌ها به دور ستاره‌شان می‌چرخند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای مسیر مداری از autour de استفاده کن.",
+        "با nous می‌گوییم tournons و با vous می‌گوییم tournez."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "La planète tourne autour de son étoile.",
+          "fa": "سیاره به دور ستاره‌اش می‌چرخد.",
+          "note_fa": "La préposition autour de indique le parcours."
+        },
+        {
+          "target": "Nous tournons autour du point de départ.",
+          "fa": "ما دور نقطهٔ آغاز می‌چرخیم.",
+          "note_fa": "Avec nous, la terminaison est -ons."
+        },
+        {
+          "target": "Tu tournes autour de la fusée dans la simulation.",
+          "fa": "تو در شبیه‌سازی دور موشک می‌چرخی.",
+          "note_fa": "Le sujet tu prend la terminaison -es."
+        },
+        {
+          "target": "Les planètes tournent autour du Soleil.",
+          "fa": "سیاره‌ها به دور خورشید می‌چرخند.",
+          "note_fa": "Le sujet pluriel prend tournent."
+        },
+        {
+          "target": "Vous tournez autour de l’astre lumineux.",
+          "fa": "شما دور جرم آسمانی درخشان می‌چرخید.",
+          "note_fa": "Avec vous, la terminaison est -ez."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Le système solaire",
+      "script": "Mina: La planète suit une orbite précise.\nHugo: Le système solaire a huit planètes ?\nMina: Oui, notre astre s’appelle le Soleil.\nHugo: La fusée emporte un astronaute dans l’espace.\nMina: Le vaisseau spatial part pendant une mission.\nHugo: Une orbite est le trajet d’une planète ?\nMina: Oui, elle tourne autour de l’étoile.\nHugo: On observe un anneau autour de Saturne ?\nMina: Oui, c’est visible depuis un télescope puissant même la nuit.",
+      "script_fa": "مینا: سیاره در مداری دقیق حرکت می‌کند.\nهوگو: منظومهٔ شمسی هشت سیاره دارد؟\nمینا: بله، جرم آسمانی ما خورشید نام دارد.\nهوگو: موشک فضانوردی را به فضا می‌برد.\nمینا: فضاپیما در جریان مأموریتی حرکت می‌کند.\nهوگو: مدار مسیر حرکت یک سیاره است؟\nمینا: بله، سیاره به دور ستاره می‌چرخد.\nهوگو: حلقه‌ای دور زحل می‌بینیم؟\nمینا: بله، حتی شب هم با تلسکوپی نیرومند دیده می‌شود.",
+      "question_fa": "Quel est le trajet suivi par une planète ?",
+      "answer": "Une orbite.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Une mission imaginaire",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "La mission spatiale part demain matin.",
+          "fa": "مأموریت فضایی فردا صبح آغاز می‌شود."
+        },
+        {
+          "speaker": "B",
+          "target": "L’astronaute entre dans le vaisseau spatial.",
+          "fa": "فضانورد وارد فضاپیما می‌شود."
+        },
+        {
+          "speaker": "A",
+          "target": "La fusée quitte la base à huit heures.",
+          "fa": "موشک ساعت هشت پایگاه را ترک می‌کند."
+        },
+        {
+          "speaker": "B",
+          "target": "Le système solaire apparaît sur l’écran.",
+          "fa": "منظومهٔ شمسی روی صفحه دیده می‌شود."
+        },
+        {
+          "speaker": "A",
+          "target": "La planète suit son orbite autour de son étoile.",
+          "fa": "سیاره مدارش را به دور ستاره دنبال می‌کند."
+        },
+        {
+          "speaker": "B",
+          "target": "L’équipage observe un anneau lumineux.",
+          "fa": "خدمه حلقه‌ای درخشان را مشاهده می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "L’orbite semble très grande.",
+          "fa": "مدار بسیار بزرگ به نظر می‌رسد."
+        },
+        {
+          "speaker": "B",
+          "target": "Nous préparons le lancement avec l’équipe.",
+          "fa": "با گروه برای پرتاب آماده می‌شویم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «مدرسه»، یک مأموریت فضایی خیالی را معرفی کن؛ نام یک سیاره، موشک یا فضاپیما را بگو و توضیح بده سیاره دور چه چیزی می‌چرخد.",
+      "useful_phrases": [
+        {
+          "target": "La planète tourne autour du Soleil.",
+          "fa": "سیاره به دور خورشید می‌چرخد."
+        },
+        {
+          "target": "La fusée emporte un astronaute.",
+          "fa": "موشک فضانوردی را می‌برد."
+        },
+        {
+          "target": "L’orbite est très grande.",
+          "fa": "مدار بسیار بزرگ است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une mission spatiale",
+      "text": "Dans la classe, le professeur présente le système solaire sur une grande image. Une planète tourne autour du Soleil et suit une orbite régulière. Hugo remarque un anneau autour d’un astre lointain. Mina imagine une mission spatiale avec une fusée et un vaisseau spatial. Un astronaute prépare son équipement avant le lancement. Les élèves dessinent les planètes et indiquent leur place sur l’image. Le professeur explique que chaque planète suit son propre parcours autour de son étoile. À la fin, la classe observe une courte vidéo du départ de la fusée.",
+      "glossary": [
+        {
+          "term": "un équipement",
+          "fa": "تجهیزات"
+        },
+        {
+          "term": "un parcours",
+          "fa": "مسیر"
+        },
+        {
+          "term": "indiquer",
+          "fa": "نشان‌دادن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Qu’est-ce qui tourne autour du Soleil ?",
+          "a": "Une planète."
+        },
+        {
+          "q_fa": "Que prépare l’astronaute ?",
+          "a": "Son équipement."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Les planètes ___ autour du Soleil.",
+          "options": [
+            "tournent",
+            "tournez",
+            "tourne"
+          ],
+          "answer": "tournent",
+          "explanation_fa": "فاعل جمع planètes با tournent می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Le chemin suivi par une planète est…",
+          "options": [
+            "une orbite",
+            "un arceau",
+            "un guichet"
+          ],
+          "answer": "une orbite",
+          "explanation_fa": "مدار مسیر حرکت سیاره است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "وسیلهٔ فضایی مناسب را انتخاب کن.",
+          "question": "Pour transporter l’équipage dans l’espace, on utilise…",
+          "options": [
+            "un vaisseau spatial",
+            "un sac en tissu",
+            "un vélo partagé"
+          ],
+          "answer": "un vaisseau spatial",
+          "explanation_fa": "فضاپیما خدمه را جابه‌جا می‌کند."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "L’astronaute prépare son équipement avant le lancement.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "فضانورد پیش از پرتاب تجهیزاتش را آماده می‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "حرف اضافه را کامل کن.",
+          "question": "La planète tourne ___ du Soleil.",
+          "answer": [
+            "autour"
+          ],
+          "explanation_fa": "برای مسیر مداری از autour de استفاده می‌کنیم."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Quel est le trajet suivi par une planète ?",
+          "answer": [
+            "Une orbite."
+          ],
+          "explanation_fa": "مسیر حرکت سیاره مدار نام دارد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Combien de planètes le système solaire a-t-il ?",
+          "options": [
+            "Huit",
+            "Trois",
+            "Douze"
+          ],
+          "answer": "Huit",
+          "explanation_fa": "Hugo pose la question et Mina confirme huit."
+        },
+        {
+          "type": "mcq",
+          "question": "Autour de quoi la planète tourne-t-elle ?",
+          "options": [
+            "Autour du Soleil",
+            "Autour de la fusée",
+            "Autour de la classe"
+          ],
+          "answer": "Autour du Soleil",
+          "explanation_fa": "Elle suit une orbite autour du Soleil."
+        },
+        {
+          "type": "mcq",
+          "question": "Qu’emporte la fusée ?",
+          "options": [
+            "Un astronaute",
+            "Un vélo",
+            "Un stand"
+          ],
+          "answer": "Un astronaute",
+          "explanation_fa": "La fusée emporte un astronaute dans l’espace."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel objet se trouve autour d’un astre lointain ?",
+          "options": [
+            "Un anneau",
+            "Un badge",
+            "Un sac"
+          ],
+          "answer": "Un anneau",
+          "explanation_fa": "Hugo remarque un anneau lumineux."
+        },
+        {
+          "type": "mcq",
+          "question": "Que dessinent les élèves ?",
+          "options": [
+            "Les planètes",
+            "Les rues",
+            "Les vélos"
+          ],
+          "answer": "Les planètes",
+          "explanation_fa": "La classe dessine les planètes sur l’image."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Décris un système solaire imaginaire : nomme une planète et une étoile, explique son orbite et présente une fusée ou un vaisseau spatial.",
+      "suggested_prompts": [
+        "La planète tourne autour du Soleil.",
+        "L’astronaute entre dans le vaisseau.",
+        "La fusée part pour une mission."
+      ],
+      "focus": [
+        "tourner au présent",
+        "vocabulaire spatial",
+        "expliquer une orbite"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-10-28",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Introduction au système solaire, avec une mission spatiale imaginaire."
+  }
+}

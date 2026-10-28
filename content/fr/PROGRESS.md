@@ -4,6 +4,7 @@ Updated: 2026-10-29
 
 ## Content
 
+- L303–L305 validation against L001–L302: 3 lessons, 4,336 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 140 unique target utterances; grammar paradigms, dialogue, exercise/quiz compatibility, duplication, and placeholder checks passed.
 - L300–L302 validation against L001–L299: 3 lessons, 4,326 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 139 unique target utterances; grammar paradigms, dialogue, exercise/quiz compatibility, duplication, and placeholder checks passed.
 - L297–L299 validation against L001–L296: 3 lessons, 4,316 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 140 unique target utterances; grammar paradigms, dialogue, exercise/quiz compatibility, duplication, and placeholder checks passed.
 - L294–L296 validation against L001–L293: 3 lessons, 4,288 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 137 unique target utterances; grammar paradigms, dialogue, exercise/quiz compatibility, duplication, and placeholder checks passed.
@@ -14,13 +15,13 @@ Updated: 2026-10-29
 - L279–L281 validation against L001–L278: 3 lessons, 4,215 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 138 unique target utterances; grammar, dialogue, exercise/quiz compatibility, duplication, and placeholder checks passed.
 - L276–L278 validation against L001–L275: 3 lessons, 4,150 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 134 unique target utterances; grammar, dialogue, exercise/quiz compatibility, duplication, and placeholder checks passed.
 - L273–L275 validation against L001–L272: 3 lessons, 4,161 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 94 unique target utterances; grammar, dialogue, exercise/quiz compatibility, duplication, and placeholder checks passed.
-- Installed and validated: French L001–L302 (302 of 340).
+- Installed and validated: French L001–L305 (305 of 340).
 - L270–L272 validation against L001–L269: 3 lessons, 4,116 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 92 unique target utterances; grammar, dialogue, exercise/quiz compatibility, duplication, and placeholder checks passed.
 - L267–L269 validation against L001–L266: 3 lessons, 4,089 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 61 target-utterance checks; grammar scope and quiz/exercise compatibility passed.
 - L264–L266 validation against L001–L263: 3 lessons, 4,098 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 62 target-utterance checks; grammar scope and quiz/exercise compatibility passed.
 - L261–L263 validation against L001–L260: 3 lessons, 4,054 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 60 target-utterance checks; grammar scope and quiz/exercise compatibility passed.
 - L258–L260 validation against L001–L257: 3 lessons, 4,043 checks, 0 errors; independent QA: 36 required-section checks, 30 unique terms, 60 target-utterance checks; grammar scope and quiz/exercise compatibility passed.
-- Latest full-corpus validation (L001–L302): 302 lessons, 399,608 checks, 0 errors.
+- Latest full-corpus validation (L001–L305): 305 lessons, 403,944 checks, 0 errors.
 - L255–L257 validation against L001–L254: 3 lessons, 4,411 checks, 0 errors; independent QA: 123 assertions passed.
 - L252–L254 validation against L001–L251: 3 lessons, 4,399 checks, 0 errors; independent QA: 120 assertions passed.
 - L249–L251 validation against L001–L248: 3 lessons, 4,390 checks, 0 errors; independent QA: 120 assertions passed.
@@ -179,10 +180,10 @@ Updated: 2026-10-29
 
 From `content/audio/audio-backlog.json`:
 
-- French lessons: 302; plan manifests: 302; planned clips: 13,463 (L300–L302 add 129 clips: 111 French and 18 Persian; L297–L299 add 129 clips: 111 French and 18 Persian; L294–L296 add 128 clips: 110 French and 18 Persian; L291–L293 add 129 clips: 111 French and 18 Persian; L288–L290 add 129 clips: 111 French and 18 Persian; L285–L287 add 126 clips: 108 French and 18 Persian; L282–L284 add 126 clips: 108 French and 18 Persian; L279–L281 add 126 clips: 108 French and 18 Persian; L276–L278 add 123 clips: 105 French and 18 Persian; L273–L275 add 124 clips: 106 French and 18 Persian; L270–L272 add 122 clips: 104 French and 18 Persian; L152–L257 add 4,913 clips: 4,277 French and 636 Persian; L258–L260 and L261–L263 each add 120 clips: 102 French and 18 Persian; L264–L266 add 122 clips: 104 French and 18 Persian; L267–L269 add 121 clips: 103 French and 18 Persian; L228–L230, L231–L233, L234–L236, L237–L239, L240–L242, L243–L245, L246–L248, L249–L251, L252–L254, and L255–L257 each add 141 clips: 123 French and 18 Persian).
+- French lessons: 305; plan manifests: 305; planned clips: 13,592 (L303–L305 add 129 clips: 111 French and 18 Persian; L300–L302 add 129 clips: 111 French and 18 Persian; L297–L299 add 129 clips: 111 French and 18 Persian; L294–L296 add 128 clips: 110 French and 18 Persian; L291–L293 add 129 clips: 111 French and 18 Persian; L288–L290 add 129 clips: 111 French and 18 Persian; L285–L287 add 126 clips: 108 French and 18 Persian; L282–L284 add 126 clips: 108 French and 18 Persian; L279–L281 add 126 clips: 108 French and 18 Persian; L276–L278 add 123 clips: 105 French and 18 Persian; L273–L275 add 124 clips: 106 French and 18 Persian; L270–L272 add 122 clips: 104 French and 18 Persian; L152–L257 add 4,913 clips: 4,277 French and 636 Persian; L258–L260 and L261–L263 each add 120 clips: 102 French and 18 Persian; L264–L266 add 122 clips: 104 French and 18 Persian; L267–L269 add 121 clips: 103 French and 18 Persian; L228–L230, L231–L233, L234–L236, L237–L239, L240–L242, L243–L245, L246–L248, L249–L251, L252–L254, and L255–L257 each add 141 clips: 123 French and 18 Persian).
 - Reconciled the earlier L074–L076 discrepancy: the installed plan manifests contain 44 clips each (132 total); the earlier 45/45/44 note was inaccurate.
-- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 13,463.
-- Lessons with complete real audio: 0; lessons without real audio: 302.
+- Verified French physical MP3s: 0; lesson audio references: 0; missing planned clips: 13,592.
+- Lessons with complete real audio: 0; lessons without real audio: 305.
 - English and Spanish sections of the backlog were preserved unchanged.
 
 No French voice audition or speech synthesis has been performed. Audition is still required before large-scale audio generation. No MP3s or audio references were fabricated.
@@ -194,4 +195,4 @@ No French voice audition or speech synthesis has been performed. Audition is sti
 
 ## Next action
 
-Continue French sequentially from L303. Preserve completed lessons, work in explicit isolated ranges, validate before install, and keep English/Spanish data unchanged.
+Continue French sequentially from L306. Preserve completed lessons, work in explicit isolated ranges, validate before install, and keep English/Spanish data unchanged.
