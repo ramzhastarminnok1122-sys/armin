@@ -1,0 +1,380 @@
+{
+  "lesson": "L277",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L277-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le portrait représente une personne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L277-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "La toile est dans un cadre clair.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L277-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Je vois une couleur vive.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L277-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "La signature est en bas du tableau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L277-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Qui a peint cette œuvre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L277-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Le nom est écrit sur le cartel.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L277-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Nous pouvons regarder de plus près.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L277-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, sans toucher le cadre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L277-fr-listening-1",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[0]",
+      "tts_text": "Voici un portrait dans un cadre en bois.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L277-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "La peinture représente une femme dans un jardin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L277-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Je vois une couleur vive près de la fenêtre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L277-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Où se trouve la signature du peintre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L277-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "Elle est en bas, près du bord de la toile.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L277-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Le cartel donne aussi le nom de l’artiste.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L277-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Nous regardons l’œuvre sans la toucher.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L277-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Cette salle d’exposition est très calme.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L277-fr-vocab-unportrait",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un portrait. Le portrait représente une jeune femme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L277-fr-vocab-unetoile",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une toile. La toile est dans un cadre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L277-fr-vocab-uncadre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un cadre. Le cadre est en bois clair.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L277-fr-vocab-unecouleur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une couleur. Une couleur vive apparaît au centre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L277-fr-vocab-unesignature",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une signature. La signature du peintre est au bas de la toile.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L277-fr-vocab-unpeintre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un peintre. Le peintre signe son œuvre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L277-fr-vocab-unepeinture",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une peinture. La peinture montre un jardin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L277-fr-vocab-unesalledexposition",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une salle d’exposition. La salle d’exposition est calme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L277-fr-vocab-unartiste",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un artiste. L’artiste travaille dans un atelier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L277-fr-vocab-uncartel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un cartel. Le cartel donne le nom du peintre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L277-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je représente un jardin. Tu représentes un arbre. Il représente une maison.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 75
+    },
+    {
+      "id": "L277-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nous représentons la scène. Vous représentez les couleurs.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L277-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Ils représentent une famille dans le tableau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L277-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Le tableau représente un jardin calme.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L277-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous représentons les couleurs du portrait.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L277-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La signature du peintre est sous le cadre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L277-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Une toile claire est accrochée dans la galerie.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L277-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Elles représentent la scène dans leur dessin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L277-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Dans la salle d’exposition, Mina et Hugo observent un portrait placé dans un cadre en bois. La peinture représente une artiste devant une fenêtre. Plusieurs couleurs apparaissent sur la toile, surtout près du jardin visible derrière elle. Un cartel indique le nom du peintre et la date de l’œuvre. Mina lit le texte, puis montre la signature en bas du tableau. Hugo remarque que le cadre est plus clair que le fond de la peinture. Les élèves parlent doucement et gardent une distance avec l’œuvre. Avant de quitter la galerie, ils regardent une autre toile où l’artiste représente des arbres et une petite maison.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 613
+    },
+    {
+      "id": "L277-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L277)",
+      "tts_text": "وقتی به نقاشی نگاه می‌کنی، چه چیزهایی را می‌توانی توصیف کنی و نام نقاش را کجا می‌بینی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 86
+    },
+    {
+      "id": "L277-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L277)",
+      "tts_text": "برای گفتن این‌که نقاشی چه چیزی را نشان می‌دهد از فعل «représenter» استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 83
+    },
+    {
+      "id": "L277-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L277)",
+      "tts_text": "به گفت‌وگو گوش کن و جای امضای نقاش را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    },
+    {
+      "id": "L277-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L277)",
+      "tts_text": "فعل «représenter» با پایان‌های گروه اول صرف می‌شود و املای پایه‌اش را حفظ می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 81
+    },
+    {
+      "id": "L277-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L277)",
+      "tts_text": "یک پرترهٔ خیالی را توصیف کن و از رنگ یا امضا نام ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L277-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L277)",
+      "tts_text": "یک جمله با «représenter» بساز و بگو اثر چه چیزی را نشان می‌دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    }
+  ]
+}
