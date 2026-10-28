@@ -1,0 +1,398 @@
+{
+  "lesson": "L320",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L320-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le support mural est fixé au mur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L320-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Le niveau à bulle indique une ligne droite.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L320-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Les deux supports maintiennent la planche droite.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L320-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je vérifie la fixation avant de poser les livres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L320-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Le crochet mural porte un petit sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L320-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Le panneau latéral est solide.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L320-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Le meuble à chaussures trouve sa place au sol.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L320-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "L’étagère est prête à utiliser.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L320-fr-listening-1",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[0]",
+      "tts_text": "L’étagère en bois est près de la porte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L320-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Le niveau à bulle montre une ligne droite.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L320-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Je marque deux points pour le support mural.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L320-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "La perceuse perce le mur pour fixer le support.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L320-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "La cheville tient la fixation en place.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L320-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Le panneau latéral reste bien droit.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L320-fr-listening-7",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "Le crochet mural est sous la tablette.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L320-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Le meuble à chaussures passe dessous.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L320-fr-listening-9",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[8]",
+      "tts_text": "Nous vérifions le niveau avant de poser les livres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L320-fr-vocab-unniveauabulle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un niveau à bulle. Le niveau à bulle vérifie que l’étagère est droite.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L320-fr-vocab-uneetageremurale",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une étagère murale. L’étagère murale est près de la porte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L320-fr-vocab-uneperceuse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une perceuse. La perceuse fait un trou dans le mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L320-fr-vocab-unsupportmural",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un support mural. Le support mural tient la tablette.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L320-fr-vocab-unefixation",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une fixation. La fixation reste cachée derrière l’étagère.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L320-fr-vocab-unpanneaulateral",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un panneau latéral. Le panneau latéral est fixé au mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L320-fr-vocab-uneetagereenbois",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une étagère en bois. Une étagère en bois porte les livres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L320-fr-vocab-unmeubleachaussures",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un meuble à chaussures. Le meuble à chaussures est sous l’étagère.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L320-fr-vocab-uncrochetmural",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un crochet mural. Le crochet mural porte un sac léger.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L320-fr-vocab-uneplanche",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une planche. La planche repose sur deux supports.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L320-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je perce le mur pour fixer le support. Tu perces un panneau de bois.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L320-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il perce un trou près de la porte. Elle perce le panneau avec soin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L320-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous perçons le mur au bon endroit. Vous percez le panneau pour la fixation.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L320-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les ouvriers percent le mur avant la pose.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L320-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Hugo perce le mur pour fixer l’étagère.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L320-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous perçons le panneau au bon endroit.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L320-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu perces un petit trou près du support.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L320-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les ouvriers percent deux trous à la même hauteur.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L320-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous percez le panneau avec la perceuse.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L320-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Hugo veut installer une étagère en bois près de la porte. Il place deux supports muraux et vérifie leur position avec un niveau à bulle. Mina marque les points sur le mur. Hugo prend une perceuse et fait les trous. Il ajoute une fixation et serre chaque support. La planche repose ensuite sur les deux côtés. Un crochet mural est placé sous l’étagère pour un sac léger. Le meuble à chaussures reste dessous. Avant de ranger les livres, Mina vérifie encore que l’étagère est droite et solide.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 491
+    },
+    {
+      "id": "L320-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L320)",
+      "tts_text": "برای نصب قفسهٔ دیواری از چه ابزاری استفاده می‌کنی و چطور صاف‌بودن آن را بررسی می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 85
+    },
+    {
+      "id": "L320-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L320)",
+      "tts_text": "فعل باقاعدهٔ «percer» یعنی ایجادکردن سوراخ در سطحی با ابزار.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L320-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L320)",
+      "tts_text": "به گفت‌وگو گوش کن و ابزاری را پیدا کن که در دیوار سوراخ ایجاد می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L320-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L320)",
+      "tts_text": "با فاعل «nous» می‌نویسیم «nous perçons» و حرف «c» به «ç» تبدیل می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L320-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L320)",
+      "tts_text": "مراحل نصب قفسه را توضیح بده و نام یک ابزار را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L320-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L320)",
+      "tts_text": "با «percer» و نام یک سطح جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 35
+    }
+  ]
+}

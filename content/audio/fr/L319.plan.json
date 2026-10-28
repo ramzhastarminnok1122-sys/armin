@@ -1,0 +1,398 @@
+{
+  "lesson": "L319",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L319-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "La poignée tourne quand je tire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L319-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je démonte le tiroir pour voir le rail.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L319-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le rail est un peu de travers.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L319-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "La cale peut stabiliser la commode.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L319-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Le mètre ruban est sur le plateau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L319-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Je mesure la largeur avant de réparer.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L319-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "La charnière de l’armoire est solide.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L319-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Nous remontons le tiroir maintenant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L319-fr-listening-1",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[0]",
+      "tts_text": "Le tiroir de la commode ne glisse plus.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L319-fr-listening-2",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Je prends la visseuse pour enlever la poignée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L319-fr-listening-3",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Le rail de tiroir est sous le plateau.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L319-fr-listening-4",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "Le mètre ruban mesure la largeur.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L319-fr-listening-5",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "Une cale garde la commode stable.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L319-fr-listening-6",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "Je démonte le tiroir avec précaution.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L319-fr-listening-7",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "La charnière de l’armoire est aussi un peu lâche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L319-fr-listening-8",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Nous vérifions les vis avant de remonter.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L319-fr-listening-9",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[8]",
+      "tts_text": "Le tiroir fonctionne mieux maintenant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L319-fr-vocab-unevisseuse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "une visseuse. La visseuse enlève les vis rapidement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L319-fr-vocab-unpieddetable",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un pied de table. Un pied de table est un peu lâche.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L319-fr-vocab-unplateaudetable",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un plateau de table. Le plateau de table est en bois clair.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L319-fr-vocab-unepoignee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une poignée. La poignée du tiroir est ronde.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L319-fr-vocab-untiroir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un tiroir. Le tiroir coince quand Hugo le ferme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L319-fr-vocab-unecommode",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une commode. La commode reste contre le mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L319-fr-vocab-unearmoire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une armoire. Une armoire contient des vêtements.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L319-fr-vocab-unmetreruban",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un mètre ruban. Le mètre ruban mesure la largeur du tiroir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L319-fr-vocab-unecale",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une cale. La cale garde la commode stable.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L319-fr-vocab-unecharniere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une charnière. La charnière relie la porte au meuble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L319-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je démonte la poignée du tiroir. Tu démontes le rail avec soin.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L319-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il démonte le tiroir de la commode. Elle démonte la charnière de la porte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 74
+    },
+    {
+      "id": "L319-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous démontons le pied de la table. Vous démontez la pièce avec la visseuse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L319-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les voisins démontent une vieille armoire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L319-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Hugo démonte le tiroir de la commode.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L319-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous démontons la poignée avant de vérifier le rail.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L319-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu démontes la poignée avant la réparation.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L319-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les voisins démontent l’ancienne armoire du couloir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L319-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous démontez la charnière avec la visseuse.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L319-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Le tiroir de la commode de Mina coince chaque matin. Hugo prend une visseuse et démonte la poignée. Il tire doucement le tiroir pour regarder le rail. Mina mesure sa largeur avec un mètre ruban. Une cale maintient la commode stable pendant le travail. Ils enlèvent une petite vis et nettoient le rail. La charnière de l’armoire voisine reste en bon état. Après la vérification, Hugo remonte le tiroir et fixe la poignée. Le meuble est de nouveau pratique. Ils rangent les outils dans une boîte et gardent les vis ensemble.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 522
+    },
+    {
+      "id": "L319-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L319)",
+      "tts_text": "اگر کشوی دراور گیر کند، چه قطعه‌ای را بررسی می‌کنی و از چه ابزاری کمک می‌گیری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L319-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L319)",
+      "tts_text": "فعل باقاعدهٔ «démonter» یعنی قطعه‌های وسیله‌ای را برای تعمیر از هم جداکردن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L319-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L319)",
+      "tts_text": "به گفت‌وگو گوش کن و ابزاری را پیدا کن که عرض کشو را اندازه می‌گیرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L319-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L319)",
+      "tts_text": "با «nous» می‌گوییم «nous démontons» و با «vous» می‌گوییم «vous démontez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L319-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L319)",
+      "tts_text": "مشکل یک کشو را توضیح بده و بگو چطور آن را بررسی می‌کنی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L319-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L319)",
+      "tts_text": "با «démonter» و نام یک قطعهٔ مبلمان جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    }
+  ]
+}

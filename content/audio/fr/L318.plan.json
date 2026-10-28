@@ -1,0 +1,398 @@
+{
+  "lesson": "L318",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L318-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le plan montre une vis près du bord.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L318-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je pose la rondelle dessous.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L318-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Le boulon relie les deux côtés.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L318-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je serre l’écrou avec la clé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L318-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La notice indique la prochaine étape.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L318-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Je visse la petite poignée maintenant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L318-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "La boîte à outils reste sur le tapis.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L318-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Le meuble est presque terminé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L318-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le meuble en kit est dans le carton.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L318-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "La notice de montage montre trois panneaux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L318-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Je prends le tournevis cruciforme.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L318-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Cette rondelle se place sous la vis.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L318-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Le boulon relie les deux côtés du meuble.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L318-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Je serre l’écrou doucement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L318-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "La boîte à outils contient un tournevis plat aussi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L318-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Le panneau de bois reste bien droit.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L318-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Nous finissons cette étagère avant le dîner.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L318-fr-vocab-unmeubleenkit",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un meuble en kit. Le meuble en kit arrive dans un grand carton.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L318-fr-vocab-unpanneaudebois",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un panneau de bois. Mina pose un panneau de bois sur le sol.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L318-fr-vocab-unecheville",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une cheville. La cheville tient la vis dans le mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L318-fr-vocab-unecrou",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un écrou. Hugo serre un écrou sur le boulon.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L318-fr-vocab-unboulon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un boulon. Le boulon relie deux panneaux de bois.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L318-fr-vocab-unerondelle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une rondelle. La rondelle se place sous la tête de la vis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L318-fr-vocab-untourneviscruciforme",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un tournevis cruciforme. Le tournevis cruciforme serre la vis noire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L318-fr-vocab-untournevisplat",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un tournevis plat. Hugo choisit un tournevis plat pour cette vis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L318-fr-vocab-unenoticedemontage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une notice de montage. La notice de montage montre chaque étape.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L318-fr-vocab-uneboiteaoutils",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une boîte à outils. La boîte à outils contient des clés et des vis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L318-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je visse le panneau de bois. Tu visses le boulon dans la pièce.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L318-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Il visse la rondelle sous la vis. Elle visse la poignée du meuble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L318-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous vissons les panneaux ensemble. Vous vissez la pièce avec un tournevis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 75
+    },
+    {
+      "id": "L318-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves vissent les petites pièces du meuble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L318-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina visse le panneau de bois avec soin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L318-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous vissons les deux panneaux ensemble.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L318-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu visses l’écrou sur le boulon.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L318-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les élèves vissent les pièces du meuble.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L318-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Vous vissez la rondelle sous la vis.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L318-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Mina ouvre le carton d’un meuble en kit. Elle pose les panneaux de bois sur un tapis et lit la notice de montage. La première étape consiste à relier deux côtés avec un boulon. Hugo place une rondelle sous la vis et serre l’écrou. Mina choisit un tournevis cruciforme pour fixer la poignée. Une boîte à outils reste près de la porte. Le meuble devient stable quand toutes les pièces sont vissées. Ils vérifient chaque étape avant de placer l’étagère contre le mur. Ensuite, ils rangent les outils et gardent la notice pour plus tard.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 533
+    },
+    {
+      "id": "L318-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L318)",
+      "tts_text": "برای مونتاژ یک قفسهٔ آماده چه ابزارهایی به کار می‌بری و قطعه‌ها را چطور به هم وصل می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 89
+    },
+    {
+      "id": "L318-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L318)",
+      "tts_text": "فعل باقاعدهٔ «visser» یعنی چرخاندن پیچ برای متصل‌کردن قطعه‌ها.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L318-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L318)",
+      "tts_text": "به گفت‌وگو گوش کن و ابزاری را پیدا کن که مینا برمی‌دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L318-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L318)",
+      "tts_text": "با «nous» می‌گوییم «nous vissons» و با «vous» می‌گوییم «vous vissez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L318-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L318)",
+      "tts_text": "مراحل مونتاژ وسیله‌ای را توضیح بده و نام دو قطعه را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L318-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L318)",
+      "tts_text": "با «visser» و نام یک ابزار جمله بساز.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 37
+    }
+  ]
+}
