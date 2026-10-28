@@ -1,0 +1,434 @@
+{
+  "lesson": "L240",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L240-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le tiroir est libre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L240-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, tu peux y mettre les feuilles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L240-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Où vont les feutres ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L240-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Dans le bac bleu, sous la table.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L240-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Je ferme la boîte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 19
+    },
+    {
+      "id": "L240-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, après avoir rangé les objets.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L240-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "La salle est prête ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L240-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, le passage est libre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L240-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La présentation est terminée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L240-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Où rangeons-nous les feutres ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L240-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Je les place dans le bac bleu.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L240-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Le bac va dans le casier ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L240-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, le tiroir du bas est libre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L240-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Et les feuilles de la classe ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L240-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Je les range dans la boîte plate.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L240-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "La réserve garde les autres accessoires ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L240-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, je vérifie le couvercle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L240-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "La table est déjà vide ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L240-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Presque, je range encore deux objets.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L240-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "Nous terminons ensemble ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L240-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "Oui, chaque chose retrouve sa place.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L240-fr-vocab-ranger",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "ranger. Je range les feutres dans le bac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L240-fr-vocab-bac",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "bac. Le bac bleu est sous la table.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L240-fr-vocab-casier",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "casier. Le casier est près du mur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L240-fr-vocab-tiroir",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "tiroir. Le tiroir du bas est vide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L240-fr-vocab-accessoire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "accessoire. Cet accessoire va dans la boîte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L240-fr-vocab-couvercle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "couvercle. Le couvercle est bleu et léger.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L240-fr-vocab-reserve",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "réserve. La réserve garde les objets propres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L240-fr-vocab-ordre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "ordre. Nous gardons la salle en ordre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L240-fr-vocab-separe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "séparé. Les feutres restent séparés des feuilles.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L240-fr-vocab-vide",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "vide. La table est vide après le rangement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L240-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je range le bac. Tu ranges les feutres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L240-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina range les feuilles dans la boîte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L240-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous rangeons le matériel. Vous rangez les accessoires.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L240-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves rangent la table après l’activité.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L240-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je range les feutres dans le bac bleu.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L240-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous rangeons les feuilles dans le tiroir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L240-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu ranges la boîte près du casier.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L240-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Vous rangez les accessoires ensemble.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L240-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves rangent la salle calmement.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L240-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après la présentation, les élèves rangent la salle. Mina met les feutres dans un bac bleu et place les feuilles dans une boîte plate. Hugo ouvre le tiroir du bas pour ranger les accessoires. La professeure garde les objets de réserve dans un casier fermé. Les enfants vérifient que le couvercle est bien posé. Ils ne laissent pas de matériel dans le passage. Une élève ramasse les petites étiquettes et les garde dans une enveloppe. Quand la table est vide, le groupe regarde une dernière fois la pièce. La salle est prête pour la classe suivante.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 547
+    },
+    {
+      "id": "L240-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L240)",
+      "tts_text": "برای مرتب‌کردن وسایل از فعل «ranger» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L240-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L240)",
+      "tts_text": "صورت «nous rangeons» و حرف e را تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 41
+    },
+    {
+      "id": "L240-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L240)",
+      "tts_text": "گوش بده و جای ماژیک‌ها را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 34
+    },
+    {
+      "id": "L240-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L240)",
+      "tts_text": "برای حفظ صدای نرم g می‌نویسیم «nous rangeons».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    },
+    {
+      "id": "L240-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L240)",
+      "tts_text": "جای دو وسیله را به هم‌کلاسی بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 32
+    },
+    {
+      "id": "L240-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L240)",
+      "tts_text": "مطمئن شو مسیر عبور باز مانده است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 33
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "lesson": "L241",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L241-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Cette boîte est propre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L241-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, elle est sèche.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 20
+    },
+    {
+      "id": "L241-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Nous pouvons la garder ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L241-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, la professeure donne son accord.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L241-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Et le pot cassé ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 17
+    },
+    {
+      "id": "L241-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Non, nous ne le réutilisons pas.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L241-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Où mettons-nous la boîte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L241-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Dans le bac des objets utiles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L241-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Nous avons encore des matériaux propres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L241-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Peut-on réutiliser cette boîte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L241-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, elle est sèche et solide.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L241-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Le bouchon ferme bien le pot ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L241-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, je viens de le vérifier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L241-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Nous gardons le reste du ruban ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L241-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, dans une enveloppe propre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L241-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Peut-on réutiliser cet emballage ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L241-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Non, il est humide.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 19
+    },
+    {
+      "id": "L241-fr-listening-10",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[9]",
+      "tts_text": "Où mettons-nous les objets sûrs ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L241-fr-listening-11",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[10]",
+      "tts_text": "Dans le bac bleu, avec la permission de la professeure.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L241-fr-listening-12",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[11]",
+      "tts_text": "On ne jette donc pas la boîte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L241-fr-listening-13",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[12]",
+      "tts_text": "Non, elle sera utile demain.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L241-fr-vocab-reutiliser",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "réutiliser. Nous réutilisons une boîte propre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L241-fr-vocab-emballage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "emballage. L’emballage est sec.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L241-fr-vocab-bouchon",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "bouchon. Le bouchon ferme le pot.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L241-fr-vocab-reste",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "reste. Le reste du ruban est propre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L241-fr-vocab-ressource",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "ressource. Le papier est une ressource.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L241-fr-vocab-jeter",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "jeter. On ne jette pas un objet utile.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L241-fr-vocab-neuf",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "neuf. Cet objet est neuf.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L241-fr-vocab-utile",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "utile. Cette boîte est utile.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L241-fr-vocab-economiser",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "économiser. Nous économisons du matériel.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L241-fr-vocab-propre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "propre. Le pot est propre et sec.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L241-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je réutilise un pot propre. Tu réutilises le reste du ruban.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L241-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina réutilise une petite boîte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L241-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous réutilisons le matériel. Vous réutilisez les emballages propres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L241-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les élèves réutilisent des objets solides.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L241-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je réutilise un pot propre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L241-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nous réutilisons une boîte solide.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L241-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tu réutilises le reste du ruban.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L241-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Vous réutilisez les emballages secs.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L241-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Les élèves réutilisent un objet utile.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L241-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La classe prépare une seconde activité. Mina trouve une boîte propre et un petit pot avec un bouchon. Hugo vérifie que les deux objets sont secs et solides. Ils gardent aussi le reste du ruban dans une enveloppe. Un emballage humide ne peut pas servir une autre fois, alors les élèves le mettent de côté et demandent conseil à la professeure. Elle montre le bac réservé aux matériaux sûrs. Le groupe ne jette pas la boîte, car elle est encore utile. Demain, les élèves pourront la réutiliser pour ranger de petites cartes.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 522
+    },
+    {
+      "id": "L241-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L241)",
+      "tts_text": "برای استفادهٔ دوباره از فعل «réutiliser» کمک بگیر.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L241-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L241)",
+      "tts_text": "صورت‌های فعل «réutiliser» را در زمان حال تمرین کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L241-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L241)",
+      "tts_text": "گوش بده و دلیل کنارگذاشتن بسته‌بندی را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L241-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L241)",
+      "tts_text": "برای «nous» می‌گوییم «nous réutilisons».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 40
+    },
+    {
+      "id": "L241-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L241)",
+      "tts_text": "پیش از استفادهٔ دوباره از آموزگار اجازه بگیر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    },
+    {
+      "id": "L241-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L241)",
+      "tts_text": "وسایل سالم را برای فعالیت بعدی نگه دار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 39
+    }
+  ]
+}
