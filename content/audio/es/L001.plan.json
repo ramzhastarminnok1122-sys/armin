@@ -1,0 +1,398 @@
+{
+  "lesson": "L001",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L001-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Hola, ¿eres nueva en el curso?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L001-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, soy Clara.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 14
+    },
+    {
+      "id": "L001-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Mucho gusto, me llamo Andrés.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L001-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Encantada, Andrés; ¿eres de aquí?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L001-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "No, soy de Quito.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 17
+    },
+    {
+      "id": "L001-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "¿Ustedes son del mismo grupo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L001-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Sí, somos estudiantes de español.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L001-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Perfecto, nos vemos en el aula.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L001-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Buenos días; hoy llega una persona nueva al curso.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L001-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Hola, soy Lucía y vivo cerca de la plaza.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L001-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Mucho gusto; yo soy Ana, compañera de Daniel.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L001-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Encantada, Ana; mi primer día empieza hoy.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L001-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Cómo se llama el profesor de español?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L001-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Se llama el señor Ramírez y es muy amable.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L001-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Tú también eres estudiante de la universidad?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L001-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, soy estudiante; estudio diseño gráfico.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L001-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Entonces somos compañeras; vamos juntas al aula.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L001-es-vocab-hola",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "hola. Hola, Ana; me llamo Lucía.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L001-es-vocab-buenosdias",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "buenos días. Buenos días, señor López.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L001-es-vocab-buenastardes",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "buenas tardes. Buenas tardes, ¿está la profesora?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L001-es-vocab-buenasnoches",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "buenas noches. Buenas noches; mañana nos vemos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L001-es-vocab-hastaluego",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "hasta luego. Hasta luego, Luis; nos vemos en clase.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L001-es-vocab-muchogusto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "mucho gusto. Mucho gusto, me llamo Diego.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L001-es-vocab-encantado",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "encantado. Encantado, me llamo Diego.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L001-es-vocab-saludo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "saludo. Un saludo para tus compañeros.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L001-es-vocab-estudiante",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "estudiante. La estudiante llega temprano a clase.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L001-es-vocab-amigo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "amigo. Mi amigo se llama Mateo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L001-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Yo soy Lucía. Tú eres Mateo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L001-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Usted es la profesora. Él es Daniel.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L001-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Somos compañeras de clase.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L001-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ustedes son del curso. Ellas son amigas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L001-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Soy estudiante y vivo cerca de la plaza.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L001-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "La señora Vega es la directora del centro.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L001-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nosotros somos vecinos del mismo barrio.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L001-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "¿Ustedes son del grupo de la mañana?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L001-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Encantado, mi nombre aparece en la lista.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L001-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "El primer día del curso, Lucía llega unos minutos antes y espera junto a la puerta. La profesora saluda al grupo y presenta a dos estudiantes nuevos. Lucía dice su nombre con una sonrisa: «Soy Lucía, de Quito». Su compañero Tomás también se presenta y cuenta que estudia arquitectura. Después, la profesora pregunta si todos son del turno de la mañana. Varias personas responden que sí; una estudiante trabaja por la tarde y viene a clase por la noche. Al terminar, Lucía se despide de Tomás con un «hasta luego». Los dos ya saben cómo se llaman y en qué grupo están.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 567
+    },
+    {
+      "id": "L001-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L001)",
+      "tts_text": "وقتی وارد کلاس تازه‌ای می‌شوی، چطور سلام می‌کنی و خودت را معرفی می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L001-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L001)",
+      "tts_text": "برای گفتن نام از «me llamo» یا «soy» استفاده می‌کنیم؛ فعل «ser» با فاعل تغییر می‌کند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 85
+    },
+    {
+      "id": "L001-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L001)",
+      "tts_text": "به گفت‌وگو گوش کن و نام استاد زبان را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    },
+    {
+      "id": "L001-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L001)",
+      "tts_text": "با «yo» می‌گوییم «soy»؛ با «usted» می‌گوییم «es».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L001-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L001)",
+      "tts_text": "خودت را معرفی کن و نام شخص دیگری را بپرس.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    },
+    {
+      "id": "L001-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L001)",
+      "tts_text": "از «mucho gusto» هنگام آشنایی استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    }
+  ]
+}

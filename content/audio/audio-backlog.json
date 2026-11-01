@@ -323332,19 +323332,1487 @@
     },
     "es": {
       "summary": {
-        "lessons": 0,
-        "lessons_without_real_audio": 0,
+        "lessons": 3,
+        "lessons_without_real_audio": 3,
         "lessons_with_partial_audio": 0,
         "lessons_with_all_planned_audio": 0,
-        "plan_manifests": 0,
-        "planned_clips": 0,
+        "plan_manifests": 3,
+        "planned_clips": 129,
         "audio_references": 0,
         "physical_mp3_files": 0,
         "integrity_checked_files": 0,
         "registry_hash_matched_files": 0,
-        "missing_planned_clips": 0
+        "missing_planned_clips": 129
       },
-      "lessons": []
+      "lessons": [
+        {
+          "language": "es",
+          "lesson_id": "L001",
+          "order_index": 1,
+          "lesson_file": "content/es/A1/lessons/L001.json",
+          "plan_file": "content/audio/es/L001.plan.json",
+          "plan_clip_count": 43,
+          "audio_reference_count": 0,
+          "physical_file_count": 0,
+          "ready_clip_count": 0,
+          "audio_status": "missing",
+          "generated_assets": [],
+          "missing_planned_clips": [
+            {
+              "clip_id": "L001-es-dialogue-1",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-dialogue-2",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-dialogue-3",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-dialogue-4",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-dialogue-5",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-dialogue-6",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-dialogue-7",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-dialogue-8",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-listening-1",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-listening-2",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-listening-3",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-listening-4",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-listening-5",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-listening-6",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-listening-7",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-listening-8",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-listening-9",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-vocab-hola",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-vocab-buenosdias",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-vocab-buenastardes",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-vocab-buenasnoches",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-vocab-hastaluego",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-vocab-muchogusto",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-vocab-encantado",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-vocab-saludo",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-vocab-estudiante",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-vocab-amigo",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[9]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-grammar-row-1",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-grammar-row-2",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-grammar-row-3",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-grammar-row-4",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-examples-1",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-examples-2",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-examples-3",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-examples-4",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-examples-5",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-es-reading",
+              "language": "es",
+              "role": "ES-READ-F",
+              "priority": "P4",
+              "source": "reading.text",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-fa-warmup",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "warmup (Persian teaching layer for L001)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-fa-explanation",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "explanation (Persian teaching layer for L001)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-fa-listening-intro",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "listening-intro (Persian teaching layer for L001)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-fa-grammar-note",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "grammar-note (Persian teaching layer for L001)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-fa-speaking",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "speaking (Persian teaching layer for L001)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L001-fa-closing",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "closing (Persian teaching layer for L001)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            }
+          ],
+          "orphan_generated_files": []
+        },
+        {
+          "language": "es",
+          "lesson_id": "L002",
+          "order_index": 2,
+          "lesson_file": "content/es/A1/lessons/L002.json",
+          "plan_file": "content/audio/es/L002.plan.json",
+          "plan_clip_count": 43,
+          "audio_reference_count": 0,
+          "physical_file_count": 0,
+          "ready_clip_count": 0,
+          "audio_status": "missing",
+          "generated_assets": [],
+          "missing_planned_clips": [
+            {
+              "clip_id": "L002-es-dialogue-1",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-dialogue-2",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-dialogue-3",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-dialogue-4",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-dialogue-5",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-dialogue-6",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-dialogue-7",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-dialogue-8",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-listening-1",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-listening-2",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-listening-3",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-listening-4",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-listening-5",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-listening-6",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-listening-7",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-listening-8",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-listening-9",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-vocab-unpais",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-vocab-ciudad",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-vocab-origen",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-vocab-mexicanomexicana",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-vocab-colombianocolombiana",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-vocab-chilenochilena",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-vocab-peruanoperuana",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-vocab-mapa",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-vocab-bandera",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-vocab-gentilicio",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[9]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-grammar-row-1",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-grammar-row-2",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-grammar-row-3",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-grammar-row-4",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-examples-1",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-examples-2",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-examples-3",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-examples-4",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-examples-5",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-es-reading",
+              "language": "es",
+              "role": "ES-READ-F",
+              "priority": "P4",
+              "source": "reading.text",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-fa-warmup",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "warmup (Persian teaching layer for L002)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-fa-explanation",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "explanation (Persian teaching layer for L002)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-fa-listening-intro",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "listening-intro (Persian teaching layer for L002)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-fa-grammar-note",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "grammar-note (Persian teaching layer for L002)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-fa-speaking",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "speaking (Persian teaching layer for L002)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L002-fa-closing",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "closing (Persian teaching layer for L002)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            }
+          ],
+          "orphan_generated_files": []
+        },
+        {
+          "language": "es",
+          "lesson_id": "L003",
+          "order_index": 3,
+          "lesson_file": "content/es/A1/lessons/L003.json",
+          "plan_file": "content/audio/es/L003.plan.json",
+          "plan_clip_count": 43,
+          "audio_reference_count": 0,
+          "physical_file_count": 0,
+          "ready_clip_count": 0,
+          "audio_status": "missing",
+          "generated_assets": [],
+          "missing_planned_clips": [
+            {
+              "clip_id": "L003-es-dialogue-1",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-dialogue-2",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-dialogue-3",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-dialogue-4",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-dialogue-5",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-dialogue-6",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-dialogue-7",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "dialogue.lines[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-dialogue-8",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "dialogue.lines[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-listening-1",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-listening-2",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-listening-3",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-listening-4",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-listening-5",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-listening-6",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-listening-7",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-listening-8",
+              "language": "es",
+              "role": "ES-CHAR-B",
+              "priority": "P1",
+              "source": "listening.script[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-listening-9",
+              "language": "es",
+              "role": "ES-CHAR-A",
+              "priority": "P1",
+              "source": "listening.script[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-vocab-unidioma",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-vocab-elespanol",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-vocab-elingles",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-vocab-elfrances",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-vocab-elportugues",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-vocab-elitaliano",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[5]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-vocab-unalenguamaterna",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[6]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-vocab-unintercambiolinguistico",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[7]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-vocab-lapronunciacion",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[8]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-vocab-unaconversacion",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "vocabulary.items[9]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-grammar-row-1",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-grammar-row-2",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-grammar-row-3",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-grammar-row-4",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P2",
+              "source": "grammar.table.rows[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-examples-1",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[0]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-examples-2",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[1]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-examples-3",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[2]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-examples-4",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[3]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-examples-5",
+              "language": "es",
+              "role": "ES-VOCAB",
+              "priority": "P3",
+              "source": "examples.items[4]",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-es-reading",
+              "language": "es",
+              "role": "ES-READ-F",
+              "priority": "P4",
+              "source": "reading.text",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-fa-warmup",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "warmup (Persian teaching layer for L003)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-fa-explanation",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P1",
+              "source": "explanation (Persian teaching layer for L003)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-fa-listening-intro",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "listening-intro (Persian teaching layer for L003)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-fa-grammar-note",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "grammar-note (Persian teaching layer for L003)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-fa-speaking",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "speaking (Persian teaching layer for L003)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            },
+            {
+              "clip_id": "L003-fa-closing",
+              "language": "fa",
+              "role": "FA-COACH",
+              "priority": "P2",
+              "source": "closing (Persian teaching layer for L003)",
+              "reasons": [
+                "missing_file",
+                "missing_lesson_reference"
+              ]
+            }
+          ],
+          "orphan_generated_files": []
+        }
+      ]
     }
   }
 }

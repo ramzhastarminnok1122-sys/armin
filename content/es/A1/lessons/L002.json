@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 2,
+    "title": "Mateo es de Arequipa",
+    "subtitle": "Preguntar por el origen y la nacionalidad",
+    "description": "Mateo habla de su ciudad y de su país en un grupo internacional.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "پرسیدن دربارهٔ خاستگاه و کاربرد ser de و صفت‌های ملیت",
+      "objectives": [
+        "Preguntar de qué país o ciudad es una persona.",
+        "Nombrar países y nacionalidades frecuentes de América Latina.",
+        "Usar ser de y concordar gentilicios en género y número."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "اگر بخواهی از خاستگاه کسی بپرسی، چه پرسشی می‌کنی؟",
+      "questions": [
+        {
+          "q": "مکان بزرگی که در آن زندگی می‌کنی چه نام دارد؟",
+          "hint_fa": "به واژهٔ «ciudad» فکر کن."
+        },
+        {
+          "q": "نام فردی که اهل پرو است چیست؟",
+          "hint_fa": "به صفت «peruano» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Ser de y los gentilicios",
+      "body_fa": "برای پرسیدن خاستگاه از «¿De dónde eres?» استفاده می‌کنیم و در پاسخ می‌گوییم «Soy de» همراه نام شهر یا کشور: «Soy de Arequipa» یا «Soy de Perú». برای بیان ملیت، از صفتی استفاده می‌کنیم که با جنس و شمار هماهنگ است: «Mateo es peruano» و «Lucía es peruana». بسیاری از ملیت‌ها برای مؤنث به «-a» و برای جمع به «-s» تغییر می‌کنند؛ مانند «colombiano/colombiana» و «chilenos/chilenas». نام کشور با حرف بزرگ نوشته می‌شود، اما ملیت در اسپانیایی با حرف کوچک می‌آید. برای پرسیدن ملیت می‌توانیم بگوییم «¿Cuál es tu nacionalidad?».",
+      "key_points": [
+        "برای شهر و کشور از ساختار «ser de» استفاده می‌کنیم.",
+        "صفت ملیت با جنس و شمار هماهنگ می‌شود.",
+        "نام ملیت در اسپانیایی با حرف کوچک نوشته می‌شود."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "un país",
+          "ipa": "/un paˈis/",
+          "translation_fa": "یک کشور",
+          "example": "Perú es un país de América del Sur.",
+          "example_fa": "پرو کشوری در آمریکای جنوبی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ciudad",
+          "ipa": "/sjuˈðað/",
+          "translation_fa": "شهر",
+          "example": "Arequipa es una ciudad peruana.",
+          "example_fa": "آره‌کیپا شهری در پرو است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "origen",
+          "ipa": "/oˈɾi.xen/",
+          "translation_fa": "خاستگاه",
+          "example": "Mateo cuenta el origen de su familia.",
+          "example_fa": "ماتئو خاستگاه خانواده‌اش را تعریف می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mexicano, mexicana",
+          "ipa": "/me.xiˈka.no/, /me.xiˈka.na/",
+          "translation_fa": "مکزیکی",
+          "example": "Mi compañera es mexicana y vive en Lima.",
+          "example_fa": "هم‌کلاسی‌ام مکزیکی است و در لیما زندگی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "colombiano, colombiana",
+          "ipa": "/ko.lomˈbja.no/, /ko.lomˈbja.na/",
+          "translation_fa": "کلمبیایی",
+          "example": "Andrés es colombiano; su hermana también.",
+          "example_fa": "آندرس کلمبیایی است؛ خواهرش هم همین‌طور.",
+          "tag": "اسم"
+        },
+        {
+          "term": "chileno, chilena",
+          "ipa": "/tʃiˈle.no/, /tʃiˈle.na/",
+          "translation_fa": "شیلیایی",
+          "example": "Camila es chilena y estudia en Quito.",
+          "example_fa": "کامیلا شیلیایی است و در کیتو درس می‌خواند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "peruano, peruana",
+          "ipa": "/peˈɾwa.no/, /peˈɾwa.na/",
+          "translation_fa": "پرویی",
+          "example": "Mateo es peruano y habla español.",
+          "example_fa": "ماتئو پرویی است و اسپانیایی صحبت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mapa",
+          "ipa": "/ˈma.pa/",
+          "translation_fa": "نقشه",
+          "example": "La profesora señala Perú en el mapa.",
+          "example_fa": "استاد پرو را روی نقشه نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "bandera",
+          "ipa": "/banˈde.ɾa/",
+          "translation_fa": "پرچم",
+          "example": "La bandera peruana tiene tres franjas.",
+          "example_fa": "پرچم پرو سه نوار دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "gentilicio",
+          "ipa": "/xen.tiˈli.sjo/",
+          "translation_fa": "نام یا صفت ملیت",
+          "example": "El gentilicio de Chile es chileno o chilena.",
+          "example_fa": "صفت ملیت شیلی، chileno یا chilena است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Ser de + lugar; nacionalidad",
+      "explanation_fa": "Para preguntar por el origen, usamos «¿De dónde eres?» y respondemos «Soy de Lima», «Soy de Perú» o «Soy de Colombia». El nombre del lugar va después de «de». Para expresar la nacionalidad, usamos «ser» más un gentilicio: «Mateo es peruano», «Sara es colombiana». El gentilicio concuerda con la persona: «chileno/chilena» en singular y «chilenos/chilenas» en plural. Los nombres de países se escriben con mayúscula inicial; las nacionalidades, con minúscula. También podemos preguntar «¿Cuál es tu nacionalidad?». Con «usted», la pregunta formal es «¿De dónde es usted?».",
+      "pattern": "sujeto + ser + de + ciudad / país; ser + gentilicio concordado",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo / tú",
+            "Soy de Lima. Tú eres de México.",
+            "من اهل لیما هستم. تو اهل مکزیک هستی."
+          ],
+          [
+            "él / ella",
+            "Mateo es peruano. Sara es colombiana.",
+            "ماتئو پرویی است. سارا کلمبیایی است."
+          ],
+          [
+            "nosotros / nosotras",
+            "Somos chilenas y vivimos en Quito.",
+            "ما شیلیایی هستیم و در کیتو زندگی می‌کنیم."
+          ],
+          [
+            "ustedes / ellos / ellas",
+            "Ustedes son mexicanos. Ellas son peruanas.",
+            "شما مکزیکی هستید. آن‌ها پرویی هستند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«De» introduce la ciudad o el país de origen.",
+        "El gentilicio cambia para concordar con la persona."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "La profesora coloca una bandera junto al mapa.",
+          "fa": "استاد پرچمی را کنار نقشه قرار می‌دهد.",
+          "note_fa": "La bandera puede representar un país."
+        },
+        {
+          "target": "Mis vecinos son de distintas ciudades.",
+          "fa": "همسایه‌های من اهل شهرهای گوناگون هستند.",
+          "note_fa": "«Distintas» concuerda con «ciudades»."
+        },
+        {
+          "target": "La nacionalidad de Camila es chilena.",
+          "fa": "ملیت کامیلا شیلیایی است.",
+          "note_fa": "El gentilicio concuerda con el nombre femenino."
+        },
+        {
+          "target": "El grupo conoce el origen de cada estudiante.",
+          "fa": "گروه با خاستگاه هر دانشجو آشنا می‌شود.",
+          "note_fa": "«Cada» acompaña un sustantivo singular."
+        },
+        {
+          "target": "Mateo señala Arequipa en el mapa del aula.",
+          "fa": "ماتئو آره‌کیپا را روی نقشهٔ کلاس نشان می‌دهد.",
+          "note_fa": "El nombre de la ciudad lleva mayúscula."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un grupo internacional",
+      "script": "Ana: Mateo, ¿de dónde eres? No conozco tu ciudad.\nMateo: Soy de Arequipa, una ciudad del sur de Perú.\nAna: Entonces eres peruano; ¿tu familia también vive allí?\nMateo: Sí, mis padres son de Arequipa y hablan español.\nAna: Mi vecina Sara es colombiana y vive en Quito.\nMateo: ¿Y tu compañera Camila? Creo que es de Chile.\nAna: Correcto; ella es chilena, aunque ahora estudia aquí.\nMateo: Me gusta conocer el origen de mis compañeros.\nAna: Podemos señalar cada país en el mapa después.",
+      "script_fa": "آنا: ماتئو، اهل کجایی؟ شهرت را نمی‌شناسم.\nماتئو: اهل آره‌کیپا هستم، شهری در جنوب پرو.\nآنا: پس پرویی هستی؛ خانواده‌ات هم آنجا زندگی می‌کند؟\nماتئو: بله، پدر و مادرم اهل آره‌کیپا هستند و اسپانیایی صحبت می‌کنند.\nآنا: همسایه‌ام سارا کلمبیایی است و در کیتو زندگی می‌کند.\nماتئو: هم‌کلاسی‌ات کامیلا چطور؟ فکر می‌کنم اهل شیلی است.\nآنا: درست است؛ او شیلیایی است، هرچند اینجا درس می‌خواند.\nماتئو: دوست دارم خاستگاه هم‌کلاسی‌هایم را بشناسم.\nآنا: بعداً می‌توانیم هر کشور را روی نقشه نشان دهیم.",
+      "question_fa": "¿De qué país es Mateo?",
+      "answer": "De Perú.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "En el mapa del aula",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Hola, ¿de dónde eres, Pablo?",
+          "fa": "سلام، پابلو، اهل کجایی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Encantado; soy de Medellín, Colombia.",
+          "fa": "خوشوقتم؛ اهل مدلین در کلمبیا هستم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Eres colombiano?",
+          "fa": "کلمبیایی هستی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, y mi amigo es mexicano.",
+          "fa": "بله، و دوستم مکزیکی است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Tu profesora también es de Colombia?",
+          "fa": "استادت هم اهل کلمبیاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "No, ella es chilena.",
+          "fa": "نه، او شیلیایی است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Conoces el gentilicio de Perú?",
+          "fa": "صفت ملیت پرو را می‌دانی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, peruano para él y peruana para ella.",
+          "fa": "بله، برای مرد peruano و برای زن peruana."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، بگو اهل کدام شهر یا کشوری هستی و ملیت یک دوست را معرفی کن.",
+      "useful_phrases": [
+        {
+          "target": "Soy de Lima, Perú.",
+          "fa": "اهل لیما در پرو هستم."
+        },
+        {
+          "target": "Mi amiga es chilena.",
+          "fa": "دوستم شیلیایی است."
+        },
+        {
+          "target": "Somos de ciudades distintas.",
+          "fa": "ما اهل شهرهای متفاوتی هستیم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "De varios lugares",
+      "text": "En el curso de español, cada estudiante llega con un saludo y una historia de su país. Mateo es peruano y vive en Arequipa, una ciudad conocida por sus volcanes. Sara es colombiana; su familia vive en Bogotá, pero ella estudia en Quito. Camila es chilena y comparte piso con una estudiante mexicana. La profesora coloca un mapa grande en la pared para que todos señalen su ciudad. Después, cada persona escribe el nombre de su país junto a una bandera pequeña. El grupo descubre que varios compañeros vienen de lugares distintos, aunque ahora viven en la misma ciudad. Al final, la clase practica preguntas sobre el origen y las nacionalidades.",
+      "glossary": [
+        {
+          "term": "el volcán",
+          "fa": "آتشفشان"
+        },
+        {
+          "term": "compartir piso",
+          "fa": "هم‌خانه بودن"
+        },
+        {
+          "term": "la pared",
+          "fa": "دیوار"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Dónde vive ahora Sara?",
+          "a": "En Quito."
+        },
+        {
+          "q_fa": "¿Qué coloca la profesora en la pared?",
+          "a": "Un mapa grande."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت درست را انتخاب کن.",
+          "question": "Mateo ___ Arequipa, Perú.",
+          "options": [
+            "es de",
+            "eres de",
+            "son de"
+          ],
+          "answer": "es de",
+          "explanation_fa": "برای او می‌گوییم «es de»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "صفت ملیت را هماهنگ کن.",
+          "question": "Camila es ___.",
+          "options": [
+            "chileno",
+            "chilena",
+            "chilenos"
+          ],
+          "answer": "chilena",
+          "explanation_fa": "Camila مؤنث مفرد است؛ صفت به chilena تغییر می‌کند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "حرف بزرگ را انتخاب کن.",
+          "question": "El nombre del país se escribe…",
+          "options": [
+            "perú",
+            "Perú",
+            "peruano"
+          ],
+          "answer": "Perú",
+          "explanation_fa": "نام کشور با حرف بزرگ نوشته می‌شود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "Sara es colombiana y ahora vive en Quito.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "متن می‌گوید سارا کلمبیایی است و در کیتو زندگی می‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "شکل مناسب را بنویس.",
+          "question": "Mateo es ___. (Perú)",
+          "answer": [
+            "peruano"
+          ],
+          "explanation_fa": "peruano"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Dónde vive ahora Sara?",
+          "answer": [
+            "En Quito."
+          ],
+          "explanation_fa": "سارا اکنون در کیتو زندگی می‌کند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿De dónde es Mateo?",
+          "options": [
+            "De Perú",
+            "De Chile",
+            "De México"
+          ],
+          "answer": "De Perú",
+          "explanation_fa": "Mateo dice que es de Perú."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuál es la nacionalidad de Sara?",
+          "options": [
+            "Colombiana",
+            "Mexicana",
+            "Chilena"
+          ],
+          "answer": "Colombiana",
+          "explanation_fa": "Sara es colombiana."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde vive Sara ahora?",
+          "options": [
+            "En Quito",
+            "En Lima",
+            "En Santiago"
+          ],
+          "answer": "En Quito",
+          "explanation_fa": "Ana explica que Sara vive en Quito."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hace la profesora con el mapa?",
+          "options": [
+            "Señala las ciudades",
+            "Escribe una carta",
+            "Cierra la puerta"
+          ],
+          "answer": "Señala las ciudades",
+          "explanation_fa": "El grupo señala las ciudades en el mapa."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cómo se dice la nacionalidad de Camila?",
+          "options": [
+            "Chilena",
+            "Peruana",
+            "Mexicana"
+          ],
+          "answer": "Chilena",
+          "explanation_fa": "Camila es de Chile; el gentilicio femenino es chilena."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Habla de tu origen y del de una amistad: menciona una ciudad, un país y una nacionalidad.",
+      "suggested_prompts": [
+        "Soy de Lima, Perú.",
+        "Mi amiga es chilena.",
+        "Somos de ciudades distintas."
+      ],
+      "focus": [
+        "ser de + lugar",
+        "gentilicios",
+        "concordancia de género"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Mateo presenta su origen y conoce el de sus compañeros."
+  }
+}

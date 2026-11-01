@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 1,
+    "title": "Hola, soy Lucía",
+    "subtitle": "Saludar y presentarse en clase",
+    "description": "Lucía conoce a sus compañeros durante su primer día de español.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "سلام‌کردن و معرفی خود و صرف فعل ser برای هویت و نام",
+      "objectives": [
+        "Saludar a una persona en distintos momentos del día.",
+        "Decir el nombre y presentar a otra persona.",
+        "Usar ser con pronombres personales y nombres."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "وقتی وارد کلاس تازه‌ای می‌شوی، چطور سلام می‌کنی و خودت را معرفی می‌کنی؟",
+      "questions": [
+        {
+          "q": "برای گفتن نام خودت از کدام عبارت استفاده می‌کنی؟",
+          "hint_fa": "به عبارت «me llamo» فکر کن."
+        },
+        {
+          "q": "صبح هنگام ورود به کلاس چه سلامی می‌گویی؟",
+          "hint_fa": "به عبارت «buenos días» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Saludos y presentaciones",
+      "body_fa": "در آغاز یک آشنایی، می‌توانیم با سلامی متناسب با زمان روز صحبت را شروع کنیم. در زبان اسپانیایی برای معرفی نام، از «me llamo» یا «soy» استفاده می‌کنیم. فعل «ser» برای گفتن نام و هویت به کار می‌رود و با فاعل تغییر می‌کند: «yo soy»، «tú eres»، «él/ella es»، «nosotros/as somos» و «ellos/ellas son». برای خطاب رسمی، «usted es» و برای جمعِ محترمانه در بیشتر کشورهای آمریکای لاتین «ustedes son» می‌گوییم. در مکالمهٔ روزمره، ضمیر فاعلی گاهی حذف می‌شود چون شناسهٔ فعل فاعل را نشان می‌دهد. عبارت «mucho gusto» پس از آشنایی رایج است.",
+      "key_points": [
+        "برای گفتن نام می‌توان از «me llamo» یا «soy» استفاده کرد.",
+        "فعل «ser» برای نام و هویت به کار می‌رود.",
+        "«Usted» رسمی و «ustedes» جمعِ محترمانه است."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "hola",
+          "ipa": "/ˈo.la/",
+          "translation_fa": "سلام",
+          "example": "Hola, Ana; me llamo Lucía.",
+          "example_fa": "سلام آنا؛ اسم من لوسیاست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "buenos días",
+          "ipa": "/ˈbwe.nos ˈdi.as/",
+          "translation_fa": "صبح بخیر",
+          "example": "Buenos días, señor López.",
+          "example_fa": "صبح بخیر آقای لوپز.",
+          "tag": "اسم"
+        },
+        {
+          "term": "buenas tardes",
+          "ipa": "/ˈbwe.nas ˈtaɾ.des/",
+          "translation_fa": "عصر بخیر",
+          "example": "Buenas tardes, ¿está la profesora?",
+          "example_fa": "عصر بخیر، استاد اینجاست؟",
+          "tag": "اسم"
+        },
+        {
+          "term": "buenas noches",
+          "ipa": "/ˈbwe.nas ˈno.tʃes/",
+          "translation_fa": "شب بخیر",
+          "example": "Buenas noches; mañana nos vemos.",
+          "example_fa": "شب بخیر؛ فردا همدیگر را می‌بینیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "hasta luego",
+          "ipa": "/ˈas.ta ˈlwe.ɣo/",
+          "translation_fa": "بعداً می‌بینمت",
+          "example": "Hasta luego, Luis; nos vemos en clase.",
+          "example_fa": "بعداً می‌بینمت لوئیس؛ در کلاس همدیگر را می‌بینیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mucho gusto",
+          "ipa": "/ˈmu.tʃo ˈɣus.to/",
+          "translation_fa": "از آشنایی خوشوقتم",
+          "example": "Mucho gusto, me llamo Diego.",
+          "example_fa": "از آشنایی خوشوقتم، اسمم دیه‌گو است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "encantado",
+          "ipa": "/eŋ.kanˈta.ðo/",
+          "translation_fa": "خوشوقتم؛ خرسندم",
+          "example": "Encantado, me llamo Diego.",
+          "example_fa": "خوشوقتم، اسمم دیه‌گو است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "saludo",
+          "ipa": "/saˈlu.ðo/",
+          "translation_fa": "سلام؛ درود",
+          "example": "Un saludo para tus compañeros.",
+          "example_fa": "درودی برای هم‌کلاسی‌هایت.",
+          "tag": "اسم"
+        },
+        {
+          "term": "estudiante",
+          "ipa": "/es.tuˈðjan.te/",
+          "translation_fa": "دانشجو؛ دانش‌آموز",
+          "example": "La estudiante llega temprano a clase.",
+          "example_fa": "دانشجو زود به کلاس می‌رسد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "amigo",
+          "ipa": "/aˈmi.ɣo/",
+          "translation_fa": "دوستِ مذکر",
+          "example": "Mi amigo se llama Mateo.",
+          "example_fa": "دوست من ماتئو نام دارد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Ser para decir quién eres",
+      "explanation_fa": "El verbo «ser» sirve para identificar a una persona y decir su nombre o profesión. Sus formas principales son «yo soy», «tú eres», «usted es», «él o ella es», «nosotros o nosotras somos», «ustedes son» y «ellos o ellas son». El pronombre puede aparecer antes del verbo, pero a menudo se omite: «Soy Lucía» también es correcto. Para presentarse, se puede decir «Me llamo Lucía» o «Soy Lucía». «Encantado» se usa si habla un hombre y «encantada» si habla una mujer. «Mucho gusto» funciona para cualquier persona.",
+      "pattern": "sujeto + ser + nombre / profesión / identidad",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo / tú",
+            "Yo soy Lucía. Tú eres Mateo.",
+            "من لوسیا هستم. تو ماتئو هستی."
+          ],
+          [
+            "usted / él / ella",
+            "Usted es la profesora. Él es Daniel.",
+            "شما استاد هستید. او دانیل است."
+          ],
+          [
+            "nosotros / nosotras",
+            "Somos compañeras de clase.",
+            "ما هم‌کلاسی هستیم."
+          ],
+          [
+            "ustedes / ellos / ellas",
+            "Ustedes son del curso. Ellas son amigas.",
+            "شما اهل این دوره هستید. آن‌ها دوست هستند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Ser» identifica a una persona; no se conjuga igual con todos los sujetos.",
+        "«Usted» lleva la forma «es»; «ustedes» lleva «son»."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Soy estudiante y vivo cerca de la plaza.",
+          "fa": "من دانشجو هستم و نزدیک میدان زندگی می‌کنم.",
+          "note_fa": "«Soy» identifica a quien habla."
+        },
+        {
+          "target": "La señora Vega es la directora del centro.",
+          "fa": "خانم وگا مدیر مرکز است.",
+          "note_fa": "«Es» acompaña a un sujeto singular."
+        },
+        {
+          "target": "Nosotros somos vecinos del mismo barrio.",
+          "fa": "ما همسایه‌های یک محله هستیم.",
+          "note_fa": "Con «nosotros» se usa «somos»."
+        },
+        {
+          "target": "¿Ustedes son del grupo de la mañana?",
+          "fa": "آیا شما عضو گروه صبح هستید؟",
+          "note_fa": "La forma de «ustedes» es «son»."
+        },
+        {
+          "target": "Encantado, mi nombre aparece en la lista.",
+          "fa": "خوشوقتم، نامم در فهرست دیده می‌شود.",
+          "note_fa": "«Encantado» concuerda con quien habla."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Primer día de clase",
+      "script": "Ana: Buenos días; hoy llega una persona nueva al curso.\nLucía: Hola, soy Lucía y vivo cerca de la plaza.\nAna: Mucho gusto; yo soy Ana, compañera de Daniel.\nLucía: Encantada, Ana; mi primer día empieza hoy.\nAna: ¿Cómo se llama el profesor de español?\nLucía: Se llama el señor Ramírez y es muy amable.\nAna: ¿Tú también eres estudiante de la universidad?\nLucía: Sí, soy estudiante; estudio diseño gráfico.\nAna: Entonces somos compañeras; vamos juntas al aula.",
+      "script_fa": "آنا: صبح بخیر؛ امروز دانشجوی تازه‌ای به دوره می‌آید.\nلوسیا: سلام، من لوسیا هستم و نزدیک میدان زندگی می‌کنم.\nآنا: خوشوقتم؛ من آنا هستم، هم‌کلاسی دانیل.\nلوسیا: خوشوقتم آنا؛ امروز اولین روز من است.\nآنا: استاد اسپانیایی چه نام دارد؟\nلوسیا: آقای رامیرس نام دارد و بسیار مهربان است.\nآنا: تو هم دانشجوی دانشگاه هستی؟\nلوسیا: بله، دانشجو هستم؛ طراحی گرافیک می‌خوانم.\nآنا: پس هم‌کلاسی هستیم؛ با هم به کلاس می‌رویم.",
+      "question_fa": "¿Cómo se llama el profesor de español?",
+      "answer": "El señor Ramírez.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "En el pasillo",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Hola, ¿eres nueva en el curso?",
+          "fa": "سلام، در این دوره تازه‌واردی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, soy Clara.",
+          "fa": "بله، من کلارا هستم."
+        },
+        {
+          "speaker": "A",
+          "target": "Mucho gusto, me llamo Andrés.",
+          "fa": "از آشنایی خوشوقتم، اسمم آندرس است."
+        },
+        {
+          "speaker": "B",
+          "target": "Encantada, Andrés; ¿eres de aquí?",
+          "fa": "خوشوقتم آندرس؛ اهل اینجایی؟"
+        },
+        {
+          "speaker": "A",
+          "target": "No, soy de Quito.",
+          "fa": "نه، اهل کیتو هستم."
+        },
+        {
+          "speaker": "B",
+          "target": "¿Ustedes son del mismo grupo?",
+          "fa": "شما عضو یک گروه هستید؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Sí, somos estudiantes de español.",
+          "fa": "بله، دانشجوی اسپانیایی هستیم."
+        },
+        {
+          "speaker": "B",
+          "target": "Perfecto, nos vemos en el aula.",
+          "fa": "عالی است، در کلاس می‌بینمت."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، خودت را معرفی کن، نامت را بگو و از یک نفر نامش را بپرس.",
+      "useful_phrases": [
+        {
+          "target": "Hola, soy Clara.",
+          "fa": "سلام، من کلارا هستم."
+        },
+        {
+          "target": "Me llamo Andrés.",
+          "fa": "اسمم آندرس است."
+        },
+        {
+          "target": "Mucho gusto.",
+          "fa": "از آشنایی خوشوقتم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Un primer encuentro",
+      "text": "El primer día del curso, Lucía llega unos minutos antes y espera junto a la puerta. La profesora saluda al grupo y presenta a dos estudiantes nuevos. Lucía dice su nombre con una sonrisa: «Soy Lucía, de Quito». Su compañero Tomás también se presenta y cuenta que estudia arquitectura. Después, la profesora pregunta si todos son del turno de la mañana. Varias personas responden que sí; una estudiante trabaja por la tarde y viene a clase por la noche. Al terminar, Lucía se despide de Tomás con un «hasta luego». Los dos ya saben cómo se llaman y en qué grupo están.",
+      "glossary": [
+        {
+          "term": "junto a",
+          "fa": "کنارِ"
+        },
+        {
+          "term": "el turno",
+          "fa": "نوبت؛ شیفت"
+        },
+        {
+          "term": "despedirse",
+          "fa": "خداحافظی‌کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿De dónde es Lucía?",
+          "a": "De Quito."
+        },
+        {
+          "q_fa": "¿Qué estudia Tomás?",
+          "a": "Arquitectura."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست ser را انتخاب کن.",
+          "question": "Yo ___ Lucía.",
+          "options": [
+            "eres",
+            "soy",
+            "son"
+          ],
+          "answer": "soy",
+          "explanation_fa": "با «yo» می‌گوییم «soy»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "سلام متناسب با صبح را انتخاب کن.",
+          "question": "A las ocho de la mañana decimos…",
+          "options": [
+            "buenas noches",
+            "buenos días",
+            "hasta luego"
+          ],
+          "answer": "buenos días",
+          "explanation_fa": "«Buenos días» برای صبح به کار می‌رود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل رسمی را انتخاب کن.",
+          "question": "___ es la profesora nueva.",
+          "options": [
+            "Usted",
+            "Ustedes",
+            "Nosotros"
+          ],
+          "answer": "Usted",
+          "explanation_fa": "برای یک نفر رسمی از «usted» و «es» استفاده می‌کنیم."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Mucho gusto» sirve para saludar al conocer a alguien.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "این عبارت هنگام آشنایی رایج است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "Nosotros ___ compañeros de clase.",
+          "answer": [
+            "somos"
+          ],
+          "explanation_fa": "somos"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Cómo se llama el profesor?",
+          "answer": [
+            "El señor Ramírez."
+          ],
+          "explanation_fa": "پاسخ در گفت‌وگوی شنیداری آمده است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Cómo se llama la estudiante nueva?",
+          "options": [
+            "Lucía",
+            "Ana",
+            "Marta"
+          ],
+          "answer": "Lucía",
+          "explanation_fa": "Lucía se presenta al grupo con su nombre."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Quién es compañera de Daniel?",
+          "options": [
+            "Ana",
+            "La directora",
+            "La profesora"
+          ],
+          "answer": "Ana",
+          "explanation_fa": "Ana dice que es compañera de Daniel."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cómo se llama el profesor?",
+          "options": [
+            "Señor Ramírez",
+            "Señor Vega",
+            "Señor Tomás"
+          ],
+          "answer": "Señor Ramírez",
+          "explanation_fa": "Lucía identifica al profesor como el señor Ramírez."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué estudia Lucía?",
+          "options": [
+            "Diseño gráfico",
+            "Medicina",
+            "Arquitectura"
+          ],
+          "answer": "Diseño gráfico",
+          "explanation_fa": "Lucía dice que estudia diseño gráfico."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué expresión usa Lucía para despedirse?",
+          "options": [
+            "Hasta luego",
+            "Buenos días",
+            "Mucho gusto"
+          ],
+          "answer": "Hasta luego",
+          "explanation_fa": "En la lectura se despide con «hasta luego»."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Preséntate en una clase nueva: saluda, di tu nombre y pregunta el nombre de otra persona.",
+      "suggested_prompts": [
+        "Hola, soy Clara.",
+        "Me llamo Andrés.",
+        "Mucho gusto."
+      ],
+      "focus": [
+        "saludos",
+        "nombre e identidad",
+        "ser en presente"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Lucía se presenta al grupo al llegar a su primera clase."
+  }
+}

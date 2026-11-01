@@ -1,0 +1,398 @@
+{
+  "lesson": "L003",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L003-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Hablas español todos los días?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L003-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, hablo con mis primos por teléfono.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L003-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿También estudias francés?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L003-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, practico un poco después del trabajo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L003-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Qué idioma te gusta más?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L003-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Me gusta el italiano por su pronunciación.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L003-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Vienes al intercambio el jueves?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L003-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Claro, allí hablamos con calma.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L003-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "En el club de idiomas practicamos después de clase.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L003-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "¿Qué idioma hablas con tu familia?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L003-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Hablo español con mis padres y francés con mi abuela.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L003-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Yo hablo inglés en casa y estudio portugués.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L003-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Practicas italiano en el intercambio lingüístico?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L003-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Sí, pero todavía trabajo en la pronunciación.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L003-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Mi compañera habla cuatro idiomas con naturalidad.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L003-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¡Qué bien! La conversación ayuda mucho a aprender.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L003-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Nos vemos el jueves para hablar otra vez.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L003-es-vocab-unidioma",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un idioma. El español es un idioma muy extendido.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L003-es-vocab-elespanol",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "el español. Marta habla español con su familia.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L003-es-vocab-elingles",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "el inglés. Noah estudia inglés en la universidad.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L003-es-vocab-elfrances",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "el francés. Mi vecina practica francés los sábados.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L003-es-vocab-elportugues",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "el portugués. Marta entiende portugués bastante bien.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L003-es-vocab-elitaliano",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "el italiano. Su hermano aprende italiano con una aplicación.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L003-es-vocab-unalenguamaterna",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "una lengua materna. El español es la lengua materna de Marta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L003-es-vocab-unintercambiolinguistico",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un intercambio lingüístico. Noah participa en un intercambio lingüístico.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 73
+    },
+    {
+      "id": "L003-es-vocab-lapronunciacion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "la pronunciación. La pronunciación mejora con la práctica.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L003-es-vocab-unaconversacion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "una conversación. La conversación dura unos minutos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L003-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Yo hablo español. Tú hablas inglés con Noah.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L003-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Usted habla francés. Marta habla portugués.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L003-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Hablamos italiano durante el intercambio.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L003-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ustedes hablan español. Ellas hablan dos idiomas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L003-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Noah practica la pronunciación con una compañera.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L003-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Marta aprende italiano con canciones.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L003-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "En el intercambio, cada persona usa su lengua materna.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L003-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La conversación empieza con una pregunta sencilla.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L003-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Los dos compañeros entienden portugués bastante bien.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L003-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Marta participa en un intercambio lingüístico los jueves. Su lengua materna es el español, pero también habla francés con su abuela. Noah estudia inglés en la universidad y aprende portugués con un compañero de piso. Los dos quieren mejorar la pronunciación, así que conversan durante unos minutos antes de empezar la actividad. Cada semana, una persona propone un tema sencillo: la comida, la música o los viajes. En el mapa del aula, la profesora relaciona el origen de cada idioma con una ciudad y una bandera; también escribe un gentilicio junto a cada nombre. Nadie corrige cada palabra; primero escuchan la idea y luego comentan una expresión nueva. Al final, Marta anota tres palabras en su cuaderno y Noah practica una frase en italiano. El grupo disfruta de aprender en compañía.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 788
+    },
+    {
+      "id": "L003-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L003)",
+      "tts_text": "چه زبان‌هایی را در خانه یا کلاس استفاده می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L003-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L003)",
+      "tts_text": "فعل «hablar» در زمان حال منظم است و با yo به شکل «hablo» می‌آید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L003-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L003)",
+      "tts_text": "به گفت‌وگو گوش کن و زبانی را پیدا کن که نوآ مطالعه می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L003-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L003)",
+      "tts_text": "با «tú» می‌گوییم «hablas»؛ با «nosotros» می‌گوییم «hablamos».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L003-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L003)",
+      "tts_text": "بگو چه زبان‌هایی صحبت می‌کنی و کدام را تمرین می‌کنی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L003-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L003)",
+      "tts_text": "نام زبان‌ها در اسپانیایی با حرف کوچک نوشته می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    }
+  ]
+}

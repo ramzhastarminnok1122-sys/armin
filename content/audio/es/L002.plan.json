@@ -1,0 +1,398 @@
+{
+  "lesson": "L002",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L002-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Hola, ¿de dónde eres, Pablo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L002-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Encantado; soy de Medellín, Colombia.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L002-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Eres colombiano?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 17
+    },
+    {
+      "id": "L002-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, y mi amigo es mexicano.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L002-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Tu profesora también es de Colombia?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L002-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, ella es chilena.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L002-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Conoces el gentilicio de Perú?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L002-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, peruano para él y peruana para ella.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L002-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Mateo, ¿de dónde eres? No conozco tu ciudad.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L002-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Soy de Arequipa, una ciudad del sur de Perú.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L002-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Entonces eres peruano; ¿tu familia también vive allí?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L002-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, mis padres son de Arequipa y hablan español.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L002-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Mi vecina Sara es colombiana y vive en Quito.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L002-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Y tu compañera Camila? Creo que es de Chile.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L002-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Correcto; ella es chilena, aunque ahora estudia aquí.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L002-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Me gusta conocer el origen de mis compañeros.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L002-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Podemos señalar cada país en el mapa después.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L002-es-vocab-unpais",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un país. Perú es un país de América del Sur.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L002-es-vocab-ciudad",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "ciudad. Arequipa es una ciudad peruana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L002-es-vocab-origen",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "origen. Mateo cuenta el origen de su familia.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L002-es-vocab-mexicanomexicana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "mexicano, mexicana. Mi compañera es mexicana y vive en Lima.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L002-es-vocab-colombianocolombiana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "colombiano, colombiana. Andrés es colombiano; su hermana también.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L002-es-vocab-chilenochilena",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "chileno, chilena. Camila es chilena y estudia en Quito.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L002-es-vocab-peruanoperuana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "peruano, peruana. Mateo es peruano y habla español.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L002-es-vocab-mapa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "mapa. La profesora señala Perú en el mapa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L002-es-vocab-bandera",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "bandera. La bandera peruana tiene tres franjas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L002-es-vocab-gentilicio",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "gentilicio. El gentilicio de Chile es chileno o chilena.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L002-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Soy de Lima. Tú eres de México.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L002-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mateo es peruano. Sara es colombiana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L002-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Somos chilenas y vivimos en Quito.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L002-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ustedes son mexicanos. Ellas son peruanas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L002-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La profesora coloca una bandera junto al mapa.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L002-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mis vecinos son de distintas ciudades.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L002-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La nacionalidad de Camila es chilena.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L002-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "El grupo conoce el origen de cada estudiante.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L002-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Mateo señala Arequipa en el mapa del aula.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L002-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "En el curso de español, cada estudiante llega con un saludo y una historia de su país. Mateo es peruano y vive en Arequipa, una ciudad conocida por sus volcanes. Sara es colombiana; su familia vive en Bogotá, pero ella estudia en Quito. Camila es chilena y comparte piso con una estudiante mexicana. La profesora coloca un mapa grande en la pared para que todos señalen su ciudad. Después, cada persona escribe el nombre de su país junto a una bandera pequeña. El grupo descubre que varios compañeros vienen de lugares distintos, aunque ahora viven en la misma ciudad. Al final, la clase practica preguntas sobre el origen y las nacionalidades.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 644
+    },
+    {
+      "id": "L002-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L002)",
+      "tts_text": "اگر بخواهی از خاستگاه کسی بپرسی، چه پرسشی می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L002-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L002)",
+      "tts_text": "برای گفتن شهر یا کشور می‌گوییم «ser de»؛ ملیت با جنس و شمار هماهنگ می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L002-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L002)",
+      "tts_text": "به گفت‌وگو گوش کن و کشوری را پیدا کن که ماتئو اهل آن است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L002-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L002)",
+      "tts_text": "«Mateo es peruano» و «Camila es chilena»؛ ملیت با فرد هماهنگ می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L002-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L002)",
+      "tts_text": "نام شهر یا کشور خودت و ملیت یک دوست را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 43
+    },
+    {
+      "id": "L002-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L002)",
+      "tts_text": "نام کشور را با حرف بزرگ و ملیت را با حرف کوچک بنویس.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 3,
+    "title": "¿Qué idiomas hablas?",
+    "subtitle": "Hablar de lenguas y de práctica",
+    "description": "Marta y Noah conversan sobre los idiomas que usan y estudian.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان زبان‌ها و صرف فعل hablar در زمان حال",
+      "objectives": [
+        "Nombrar varios idiomas y decir cuáles habla una persona.",
+        "Preguntar qué idioma usa alguien en casa o en clase.",
+        "Conjugar hablar en presente y reconocer el sujeto omitido."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چه زبان‌هایی را در خانه یا کلاس استفاده می‌کنی؟",
+      "questions": [
+        {
+          "q": "برای صحبت‌کردن از یک زبان از کدام فعل استفاده می‌کنی؟",
+          "hint_fa": "به فعل «hablar» فکر کن."
+        },
+        {
+          "q": "تلفظ و گفت‌وگوی گروهی را چطور تمرین می‌کنی؟",
+          "hint_fa": "به واژهٔ «pronunciación» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Hablar de idiomas",
+      "body_fa": "برای گفتن زبانی که بلدیم یا به کار می‌بریم، فعل «hablar» را با نام زبان می‌آوریم: «hablo español»، «hablas inglés». این فعل در زمان حال منظم است: «yo hablo»، «tú hablas»، «usted/él/ella habla»، «nosotros/as hablamos» و «ustedes/ellos/ellas hablan». در بسیاری از جمله‌ها، ضمیر فاعلی حذف می‌شود؛ برای نمونه، «hablamos francés» خودش نشان می‌دهد فاعل «nosotros» است. نام زبان‌ها در اسپانیایی با حرف کوچک نوشته می‌شود. می‌توانیم دربارهٔ زبان مادری، تلفظ یا تمرین مکالمه سؤال کنیم. فعل «practicar» نیز برای تمرین یک زبان یا مهارت به کار می‌رود.",
+      "key_points": [
+        "نام زبان در اسپانیایی با حرف کوچک نوشته می‌شود.",
+        "فعل «hablar» در زمان حال منظم است.",
+        "ضمیر فاعلی را می‌توان حذف کرد چون شناسهٔ فعل فاعل را نشان می‌دهد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "un idioma",
+          "ipa": "/un iˈðjo.ma/",
+          "translation_fa": "یک زبان",
+          "example": "El español es un idioma muy extendido.",
+          "example_fa": "اسپانیایی زبانی بسیار رایج است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "el español",
+          "ipa": "/el es.paˈɲol/",
+          "translation_fa": "زبان اسپانیایی",
+          "example": "Marta habla español con su familia.",
+          "example_fa": "مارتا با خانواده‌اش اسپانیایی صحبت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "el inglés",
+          "ipa": "/el iŋˈɡles/",
+          "translation_fa": "زبان انگلیسی",
+          "example": "Noah estudia inglés en la universidad.",
+          "example_fa": "نوآ در دانشگاه انگلیسی می‌خواند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "el francés",
+          "ipa": "/el fɾanˈses/",
+          "translation_fa": "زبان فرانسوی",
+          "example": "Mi vecina practica francés los sábados.",
+          "example_fa": "همسایه‌ام شنبه‌ها فرانسوی تمرین می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "el portugués",
+          "ipa": "/el poɾ.tuˈɣes/",
+          "translation_fa": "زبان پرتغالی",
+          "example": "Marta entiende portugués bastante bien.",
+          "example_fa": "مارتا پرتغالی را نسبتاً خوب می‌فهمد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "el italiano",
+          "ipa": "/el i.taˈlja.no/",
+          "translation_fa": "زبان ایتالیایی",
+          "example": "Su hermano aprende italiano con una aplicación.",
+          "example_fa": "برادرش با یک برنامهٔ کاربردی ایتالیایی یاد می‌گیرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "una lengua materna",
+          "ipa": "/ˈu.na ˈleŋ.ɡwa maˈteɾ.na/",
+          "translation_fa": "زبان مادری",
+          "example": "El español es la lengua materna de Marta.",
+          "example_fa": "اسپانیایی زبان مادری مارتاست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un intercambio lingüístico",
+          "ipa": "/un in.teɾˈkam.bjo liŋˈɡwis.ti.ko/",
+          "translation_fa": "تبادل زبانی",
+          "example": "Noah participa en un intercambio lingüístico.",
+          "example_fa": "نوآ در یک تبادل زبانی شرکت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "la pronunciación",
+          "ipa": "/la pɾo.nun.sjaˈsjon/",
+          "translation_fa": "تلفظ",
+          "example": "La pronunciación mejora con la práctica.",
+          "example_fa": "تلفظ با تمرین بهتر می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "una conversación",
+          "ipa": "/ˈu.na kon.beɾ.saˈsjon/",
+          "translation_fa": "یک گفت‌وگو",
+          "example": "La conversación dura unos minutos.",
+          "example_fa": "گفت‌وگو چند دقیقه طول می‌کشد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Hablar en presente",
+      "explanation_fa": "«Hablar» es un verbo regular terminado en «-ar». En presente, las terminaciones son «-o», «-as», «-a», «-amos» y «-an»: «yo hablo», «tú hablas», «usted habla», «nosotros hablamos» y «ustedes hablan». La misma forma «habla» sirve para «él» y «ella»; «hablan» sirve para «ellos» y «ellas». El pronombre sujeto puede omitirse: «Hablo español» significa «yo hablo español». Después de «hablar», se menciona directamente el idioma: «hablar inglés», «hablar portugués». Para decir que alguien practica, usamos «practicar» más el nombre de la lengua.",
+      "pattern": "sujeto + hablar en presente + idioma; el pronombre puede omitirse",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo / tú",
+            "Yo hablo español. Tú hablas inglés con Noah.",
+            "من اسپانیایی صحبت می‌کنم. تو با نوآ انگلیسی صحبت می‌کنی."
+          ],
+          [
+            "usted / él / ella",
+            "Usted habla francés. Marta habla portugués.",
+            "شما فرانسوی صحبت می‌کنید. مارتا پرتغالی صحبت می‌کند."
+          ],
+          [
+            "nosotros / nosotras",
+            "Hablamos italiano durante el intercambio.",
+            "ما در تبادل زبانی ایتالیایی صحبت می‌کنیم."
+          ],
+          [
+            "ustedes / ellos / ellas",
+            "Ustedes hablan español. Ellas hablan dos idiomas.",
+            "شما اسپانیایی صحبت می‌کنید. آن‌ها دو زبان صحبت می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Usar las terminaciones -o, -as, -a, -amos y -an.",
+        "El idioma va directamente después de «hablar», sin artículo en muchos casos."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Noah practica la pronunciación con una compañera.",
+          "fa": "نوآ تلفظ را با هم‌کلاسی‌اش تمرین می‌کند.",
+          "note_fa": "«Practicar» describe una actividad repetida para mejorar."
+        },
+        {
+          "target": "Marta aprende italiano con canciones.",
+          "fa": "مارتا با آهنگ ایتالیایی یاد می‌گیرد.",
+          "note_fa": "«Aprender» expresa la adquisición de una habilidad."
+        },
+        {
+          "target": "En el intercambio, cada persona usa su lengua materna.",
+          "fa": "در تبادل زبانی هرکس از زبان مادری‌اش استفاده می‌کند.",
+          "note_fa": "«Cada persona» lleva el verbo en singular."
+        },
+        {
+          "target": "La conversación empieza con una pregunta sencilla.",
+          "fa": "گفت‌وگو با پرسشی ساده شروع می‌شود.",
+          "note_fa": "«Sencilla» concuerda con el nombre femenino."
+        },
+        {
+          "target": "Los dos compañeros entienden portugués bastante bien.",
+          "fa": "دو هم‌کلاسی پرتغالی را نسبتاً خوب می‌فهمند.",
+          "note_fa": "El verbo «entender» concuerda con un sujeto plural."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "En el intercambio de idiomas",
+      "script": "Marta: En el club de idiomas practicamos después de clase.\nNoah: ¿Qué idioma hablas con tu familia?\nMarta: Hablo español con mis padres y francés con mi abuela.\nNoah: Yo hablo inglés en casa y estudio portugués.\nMarta: ¿Practicas italiano en el intercambio lingüístico?\nNoah: Sí, pero todavía trabajo en la pronunciación.\nMarta: Mi compañera habla cuatro idiomas con naturalidad.\nNoah: ¡Qué bien! La conversación ayuda mucho a aprender.\nMarta: Nos vemos el jueves para hablar otra vez.",
+      "script_fa": "مارتا: در باشگاه زبان پس از کلاس تمرین می‌کنیم.\nنوآ: با خانواده‌ات به چه زبانی صحبت می‌کنی؟\nمارتا: با پدر و مادرم اسپانیایی و با مادربزرگم فرانسوی صحبت می‌کنم.\nنوآ: من در خانه انگلیسی صحبت می‌کنم و پرتغالی می‌خوانم.\nمارتا: در تبادل زبانی ایتالیایی تمرین می‌کنی؟\nنوآ: بله، اما هنوز روی تلفظ کار می‌کنم.\nمارتا: هم‌کلاسی‌ام چهار زبان را روان صحبت می‌کند.\nنوآ: چه خوب! گفت‌وگو به یادگیری کمک زیادی می‌کند.\nمارتا: پنجشنبه همدیگر را می‌بینیم تا دوباره صحبت کنیم.",
+      "question_fa": "¿Qué idioma estudia Noah?",
+      "answer": "Portugués.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "En el club de idiomas",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Hablas español todos los días?",
+          "fa": "هر روز اسپانیایی صحبت می‌کنی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, hablo con mis primos por teléfono.",
+          "fa": "بله، با پسرعموهایم تلفنی صحبت می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿También estudias francés?",
+          "fa": "فرانسوی هم می‌خوانی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, practico un poco después del trabajo.",
+          "fa": "بله، کمی بعد از کار تمرین می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Qué idioma te gusta más?",
+          "fa": "کدام زبان را بیشتر دوست داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Me gusta el italiano por su pronunciación.",
+          "fa": "ایتالیایی را به‌خاطر تلفظش دوست دارم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Vienes al intercambio el jueves?",
+          "fa": "پنجشنبه به تبادل زبانی می‌آیی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Claro, allí hablamos con calma.",
+          "fa": "حتماً، آنجا با آرامش صحبت می‌کنیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، بگو به چه زبان‌هایی صحبت می‌کنی و کدام زبان را تمرین می‌کنی.",
+      "useful_phrases": [
+        {
+          "target": "Hablo español en casa.",
+          "fa": "در خانه اسپانیایی صحبت می‌کنم."
+        },
+        {
+          "target": "Estudio inglés en clase.",
+          "fa": "در کلاس انگلیسی می‌خوانم."
+        },
+        {
+          "target": "Practico la pronunciación.",
+          "fa": "تلفظ را تمرین می‌کنم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Lenguas en el club",
+      "text": "Marta participa en un intercambio lingüístico los jueves. Su lengua materna es el español, pero también habla francés con su abuela. Noah estudia inglés en la universidad y aprende portugués con un compañero de piso. Los dos quieren mejorar la pronunciación, así que conversan durante unos minutos antes de empezar la actividad. Cada semana, una persona propone un tema sencillo: la comida, la música o los viajes. En el mapa del aula, la profesora relaciona el origen de cada idioma con una ciudad y una bandera; también escribe un gentilicio junto a cada nombre. Nadie corrige cada palabra; primero escuchan la idea y luego comentan una expresión nueva. Al final, Marta anota tres palabras en su cuaderno y Noah practica una frase en italiano. El grupo disfruta de aprender en compañía.",
+      "glossary": [
+        {
+          "term": "proponer",
+          "fa": "پیشنهادکردن"
+        },
+        {
+          "term": "corregir",
+          "fa": "اصلاح‌کردن"
+        },
+        {
+          "term": "en compañía",
+          "fa": "در کنار دیگران"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Cuándo participa Marta en el intercambio?",
+          "a": "Los jueves."
+        },
+        {
+          "q_fa": "¿Qué quiere mejorar Noah?",
+          "a": "La pronunciación."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست hablar را انتخاب کن.",
+          "question": "Yo ___ español con mi familia.",
+          "options": [
+            "hablas",
+            "hablo",
+            "hablan"
+          ],
+          "answer": "hablo",
+          "explanation_fa": "با yo پایان فعل -o است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "زبان مناسب را انتخاب کن.",
+          "question": "Noah estudia ___ en la universidad.",
+          "options": [
+            "inglés",
+            "peruano",
+            "chilena"
+          ],
+          "answer": "inglés",
+          "explanation_fa": "«Inglés» نام یک زبان است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شناسهٔ درست را انتخاب کن.",
+          "question": "Nosotros ___ italiano en el intercambio.",
+          "options": [
+            "hablan",
+            "hablamos",
+            "hablas"
+          ],
+          "answer": "hablamos",
+          "explanation_fa": "با nosotros از پایان -amos استفاده می‌کنیم."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "El español es la lengua materna de Marta.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "مارتا اسپانیایی را زبان مادری خود می‌داند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tú ___ francés con tu vecina.",
+          "answer": [
+            "hablas"
+          ],
+          "explanation_fa": "hablas"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué idioma estudia Noah?",
+          "answer": [
+            "Portugués."
+          ],
+          "explanation_fa": "نوآ پرتغالی می‌خواند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué idioma habla Marta con sus padres?",
+          "options": [
+            "Español",
+            "Italiano",
+            "Portugués"
+          ],
+          "answer": "Español",
+          "explanation_fa": "Marta dice que habla español con sus padres."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué idioma estudia Noah?",
+          "options": [
+            "Portugués",
+            "Chileno",
+            "Francés"
+          ],
+          "answer": "Portugués",
+          "explanation_fa": "Noah dice que estudia portugués."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué quiere mejorar Noah?",
+          "options": [
+            "La pronunciación",
+            "El mapa",
+            "La bandera"
+          ],
+          "answer": "La pronunciación",
+          "explanation_fa": "Noah trabaja en la pronunciación."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuándo se reúne el intercambio?",
+          "options": [
+            "El jueves",
+            "El domingo",
+            "El martes por la mañana"
+          ],
+          "answer": "El jueves",
+          "explanation_fa": "Marta dice que se ven el jueves."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hacen después de escuchar una idea?",
+          "options": [
+            "Comentan una expresión nueva",
+            "Cierran el club",
+            "Cambian de ciudad"
+          ],
+          "answer": "Comentan una expresión nueva",
+          "explanation_fa": "Primero escuchan y luego comentan una expresión."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Cuenta qué idiomas hablas y cuál practicas: usa «hablar» en presente y menciona una actividad.",
+      "suggested_prompts": [
+        "Hablo español en casa.",
+        "Estudio inglés en clase.",
+        "Practico la pronunciación."
+      ],
+      "focus": [
+        "hablar en presente",
+        "idiomas",
+        "práctica oral"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Marta y Noah comparten sus experiencias con distintos idiomas."
+  }
+}
