@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 4,
+    "title": "Mi familia y mis amigos",
+    "subtitle": "Presentar a las personas cercanas",
+    "description": "Elena describe a su familia y presenta a un amigo del barrio.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "معرفی خانواده و هماهنگی صفت‌های ملکی mi، tu، su و nuestro",
+      "objectives": [
+        "Nombrar familiares y presentar a personas cercanas.",
+        "Usar posesivos para distinguir a quién pertenece una relación familiar.",
+        "Concordar mi, tu, su y nuestro con el nombre poseído."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور اعضای خانواده یا دوستت را به یک نفر معرفی می‌کنی؟",
+      "questions": [
+        {
+          "q": "مادر و پدر را در اسپانیایی چه می‌نامیم؟",
+          "hint_fa": "به واژه‌های «madre» و «padre» فکر کن."
+        },
+        {
+          "q": "حیوانی که در خانه نگه می‌داری چه نام دارد؟",
+          "hint_fa": "به واژهٔ «mascota» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Los posesivos mi, tu, su y nuestro",
+      "body_fa": "برای معرفی اعضای خانواده، صفت ملکی را پیش از اسم می‌آوریم: «mi madre»، «tu hermano» یا «sus primos». شکل «mi» و «tu» برای مفرد و «mis» و «tus» برای جمع است. «Su/sus» می‌تواند به او، شما یا آن‌ها اشاره کند؛ با توجه به بافت جمله مشخص می‌شود. «Nuestro» با اسم مذکر و «nuestra» با اسم مؤنث هماهنگ می‌شود؛ برای جمع نیز «nuestros» و «nuestras» داریم. صفت ملکی با چیزی که متعلق به ماست هماهنگ می‌شود، نه با تعداد صاحبان آن. در اسپانیایی معمولاً پیش از صفت ملکی حرف تعریف نمی‌آوریم: می‌گوییم «mi familia»، نه «la mi familia».",
+      "key_points": [
+        "صفت ملکی پیش از اسم می‌آید.",
+        "«Mi/mis» و «tu/tus» با اسم از نظر شمار هماهنگ می‌شوند.",
+        "«Nuestro/a/os/as» با جنس و شمار اسم هماهنگ است."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "familia",
+          "ipa": "/faˈmi.lja/",
+          "translation_fa": "خانواده",
+          "example": "Mi familia cena junta los domingos.",
+          "example_fa": "خانوادهٔ من یکشنبه‌ها با هم شام می‌خورند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "madre",
+          "ipa": "/ˈma.ðɾe/",
+          "translation_fa": "مادر",
+          "example": "Mi madre prepara café para todos.",
+          "example_fa": "مادرم برای همه قهوه آماده می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "padre",
+          "ipa": "/ˈpa.ðɾe/",
+          "translation_fa": "پدر",
+          "example": "Su padre trabaja en una clínica del barrio.",
+          "example_fa": "پدرش در درمانگاهی در محله کار می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "hermano",
+          "ipa": "/eɾˈma.no/",
+          "translation_fa": "برادر",
+          "example": "Mi hermano comparte habitación con un primo.",
+          "example_fa": "برادرم با یکی از پسرعموهایش اتاق مشترک دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "hermana",
+          "ipa": "/eɾˈma.na/",
+          "translation_fa": "خواهر",
+          "example": "Tu hermana toca el piano por la tarde.",
+          "example_fa": "خواهرت بعدازظهر پیانو می‌نوازد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "abuelo",
+          "ipa": "/aˈβwe.lo/",
+          "translation_fa": "پدربزرگ",
+          "example": "Nuestro abuelo cuenta historias de su juventud.",
+          "example_fa": "پدربزرگمان از جوانی‌اش داستان می‌گوید.",
+          "tag": "اسم"
+        },
+        {
+          "term": "abuela",
+          "ipa": "/aˈβwe.la/",
+          "translation_fa": "مادربزرگ",
+          "example": "Mi abuela vive cerca de la plaza.",
+          "example_fa": "مادربزرگم نزدیک میدان زندگی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "primo",
+          "ipa": "/ˈpɾi.mo/",
+          "translation_fa": "پسرعمو؛ پسرخاله",
+          "example": "Mi primo llega a la ciudad en autobús.",
+          "example_fa": "پسرعمویم با اتوبوس به شهر می‌رسد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "prima",
+          "ipa": "/ˈpɾi.ma/",
+          "translation_fa": "دخترعمو؛ دخترخاله",
+          "example": "Nuestra prima estudia en otra escuela.",
+          "example_fa": "دخترعمویمان در مدرسهٔ دیگری درس می‌خواند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mascota",
+          "ipa": "/masˈko.ta/",
+          "translation_fa": "حیوان خانگی",
+          "example": "Su mascota duerme junto a la ventana.",
+          "example_fa": "حیوان خانگی‌شان کنار پنجره می‌خوابد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Los posesivos antes del nombre",
+      "explanation_fa": "Los posesivos breves aparecen delante del nombre: «mi hermano», «tus primas», «su mascota». «Mi» y «tu» se usan con un nombre singular; «mis» y «tus», con uno plural. «Su» y «sus» pueden referirse a una persona formal, a él, a ella o a varias personas; el contexto aclara el sentido. «Nuestro» cambia según el nombre: «nuestro abuelo», «nuestra prima», «nuestros hermanos», «nuestras amigas». El posesivo concuerda con la persona o cosa poseída, no con quien la posee. Normalmente no ponemos un artículo entre el posesivo y el nombre.",
+      "pattern": "posesivo + nombre: mi/mis, tu/tus, su/sus, nuestro/a/os/as",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "mi / mis",
+            "Mi madre vive con mis abuelos.",
+            "مادرم با پدربزرگ و مادربزرگم زندگی می‌کند."
+          ],
+          [
+            "tu / tus",
+            "Tu hermana estudia aquí. Tus primos llegan mañana.",
+            "خواهرت اینجا درس می‌خواند. پسرعموهایت فردا می‌رسند."
+          ],
+          [
+            "su / sus",
+            "Su padre trabaja en el centro. Sus abuelos viven lejos.",
+            "پدرش در مرکز کار می‌کند. پدربزرگ و مادربزرگش دور زندگی می‌کنند."
+          ],
+          [
+            "nuestro / nuestra / nuestros / nuestras",
+            "Nuestra familia vive en la ciudad. Nuestros primos vienen el sábado.",
+            "خانوادهٔ ما در شهر زندگی می‌کند. پسرعموهایمان شنبه می‌آیند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "El posesivo concuerda con el nombre poseído.",
+        "No se coloca un artículo delante de «mi», «tu» o «su»."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mi tía visita a sus vecinos los viernes.",
+          "fa": "عمه‌ام جمعه‌ها به دیدن همسایه‌هایش می‌رود.",
+          "note_fa": "«Mi» acompaña a «tía» y «sus» a un nombre plural."
+        },
+        {
+          "target": "Nuestro perro pequeño duerme en el patio.",
+          "fa": "سگ کوچک ما در حیاط می‌خوابد.",
+          "note_fa": "«Nuestro» concuerda con el nombre masculino singular."
+        },
+        {
+          "target": "¿Tus hermanos estudian en la misma ciudad?",
+          "fa": "آیا برادرهایت در همان شهر درس می‌خوانند؟",
+          "note_fa": "«Tus» acompaña a un nombre plural."
+        },
+        {
+          "target": "Su prima trae una fotografía familiar.",
+          "fa": "دخترعمویش عکسی از خانواده می‌آورد.",
+          "note_fa": "«Su» puede significar de él, de ella o de usted."
+        },
+        {
+          "target": "Nuestras abuelas preparan una comida especial.",
+          "fa": "مادربزرگ‌های ما غذای ویژه‌ای آماده می‌کنند.",
+          "note_fa": "«Nuestras» concuerda con un nombre femenino plural."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Una visita en casa",
+      "script": "Elena: Hola, mi familia está en el patio.\nMarco: ¿Quién es la mujer que habla con tu madre?\nElena: Es mi tía Rosa; su hija vive en otra ciudad.\nMarco: ¿Y el hombre junto a la ventana?\nElena: Nuestro abuelo; sus historias nos hacen reír.\nMarco: Mi amigo también viene con su hermana.\nElena: ¡Qué bien! Nuestra mascota saluda a todos.\nMarco: ¿Tus primos llegan antes de la cena?\nElena: Sí, ellos traen un mapa para el paseo.",
+      "script_fa": "النا: سلام، خانواده‌ام در حیاط هستند.\nمارکو: زنی که با مادرت صحبت می‌کند کیست؟\nالنا: عمه‌ام رُزا است؛ دخترش در شهر دیگری زندگی می‌کند.\nمارکو: مرد کنار پنجره کیست؟\nالنا: پدربزرگمان؛ داستان‌هایش ما را می‌خنداند.\nمارکو: دوستم هم با خواهرش می‌آید.\nالنا: چه خوب! حیوان خانگی‌مان به همه خوشامد می‌گوید.\nمارکو: پسرعموهایت پیش از شام می‌رسند؟\nالنا: بله، آن‌ها نقشه‌ای برای گردش می‌آورند.",
+      "question_fa": "¿Quién es la mujer que habla con la madre de Elena?",
+      "answer": "Mi tía Rosa.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Conocer a la familia",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Hola, Elena; ¿quiénes son estas personas?",
+          "fa": "سلام النا؛ این افراد چه کسانی هستند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Son mis primos y mi hermana menor.",
+          "fa": "آن‌ها پسرعموهایم و خواهر کوچک‌ترم هستند."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Tu padre también está en casa?",
+          "fa": "پدرت هم در خانه است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, prepara la comida con mi madre.",
+          "fa": "بله، با مادرم غذا آماده می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Y esa niña con el perro?",
+          "fa": "آن دختر کنار سگ کیست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Es mi prima; su mascota es muy tranquila.",
+          "fa": "دخترعمویم است؛ حیوان خانگی‌اش خیلی آرام است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Vive cerca de la ciudad?",
+          "fa": "نزدیک شهر زندگی می‌کند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, nuestra casa está a dos calles.",
+          "fa": "بله، خانهٔ ما دو خیابان آن‌طرف‌تر است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، یکی از اعضای خانواده و یک دوست را معرفی کن و از صفت ملکی مناسب استفاده کن.",
+      "useful_phrases": [
+        {
+          "target": "Mi hermana estudia aquí.",
+          "fa": "خواهرم اینجا درس می‌خواند."
+        },
+        {
+          "target": "Nuestro abuelo vive cerca.",
+          "fa": "پدربزرگمان نزدیک زندگی می‌کند."
+        },
+        {
+          "target": "Mis amigos llegan por la tarde.",
+          "fa": "دوستانم بعدازظهر می‌رسند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una familia de la ciudad",
+      "text": "Hola, soy Elena y vivo con mi familia en una ciudad grande. Mi madre es estudiante de cocina y mi padre trabaja en una biblioteca. Mi hermano mayor comparte un mapa antiguo con nuestro abuelo, que conoce muy bien el centro. Los domingos, mi amiga Julia viene a casa con su perro. Mi abuela prepara una merienda y mi prima trae fotografías de su escuela. La familia de Julia vive cerca, así que a veces caminamos juntas por el barrio. Antes de salir, cada persona busca sus llaves y su mochila. Por la tarde, todos regresan a casa y cuentan algo divertido del día.",
+      "glossary": [
+        {
+          "term": "mayor",
+          "fa": "بزرگ‌تر"
+        },
+        {
+          "term": "la merienda",
+          "fa": "میان‌وعده"
+        },
+        {
+          "term": "regresar",
+          "fa": "بازگشتن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Con quién vive Elena?",
+          "a": "Con su familia."
+        },
+        {
+          "q_fa": "¿Quién trae fotografías de la escuela?",
+          "a": "Su prima."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صفت ملکی مناسب را انتخاب کن.",
+          "question": "___ madre trabaja en una biblioteca.",
+          "options": [
+            "Mis",
+            "Mi",
+            "Nuestro"
+          ],
+          "answer": "Mi",
+          "explanation_fa": "«Madre» مفرد است؛ با آن «mi» می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل جمع را انتخاب کن.",
+          "question": "___ primos llegan mañana.",
+          "options": [
+            "Tu",
+            "Tus",
+            "Su"
+          ],
+          "answer": "Tus",
+          "explanation_fa": "«Primos» جمع است؛ شکل جمع «tus» است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل هماهنگ را انتخاب کن.",
+          "question": "___ familia vive en la ciudad.",
+          "options": [
+            "Nuestro",
+            "Nuestra",
+            "Nuestros"
+          ],
+          "answer": "Nuestra",
+          "explanation_fa": "«Familia» مؤنث مفرد است؛ می‌گوییم «nuestra familia»."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Su» puede referirse a él, a ella o a usted.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "معنای «su» بافت جمله را دنبال می‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "صفت ملکی را کامل کن.",
+          "question": "___ abuelos cuentan historias. (nosotros)",
+          "answer": [
+            "Nuestros"
+          ],
+          "explanation_fa": "Nuestros"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Quién prepara una merienda en la lectura?",
+          "answer": [
+            "La abuela de Elena."
+          ],
+          "explanation_fa": "مادربزرگ النا میان‌وعده آماده می‌کند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Con quién vive Elena?",
+          "options": [
+            "Con su familia",
+            "Con su profesora",
+            "Con sus vecinos"
+          ],
+          "answer": "Con su familia",
+          "explanation_fa": "Elena dice que vive con su familia."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Quién trabaja en una biblioteca?",
+          "options": [
+            "Su padre",
+            "Su prima",
+            "Su hermano"
+          ],
+          "answer": "Su padre",
+          "explanation_fa": "El padre de Elena trabaja en una biblioteca."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué comparten el hermano y el abuelo?",
+          "options": [
+            "Un mapa antiguo",
+            "Una bicicleta",
+            "Una receta"
+          ],
+          "answer": "Un mapa antiguo",
+          "explanation_fa": "El hermano comparte un mapa con el abuelo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Quién trae fotografías de la escuela?",
+          "options": [
+            "La prima",
+            "La madre",
+            "La amiga"
+          ],
+          "answer": "La prima",
+          "explanation_fa": "La prima trae las fotografías."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuándo suele venir Julia?",
+          "options": [
+            "Los domingos",
+            "Cada mañana",
+            "Los martes por la noche"
+          ],
+          "answer": "Los domingos",
+          "explanation_fa": "La lectura dice que Julia viene los domingos."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Presenta a tu familia y a una amistad: di quiénes son y usa posesivos como mi, su o nuestro.",
+      "suggested_prompts": [
+        "Mi hermana estudia aquí.",
+        "Nuestro abuelo vive cerca.",
+        "Mis amigos llegan por la tarde."
+      ],
+      "focus": [
+        "familia",
+        "posesivos",
+        "presentar a otras personas"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Elena presenta a su familia durante una visita de sus compañeros."
+  }
+}

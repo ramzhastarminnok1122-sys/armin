@@ -1,0 +1,398 @@
+{
+  "lesson": "L006",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L006-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Vives cerca del centro?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L006-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, mi apartamento está junto al parque.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L006-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Conoces la calle Roble?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L006-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Claro; mi amigo vive en esa calle.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L006-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿El edificio queda lejos de la estación?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L006-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, está a cinco minutos a pie.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L006-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Tienes el código postal?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L006-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, lo escribo junto a la dirección.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L006-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Hola, ¿dónde vive tu familia, Inés?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L006-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Vivimos en el barrio Norte, cerca del mercado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L006-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿La calle está junto a la plaza?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L006-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "No; mi edificio queda en la calle Roble.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L006-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Hay una parada de autobús cerca?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L006-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Sí, está en la esquina de la avenida.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L006-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Me das tu dirección completa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L006-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Claro; también te digo el código postal.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L006-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Gracias; ahora encuentro tu apartamento sin problema.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L006-es-vocab-barrio",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "barrio. Mi barrio tiene una plaza y una panadería.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L006-es-vocab-calle",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "calle. La calle Roble termina junto al parque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L006-es-vocab-edificio",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "edificio. El edificio de Pablo tiene cuatro pisos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L006-es-vocab-apartamento",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "apartamento. Nuestro apartamento está en la segunda planta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L006-es-vocab-direccion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "dirección. Escribo mi dirección en el formulario.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L006-es-vocab-codigopostal",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "código postal. El código postal aparece debajo de la ciudad.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L006-es-vocab-vecinovecina",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "vecino, vecina. Mi vecina saluda a todos en la escalera.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L006-es-vocab-esquina",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "esquina. La farmacia está en la esquina de la calle.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L006-es-vocab-cercade",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "cerca de. Vivo cerca de la estación de autobuses.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L006-es-vocab-lejosde",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "lejos de. El mercado queda lejos de mi edificio.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L006-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Vivo en la calle Roble. ¿Tú vives cerca del parque?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L006-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Usted vive en el centro. Pablo vive junto a la plaza.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L006-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Vivimos en un apartamento pequeño.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L006-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ustedes viven lejos. Mis amigas viven cerca.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L006-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mi familia vive en un edificio cerca del mercado.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L006-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tus vecinos conocen bien la calle Roble.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L006-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La parada está en la esquina de la avenida.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L006-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "El código postal ayuda a encontrar la dirección.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L006-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Nuestra casa queda lejos de la estación.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L006-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Pablo vive en una ciudad mediana con su madre, su hermano y una mascota pequeña. Su edificio está en una calle tranquila, a pocas cuadras de la plaza. Cada mañana, un estudiante del barrio saluda a su amigo junto a la panadería. La familia camina hasta el mercado y después toma el autobús cerca de la esquina. Para una visita nueva, Pablo escribe la dirección y el código postal en un mensaje. Su abuela vive lejos, pero conoce bien el mapa de la ciudad. Cuando sus primos llegan, Pablo los espera en la entrada del edificio y los acompaña al apartamento.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 556
+    },
+    {
+      "id": "L006-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L006)",
+      "tts_text": "چطور می‌توانی بگویی کجا زندگی می‌کنی و نشانی‌ات را توضیح بدهی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L006-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L006)",
+      "tts_text": "برای محل زندگی از «vivir en» استفاده می‌کنیم؛ فعل با فاعل تغییر می‌کند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L006-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L006)",
+      "tts_text": "به گفت‌وگو گوش کن و نام خیابانی را پیدا کن که اینس در آن زندگی می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L006-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L006)",
+      "tts_text": "با «yo» می‌گوییم «vivo»، با «tú» «vives» و با «nosotros» «vivimos».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L006-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L006)",
+      "tts_text": "محله‌ات و یک مکان نزدیک خانه را معرفی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    },
+    {
+      "id": "L006-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L006)",
+      "tts_text": "برای مکان از «en» و برای فاصله از «cerca de» استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    }
+  ]
+}

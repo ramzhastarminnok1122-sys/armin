@@ -1,0 +1,398 @@
+{
+  "lesson": "L005",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L005-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Cuándo es tu cumpleaños?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L005-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Es en marzo; cumplo dieciocho años.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L005-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿A quién vas a invitar?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L005-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "A mi familia y a dos amigos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L005-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Quieres un regalo especial?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L005-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, prefiero una tarde tranquila.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L005-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Yo llevo una tarta pequeña.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L005-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Gracias; la fiesta empieza a las cinco.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L005-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Inés, ¿cuántos años tienes ahora?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L005-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Tengo dieciséis años; mi cumpleaños es en octubre.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L005-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Vas a celebrar una fiesta en casa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L005-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, invito a mi familia y a mis amigos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L005-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Qué regalo quieres para ese día?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L005-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "No necesito nada; una tarta me hace feliz.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L005-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Mi hermana trae velas de colores.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L005-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¡Perfecto! La fiesta empieza a las seis.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L005-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Entonces llegamos temprano para ayudarte.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L005-es-vocab-edad",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "edad. La edad de Inés aparece en la invitación.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L005-es-vocab-cumpleanos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "cumpleaños. Mi cumpleaños es en octubre.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L005-es-vocab-veinte",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "veinte. Mi prima tiene veinte años.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L005-es-vocab-treinta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "treinta. Mi tío cumple treinta años este mes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L005-es-vocab-mes",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "mes. ¿En qué mes es tu cumpleaños?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L005-es-vocab-vela",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "vela. Inés pone una vela sobre la tarta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L005-es-vocab-regalo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "regalo. El regalo de su hermano es un libro.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L005-es-vocab-fiesta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "fiesta. La fiesta empieza después de la merienda.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L005-es-vocab-invitar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "invitar. Inés quiere invitar a sus amigos del curso.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L005-es-vocab-cumpliranos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "cumplir años. Mi hermano va a cumplir años en mayo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L005-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Tengo dieciséis años. ¿Cuántos años tienes tú?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L005-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Usted tiene treinta años. Inés tiene dieciséis.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L005-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Tenemos una fiesta familiar en mayo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L005-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ustedes tienen una invitación. Ellos tienen velas para la tarta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 64
+    },
+    {
+      "id": "L005-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mi abuela tiene setenta años y celebra en casa.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L005-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nosotros tenemos una tarta de chocolate para Inés.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L005-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "¿Cuántos años cumple tu primo este verano?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L005-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La invitación dice que la fiesta empieza a las seis.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L005-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Mi hermana tiene una vela azul para la tarta.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L005-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "La familia de Inés prepara una fiesta sencilla en casa. Su madre hace una tarta de fruta y su hermano compra velas de colores. Inés tiene dieciséis años; su primo Daniel tiene veinte y ayuda a ordenar el comedor. La abuela trae un regalo pequeño y una tarjeta con un saludo cariñoso. En la invitación, Inés escribe el mes y la hora de la reunión. También invita a una estudiante de su clase y a un amigo del barrio. Todos llegan por la tarde, cantan juntos y comparten la tarta. Después, cada persona cuenta una historia divertida de su infancia.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 546
+    },
+    {
+      "id": "L005-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L005)",
+      "tts_text": "چطور می‌توانی سن خودت را بگویی و از سن دوستت بپرسی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L005-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L005)",
+      "tts_text": "در اسپانیایی برای گفتن سن از فعل «tener» استفاده می‌کنیم، نه «ser».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L005-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L005)",
+      "tts_text": "به گفت‌وگو گوش کن و سن اینس را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 39
+    },
+    {
+      "id": "L005-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L005)",
+      "tts_text": "با yo می‌گوییم «tengo» و با tú می‌گوییم «tienes».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L005-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L005)",
+      "tts_text": "سن و ماه تولدت را بگو و از کسی دعوت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 39
+    },
+    {
+      "id": "L005-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L005)",
+      "tts_text": "برای سن، عدد را با ساختار «tener años» بیاور.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    }
+  ]
+}

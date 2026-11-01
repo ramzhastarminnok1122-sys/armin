@@ -1,0 +1,398 @@
+{
+  "lesson": "L004",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L004-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Hola, Elena; ¿quiénes son estas personas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L004-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Son mis primos y mi hermana menor.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L004-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Tu padre también está en casa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L004-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, prepara la comida con mi madre.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L004-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Y esa niña con el perro?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L004-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Es mi prima; su mascota es muy tranquila.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L004-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Vive cerca de la ciudad?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L004-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, nuestra casa está a dos calles.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L004-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Hola, mi familia está en el patio.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L004-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "¿Quién es la mujer que habla con tu madre?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L004-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Es mi tía Rosa; su hija vive en otra ciudad.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L004-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Y el hombre junto a la ventana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L004-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Nuestro abuelo; sus historias nos hacen reír.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L004-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Mi amigo también viene con su hermana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L004-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¡Qué bien! Nuestra mascota saluda a todos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L004-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¿Tus primos llegan antes de la cena?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L004-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Sí, ellos traen un mapa para el paseo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L004-es-vocab-familia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "familia. Mi familia cena junta los domingos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L004-es-vocab-madre",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "madre. Mi madre prepara café para todos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L004-es-vocab-padre",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "padre. Su padre trabaja en una clínica del barrio.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L004-es-vocab-hermano",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "hermano. Mi hermano comparte habitación con un primo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L004-es-vocab-hermana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "hermana. Tu hermana toca el piano por la tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L004-es-vocab-abuelo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "abuelo. Nuestro abuelo cuenta historias de su juventud.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L004-es-vocab-abuela",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "abuela. Mi abuela vive cerca de la plaza.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L004-es-vocab-primo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "primo. Mi primo llega a la ciudad en autobús.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L004-es-vocab-prima",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "prima. Nuestra prima estudia en otra escuela.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L004-es-vocab-mascota",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "mascota. Su mascota duerme junto a la ventana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L004-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Mi madre vive con mis abuelos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L004-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Tu hermana estudia aquí. Tus primos llegan mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L004-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Su padre trabaja en el centro. Sus abuelos viven lejos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L004-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Nuestra familia vive en la ciudad. Nuestros primos vienen el sábado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 68
+    },
+    {
+      "id": "L004-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mi tía visita a sus vecinos los viernes.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L004-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nuestro perro pequeño duerme en el patio.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L004-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "¿Tus hermanos estudian en la misma ciudad?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L004-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Su prima trae una fotografía familiar.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L004-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Nuestras abuelas preparan una comida especial.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L004-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Hola, soy Elena y vivo con mi familia en una ciudad grande. Mi madre es estudiante de cocina y mi padre trabaja en una biblioteca. Mi hermano mayor comparte un mapa antiguo con nuestro abuelo, que conoce muy bien el centro. Los domingos, mi amiga Julia viene a casa con su perro. Mi abuela prepara una merienda y mi prima trae fotografías de su escuela. La familia de Julia vive cerca, así que a veces caminamos juntas por el barrio. Antes de salir, cada persona busca sus llaves y su mochila. Por la tarde, todos regresan a casa y cuentan algo divertido del día.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 563
+    },
+    {
+      "id": "L004-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L004)",
+      "tts_text": "چطور اعضای خانواده یا دوستت را به یک نفر معرفی می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L004-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L004)",
+      "tts_text": "صفت ملکی پیش از اسم می‌آید و با اسم از نظر شمار و جنس هماهنگ می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L004-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L004)",
+      "tts_text": "به گفت‌وگو گوش کن و زنی را پیدا کن که با مادر النا صحبت می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L004-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L004)",
+      "tts_text": "می‌گوییم «mi madre»، «tus primos» و «nuestra familia».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L004-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L004)",
+      "tts_text": "یک عضو خانواده و دوستت را با صفت ملکی معرفی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L004-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L004)",
+      "tts_text": "صفت ملکی را با چیزی که متعلق به اوست هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    }
+  ]
+}
