@@ -1,0 +1,398 @@
+{
+  "lesson": "L021",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L021-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué hora es?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 13
+    },
+    {
+      "id": "L021-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Son las cinco y media.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L021-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Nos vemos a las seis?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L021-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, llego en punto.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L021-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Dónde esperamos?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 17
+    },
+    {
+      "id": "L021-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Junto a la fuente de la plaza.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L021-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Y si llegas tarde?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L021-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Te mando un mensaje.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L021-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Qué hora es en tu reloj ahora mismo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L021-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Son las tres y cuarto de la tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L021-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Mi consulta termina a las cuatro de la tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L021-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Nos vemos a las cuatro y media?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L021-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Sí, puedo llegar puntual.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L021-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "La plaza está cerca de la clínica.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L021-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Perfecto; espero junto a la fuente.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L021-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Si llego tarde, te escribo un mensaje.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L021-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "De acuerdo; hasta luego.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L021-es-vocab-hora",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "hora. ¿Qué hora es ahora?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L021-es-vocab-minuto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "minuto. Espera un minuto, por favor.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L021-es-vocab-reloj",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "reloj. Mi reloj marca las tres.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L021-es-vocab-enpunto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "en punto. La consulta empieza a las cinco en punto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L021-es-vocab-ycuarto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "y cuarto. Nos vemos a las siete y cuarto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L021-es-vocab-ymedia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "y media. La película empieza a las ocho y media.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L021-es-vocab-menoscuarto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "menos cuarto. Son las nueve menos cuarto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L021-es-vocab-medianoche",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "medianoche. El tren llega cerca de la medianoche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L021-es-vocab-puntual",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "puntual. Luis siempre llega puntual.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L021-es-vocab-esperar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "esperar. Puedo esperar cinco minutos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L021-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Es la una en punto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L021-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Son las tres y cuarto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L021-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Son las seis y media.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L021-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Son las nueve menos cuarto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L021-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "¿Qué hora es? Son las cuatro y media.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L021-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "La consulta empieza a las tres en punto.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L021-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nos vemos a la una y cuarto.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L021-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "El reloj marca las ocho menos cuarto.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L021-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Espera diez minutos y llego.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L021-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora termina una cita médica a las cuatro. Luis mira su reloj y propone encontrarse en la plaza a las cuatro y media. Nora acepta porque la clínica está cerca. En el camino, pasa por la farmacia para recoger una receta y compra pañuelos. Cerca hay un mercado; compra fruta y pan para su familia. Luis llega puntual y espera junto a la fuente. Si el reloj marca las cuatro y cuarto, todavía tiene quince minutos. Cuando Nora sale, se saludan y deciden caminar hasta un café. La hora clara ayuda a que ninguno espere demasiado. Después, vuelven juntos al barrio antes de la cena.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 577
+    },
+    {
+      "id": "L021-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L021)",
+      "tts_text": "چطور زمان و محل قرار ملاقات را مشخص می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 43
+    },
+    {
+      "id": "L021-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L021)",
+      "tts_text": "برای ساعت یک می‌گوییم «es la una» و برای ساعت‌های دیگر «son las».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L021-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L021)",
+      "tts_text": "به گفت‌وگو گوش کن و زمان پایان قرار نورا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L021-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L021)",
+      "tts_text": "می‌گوییم «son las tres y cuarto» و «a las cuatro y media».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L021-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L021)",
+      "tts_text": "زمانی دقیق برای دیدار بعدی پیشنهاد بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 39
+    },
+    {
+      "id": "L021-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L021)",
+      "tts_text": "ساعت و محل قرار را روشن و دقیق بیان کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 39
+    }
+  ]
+}

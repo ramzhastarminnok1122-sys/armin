@@ -1,0 +1,398 @@
+{
+  "lesson": "L019",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L019-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué te duele hoy?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 18
+    },
+    {
+      "id": "L019-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Me duele la cabeza.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L019-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Tienes fiebre?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 15
+    },
+    {
+      "id": "L019-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "No, pero tengo tos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L019-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Te duelen las piernas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L019-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No; solo me duele un brazo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L019-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Tienes una cita médica?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L019-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, esta tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 15
+    },
+    {
+      "id": "L019-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Buenos días, Nora. ¿Qué te duele?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L019-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Me duele la garganta y tengo tos desde esta mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L019-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Te duele también la cabeza desde anoche?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L019-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, un poco, desde anoche.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L019-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Tienes fiebre hoy?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L019-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "No, pero me duele mucho el estómago.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L019-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Vamos a revisar tu garganta con cuidado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L019-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Gracias; mi cita era a las cuatro de la tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L019-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Muy bien; esperamos unos minutos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L019-es-vocab-cabeza",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "cabeza. Me duele la cabeza después del viaje.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L019-es-vocab-garganta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "garganta. A Nora le duele la garganta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L019-es-vocab-estomago",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "estómago. Me duele el estómago por la mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L019-es-vocab-espalda",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "espalda. A mi padre le duele la espalda.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L019-es-vocab-brazo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "brazo. Me duele un brazo después de nadar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L019-es-vocab-pierna",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "pierna. A Luis le duele la pierna derecha.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L019-es-vocab-fiebre",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "fiebre. La niña tiene fiebre esta noche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L019-es-vocab-tos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "tos. La tos molesta a mi hermano.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L019-es-vocab-dolor",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "dolor. El dolor empieza después de correr.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L019-es-vocab-citamedica",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "cita médica. Nora tiene una cita médica por la tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L019-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Me duele la cabeza. A Nora le duele la espalda.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L019-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Me duelen los brazos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L019-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "¿Qué te duele? ¿Te duele el estómago?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L019-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "A nosotros nos duelen las piernas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L019-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Me duele la garganta y tengo tos.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L019-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "A mis hermanos les duelen las piernas.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L019-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "¿Te duele el estómago después de comer?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L019-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "A Nora le duele la cabeza esta mañana.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L019-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Nos duele un brazo después del ejercicio.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L019-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora vive con su familia en una ciudad tranquila. Esta mañana se despierta con dolor de garganta y tos. Su hermano le pregunta si también le duele la cabeza. Nora dice que sí, pero no tiene fiebre. Una médica la espera en el consultorio para una cita por la tarde. Antes de salir, Nora toma agua y escribe un mensaje a una amiga del barrio. La médica pregunta qué partes del cuerpo le duelen y revisa su garganta. Después, Nora vuelve a casa y descansa. Su familia prepara una sopa sencilla para la cena.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 504
+    },
+    {
+      "id": "L019-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L019)",
+      "tts_text": "چطور به پزشک می‌گویی کدام عضو بدنت درد می‌کند؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 46
+    },
+    {
+      "id": "L019-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L019)",
+      "tts_text": "با عضو مفرد می‌گوییم «me duele» و با چند عضو «me duelen».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L019-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L019)",
+      "tts_text": "به گفت‌وگو گوش کن و دو جایی را پیدا کن که نورا درد دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L019-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L019)",
+      "tts_text": "می‌گوییم «me duele la cabeza» و «me duelen las piernas».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L019-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L019)",
+      "tts_text": "یک نشانه و محل درد را به زبان ساده بیان کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 43
+    },
+    {
+      "id": "L019-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L019)",
+      "tts_text": "فعل را با مفرد یا جمع بودن عضو بدن هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    }
+  ]
+}

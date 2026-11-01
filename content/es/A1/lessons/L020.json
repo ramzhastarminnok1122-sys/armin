@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 20,
+    "title": "En la farmacia",
+    "subtitle": "Pedir algo para un resfriado",
+    "description": "Nora pregunta qué necesita para cuidarse en casa.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Tener que + infinitivo y vocabulario de farmacia",
+      "objectives": [
+        "Nombrar productos básicos de una farmacia.",
+        "Usar tener que + infinitivo para una recomendación.",
+        "Preguntar por una receta o una dosis."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "اگر دارو یا توصیه‌ای داری، چطور می‌گویی چه کاری باید انجام بدهی؟",
+      "questions": [
+        {
+          "q": "پزشک برای دارو چه چیزی می‌نویسد؟",
+          "hint_fa": "به واژهٔ «receta» فکر کن."
+        },
+        {
+          "q": "مایع دارویی شیرین برای سرفه چه نام دارد؟",
+          "hint_fa": "به واژهٔ «jarabe» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Tener que + infinitivo",
+      "body_fa": "برای بیان کاری که باید انجام دهیم از «tener que» به‌علاوهٔ مصدر استفاده می‌کنیم: «Tengo que descansar», «Tienes que beber agua». صرف «tener» را با فاعل هماهنگ می‌کنیم و پس از «que» فعل را به صورت مصدر می‌آوریم. پزشک ممکن است توصیه کند «Tienes que tomar el jarabe» یا «Tiene que seguir la receta». در داروخانه می‌توانیم نام دارو یا مقدار مصرف را بپرسیم: «¿Cuál es la dosis?». اگر به پزشک مراجعه کرده‌ایم، نسخه را همراه می‌بریم. در این درس عبارت‌ها ساده‌اند و جایگزین توصیهٔ تخصصی پزشکی نیستند.",
+      "key_points": [
+        "«Tener que» بیان ضرورت یا توصیه می‌کند.",
+        "بعد از «que» مصدر می‌آید.",
+        "در داروخانه می‌توان دربارهٔ نسخه و مقدار پرسید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "farmacia",
+          "ipa": "/faɾˈma.sja/",
+          "translation_fa": "داروخانه",
+          "example": "La farmacia está junto a la clínica.",
+          "example_fa": "داروخانه کنار درمانگاه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "receta",
+          "ipa": "/reˈse.ta/",
+          "translation_fa": "نسخه",
+          "example": "Nora muestra la receta en la farmacia.",
+          "example_fa": "نورا نسخه را در داروخانه نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "jarabe",
+          "ipa": "/xaˈɾa.βe/",
+          "translation_fa": "شربت دارویی",
+          "example": "El jarabe tiene sabor a fruta.",
+          "example_fa": "شربت دارویی مزهٔ میوه دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "medicamento",
+          "ipa": "/me.ði.kaˈmen.to/",
+          "translation_fa": "دارو",
+          "example": "El medicamento está en una caja pequeña.",
+          "example_fa": "دارو در جعبه‌ای کوچک است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "dosis",
+          "ipa": "/ˈdo.sis/",
+          "translation_fa": "مقدار مصرف",
+          "example": "La dosis aparece en la receta.",
+          "example_fa": "مقدار مصرف در نسخه آمده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pastilla",
+          "ipa": "/pasˈti.ʝa/",
+          "translation_fa": "قرص",
+          "example": "La médica recomienda una pastilla.",
+          "example_fa": "پزشک یک قرص توصیه می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "botiquín",
+          "ipa": "/bo.tiˈkin/",
+          "translation_fa": "جعبهٔ کمک‌های اولیه",
+          "example": "Tenemos un botiquín en casa.",
+          "example_fa": "در خانه جعبهٔ کمک‌های اولیه داریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "resfriado",
+          "ipa": "/res.fɾiˈa.ðo/",
+          "translation_fa": "سرماخوردگی",
+          "example": "Mi hermano tiene un resfriado leve.",
+          "example_fa": "برادرم سرماخوردگی خفیفی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pañuelo",
+          "ipa": "/paˈɲwe.lo/",
+          "translation_fa": "دستمال",
+          "example": "Nora lleva un pañuelo en el bolsillo.",
+          "example_fa": "نورا دستمالی در جیب دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "farmacéutico, farmacéutica",
+          "ipa": "/faɾ.maˈsew.ti.ko/, /faɾ.maˈsew.ti.ka/",
+          "translation_fa": "داروساز",
+          "example": "El farmacéutico lee la receta con cuidado.",
+          "example_fa": "داروساز نسخه را با دقت می‌خواند.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Tener que + infinitivo",
+      "explanation_fa": "La expresión «tener que» indica una obligación o una recomendación. Conjugamos «tener» según el sujeto y después usamos «que» más un infinitivo: «Tengo que descansar», «Tienes que beber agua», «Tenemos que seguir la receta». Las formas principales son «tengo», «tienes», «tiene», «tenemos» y «tienen». El verbo que sigue a «que» no cambia: decimos «tiene que tomar», no «tiene que toma». En una farmacia, podemos preguntar «¿Cuál es la dosis?» y mostrar la receta. Si un síntoma empeora, se consulta a un profesional de salud.",
+      "pattern": "sujeto + tener en presente + que + infinitivo",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo / tú",
+            "Tengo que descansar. Tienes que beber agua.",
+            "باید استراحت کنم. باید آب بنوشی."
+          ],
+          [
+            "él / ella / usted",
+            "Nora tiene que seguir la receta.",
+            "نورا باید از نسخه پیروی کند."
+          ],
+          [
+            "nosotros / nosotras",
+            "Tenemos que leer la dosis.",
+            "باید مقدار مصرف را بخوانیم."
+          ],
+          [
+            "ustedes / ellos / ellas",
+            "Tienen que preguntar al farmacéutico.",
+            "باید از داروساز بپرسند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Después de «tener que», usar el infinitivo.",
+        "Consultar al profesional indicado para dudas sobre medicamentos."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Nora tiene que mostrar la receta.",
+          "fa": "نورا باید نسخه را نشان دهد.",
+          "note_fa": "«Tiene que» expresa una recomendación."
+        },
+        {
+          "target": "Tengo que beber agua y descansar.",
+          "fa": "باید آب بنوشم و استراحت کنم.",
+          "note_fa": "Después de que va un infinitivo."
+        },
+        {
+          "target": "¿Cuál es la dosis de este medicamento?",
+          "fa": "مقدار مصرف این دارو چقدر است؟",
+          "note_fa": "La pregunta solicita información."
+        },
+        {
+          "target": "El farmacéutico explica la dosis al cliente.",
+          "fa": "داروساز مقدار مصرف را به مشتری توضیح می‌دهد.",
+          "note_fa": "El verbo «explicar» presenta información útil."
+        },
+        {
+          "target": "Tenemos que guardar el jarabe en casa.",
+          "fa": "باید شربت را در خانه نگه داریم.",
+          "note_fa": "«Tenemos» corresponde a nosotros."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Una consulta en la farmacia",
+      "script": "Nora: Buenos días, tengo la receta de la médica para mi resfriado.\nFarmacéutica: Gracias. ¿Qué necesitas hoy?\nNora: ¿Cuál es la dosis del jarabe, por favor?\nFarmacéutica: Tienes que leer las instrucciones de la caja.\nNora: ¿Tengo que tomar una pastilla también?\nFarmacéutica: La receta indica solo el jarabe.\nNora: De acuerdo; ¿necesito algo más?\nFarmacéutica: No, y recuerda beber agua.\nNora: Gracias; voy a descansar en casa esta tarde.",
+      "script_fa": "نورا: صبح بخیر، نسخهٔ پزشک را برای سرماخوردگی‌ام دارم.\nداروساز: ممنون. امروز چه لازم داری؟\nنورا: مقدار مصرف شربت چقدر است، لطفاً؟\nداروساز: باید دستورهای جعبه را بخوانی.\nنورا: باید قرصی هم بخورم؟\nداروساز: نسخه فقط شربت را نوشته است.\nنورا: متوجه شدم؛ چیز دیگری لازم دارم؟\nداروساز: نه، یادت باشد آب بنوشی.\nنورا: ممنون؛ امروز بعدازظهر در خانه استراحت می‌کنم.",
+      "question_fa": "¿Qué tiene que leer Nora?",
+      "answer": "Las instrucciones de la caja.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "En la farmacia",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Tienes la receta?",
+          "fa": "نسخه را داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, la médica la escribió hoy.",
+          "fa": "بله، پزشک امروز آن را نوشته است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Qué tienes que hacer en casa?",
+          "fa": "در خانه چه کاری باید انجام بدهی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Tengo que descansar y beber agua.",
+          "fa": "باید استراحت کنم و آب بنوشم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Cuál es la dosis?",
+          "fa": "مقدار مصرف چقدر است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Voy a leer las instrucciones.",
+          "fa": "دستورها را می‌خوانم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Necesitas un pañuelo?",
+          "fa": "دستمال لازم داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, gracias; tengo un resfriado leve.",
+          "fa": "بله، ممنون؛ سرماخوردگی خفیفی دارم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، یک توصیهٔ ساده را با «tener que + infinitivo» بیان کن و دربارهٔ نسخه بپرس.",
+      "useful_phrases": [
+        {
+          "target": "Tengo que descansar.",
+          "fa": "باید استراحت کنم."
+        },
+        {
+          "target": "Tienes que beber agua.",
+          "fa": "باید آب بنوشی."
+        },
+        {
+          "target": "¿Cuál es la dosis?",
+          "fa": "مقدار مصرف چقدر است؟"
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una visita a la farmacia",
+      "text": "Nora va a la farmacia con una receta después de su cita médica. Tiene tos y un resfriado leve, así que pregunta por el jarabe. Un amigo del barrio vive en la misma ciudad y la acompaña a la farmacia. El farmacéutico lee la receta y señala la dosis escrita en la caja. Nora tiene que seguir esas instrucciones y descansar en casa. También compra pañuelos para llevar en el bolso. Su familia prepara agua y revisa el botiquín. Si Nora tiene más preguntas, puede llamar a la clínica. Antes de salir, guarda el medicamento en una bolsa y agradece la ayuda del farmacéutico.",
+      "glossary": [
+        {
+          "term": "señalar",
+          "fa": "نشان‌دادن"
+        },
+        {
+          "term": "el bolso",
+          "fa": "کیف"
+        },
+        {
+          "term": "agradecer",
+          "fa": "سپاس‌گزاری‌کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué lee el farmacéutico?",
+          "a": "La receta."
+        },
+        {
+          "q_fa": "¿Qué compra Nora además?",
+          "a": "Pañuelos."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "ساختار درست را انتخاب کن.",
+          "question": "Tengo que ___ en casa.",
+          "options": [
+            "descansar",
+            "descanso",
+            "descansas"
+          ],
+          "answer": "descansar",
+          "explanation_fa": "پس از «que» مصدر می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل tener را انتخاب کن.",
+          "question": "Nora ___ que leer la receta.",
+          "options": [
+            "tienes",
+            "tiene",
+            "tenemos"
+          ],
+          "answer": "tiene",
+          "explanation_fa": "فاعل مفرد سوم‌شخص است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ درست را انتخاب کن.",
+          "question": "El médico escribe la…",
+          "options": [
+            "receta",
+            "maleta",
+            "agenda"
+          ],
+          "answer": "receta",
+          "explanation_fa": "نسخه را پزشک می‌نویسد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "Después de «tener que» usamos un infinitivo.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "ساختار با مصدر کامل می‌شود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "عبارت را کامل کن.",
+          "question": "Tú ___ que beber agua.",
+          "answer": [
+            "tienes"
+          ],
+          "explanation_fa": "tienes"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué tiene que leer Nora?",
+          "answer": [
+            "Las instrucciones de la caja."
+          ],
+          "explanation_fa": "نورا باید دستورهای جعبه را بخواند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué tiene que leer Nora?",
+          "options": [
+            "Las instrucciones de la caja",
+            "El menú",
+            "El billete"
+          ],
+          "answer": "Las instrucciones de la caja",
+          "explanation_fa": "La farmacéutica le indica que lea las instrucciones."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué producto pregunta Nora?",
+          "options": [
+            "El jarabe",
+            "El café",
+            "El paraguas"
+          ],
+          "answer": "El jarabe",
+          "explanation_fa": "Nora pregunta por el jarabe."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué indica la receta?",
+          "options": [
+            "Solo el jarabe",
+            "Una pastilla y té",
+            "Dos medicamentos nuevos"
+          ],
+          "answer": "Solo el jarabe",
+          "explanation_fa": "La receta indica solo el jarabe."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué compra Nora además?",
+          "options": [
+            "Pañuelos",
+            "Una maleta",
+            "Un postre"
+          ],
+          "answer": "Pañuelos",
+          "explanation_fa": "Nora compra pañuelos."
+        },
+        {
+          "type": "mcq",
+          "question": "¿A quién puede llamar si tiene preguntas?",
+          "options": [
+            "A la clínica",
+            "Al conductor",
+            "A la camarera"
+          ],
+          "answer": "A la clínica",
+          "explanation_fa": "El texto dice que puede llamar a la clínica."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Explica qué tienes que hacer para cuidarte y menciona una pregunta para la farmacia.",
+      "suggested_prompts": [
+        "Tengo que descansar.",
+        "Tienes que beber agua.",
+        "¿Cuál es la dosis?"
+      ],
+      "focus": [
+        "tener que",
+        "salud",
+        "farmacia"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Nora compra un producto indicado por la médica."
+  }
+}

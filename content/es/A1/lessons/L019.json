@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 19,
+    "title": "Me duele la cabeza",
+    "subtitle": "Hablar de la salud",
+    "description": "Nora explica cómo se siente y habla con una médica.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Partes del cuerpo y doler en singular/plural",
+      "objectives": [
+        "Nombrar partes del cuerpo y síntomas sencillos.",
+        "Decir qué duele con me duele o me duelen.",
+        "Relacionar duele/duelen con el nombre."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور به پزشک می‌گویی کدام عضو بدنت درد می‌کند؟",
+      "questions": [
+        {
+          "q": "بخشی از بدن بالای گردن چه نام دارد؟",
+          "hint_fa": "به واژهٔ «cabeza» فکر کن."
+        },
+        {
+          "q": "چیزی که با عطسه و سرما می‌آید چه علامتی است؟",
+          "hint_fa": "به واژهٔ «tos» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Doler para hablar del dolor",
+      "body_fa": "برای گفتن محل درد از «doler» استفاده می‌کنیم. با یک عضو بدن می‌گوییم «Me duele la cabeza»؛ با چند عضو یا اسم جمع می‌گوییم «Me duelen los brazos». ضمیرهایی مثل «me», «te», «le» و «nos» نشان می‌دهند چه کسی درد دارد. فعل با چیزی که درد می‌کند هماهنگ می‌شود، نه با شخص: «A Nora le duele la garganta», «A mis amigos les duelen las piernas». برای پرسیدن حال کسی می‌توانیم بگوییم «¿Qué te duele?». در پاسخ می‌توان از «Me duele...» یا «Me duelen...» استفاده کرد.",
+      "key_points": [
+        "«Me duele» با یک عضو بدن می‌آید.",
+        "«Me duelen» با چند عضو یا اسم جمع می‌آید.",
+        "ضمیر me/te/le/nos شخصِ دارای درد را نشان می‌دهد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "cabeza",
+          "ipa": "/kaˈβe.sa/",
+          "translation_fa": "سر",
+          "example": "Me duele la cabeza después del viaje.",
+          "example_fa": "بعد از سفر سرم درد می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "garganta",
+          "ipa": "/ɡaɾˈɣan.ta/",
+          "translation_fa": "گلو",
+          "example": "A Nora le duele la garganta.",
+          "example_fa": "گلوی نورا درد می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "estómago",
+          "ipa": "/esˈto.ma.ɣo/",
+          "translation_fa": "معده",
+          "example": "Me duele el estómago por la mañana.",
+          "example_fa": "صبح معده‌ام درد می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "espalda",
+          "ipa": "/esˈpal.ða/",
+          "translation_fa": "کمر؛ پشت",
+          "example": "A mi padre le duele la espalda.",
+          "example_fa": "کمر پدرم درد می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "brazo",
+          "ipa": "/ˈbɾa.so/",
+          "translation_fa": "بازو",
+          "example": "Me duele un brazo después de nadar.",
+          "example_fa": "بعد از شنا یک بازویم درد می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pierna",
+          "ipa": "/ˈpjeɾ.na/",
+          "translation_fa": "پا",
+          "example": "A Luis le duele la pierna derecha.",
+          "example_fa": "پای راست لوئیس درد می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "fiebre",
+          "ipa": "/ˈfje.βɾe/",
+          "translation_fa": "تب",
+          "example": "La niña tiene fiebre esta noche.",
+          "example_fa": "دخترک امشب تب دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "tos",
+          "ipa": "/tos/",
+          "translation_fa": "سرفه",
+          "example": "La tos molesta a mi hermano.",
+          "example_fa": "سرفه برادرم را اذیت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "dolor",
+          "ipa": "/doˈloɾ/",
+          "translation_fa": "درد",
+          "example": "El dolor empieza después de correr.",
+          "example_fa": "درد بعد از دویدن شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cita médica",
+          "ipa": "/ˈsi.ta ˈme.ði.ka/",
+          "translation_fa": "قرار پزشکی",
+          "example": "Nora tiene una cita médica por la tarde.",
+          "example_fa": "نورا بعدازظهر وقت دکتر دارد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Me duele / me duelen",
+      "explanation_fa": "El verbo «doler» funciona de forma parecida a «gustar». Decimos «Me duele la cabeza» cuando duele una parte singular y «Me duelen las piernas» cuando son varias. El pronombre indica quién siente el dolor: «me», «te», «le», «nos» o «les». El verbo concuerda con la parte del cuerpo: «A Nora le duele la garganta», «A sus amigos les duelen los brazos». Para preguntar, usamos «¿Qué te duele?»; para responder, repetimos «Me duele...» o «Me duelen...».",
+      "pattern": "pronombre + duele (singular) / duelen (plural) + parte del cuerpo",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "singular",
+            "Me duele la cabeza. A Nora le duele la espalda.",
+            "سرم درد می‌کند. کمر نورا درد می‌کند."
+          ],
+          [
+            "plural",
+            "Me duelen los brazos.",
+            "بازوهایم درد می‌کنند."
+          ],
+          [
+            "preguntar",
+            "¿Qué te duele? ¿Te duele el estómago?",
+            "کجایت درد می‌کند؟ معده‌ات درد می‌کند؟"
+          ],
+          [
+            "plural/persona",
+            "A nosotros nos duelen las piernas.",
+            "پاهایمان درد می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "El verbo concuerda con la parte del cuerpo.",
+        "Usar «duele» con singular y «duelen» con plural."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Me duele la garganta y tengo tos.",
+          "fa": "گلویم درد می‌کند و سرفه دارم.",
+          "note_fa": "«Garganta» es singular."
+        },
+        {
+          "target": "A mis hermanos les duelen las piernas.",
+          "fa": "پاهای خواهر و برادرهایم درد می‌کند.",
+          "note_fa": "«Piernas» es plural; usamos duelen."
+        },
+        {
+          "target": "¿Te duele el estómago después de comer?",
+          "fa": "بعد از غذا معده‌ات درد می‌کند؟",
+          "note_fa": "La pregunta usa «te duele»."
+        },
+        {
+          "target": "A Nora le duele la cabeza esta mañana.",
+          "fa": "سر نورا امروز صبح درد می‌کند.",
+          "note_fa": "«Le» se refiere a Nora."
+        },
+        {
+          "target": "Nos duele un brazo después del ejercicio.",
+          "fa": "بعد از ورزش یک بازوی ما درد می‌کند.",
+          "note_fa": "El nombre «un brazo» es singular."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Una visita al consultorio",
+      "script": "Médica: Buenos días, Nora. ¿Qué te duele?\nNora: Me duele la garganta y tengo tos desde esta mañana.\nMédica: ¿Te duele también la cabeza desde anoche?\nNora: Sí, un poco, desde anoche.\nMédica: ¿Tienes fiebre hoy?\nNora: No, pero me duele mucho el estómago.\nMédica: Vamos a revisar tu garganta con cuidado.\nNora: Gracias; mi cita era a las cuatro de la tarde.\nMédica: Muy bien; esperamos unos minutos.",
+      "script_fa": "پزشک: صبح بخیر نورا. کجایت درد می‌کند؟\nنورا: گلویم درد می‌کند و از صبح سرفه دارم.\nپزشک: از دیشب سرت هم درد می‌کند؟\nنورا: بله، کمی، از دیشب.\nپزشک: امروز تب داری؟\nنورا: نه، اما معده‌ام خیلی درد می‌کند.\nپزشک: گلویت را با دقت معاینه می‌کنیم.\nنورا: ممنون؛ قرارم ساعت چهار بعدازظهر بود.\nپزشک: بسیار خوب؛ چند دقیقه صبر می‌کنیم.",
+      "question_fa": "¿Qué le duele a Nora al principio?",
+      "answer": "La garganta.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Hablar de un malestar",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Qué te duele hoy?",
+          "fa": "امروز کجایت درد می‌کند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Me duele la cabeza.",
+          "fa": "سرم درد می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Tienes fiebre?",
+          "fa": "تب داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "No, pero tengo tos.",
+          "fa": "نه، اما سرفه دارم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Te duelen las piernas?",
+          "fa": "پاهایت درد می‌کنند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "No; solo me duele un brazo.",
+          "fa": "نه؛ فقط یک بازویم درد می‌کند."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Tienes una cita médica?",
+          "fa": "وقت دکتر داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, esta tarde.",
+          "fa": "بله، امروز بعدازظهر."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، یک نشانهٔ ساده را بیان کن و بگو کدام عضو بدنت درد می‌کند.",
+      "useful_phrases": [
+        {
+          "target": "Me duele la cabeza.",
+          "fa": "سرم درد می‌کند."
+        },
+        {
+          "target": "Me duelen las piernas.",
+          "fa": "پاهایم درد می‌کنند."
+        },
+        {
+          "target": "Tengo tos.",
+          "fa": "سرفه دارم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una mañana con malestar",
+      "text": "Nora vive con su familia en una ciudad tranquila. Esta mañana se despierta con dolor de garganta y tos. Su hermano le pregunta si también le duele la cabeza. Nora dice que sí, pero no tiene fiebre. Una médica la espera en el consultorio para una cita por la tarde. Antes de salir, Nora toma agua y escribe un mensaje a una amiga del barrio. La médica pregunta qué partes del cuerpo le duelen y revisa su garganta. Después, Nora vuelve a casa y descansa. Su familia prepara una sopa sencilla para la cena.",
+      "glossary": [
+        {
+          "term": "el consultorio",
+          "fa": "مطب پزشک"
+        },
+        {
+          "term": "despertarse",
+          "fa": "بیدارشدن"
+        },
+        {
+          "term": "revisar",
+          "fa": "معاینه‌کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué síntomas tiene Nora?",
+          "a": "Dolor de garganta y tos."
+        },
+        {
+          "q_fa": "¿Qué prepara la familia?",
+          "a": "Una sopa sencilla."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل درست را انتخاب کن.",
+          "question": "Me ___ la cabeza.",
+          "options": [
+            "duele",
+            "duelen",
+            "duelo"
+          ],
+          "answer": "duele",
+          "explanation_fa": "«Cabeza» مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل جمع را انتخاب کن.",
+          "question": "A mis amigos les ___ las piernas.",
+          "options": [
+            "duele",
+            "duelen",
+            "duelo"
+          ],
+          "answer": "duelen",
+          "explanation_fa": "«Piernas» جمع است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "ضمیر درست را انتخاب کن.",
+          "question": "A Nora ___ duele la garganta.",
+          "options": [
+            "le",
+            "me",
+            "nos"
+          ],
+          "answer": "le",
+          "explanation_fa": "برای Nora از «le» استفاده می‌کنیم."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "Nora tiene fiebre.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "او می‌گوید تب ندارد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "Me ___ el estómago.",
+          "answer": [
+            "duele"
+          ],
+          "explanation_fa": "duele"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué le duele a Nora?",
+          "answer": [
+            "La garganta y el estómago."
+          ],
+          "explanation_fa": "گلوی نورا و معده‌اش درد می‌کنند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué le duele a Nora?",
+          "options": [
+            "La garganta y el estómago",
+            "Los brazos",
+            "La espalda"
+          ],
+          "answer": "La garganta y el estómago",
+          "explanation_fa": "Nora menciona la garganta y el estómago."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Tiene fiebre?",
+          "options": [
+            "No",
+            "Sí, mucha",
+            "No lo sabe"
+          ],
+          "answer": "No",
+          "explanation_fa": "Nora dice que no tiene fiebre."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué síntoma tiene además?",
+          "options": [
+            "Tos",
+            "Dolor de piernas",
+            "Mareo"
+          ],
+          "answer": "Tos",
+          "explanation_fa": "Nora dice que tiene tos."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuándo tiene una cita?",
+          "options": [
+            "Por la tarde",
+            "Por la mañana",
+            "A medianoche"
+          ],
+          "answer": "Por la tarde",
+          "explanation_fa": "La cita es por la tarde."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué prepara su familia?",
+          "options": [
+            "Una sopa",
+            "Un café",
+            "Una ensalada fría"
+          ],
+          "answer": "Una sopa",
+          "explanation_fa": "La familia prepara sopa."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Describe un malestar sencillo con me duele o me duelen y menciona una parte del cuerpo.",
+      "suggested_prompts": [
+        "Me duele la cabeza.",
+        "Me duelen las piernas.",
+        "Tengo tos."
+      ],
+      "focus": [
+        "doler",
+        "partes del cuerpo",
+        "síntomas"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Nora describe un malestar antes de una cita médica."
+  }
+}

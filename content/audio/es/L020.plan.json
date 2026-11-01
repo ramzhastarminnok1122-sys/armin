@@ -1,0 +1,398 @@
+{
+  "lesson": "L020",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L020-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Tienes la receta?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 18
+    },
+    {
+      "id": "L020-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, la médica la escribió hoy.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L020-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Qué tienes que hacer en casa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L020-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Tengo que descansar y beber agua.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L020-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Cuál es la dosis?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 18
+    },
+    {
+      "id": "L020-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Voy a leer las instrucciones.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L020-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Necesitas un pañuelo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L020-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, gracias; tengo un resfriado leve.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L020-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Buenos días, tengo la receta de la médica para mi resfriado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L020-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Gracias. ¿Qué necesitas hoy?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L020-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Cuál es la dosis del jarabe, por favor?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L020-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Tienes que leer las instrucciones de la caja.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L020-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Tengo que tomar una pastilla también?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L020-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "La receta indica solo el jarabe.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L020-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "De acuerdo; ¿necesito algo más?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L020-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "No, y recuerda beber agua.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L020-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Gracias; voy a descansar en casa esta tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L020-es-vocab-farmacia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "farmacia. La farmacia está junto a la clínica.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L020-es-vocab-receta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "receta. Nora muestra la receta en la farmacia.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L020-es-vocab-jarabe",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "jarabe. El jarabe tiene sabor a fruta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L020-es-vocab-medicamento",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "medicamento. El medicamento está en una caja pequeña.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L020-es-vocab-dosis",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "dosis. La dosis aparece en la receta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L020-es-vocab-pastilla",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "pastilla. La médica recomienda una pastilla.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L020-es-vocab-botiquin",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "botiquín. Tenemos un botiquín en casa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L020-es-vocab-resfriado",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "resfriado. Mi hermano tiene un resfriado leve.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L020-es-vocab-panuelo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "pañuelo. Nora lleva un pañuelo en el bolsillo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L020-es-vocab-farmaceuticofarmaceutica",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "farmacéutico, farmacéutica. El farmacéutico lee la receta con cuidado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 70
+    },
+    {
+      "id": "L020-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Tengo que descansar. Tienes que beber agua.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L020-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nora tiene que seguir la receta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L020-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Tenemos que leer la dosis.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L020-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Tienen que preguntar al farmacéutico.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L020-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Nora tiene que mostrar la receta.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L020-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Tengo que beber agua y descansar.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L020-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "¿Cuál es la dosis de este medicamento?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L020-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "El farmacéutico explica la dosis al cliente.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L020-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Tenemos que guardar el jarabe en casa.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L020-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora va a la farmacia con una receta después de su cita médica. Tiene tos y un resfriado leve, así que pregunta por el jarabe. Un amigo del barrio vive en la misma ciudad y la acompaña a la farmacia. El farmacéutico lee la receta y señala la dosis escrita en la caja. Nora tiene que seguir esas instrucciones y descansar en casa. También compra pañuelos para llevar en el bolso. Su familia prepara agua y revisa el botiquín. Si Nora tiene más preguntas, puede llamar a la clínica. Antes de salir, guarda el medicamento en una bolsa y agradece la ayuda del farmacéutico.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 569
+    },
+    {
+      "id": "L020-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L020)",
+      "tts_text": "اگر دارو یا توصیه‌ای داری، چطور می‌گویی چه کاری باید انجام بدهی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L020-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L020)",
+      "tts_text": "برای ضرورت از «tener que + infinitivo» استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L020-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L020)",
+      "tts_text": "به گفت‌وگو گوش کن و چیزی را پیدا کن که نورا باید بخواند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L020-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L020)",
+      "tts_text": "می‌گوییم «tengo que descansar» و «tienes que beber agua».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L020-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L020)",
+      "tts_text": "یک توصیهٔ ساده را با مصدر بیان کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 34
+    },
+    {
+      "id": "L020-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L020)",
+      "tts_text": "پس از «que» فعل را به صورت مصدر بیاور.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 38
+    }
+  ]
+}
