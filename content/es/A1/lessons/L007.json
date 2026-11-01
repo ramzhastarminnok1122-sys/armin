@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 7,
+    "title": "¿En qué trabajas?",
+    "subtitle": "Hablar de profesiones",
+    "description": "Paula y Bruno presentan los trabajos de sus familiares.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Professions: ser + occupation and gender agreement",
+      "objectives": [
+        "Nombrar profesiones y algunos lugares de trabajo.",
+        "Presentar el oficio de una persona con el verbo ser.",
+        "Reconocer formas masculinas, femeninas y comunes."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور شغل یکی از اعضای خانواده یا دوستت را معرفی می‌کنی؟",
+      "questions": [
+        {
+          "q": "کسی که در بیمارستان از بیمار مراقبت می‌کند چه‌کاره است؟",
+          "hint_fa": "به واژهٔ «enfermero» فکر کن."
+        },
+        {
+          "q": "کسی که در مدرسه درس می‌دهد چه‌کاره است؟",
+          "hint_fa": "به واژهٔ «profesor» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Ser y las profesiones",
+      "body_fa": "برای معرفی شغل معمولاً از «ser» و نام حرفه استفاده می‌کنیم: «Soy profesora»، «Él es médico». در معرفی سادهٔ شغل معمولاً پیش از حرفه حرف تعریف نمی‌آید؛ می‌گوییم «Es cocinera»، نه «Es una cocinera» (مگر آن‌که صفت یا تأکید دیگری داشته باشیم). بسیاری از اسم‌های شغل با تغییر «-o» به «-a» شکل مؤنث می‌سازند، مانند «médico/médica»؛ بعضی واژه‌ها مثل «artista» برای هر دو جنس یکسان‌اند. صفت‌ها با شخص هماهنگ می‌شوند. «Trabajar en» محل کار را می‌گوید و با «ser» برای معرفی شغل فرق دارد.",
+      "key_points": [
+        "برای معرفی شغل از «ser + profesión» استفاده کن.",
+        "در معرفی ساده معمولاً حرف تعریف پیش از شغل نمی‌آید.",
+        "«Trabajar en» محل کار را معرفی می‌کند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "profesor, profesora",
+          "ipa": "/pɾo.feˈsoɾ/, /pɾo.feˈso.ɾa/",
+          "translation_fa": "معلم",
+          "example": "Mi profesor enseña ciencias en la escuela.",
+          "example_fa": "معلمم در مدرسه علوم درس می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "médico, médica",
+          "ipa": "/ˈme.ði.ko/, /ˈme.ði.ka/",
+          "translation_fa": "پزشک",
+          "example": "La médica trabaja en un hospital público.",
+          "example_fa": "پزشک در بیمارستان دولتی کار می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "enfermero, enfermera",
+          "ipa": "/em.feɾˈme.ɾo/, /em.feɾˈme.ɾa/",
+          "translation_fa": "پرستار",
+          "example": "El enfermero ayuda a los pacientes.",
+          "example_fa": "پرستار به بیماران کمک می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cocinero, cocinera",
+          "ipa": "/ko.siˈne.ɾo/, /ko.siˈne.ɾa/",
+          "translation_fa": "آشپز",
+          "example": "La cocinera prepara sopa para el equipo.",
+          "example_fa": "آشپز برای گروه سوپ آماده می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "oficina",
+          "ipa": "/o.fiˈsi.na/",
+          "translation_fa": "دفتر کار",
+          "example": "Mi tía trabaja en una oficina pequeña.",
+          "example_fa": "عمه‌ام در دفتر کوچکی کار می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "hospital",
+          "ipa": "/os.piˈtal/",
+          "translation_fa": "بیمارستان",
+          "example": "El hospital está cerca de la estación.",
+          "example_fa": "بیمارستان نزدیک ایستگاه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "panadería",
+          "ipa": "/pa.na.ðeˈɾi.a/",
+          "translation_fa": "نانوایی",
+          "example": "La panadería abre temprano cada día.",
+          "example_fa": "نانوایی هر روز زود باز می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "artista",
+          "ipa": "/aɾˈtis.ta/",
+          "translation_fa": "هنرمند",
+          "example": "El artista pinta paisajes de la ciudad.",
+          "example_fa": "هنرمند منظره‌های شهر را نقاشی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "empresa",
+          "ipa": "/emˈpɾe.sa/",
+          "translation_fa": "شرکت",
+          "example": "Su hermana dirige una empresa familiar.",
+          "example_fa": "خواهرش یک شرکت خانوادگی را اداره می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "turno",
+          "ipa": "/ˈtuɾ.no/",
+          "translation_fa": "نوبت کاری",
+          "example": "Bruno tiene un turno de tarde.",
+          "example_fa": "برونو نوبت کاری عصر دارد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Ser + profesión",
+      "explanation_fa": "Para presentar una profesión, conjugamos «ser» y decimos el nombre del oficio: «Soy médico», «Marta es profesora», «Somos artistas». En una presentación sencilla, el sustantivo suele ir sin «un» o «una». Algunos nombres cambian de terminación según la persona: «cocinero/cocinera»; otros conservan la misma forma, como «artista». El adjetivo que acompaña a la profesión sí concuerda: «un médico amable», «una médica amable». «Ser» identifica el oficio; «trabajar en» señala el lugar: «Es enfermera y trabaja en un hospital».",
+      "pattern": "sujeto + ser + profesión; trabajar en + lugar",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo / tú",
+            "Soy profesora. ¿Tú eres artista?",
+            "من معلم هستم. تو هنرمندی؟"
+          ],
+          [
+            "él / ella / usted",
+            "Bruno es cocinero. Paula es médica.",
+            "برونو آشپز است. پائولا پزشک است."
+          ],
+          [
+            "nosotros / nosotras",
+            "Somos enfermeros en un hospital.",
+            "ما پرستارانی در بیمارستان هستیم."
+          ],
+          [
+            "ustedes / ellos / ellas",
+            "Ustedes son profesores. Ellas son artistas.",
+            "شما معلم هستید. آن‌ها هنرمند هستند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "En una presentación sencilla, no usar artículo antes de la profesión.",
+        "«Ser» identifica el oficio; «trabajar en» indica el lugar."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mi prima es enfermera y trabaja en el centro.",
+          "fa": "دخترعمویم پرستار است و در مرکز کار می‌کند.",
+          "note_fa": "«Enfermera» concuerda con el sujeto femenino."
+        },
+        {
+          "target": "El cocinero prepara el almuerzo para sus compañeros.",
+          "fa": "آشپز برای همکارانش ناهار آماده می‌کند.",
+          "note_fa": "El artículo identifica el nombre de la profesión."
+        },
+        {
+          "target": "¿Tu padre es profesor de música?",
+          "fa": "آیا پدرت معلم موسیقی است؟",
+          "note_fa": "La pregunta usa «ser» para preguntar por el oficio."
+        },
+        {
+          "target": "La artista trabaja en una oficina por la mañana.",
+          "fa": "هنرمند صبح‌ها در یک دفتر کار می‌کند.",
+          "note_fa": "«Trabaja en» presenta el lugar de trabajo."
+        },
+        {
+          "target": "Somos médicos y vivimos en la misma ciudad.",
+          "fa": "ما پزشک هستیم و در یک شهر زندگی می‌کنیم.",
+          "note_fa": "El verbo «ser» concuerda con «nosotros»."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "El trabajo de la familia",
+      "script": "Paula: ¿En qué trabaja tu madre?\nBruno: Es médica en un hospital del centro.\nPaula: ¿Y tu hermana mayor?\nBruno: Es profesora; trabaja en una escuela pequeña.\nPaula: Mi tío es cocinero en una panadería.\nBruno: ¿Tu padre también trabaja allí?\nPaula: No, él es artista y pinta por la tarde.\nBruno: ¡Qué familia tan interesante, tan diversa y muy trabajadora!\nPaula: Sí, cada persona tiene un oficio distinto.",
+      "script_fa": "پائولا: مادرت چه‌کاره است؟\nبرونو: پزشک است، در بیمارستان مرکز شهر.\nپائولا: خواهرت چطور؟\nبرونو: معلم است؛ در مدرسهٔ کوچکی کار می‌کند.\nپائولا: عموی من در نانوایی آشپز است.\nبرونو: پدرت هم آنجا کار می‌کند؟\nپائولا: نه، هنرمند است و بعدازظهر نقاشی می‌کند.\nبرونو: چه خانوادهٔ جالب، متنوع و بسیار پرتلاشی!\nپائولا: بله، هرکس شغل متفاوتی دارد.",
+      "question_fa": "¿Dónde trabaja la madre de Bruno?",
+      "answer": "En un hospital del centro.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Hablar de los oficios",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Hola, ¿a qué se dedica tu familia?",
+          "fa": "سلام، خانواده‌ات چه شغل‌هایی دارند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Mi madre es médica y mi padre es profesor.",
+          "fa": "مادرم پزشک است و پدرم معلم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Trabajan en la misma ciudad?",
+          "fa": "در یک شهر کار می‌کنند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, pero en lugares distintos.",
+          "fa": "بله، اما در جاهای متفاوت."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Y tú, qué quieres ser?",
+          "fa": "و تو می‌خواهی چه‌کاره شوی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Quiero ser artista; me gusta dibujar.",
+          "fa": "می‌خواهم هنرمند شوم؛ نقاشی را دوست دارم."
+        },
+        {
+          "speaker": "A",
+          "target": "Mi hermano es cocinero.",
+          "fa": "برادرم آشپز است."
+        },
+        {
+          "speaker": "B",
+          "target": "¡Qué bien! Podemos visitar su panadería.",
+          "fa": "چه خوب! می‌توانیم به نانوایی او سر بزنیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، شغل یکی از اعضای خانواده یا دوستت را معرفی کن و محل کارش را بگو.",
+      "useful_phrases": [
+        {
+          "target": "Mi madre es médica.",
+          "fa": "مادرم پزشک است."
+        },
+        {
+          "target": "Trabaja en un hospital.",
+          "fa": "در بیمارستان کار می‌کند."
+        },
+        {
+          "target": "Mi amigo es artista.",
+          "fa": "دوستم هنرمند است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una ciudad con muchos oficios",
+      "text": "En la ciudad de Paula, muchas personas trabajan en lugares diferentes. Su madre es médica en un hospital y su padre es profesor en una escuela del barrio. Paula es estudiante; su amigo Raúl es artista y pinta un mapa colorido para una exposición. La hermana de Bruno trabaja como cocinera en una panadería familiar. Cada persona tiene un horario distinto, pero todos se reúnen los viernes. La familia conversa sobre sus trabajos y cuenta qué parte de su día disfruta más. A Paula le gusta escuchar las historias de su abuela, que trabajó muchos años en una oficina municipal.",
+      "glossary": [
+        {
+          "term": "la exposición",
+          "fa": "نمایشگاه"
+        },
+        {
+          "term": "el horario",
+          "fa": "برنامهٔ کاری"
+        },
+        {
+          "term": "municipal",
+          "fa": "شهرداری؛ شهری"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Dónde trabaja la madre de Paula?",
+          "a": "En un hospital."
+        },
+        {
+          "q_fa": "¿Qué pinta Raúl?",
+          "a": "Un mapa colorido."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل درست را انتخاب کن.",
+          "question": "Mi padre ___ profesor.",
+          "options": [
+            "soy",
+            "es",
+            "somos"
+          ],
+          "answer": "es",
+          "explanation_fa": "فاعل مفرد سوم‌شخص با «es» می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "اسم شغل را کامل کن.",
+          "question": "La ___ atiende a los pacientes.",
+          "options": [
+            "médica",
+            "artista",
+            "empresa"
+          ],
+          "answer": "médica",
+          "explanation_fa": "پزشک زن به بیماران رسیدگی می‌کند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت محل کار را انتخاب کن.",
+          "question": "Bruno trabaja ___ un hospital.",
+          "options": [
+            "en",
+            "de",
+            "a"
+          ],
+          "answer": "en",
+          "explanation_fa": "برای محل کار از «en» استفاده می‌کنیم."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "En una presentación sencilla se dice «Soy una profesora».",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "معمولاً می‌گوییم «Soy profesora» بدون حرف تعریف."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "حرف شغل را کامل کن.",
+          "question": "Paula ___ médica.",
+          "answer": [
+            "es"
+          ],
+          "explanation_fa": "es"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué pinta Raúl?",
+          "answer": [
+            "Un mapa colorido."
+          ],
+          "explanation_fa": "رائول نقشه‌ای رنگارنگ می‌کشد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Dónde trabaja la madre de Bruno?",
+          "options": [
+            "En un hospital",
+            "En una panadería",
+            "En una oficina"
+          ],
+          "answer": "En un hospital",
+          "explanation_fa": "La madre de Bruno es médica en un hospital."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué profesión tiene la hermana de Bruno?",
+          "options": [
+            "Profesora",
+            "Cocinera",
+            "Artista"
+          ],
+          "answer": "Profesora",
+          "explanation_fa": "La hermana de Bruno enseña en una escuela."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hace el tío de Paula?",
+          "options": [
+            "Es cocinero",
+            "Es enfermero",
+            "Es médico"
+          ],
+          "answer": "Es cocinero",
+          "explanation_fa": "Paula dice que su tío es cocinero."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué pinta Raúl?",
+          "options": [
+            "Un mapa colorido",
+            "Una tarta",
+            "Una calle"
+          ],
+          "answer": "Un mapa colorido",
+          "explanation_fa": "Raúl pinta un mapa para una exposición."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuándo se reúne la familia?",
+          "options": [
+            "Los viernes",
+            "Cada lunes",
+            "Los domingos por la mañana"
+          ],
+          "answer": "Los viernes",
+          "explanation_fa": "El texto dice que se reúnen los viernes."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Presenta la profesión de una persona cercana y menciona dónde trabaja.",
+      "suggested_prompts": [
+        "Mi madre es médica.",
+        "Trabaja en un hospital.",
+        "Mi amigo es artista."
+      ],
+      "focus": [
+        "profesiones",
+        "ser + oficio",
+        "trabajar en"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Paula y Bruno hablan de sus familias, sus estudios y sus oficios."
+  }
+}

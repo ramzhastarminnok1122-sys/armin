@@ -1,0 +1,398 @@
+{
+  "lesson": "L007",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L007-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Hola, ¿a qué se dedica tu familia?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L007-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Mi madre es médica y mi padre es profesor.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L007-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Trabajan en la misma ciudad?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L007-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, pero en lugares distintos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L007-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Y tú, qué quieres ser?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L007-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Quiero ser artista; me gusta dibujar.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L007-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Mi hermano es cocinero.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L007-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "¡Qué bien! Podemos visitar su panadería.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L007-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿En qué trabaja tu madre?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L007-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Es médica en un hospital del centro.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L007-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Y tu hermana mayor?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L007-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Es profesora; trabaja en una escuela pequeña.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L007-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Mi tío es cocinero en una panadería.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L007-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Tu padre también trabaja allí?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L007-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "No, él es artista y pinta por la tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L007-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¡Qué familia tan interesante, tan diversa y muy trabajadora!",
+      "priority": "P1",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L007-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Sí, cada persona tiene un oficio distinto.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L007-es-vocab-profesorprofesora",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "profesor, profesora. Mi profesor enseña ciencias en la escuela.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L007-es-vocab-medicomedica",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "médico, médica. La médica trabaja en un hospital público.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L007-es-vocab-enfermeroenfermera",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "enfermero, enfermera. El enfermero ayuda a los pacientes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L007-es-vocab-cocinerococinera",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "cocinero, cocinera. La cocinera prepara sopa para el equipo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L007-es-vocab-oficina",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "oficina. Mi tía trabaja en una oficina pequeña.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L007-es-vocab-hospital",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "hospital. El hospital está cerca de la estación.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L007-es-vocab-panaderia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "panadería. La panadería abre temprano cada día.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L007-es-vocab-artista",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "artista. El artista pinta paisajes de la ciudad.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L007-es-vocab-empresa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "empresa. Su hermana dirige una empresa familiar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L007-es-vocab-turno",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "turno. Bruno tiene un turno de tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L007-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Soy profesora. ¿Tú eres artista?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L007-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Bruno es cocinero. Paula es médica.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L007-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Somos enfermeros en un hospital.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L007-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ustedes son profesores. Ellas son artistas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L007-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mi prima es enfermera y trabaja en el centro.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L007-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "El cocinero prepara el almuerzo para sus compañeros.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L007-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "¿Tu padre es profesor de música?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L007-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La artista trabaja en una oficina por la mañana.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L007-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Somos médicos y vivimos en la misma ciudad.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L007-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "En la ciudad de Paula, muchas personas trabajan en lugares diferentes. Su madre es médica en un hospital y su padre es profesor en una escuela del barrio. Paula es estudiante; su amigo Raúl es artista y pinta un mapa colorido para una exposición. La hermana de Bruno trabaja como cocinera en una panadería familiar. Cada persona tiene un horario distinto, pero todos se reúnen los viernes. La familia conversa sobre sus trabajos y cuenta qué parte de su día disfruta más. A Paula le gusta escuchar las historias de su abuela, que trabajó muchos años en una oficina municipal.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 575
+    },
+    {
+      "id": "L007-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L007)",
+      "tts_text": "چطور شغل یکی از اعضای خانواده یا دوستت را معرفی می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L007-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L007)",
+      "tts_text": "برای شغل از «ser + profesión» و برای محل کار از «trabajar en» استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L007-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L007)",
+      "tts_text": "به گفت‌وگو گوش کن و محل کار مادر برونو را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L007-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L007)",
+      "tts_text": "می‌گوییم «soy profesora» و «es médico»؛ در معرفی ساده معمولاً حرف تعریف نمی‌آید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 80
+    },
+    {
+      "id": "L007-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L007)",
+      "tts_text": "شغل یکی از نزدیکانت و محل کارش را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 38
+    },
+    {
+      "id": "L007-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L007)",
+      "tts_text": "شغل را با «ser» و محل کار را با «trabajar en» معرفی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    }
+  ]
+}

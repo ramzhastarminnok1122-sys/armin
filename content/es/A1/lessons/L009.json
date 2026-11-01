@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 9,
+    "title": "¿Qué haces en tu tiempo libre?",
+    "subtitle": "Hablar de aficiones",
+    "description": "Raúl y Paula comparten sus aficiones para el fin de semana.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "فعل‌های باقاعدهٔ -ar و قیدهای بسامد برای سرگرمی‌ها",
+      "objectives": [
+        "Nombrar actividades de tiempo libre.",
+        "Conjugar verbos regulares terminados en -ar.",
+        "Decir con qué frecuencia se practica una afición."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در اوقات فراغت چه سرگرمی‌ای داری و هرچند وقت یک‌بار آن را انجام می‌دهی؟",
+      "questions": [
+        {
+          "q": "با مداد تصویر ساختن چه فعلی است؟",
+          "hint_fa": "به «dibujar» فکر کن."
+        },
+        {
+          "q": "«اغلب» را در اسپانیایی چگونه می‌گوییم؟",
+          "hint_fa": "به «a menudo» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Los verbos regulares en -ar",
+      "body_fa": "فعل‌های باقاعدهٔ پایان‌یافته به «-ar» در زمان حال ریشهٔ ثابت دارند و پایان آن‌ها با فاعل عوض می‌شود: «yo canto», «tú cantas», «ella canta», «nosotros cantamos», «ustedes cantan». برای صحبت از سرگرمی‌ها می‌توانیم از «bailar», «dibujar», «escuchar» و «practicar» استفاده کنیم. قیدهایی مثل «a menudo» و «a veces» معمولاً پیش از فعل یا در پایان جمله می‌آیند: «A menudo dibujo» یا «Dibujo a veces». عبارت «los fines de semana» یعنی آخر هفته‌ها. یادت باشد «leer» فعل -er است و صرف آن با این الگو فرق دارد.",
+      "key_points": [
+        "ریشهٔ فعل -ar ثابت می‌ماند و پایان آن تغییر می‌کند.",
+        "پایان‌ها: -o, -as, -a, -amos, -an.",
+        "«A menudo» و «a veces» بسامد را بیان می‌کنند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "bailar",
+          "ipa": "/bajˈlaɾ/",
+          "translation_fa": "رقصیدن",
+          "example": "Mis amigos bailan salsa los sábados.",
+          "example_fa": "دوستانم شنبه‌ها سالسا می‌رقصند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cantar",
+          "ipa": "/kanˈtaɾ/",
+          "translation_fa": "آوازخواندن",
+          "example": "Canto una canción en el coro escolar.",
+          "example_fa": "در گروه کر مدرسه ترانه‌ای می‌خوانم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "dibujar",
+          "ipa": "/di.βuˈxaɾ/",
+          "translation_fa": "نقاشی‌کردن",
+          "example": "Raúl dibuja animales en su cuaderno.",
+          "example_fa": "رائول در دفترش حیوانات را نقاشی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "escuchar",
+          "ipa": "/es.kuˈtʃaɾ/",
+          "translation_fa": "گوش‌دادن",
+          "example": "Escuchamos música mientras cocinamos.",
+          "example_fa": "هنگام آشپزی به موسیقی گوش می‌دهیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "practicar",
+          "ipa": "/pɾak.tiˈkaɾ/",
+          "translation_fa": "تمرین‌کردن",
+          "example": "Paula practica guitarra dos veces por semana.",
+          "example_fa": "پائولا هفته‌ای دو بار گیتار تمرین می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "caminar",
+          "ipa": "/ka.miˈnaɾ/",
+          "translation_fa": "پیاده‌روی‌کردن",
+          "example": "Mi familia camina por el parque.",
+          "example_fa": "خانواده‌ام در پارک پیاده‌روی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pasear",
+          "ipa": "/pa.seˈaɾ/",
+          "translation_fa": "قدم‌زدن",
+          "example": "Paseamos por el centro después de clase.",
+          "example_fa": "پس از کلاس در مرکز قدم می‌زنیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "música",
+          "ipa": "/ˈmu.si.ka/",
+          "translation_fa": "موسیقی",
+          "example": "La música acompaña la tarde de dibujo.",
+          "example_fa": "موسیقی همراه بعدازظهر نقاشی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "a menudo",
+          "ipa": "/a meˈnu.ðo/",
+          "translation_fa": "اغلب",
+          "example": "A menudo canto con mis primos.",
+          "example_fa": "اغلب با پسرعموهایم آواز می‌خوانم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "a veces",
+          "ipa": "/a ˈbe.ses/",
+          "translation_fa": "گاهی",
+          "example": "A veces dibujamos juntos en casa.",
+          "example_fa": "گاهی در خانه با هم نقاشی می‌کنیم.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Verbos regulares en -ar y frecuencia",
+      "explanation_fa": "Los verbos regulares en «-ar» conservan la raíz y cambian la terminación. Quitamos «-ar» y añadimos «-o» para yo, «-as» para tú, «-a» para él, ella o usted, «-amos» para nosotros y «-an» para ustedes o ellos. Por ejemplo: «canto», «cantas», «canta», «cantamos», «cantan». Para hablar de hábitos, añadimos expresiones de frecuencia como «a menudo» o «a veces». Pueden ir antes del verbo o al final: «A veces dibujo» y «Dibujo a veces». «Leer» no sigue este patrón porque termina en «-er».",
+      "pattern": "raíz del verbo + o / as / a / amos / an; a menudo / a veces",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo / tú",
+            "Yo dibujo en casa. ¿Tú cantas en el coro?",
+            "من در خانه نقاشی می‌کنم. تو در گروه کر آواز می‌خوانی؟"
+          ],
+          [
+            "él / ella / usted",
+            "Paula practica guitarra. Raúl baila los sábados.",
+            "پائولا گیتار تمرین می‌کند. رائول شنبه‌ها می‌رقصد."
+          ],
+          [
+            "nosotros / nosotras",
+            "Escuchamos música y caminamos por el parque.",
+            "به موسیقی گوش می‌دهیم و در پارک پیاده‌روی می‌کنیم."
+          ],
+          [
+            "ustedes / ellos / ellas",
+            "Ustedes pasean a veces. Ellos cantan a menudo.",
+            "شما گاهی قدم می‌زنید. آن‌ها اغلب آواز می‌خوانند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Para verbos regulares en -ar, mantener la raíz.",
+        "«Leer» termina en -er y no usa las terminaciones de este patrón."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "A menudo dibujo después de clase.",
+          "fa": "اغلب پس از کلاس نقاشی می‌کنم.",
+          "note_fa": "El adverbio aparece antes del verbo."
+        },
+        {
+          "target": "Mis amigos cantan mientras caminamos por el parque.",
+          "fa": "دوستانم هنگام پیاده‌روی در پارک آواز می‌خوانند.",
+          "note_fa": "«Cantan» concuerda con un sujeto plural."
+        },
+        {
+          "target": "¿Practicas guitarra todos los fines de semana?",
+          "fa": "هر آخر هفته گیتار تمرین می‌کنی؟",
+          "note_fa": "«Practicas» lleva la terminación -as."
+        },
+        {
+          "target": "A veces bailamos en la fiesta del barrio.",
+          "fa": "گاهی در جشن محله می‌رقصیم.",
+          "note_fa": "«A veces» puede aparecer al principio."
+        },
+        {
+          "target": "Paula escucha música y Raúl dibuja.",
+          "fa": "پائولا به موسیقی گوش می‌دهد و رائول نقاشی می‌کند.",
+          "note_fa": "Los verbos cambian según el sujeto."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Planes para el sábado",
+      "script": "Raúl: ¿Qué haces en tu tiempo libre, Paula?\nPaula: A menudo practico guitarra y dibujo.\nRaúl: Yo canto en un coro los sábados.\nPaula: ¿También escuchas música en casa?\nRaúl: Sí, mi familia escucha canciones después de cenar.\nPaula: Podemos pasear por el parque y luego bailar.\nRaúl: ¡Buena idea! Mi amigo también viene.\nPaula: Entonces caminamos juntos hasta la plaza.\nRaúl: Perfecto; nos vemos el sábado por la tarde.",
+      "script_fa": "رائول: اوقات فراغتت چه کار می‌کنی پائولا؟\nپائولا: اغلب گیتار تمرین می‌کنم و نقاشی می‌کشم.\nرائول: من شنبه‌ها در گروه کر آواز می‌خوانم.\nپائولا: در خانه هم به موسیقی گوش می‌دهی؟\nرائول: بله، خانواده‌ام پس از شام ترانه گوش می‌کنند.\nپائولا: می‌توانیم در پارک قدم بزنیم و بعد برقصیم.\nرائول: فکر خوبی است! دوستم هم می‌آید.\nپائولا: پس با هم تا میدان پیاده می‌رویم.\nرائول: عالی؛ شنبه بعدازظهر می‌بینمت.",
+      "question_fa": "¿Qué practica Paula a menudo?",
+      "answer": "Guitarra.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Organizar el tiempo libre",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Qué haces después de clase?",
+          "fa": "بعد از کلاس چه‌کار می‌کنی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "A veces dibujo con mi hermano.",
+          "fa": "گاهی با برادرم نقاشی می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Escuchas música mientras dibujas?",
+          "fa": "هنگام نقاشی به موسیقی گوش می‌دهی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, y a menudo canto también.",
+          "fa": "بله، اغلب آواز هم می‌خوانم."
+        },
+        {
+          "speaker": "A",
+          "target": "Yo practico baile los viernes.",
+          "fa": "من جمعه‌ها رقص تمرین می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "¿Paseas por el barrio después?",
+          "fa": "بعد از آن در محله قدم می‌زنی؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Sí, camino hasta la plaza.",
+          "fa": "بله، تا میدان پیاده می‌روم."
+        },
+        {
+          "speaker": "B",
+          "target": "Podemos dibujar juntos el sábado.",
+          "fa": "می‌توانیم شنبه با هم نقاشی کنیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، سرگرمی‌ات را بگو و توضیح بده هرچند وقت یک‌بار آن را انجام می‌دهی.",
+      "useful_phrases": [
+        {
+          "target": "A menudo dibujo.",
+          "fa": "اغلب نقاشی می‌کنم."
+        },
+        {
+          "target": "Practico guitarra los viernes.",
+          "fa": "جمعه‌ها گیتار تمرین می‌کنم."
+        },
+        {
+          "target": "A veces canto con mi familia.",
+          "fa": "گاهی با خانواده‌ام آواز می‌خوانم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Aficiones en el barrio",
+      "text": "Raúl es estudiante y su profesor organiza una tarde de actividades en la ciudad. Paula llega con un cuaderno para dibujar; su amigo trae canciones para escuchar. Algunas personas cantan en un coro pequeño y otras practican guitarra en el patio. La familia de Paula suele caminar por el parque los fines de semana. A veces, Raúl pasea con su hermano antes de la actividad. Nadie necesita experiencia: cada persona elige una afición y participa a su ritmo. Al final, todos comparten una merienda y hablan de lo que quieren practicar la próxima semana.",
+      "glossary": [
+        {
+          "term": "la afición",
+          "fa": "سرگرمی"
+        },
+        {
+          "term": "a su ritmo",
+          "fa": "با سرعت خودش"
+        },
+        {
+          "term": "la merienda",
+          "fa": "میان‌وعده"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Quién organiza la actividad?",
+          "a": "El profesor de Raúl."
+        },
+        {
+          "q_fa": "¿Qué lleva Paula?",
+          "a": "Un cuaderno para dibujar."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "پایان درست فعل را انتخاب کن.",
+          "question": "Yo cant___ en el coro.",
+          "options": [
+            "-o",
+            "-as",
+            "-an"
+          ],
+          "answer": "-o",
+          "explanation_fa": "پایان فعل برای yo برابر -o است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل را با فاعل هماهنگ کن.",
+          "question": "Mis amigos ___ salsa.",
+          "options": [
+            "bailo",
+            "baila",
+            "bailan"
+          ],
+          "answer": "bailan",
+          "explanation_fa": "فاعل جمع است؛ پایان -an می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "قید بسامد را انتخاب کن.",
+          "question": "___ dibujo en casa; no todos los días.",
+          "options": [
+            "A veces",
+            "Nunca ayer",
+            "Mañana"
+          ],
+          "answer": "A veces",
+          "explanation_fa": "«A veces» یعنی گاهی."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Leer» es un verbo regular terminado en -ar.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "«Leer» به -er ختم می‌شود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Nosotros practic___ guitarra.",
+          "answer": [
+            "practicamos"
+          ],
+          "explanation_fa": "practicamos"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué practica Paula a menudo?",
+          "answer": [
+            "La guitarra."
+          ],
+          "explanation_fa": "پائولا اغلب گیتار تمرین می‌کند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué practica Paula?",
+          "options": [
+            "Guitarra",
+            "Piano",
+            "Batería"
+          ],
+          "answer": "Guitarra",
+          "explanation_fa": "Paula dice que practica guitarra."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde canta Raúl?",
+          "options": [
+            "En un coro",
+            "En el hospital",
+            "En la panadería"
+          ],
+          "answer": "En un coro",
+          "explanation_fa": "Raúl canta en un coro."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué lleva Paula a la actividad?",
+          "options": [
+            "Un cuaderno",
+            "Una tarta",
+            "Un mapa"
+          ],
+          "answer": "Un cuaderno",
+          "explanation_fa": "Paula lleva un cuaderno para dibujar."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hace la familia de Paula los fines de semana?",
+          "options": [
+            "Camina por el parque",
+            "Trabaja en una oficina",
+            "Estudia en el hospital"
+          ],
+          "answer": "Camina por el parque",
+          "explanation_fa": "La familia suele caminar por el parque."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hacen al final?",
+          "options": [
+            "Comparten una merienda",
+            "Toman un autobús",
+            "Compran una guitarra"
+          ],
+          "answer": "Comparten una merienda",
+          "explanation_fa": "Al final comparten una merienda."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Habla de una afición: usa un verbo en -ar y una expresión de frecuencia.",
+      "suggested_prompts": [
+        "A menudo dibujo.",
+        "Practico guitarra los viernes.",
+        "A veces canto con mi familia."
+      ],
+      "focus": [
+        "verbos regulares en -ar",
+        "aficiones",
+        "frecuencia"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Paula y Raúl organizan una tarde de música y dibujo."
+  }
+}

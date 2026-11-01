@@ -1,0 +1,398 @@
+{
+  "lesson": "L008",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L008-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Te levantas temprano los días de clase?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L008-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, me levanto a las seis y media.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L008-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Desayunas en casa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L008-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, desayuno con mi madre.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L008-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Tu hermano también se levanta temprano?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L008-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, él se despierta más tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L008-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿A qué hora empieza su clase?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L008-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "A las nueve, por eso sale después.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L008-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿A qué hora te despiertas, Inés?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L008-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Me despierto a las siete y me levanto enseguida.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L008-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Te duchas por la mañana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L008-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, después me visto y desayuno en casa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L008-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Yo desayuno con mi familia en la cocina.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L008-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿A qué hora empieza tu clase?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L008-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "A las ocho; salgo temprano del barrio.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L008-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Entonces nos vemos después del mediodía.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L008-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Claro; almorzamos cerca de la escuela.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L008-es-vocab-despertarse",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "despertarse. Me despierto temprano los días de clase.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L008-es-vocab-levantarse",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "levantarse. Mi hermano se levanta a las siete.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L008-es-vocab-ducharse",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "ducharse. Nos duchamos antes del desayuno.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L008-es-vocab-vestirse",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "vestirse. Ella se viste después de ducharse.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L008-es-vocab-desayunar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "desayunar. Desayuno fruta y pan en casa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L008-es-vocab-empezar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "empezar. La clase empieza a las ocho.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L008-es-vocab-temprano",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "temprano. Mi madre sale temprano al trabajo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L008-es-vocab-mediodia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "mediodía. Al mediodía comemos juntos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L008-es-vocab-almorzar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "almorzar. Almorzamos cerca de la escuela.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L008-es-vocab-descansar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "descansar. Después de clase descanso un poco.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L008-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Me levanto temprano. ¿Te duchas antes de desayunar?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L008-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Ella se viste después de ducharse.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L008-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nos levantamos a las siete.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L008-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ustedes se despiertan temprano. Ellos se duchan después.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L008-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Primero me despierto; después me levanto.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L008-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mi padre se ducha antes de salir de casa.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L008-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nos vestimos rápido porque la clase empieza temprano.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L008-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "¿A qué hora te levantas los sábados?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L008-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Después de almorzar, mi hermana descansa un rato.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L008-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Inés es estudiante y vive con su familia en una ciudad tranquila. Su madre se despierta primero y prepara el desayuno. Inés se levanta a las siete; su hermano se levanta unos minutos después. Los dos se duchan, se visten y desayunan en la cocina. Un amigo de Inés pasa por el barrio cuando va a la escuela. La clase empieza a las ocho y media, así que salen temprano. Al mediodía, Inés almuerza con una profesora y después descansa un poco en el patio. Por la tarde, vuelve a casa y ayuda a su abuela con las plantas.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 517
+    },
+    {
+      "id": "L008-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L008)",
+      "tts_text": "صبح‌ها معمولاً چه کارهایی انجام می‌دهی و چه ساعتی بیدار می‌شوی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L008-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L008)",
+      "tts_text": "ضمیر انعکاسی با فاعل هماهنگ است و پیش از فعل صرف‌شده می‌آید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L008-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L008)",
+      "tts_text": "به گفت‌وگو گوش کن و ساعت بیدارشدن اینس را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L008-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L008)",
+      "tts_text": "می‌گوییم «me levanto»، «te duchas» و «se viste».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L008-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L008)",
+      "tts_text": "سه کار صبحگاهی را با فعل انعکاسی بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 37
+    },
+    {
+      "id": "L008-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L008)",
+      "tts_text": "با «primero» و «después» ترتیب کارها را مشخص کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    }
+  ]
+}

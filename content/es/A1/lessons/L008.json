@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 8,
+    "title": "Mi rutina de cada mañana",
+    "subtitle": "Hablar de la rutina diaria",
+    "description": "Inés explica su mañana con verbos reflexivos y horas sencillas.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "فعل‌های انعکاسی در کارهای روزمره",
+      "objectives": [
+        "Nombrar acciones habituales de la mañana.",
+        "Usar pronombres reflexivos junto a verbos conjugados.",
+        "Describir una secuencia corta de actividades."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "صبح‌ها معمولاً چه کارهایی انجام می‌دهی و چه ساعتی بیدار می‌شوی؟",
+      "questions": [
+        {
+          "q": "از خواب برخاستن در اسپانیایی چه می‌شود؟",
+          "hint_fa": "به «levantarse» فکر کن."
+        },
+        {
+          "q": "پیش از ناهار چه وعده‌ای می‌خوریم؟",
+          "hint_fa": "به «desayunar» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Los verbos reflexivos",
+      "body_fa": "برای کارهایی که فاعل روی خودش انجام می‌دهد از ضمیر انعکاسی استفاده می‌کنیم: «me», «te», «se», «nos» و «se». ضمیر پیش از فعل صرف‌شده می‌آید: «me levanto», «te duchas», «se viste». در مصدر، ضمیر به پایان فعل می‌چسبد: «levantarse», «ducharse». ضمیر باید با فاعل هماهنگ باشد. برای ترتیب کارها می‌توان از «primero», «después» و «por último» استفاده کرد. در جملهٔ ساده جای ضمیر را عوض نمی‌کنیم: می‌گوییم «Me ducho», نه «Ducho me». ساعت را معمولاً با «a las» معرفی می‌کنیم.",
+      "key_points": [
+        "ضمیر انعکاسی با فاعل هماهنگ است.",
+        "پیش از فعل صرف‌شده می‌آید: «me levanto».",
+        "با مصدر به فعل می‌چسبد: «levantarse»."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "despertarse",
+          "ipa": "/des.peɾˈtaɾ.se/",
+          "translation_fa": "بیدارشدن",
+          "example": "Me despierto temprano los días de clase.",
+          "example_fa": "روزهای کلاس زود بیدار می‌شوم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "levantarse",
+          "ipa": "/le.βanˈtaɾ.se/",
+          "translation_fa": "از جا برخاستن",
+          "example": "Mi hermano se levanta a las siete.",
+          "example_fa": "برادرم ساعت هفت از جا بلند می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ducharse",
+          "ipa": "/duˈtʃaɾ.se/",
+          "translation_fa": "دوش‌گرفتن",
+          "example": "Nos duchamos antes del desayuno.",
+          "example_fa": "پیش از صبحانه دوش می‌گیریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "vestirse",
+          "ipa": "/besˈtiɾ.se/",
+          "translation_fa": "لباس‌پوشیدن",
+          "example": "Ella se viste después de ducharse.",
+          "example_fa": "او پس از دوش‌گرفتن لباس می‌پوشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "desayunar",
+          "ipa": "/des.a.ʝuˈnaɾ/",
+          "translation_fa": "صبحانه‌خوردن",
+          "example": "Desayuno fruta y pan en casa.",
+          "example_fa": "در خانه میوه و نان صبحانه می‌خورم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "empezar",
+          "ipa": "/em.peˈsaɾ/",
+          "translation_fa": "شروع‌کردن",
+          "example": "La clase empieza a las ocho.",
+          "example_fa": "کلاس ساعت هشت شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "temprano",
+          "ipa": "/temˈpɾa.no/",
+          "translation_fa": "زود؛ صبح زود",
+          "example": "Mi madre sale temprano al trabajo.",
+          "example_fa": "مادرم صبح زود به محل کار می‌رود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mediodía",
+          "ipa": "/me.ðjoˈði.a/",
+          "translation_fa": "ظهر",
+          "example": "Al mediodía comemos juntos.",
+          "example_fa": "ظهر با هم غذا می‌خوریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "almorzar",
+          "ipa": "/al.moɾˈsaɾ/",
+          "translation_fa": "ناهارخوردن",
+          "example": "Almorzamos cerca de la escuela.",
+          "example_fa": "نزدیک مدرسه ناهار می‌خوریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "descansar",
+          "ipa": "/des.kanˈsaɾ/",
+          "translation_fa": "استراحت‌کردن",
+          "example": "Después de clase descanso un poco.",
+          "example_fa": "پس از کلاس کمی استراحت می‌کنم.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Pronombre reflexivo + verbo",
+      "explanation_fa": "Los verbos reflexivos describen acciones que una persona hace sobre sí misma. El pronombre cambia con el sujeto: «yo me levanto», «tú te levantas», «ella se levanta», «nosotros nos levantamos» y «ustedes se levantan». Con un verbo conjugado, el pronombre va delante: «Me ducho por la mañana». Con el infinitivo, se une al final: «Voy a levantarme» o «Quiero levantarme». No dejamos el pronombre separado detrás de un verbo conjugado. Para contar la rutina, podemos ordenar acciones con «primero», «después» y «por último».",
+      "pattern": "sujeto + pronombre reflexivo + verbo conjugado; infinitivo + se",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo / tú",
+            "Me levanto temprano. ¿Te duchas antes de desayunar?",
+            "من زود بلند می‌شوم. تو پیش از صبحانه دوش می‌گیری؟"
+          ],
+          [
+            "él / ella / usted",
+            "Ella se viste después de ducharse.",
+            "او بعد از دوش‌گرفتن لباس می‌پوشد."
+          ],
+          [
+            "nosotros / nosotras",
+            "Nos levantamos a las siete.",
+            "ما ساعت هفت بلند می‌شویم."
+          ],
+          [
+            "ustedes / ellos / ellas",
+            "Ustedes se despiertan temprano. Ellos se duchan después.",
+            "شما زود بیدار می‌شوید. آن‌ها بعد دوش می‌گیرند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "El pronombre va delante del verbo conjugado.",
+        "Con el infinitivo, el pronombre se une al final: «levantarse»."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Primero me despierto; después me levanto.",
+          "fa": "اول بیدار می‌شوم؛ بعد از جا بلند می‌شوم.",
+          "note_fa": "La secuencia usa dos verbos reflexivos."
+        },
+        {
+          "target": "Mi padre se ducha antes de salir de casa.",
+          "fa": "پدرم پیش از بیرون‌رفتن از خانه دوش می‌گیرد.",
+          "note_fa": "«Se» acompaña a un sujeto singular."
+        },
+        {
+          "target": "Nos vestimos rápido porque la clase empieza temprano.",
+          "fa": "سریع لباس می‌پوشیم، چون کلاس زود شروع می‌شود.",
+          "note_fa": "El pronombre «nos» corresponde a nosotros."
+        },
+        {
+          "target": "¿A qué hora te levantas los sábados?",
+          "fa": "شنبه‌ها چه ساعتی از خواب بلند می‌شوی؟",
+          "note_fa": "La pregunta usa el pronombre «te»."
+        },
+        {
+          "target": "Después de almorzar, mi hermana descansa un rato.",
+          "fa": "خواهرم بعد از ناهار کمی استراحت می‌کند.",
+          "note_fa": "«Descansar» no necesita pronombre reflexivo aquí."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Antes de clase",
+      "script": "Mateo: ¿A qué hora te despiertas, Inés?\nInés: Me despierto a las siete y me levanto enseguida.\nMateo: ¿Te duchas por la mañana?\nInés: Sí, después me visto y desayuno en casa.\nMateo: Yo desayuno con mi familia en la cocina.\nInés: ¿A qué hora empieza tu clase?\nMateo: A las ocho; salgo temprano del barrio.\nInés: Entonces nos vemos después del mediodía.\nMateo: Claro; almorzamos cerca de la escuela.",
+      "script_fa": "ماتئو: اینس، چه ساعتی بیدار می‌شوی؟\nاینس: ساعت هفت بیدار می‌شوم و فوراً بلند می‌شوم.\nماتئو: صبح دوش می‌گیری؟\nاینس: بله، بعد لباس می‌پوشم و در خانه صبحانه می‌خورم.\nماتئو: من در آشپزخانه با خانواده‌ام صبحانه می‌خورم.\nاینس: کلاست چه ساعتی شروع می‌شود؟\nماتئو: ساعت هشت؛ زود از محله بیرون می‌روم.\nاینس: پس بعدازظهر همدیگر را می‌بینیم.\nماتئو: حتماً؛ نزدیک مدرسه ناهار می‌خوریم.",
+      "question_fa": "¿A qué hora se despierta Inés?",
+      "answer": "A las siete.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Comparar rutinas",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Te levantas temprano los días de clase?",
+          "fa": "روزهای کلاس زود از خواب بلند می‌شوی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, me levanto a las seis y media.",
+          "fa": "بله، ساعت شش‌ونیم بلند می‌شوم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Desayunas en casa?",
+          "fa": "در خانه صبحانه می‌خوری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, desayuno con mi madre.",
+          "fa": "بله، با مادرم صبحانه می‌خورم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Tu hermano también se levanta temprano?",
+          "fa": "برادرت هم زود بلند می‌شود؟"
+        },
+        {
+          "speaker": "B",
+          "target": "No, él se despierta más tarde.",
+          "fa": "نه، او دیرتر بیدار می‌شود."
+        },
+        {
+          "speaker": "A",
+          "target": "¿A qué hora empieza su clase?",
+          "fa": "کلاسش چه ساعتی شروع می‌شود؟"
+        },
+        {
+          "speaker": "B",
+          "target": "A las nueve, por eso sale después.",
+          "fa": "ساعت نه؛ برای همین بعدتر بیرون می‌رود."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، صبح خودت را با سه فعل انعکاسی و یک زمان تقریبی توصیف کن.",
+      "useful_phrases": [
+        {
+          "target": "Me despierto temprano.",
+          "fa": "زود بیدار می‌شوم."
+        },
+        {
+          "target": "Me levanto a las siete.",
+          "fa": "ساعت هفت بلند می‌شوم."
+        },
+        {
+          "target": "Me ducho antes de desayunar.",
+          "fa": "پیش از صبحانه دوش می‌گیرم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "La mañana de Inés",
+      "text": "Inés es estudiante y vive con su familia en una ciudad tranquila. Su madre se despierta primero y prepara el desayuno. Inés se levanta a las siete; su hermano se levanta unos minutos después. Los dos se duchan, se visten y desayunan en la cocina. Un amigo de Inés pasa por el barrio cuando va a la escuela. La clase empieza a las ocho y media, así que salen temprano. Al mediodía, Inés almuerza con una profesora y después descansa un poco en el patio. Por la tarde, vuelve a casa y ayuda a su abuela con las plantas.",
+      "glossary": [
+        {
+          "term": "la cocina",
+          "fa": "آشپزخانه"
+        },
+        {
+          "term": "unos minutos después",
+          "fa": "چند دقیقه بعد"
+        },
+        {
+          "term": "el patio",
+          "fa": "حیاط"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Quién prepara el desayuno?",
+          "a": "La madre de Inés."
+        },
+        {
+          "q_fa": "¿A qué hora empieza la clase?",
+          "a": "A las ocho y media."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "ضمیر انعکاسی درست را انتخاب کن.",
+          "question": "Yo ___ levanto a las siete.",
+          "options": [
+            "me",
+            "te",
+            "se"
+          ],
+          "answer": "me",
+          "explanation_fa": "با yo از «me» استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "Mi hermana ___ viste después de ducharse.",
+          "options": [
+            "me",
+            "se",
+            "nos"
+          ],
+          "answer": "se",
+          "explanation_fa": "برای شخص سوم مفرد می‌گوییم «se viste»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل مصدر را انتخاب کن.",
+          "question": "Quiero ___ temprano.",
+          "options": [
+            "levantarme",
+            "me levanto",
+            "te levantar"
+          ],
+          "answer": "levantarme",
+          "explanation_fa": "با مصدر، ضمیر به پایان فعل می‌چسبد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "El pronombre reflexivo va detrás del verbo conjugado.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "پیش از فعل صرف‌شده می‌آید: «me levanto»."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "Nosotros ___ duchamos por la mañana.",
+          "answer": [
+            "nos"
+          ],
+          "explanation_fa": "nos"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿A qué hora se despierta Inés?",
+          "answer": [
+            "A las siete."
+          ],
+          "explanation_fa": "اینس ساعت هفت بیدار می‌شود."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿A qué hora se despierta Inés?",
+          "options": [
+            "A las siete",
+            "A las ocho",
+            "Al mediodía"
+          ],
+          "answer": "A las siete",
+          "explanation_fa": "Inés dice que se despierta a las siete."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Quién prepara el desayuno?",
+          "options": [
+            "La madre",
+            "El profesor",
+            "El vecino"
+          ],
+          "answer": "La madre",
+          "explanation_fa": "La madre prepara el desayuno."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hace Inés después de levantarse?",
+          "options": [
+            "Se ducha y se viste",
+            "Va al hospital",
+            "Pinta un mapa"
+          ],
+          "answer": "Se ducha y se viste",
+          "explanation_fa": "Primero se ducha y se viste."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuándo empieza la clase?",
+          "options": [
+            "A las ocho y media",
+            "A las seis",
+            "A las nueve"
+          ],
+          "answer": "A las ocho y media",
+          "explanation_fa": "El texto indica las ocho y media."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Con quién almuerza Inés?",
+          "options": [
+            "Con una profesora",
+            "Con su médico",
+            "Con sus primos"
+          ],
+          "answer": "Con una profesora",
+          "explanation_fa": "Al mediodía almuerza con una profesora."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Describe tu rutina matutina con verbos reflexivos y cuenta a qué hora haces una actividad.",
+      "suggested_prompts": [
+        "Me despierto temprano.",
+        "Me levanto a las siete.",
+        "Me ducho antes de desayunar."
+      ],
+      "focus": [
+        "verbos reflexivos",
+        "orden de acciones",
+        "la hora"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Inés y Mateo comparan sus rutinas antes de ir a clase."
+  }
+}

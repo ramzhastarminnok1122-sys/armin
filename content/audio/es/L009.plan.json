@@ -1,0 +1,398 @@
+{
+  "lesson": "L009",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L009-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué haces después de clase?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L009-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "A veces dibujo con mi hermano.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L009-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Escuchas música mientras dibujas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L009-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, y a menudo canto también.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L009-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Yo practico baile los viernes.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L009-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "¿Paseas por el barrio después?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L009-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Sí, camino hasta la plaza.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L009-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Podemos dibujar juntos el sábado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L009-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Qué haces en tu tiempo libre, Paula?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L009-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "A menudo practico guitarra y dibujo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L009-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Yo canto en un coro los sábados.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L009-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿También escuchas música en casa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L009-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Sí, mi familia escucha canciones después de cenar.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L009-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Podemos pasear por el parque y luego bailar.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L009-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¡Buena idea! Mi amigo también viene.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L009-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Entonces caminamos juntos hasta la plaza.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L009-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Perfecto; nos vemos el sábado por la tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L009-es-vocab-bailar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "bailar. Mis amigos bailan salsa los sábados.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L009-es-vocab-cantar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "cantar. Canto una canción en el coro escolar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L009-es-vocab-dibujar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "dibujar. Raúl dibuja animales en su cuaderno.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L009-es-vocab-escuchar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "escuchar. Escuchamos música mientras cocinamos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L009-es-vocab-practicar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "practicar. Paula practica guitarra dos veces por semana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L009-es-vocab-caminar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "caminar. Mi familia camina por el parque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L009-es-vocab-pasear",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "pasear. Paseamos por el centro después de clase.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L009-es-vocab-musica",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "música. La música acompaña la tarde de dibujo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L009-es-vocab-amenudo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "a menudo. A menudo canto con mis primos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L009-es-vocab-aveces",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "a veces. A veces dibujamos juntos en casa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L009-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Yo dibujo en casa. ¿Tú cantas en el coro?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L009-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Paula practica guitarra. Raúl baila los sábados.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L009-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Escuchamos música y caminamos por el parque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L009-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Ustedes pasean a veces. Ellos cantan a menudo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L009-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "A menudo dibujo después de clase.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L009-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mis amigos cantan mientras caminamos por el parque.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L009-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "¿Practicas guitarra todos los fines de semana?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L009-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "A veces bailamos en la fiesta del barrio.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L009-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Paula escucha música y Raúl dibuja.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L009-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Raúl es estudiante y su profesor organiza una tarde de actividades en la ciudad. Paula llega con un cuaderno para dibujar; su amigo trae canciones para escuchar. Algunas personas cantan en un coro pequeño y otras practican guitarra en el patio. La familia de Paula suele caminar por el parque los fines de semana. A veces, Raúl pasea con su hermano antes de la actividad. Nadie necesita experiencia: cada persona elige una afición y participa a su ritmo. Al final, todos comparten una merienda y hablan de lo que quieren practicar la próxima semana.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 549
+    },
+    {
+      "id": "L009-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L009)",
+      "tts_text": "در اوقات فراغت چه سرگرمی‌ای داری و هرچند وقت یک‌بار آن را انجام می‌دهی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L009-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L009)",
+      "tts_text": "فعل‌های باقاعدهٔ «-ar» پایان‌های متفاوتی می‌گیرند؛ ریشه ثابت می‌ماند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L009-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L009)",
+      "tts_text": "به گفت‌وگو گوش کن و سرگرمی‌ای را پیدا کن که پائولا اغلب انجام می‌دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L009-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L009)",
+      "tts_text": "می‌گوییم «yo canto»، «tú cantas» و «nosotros cantamos».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L009-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L009)",
+      "tts_text": "سرگرمی‌ات را با «a menudo» یا «a veces» توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L009-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L009)",
+      "tts_text": "پایان فعل را با فاعل هماهنگ کن و قید بسامد را اضافه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    }
+  ]
+}
