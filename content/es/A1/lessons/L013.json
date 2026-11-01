@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 13,
+    "title": "¿Qué tiempo hace hoy?",
+    "subtitle": "Hablar del clima",
+    "description": "Pablo y Sara deciden qué llevar para caminar por la ciudad.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "El tiempo y expresiones impersonales para el clima",
+      "objectives": [
+        "Nombrar el tiempo y algunos cambios del clima.",
+        "Usar hace, hay y llueve para describir el día.",
+        "Relacionar el clima con una actividad cotidiana."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور هوای امروز را توصیف می‌کنی و برای بیرون‌رفتن چه چیزی برمی‌داری؟",
+      "questions": [
+        {
+          "q": "آسمانی که ابر دارد چه وضعی دارد؟",
+          "hint_fa": "به واژهٔ «nublado» فکر کن."
+        },
+        {
+          "q": "چیزی که هنگام باران بالای سر می‌گیری چیست؟",
+          "hint_fa": "به واژهٔ «paraguas» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Expresiones para hablar del clima",
+      "body_fa": "برای توصیف هوا از چند ساختار پرکاربرد استفاده می‌کنیم: «hace frío», «hace calor» و «hace sol»؛ در این عبارت‌ها فعل «hacer» به شکل سوم‌شخص مفرد می‌آید. برای وجود ابر یا باد می‌گوییم «hay nubes» یا «hay viento». باران‌آمدن را با فعل «llover» بیان می‌کنیم: «llueve». برای وضعیت هوا می‌توان از صفت‌هایی مانند «nublado» و «soleado» استفاده کرد. این عبارت‌ها معمولاً دربارهٔ هوا هستند و فاعل شخصی ندارند. می‌توانیم آن‌ها را با زمان یا مکان همراه کنیم: «Hoy hace frío en la ciudad».",
+      "key_points": [
+        "برای دما از «hace frío/calor» استفاده کن.",
+        "برای وجود پدیده می‌گوییم «hay nubes».",
+        "باران می‌بارد: «llueve»."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "clima",
+          "ipa": "/ˈkli.ma/",
+          "translation_fa": "آب‌وهوا",
+          "example": "El clima cambia mucho en la montaña.",
+          "example_fa": "آب‌وهوا در کوهستان خیلی تغییر می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "sol",
+          "ipa": "/sol/",
+          "translation_fa": "خورشید؛ هوای آفتابی",
+          "example": "Hoy hace sol en la plaza.",
+          "example_fa": "امروز در میدان هوا آفتابی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "lluvia",
+          "ipa": "/ˈʝu.βja/",
+          "translation_fa": "باران",
+          "example": "La lluvia empieza por la tarde.",
+          "example_fa": "باران بعدازظهر شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "viento",
+          "ipa": "/ˈbjen.to/",
+          "translation_fa": "باد",
+          "example": "Hay viento cerca del puente.",
+          "example_fa": "نزدیک پل باد می‌وزد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "nube",
+          "ipa": "/ˈnu.βe/",
+          "translation_fa": "ابر",
+          "example": "Una nube oscura cubre el sol.",
+          "example_fa": "ابری تیره خورشید را می‌پوشاند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "nublado, nublada",
+          "ipa": "/nuˈβla.ðo/, /nuˈβla.ða/",
+          "translation_fa": "ابری",
+          "example": "El cielo está nublado esta mañana.",
+          "example_fa": "آسمان امروز صبح ابری است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "calor",
+          "ipa": "/kaˈloɾ/",
+          "translation_fa": "گرما",
+          "example": "En verano hace mucho calor.",
+          "example_fa": "تابستان هوا خیلی گرم است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "frío, fría",
+          "ipa": "/ˈfɾi.o/, /ˈfɾi.a/",
+          "translation_fa": "سرد",
+          "example": "Por la noche hace frío en el campo.",
+          "example_fa": "شب در دشت هوا سرد است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "chaqueta",
+          "ipa": "/tʃaˈke.ta/",
+          "translation_fa": "ژاکت",
+          "example": "Llevo una chaqueta cuando hace frío.",
+          "example_fa": "وقتی هوا سرد است ژاکت می‌پوشم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "paraguas",
+          "ipa": "/paˈɾa.ɣwas/",
+          "translation_fa": "چتر",
+          "example": "Sara lleva un paraguas en la mochila.",
+          "example_fa": "سارا در کوله‌پشتی‌اش چتر دارد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Hace / hay / llueve",
+      "explanation_fa": "Para describir el tiempo, usamos «hace» en expresiones como «hace calor», «hace frío» y «hace sol». Para decir que existe un fenómeno, empleamos «hay»: «hay viento», «hay nubes». La lluvia se expresa con «llueve»: «Hoy llueve en el norte». Estas fórmulas suelen aparecer sin un sujeto personal. También podemos usar «está nublado» para describir el cielo. Añadimos el momento del día al comienzo o al final: «Por la mañana hace sol» o «Hace frío por la noche».",
+      "pattern": "hace + calor / frío / sol; hay + fenómeno; llueve",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "temperatura",
+            "Hace calor en verano. Hace frío en invierno.",
+            "تابستان هوا گرم است. زمستان سرد است."
+          ],
+          [
+            "fenómeno",
+            "Hay nubes y hay viento.",
+            "ابر هست و باد می‌وزد."
+          ],
+          [
+            "lluvia",
+            "Llueve mucho por la tarde.",
+            "بعدازظهر زیاد باران می‌بارد."
+          ],
+          [
+            "cielo",
+            "El cielo está nublado hoy.",
+            "امروز آسمان ابری است."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Usar «hace» para temperatura y sol.",
+        "Usar «hay» para decir que existe viento o nube."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Hoy hace sol y caminamos por la plaza.",
+          "fa": "امروز هوا آفتابی است و در میدان قدم می‌زنیم.",
+          "note_fa": "«Hace sol» describe el tiempo."
+        },
+        {
+          "target": "Hay una nube grande sobre la montaña.",
+          "fa": "ابری بزرگ بالای کوه است.",
+          "note_fa": "«Hay» presenta algo que existe."
+        },
+        {
+          "target": "Cuando llueve, llevo mi paraguas.",
+          "fa": "وقتی باران می‌بارد چترم را می‌برم.",
+          "note_fa": "«Llueve» es la forma impersonal del verbo."
+        },
+        {
+          "target": "El cielo está nublado, pero no hace frío.",
+          "fa": "آسمان ابری است، اما هوا سرد نیست.",
+          "note_fa": "«Nublado» describe el cielo."
+        },
+        {
+          "target": "¿Hace viento cerca de tu casa?",
+          "fa": "نزدیک خانه‌ات باد می‌وزد؟",
+          "note_fa": "La pregunta usa «hace viento»."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un paseo con clima cambiante",
+      "script": "Sara: ¿Qué tiempo hace hoy en la ciudad?\nPablo: Hace frío y hay muchas nubes oscuras sobre el barrio.\nSara: ¿Llueve en este momento?\nPablo: No, pero hay bastante viento cerca del río esta mañana.\nSara: Entonces llevo una chaqueta, un paraguas y una bufanda.\nPablo: Buena idea; el cielo está nublado.\nSara: ¿Caminamos hasta la plaza?\nPablo: Sí, si no llueve por la tarde.\nSara: Perfecto; salimos después de clase.",
+      "script_fa": "سارا: امروز در شهر هوا چطور است؟\nپابلو: هوا سرد است و ابرهای تیرهٔ زیادی بالای محله هستند.\nسارا: الان باران می‌بارد؟\nپابلو: نه، اما امروز صبح نزدیک رودخانه باد نسبتاً شدیدی می‌وزد.\nسارا: پس یک ژاکت، یک چتر و یک شال برمی‌دارم.\nپابلو: فکر خوبی است؛ آسمان ابری است.\nسارا: تا میدان پیاده برویم؟\nپابلو: بله، اگر بعدازظهر باران نبارد.\nسارا: عالی؛ بعد از کلاس بیرون می‌رویم.",
+      "question_fa": "¿Qué dice Sara que lleva?",
+      "answer": "Llevo una chaqueta, un paraguas y una bufanda.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Decidir según el clima",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Hace frío en la ciudad hoy?",
+          "fa": "امروز در شهر هوا سرد است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, y hay bastante viento.",
+          "fa": "بله، و باد نسبتاً شدیدی می‌وزد."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Llevas una chaqueta?",
+          "fa": "ژاکت همراهت داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí; también llevo un paraguas.",
+          "fa": "بله؛ چتر هم دارم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Llueve ahora?",
+          "fa": "الان باران می‌بارد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "No, pero el cielo está nublado.",
+          "fa": "نه، اما آسمان ابری است."
+        },
+        {
+          "speaker": "A",
+          "target": "Podemos caminar hasta el mercado.",
+          "fa": "می‌توانیم تا بازار پیاده برویم."
+        },
+        {
+          "speaker": "B",
+          "target": "De acuerdo; salimos después de clase.",
+          "fa": "قبول؛ بعد از کلاس بیرون می‌رویم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، هوای امروز را توصیف کن و بگو چه چیزی همراهت می‌بری.",
+      "useful_phrases": [
+        {
+          "target": "Hace frío hoy.",
+          "fa": "امروز هوا سرد است."
+        },
+        {
+          "target": "Hay nubes en el cielo.",
+          "fa": "در آسمان ابر هست."
+        },
+        {
+          "target": "Llevo una chaqueta.",
+          "fa": "ژاکت همراه می‌برم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Un día de clima variable",
+      "text": "Pablo vive con su familia en una ciudad cerca de las montañas. Por la mañana suele hacer sol, pero algunas tardes hay nubes y viento. Un estudiante del barrio consulta el clima antes de salir; su amigo lleva una chaqueta ligera en la mochila. Cuando llueve, la plaza queda casi vacía y las personas buscan un lugar cubierto. A Sara le gusta caminar junto al río, aunque prefiere los días soleados. El profesor de ciencias explica que el clima puede cambiar rápido en esa zona. Antes del paseo, todos miran el cielo y deciden si llevan paraguas.",
+      "glossary": [
+        {
+          "term": "variable",
+          "fa": "متغیر"
+        },
+        {
+          "term": "cubierto",
+          "fa": "سرپوشیده"
+        },
+        {
+          "term": "la zona",
+          "fa": "منطقه"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué lleva el amigo en la mochila?",
+          "a": "Una chaqueta ligera."
+        },
+        {
+          "q_fa": "¿Cuándo queda vacía la plaza?",
+          "a": "Cuando llueve."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "ساختار درست را انتخاب کن.",
+          "question": "Hoy ___ frío.",
+          "options": [
+            "hace",
+            "hay",
+            "llueven"
+          ],
+          "answer": "hace",
+          "explanation_fa": "برای دما می‌گوییم «hace frío»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "___ nubes sobre la ciudad.",
+          "options": [
+            "Hay",
+            "Hace",
+            "Está"
+          ],
+          "answer": "Hay",
+          "explanation_fa": "برای وجود ابر از «hay» استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل مناسب را انتخاب کن.",
+          "question": "Cuando ___, llevo un paraguas.",
+          "options": [
+            "llueve",
+            "lluevea",
+            "llueven"
+          ],
+          "answer": "llueve",
+          "explanation_fa": "باران با «llueve» بیان می‌شود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Hace calor» significa que la temperatura es baja.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "«Hace calor» یعنی هوا گرم است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "عبارت را کامل کن.",
+          "question": "En verano hace mucho ___.",
+          "answer": [
+            "calor"
+          ],
+          "explanation_fa": "calor"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué lleva Sara?",
+          "answer": [
+            "Su chaqueta y el paraguas."
+          ],
+          "explanation_fa": "سارا ژاکت و چتر همراه دارد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué tiempo hace en la ciudad?",
+          "options": [
+            "Hace frío y hay nubes",
+            "Hace mucho calor",
+            "Nieva todo el día"
+          ],
+          "answer": "Hace frío y hay nubes",
+          "explanation_fa": "Pablo describe frío y nubes."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué fenómeno hay cerca del río?",
+          "options": [
+            "Viento",
+            "Nieve",
+            "Mucho sol"
+          ],
+          "answer": "Viento",
+          "explanation_fa": "Pablo dice que hay viento."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué lleva Sara?",
+          "options": [
+            "Una chaqueta y un paraguas",
+            "Solo una camiseta",
+            "Un mapa y una bolsa"
+          ],
+          "answer": "Una chaqueta y un paraguas",
+          "explanation_fa": "Sara lleva abrigo y paraguas."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuándo queda casi vacía la plaza?",
+          "options": [
+            "Cuando llueve",
+            "Cuando hace sol",
+            "Al mediodía"
+          ],
+          "answer": "Cuando llueve",
+          "explanation_fa": "La lectura lo explica."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Quién explica el cambio del clima?",
+          "options": [
+            "El profesor de ciencias",
+            "La médica",
+            "La vendedora"
+          ],
+          "answer": "El profesor de ciencias",
+          "explanation_fa": "El profesor explica el clima."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Eres un estudiante que prepara un paseo con una amistad; describe el tiempo de hoy y di qué ropa u objeto llevas.",
+      "suggested_prompts": [
+        "Hace frío hoy.",
+        "Hay nubes en el cielo.",
+        "Llevo una chaqueta."
+      ],
+      "focus": [
+        "clima",
+        "hace / hay / llueve",
+        "ropa para el tiempo"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Pablo consulta el clima antes de caminar con Sara."
+  }
+}
