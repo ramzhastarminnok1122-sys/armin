@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 16,
+    "title": "En el restaurante",
+    "subtitle": "Pedir comida con cortesía",
+    "description": "Una clienta elige un plato y hace una petición sencilla.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Pedir comida y usar querer en presente",
+      "objectives": [
+        "Nombrar elementos de un restaurante.",
+        "Pedir un plato o una bebida con quiero.",
+        "Conjugar querer en presente."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور در رستوران غذای مورد علاقه‌ات را مؤدبانه سفارش می‌دهی؟",
+      "questions": [
+        {
+          "q": "جایی که سفارش غذا می‌دهیم چه نام دارد؟",
+          "hint_fa": "به واژهٔ «restaurante» فکر کن."
+        },
+        {
+          "q": "در پایان غذا چه چیزی را می‌خواهیم؟",
+          "hint_fa": "به واژهٔ «cuenta» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Querer para pedir",
+      "body_fa": "برای درخواست غذا از «querer» و نام خوراکی استفاده می‌کنیم: «Quiero una sopa, por favor». فعل «querer» در زمان حال بی‌قاعده است: «yo quiero», «tú quieres», «él/ella quiere», «nosotros queremos» و «ustedes quieren». برای درخواست مؤدبانه، عبارت «por favor» را اضافه می‌کنیم و پس از دریافت سفارش می‌گوییم «gracias». نام خوراکی مفرد یا جمع می‌تواند پس از فعل بیاید: «Quiero un café», «Queremos dos ensaladas». در رستوران می‌توانیم منو را بخواهیم، سفارش بدهیم و در پایان صورت‌حساب را درخواست کنیم: «¿Nos trae la cuenta, por favor?».",
+      "key_points": [
+        "با yo می‌گوییم «quiero» و با tú «quieres».",
+        "درخواست را با «por favor» مؤدبانه می‌کنیم.",
+        "برای صورت‌حساب می‌گوییم «la cuenta»."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "restaurante",
+          "ipa": "/res.tawˈɾan.te/",
+          "translation_fa": "رستوران",
+          "example": "El restaurante está cerca del mercado.",
+          "example_fa": "رستوران نزدیک بازار است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "camarero, camarera",
+          "ipa": "/ka.maˈɾe.ɾo/, /ka.maˈɾe.ɾa/",
+          "translation_fa": "گارسون",
+          "example": "La camarera trae el menú a la mesa.",
+          "example_fa": "گارسون منو را سر میز می‌آورد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "menú",
+          "ipa": "/meˈnu/",
+          "translation_fa": "منو",
+          "example": "El menú tiene platos sencillos.",
+          "example_fa": "منو غذاهای ساده‌ای دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mesa",
+          "ipa": "/ˈme.sa/",
+          "translation_fa": "میز",
+          "example": "Nuestra mesa está junto a la ventana.",
+          "example_fa": "میز ما کنار پنجره است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cuenta",
+          "ipa": "/ˈkwen.ta/",
+          "translation_fa": "صورت‌حساب",
+          "example": "Pedimos la cuenta al final.",
+          "example_fa": "در پایان صورت‌حساب را می‌خواهیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "café",
+          "ipa": "/kaˈfe/",
+          "translation_fa": "قهوه",
+          "example": "Mi padre quiere un café pequeño.",
+          "example_fa": "پدرم یک قهوهٔ کوچک می‌خواهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "té",
+          "ipa": "/te/",
+          "translation_fa": "چای",
+          "example": "¿Quieres té con limón?",
+          "example_fa": "چای با لیمو می‌خواهی؟",
+          "tag": "اسم"
+        },
+        {
+          "term": "postre",
+          "ipa": "/ˈpos.tɾe/",
+          "translation_fa": "دسر",
+          "example": "Compartimos fruta como postre.",
+          "example_fa": "میوه را به‌عنوان دسر تقسیم می‌کنیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pedir",
+          "ipa": "/peˈðiɾ/",
+          "translation_fa": "درخواست‌کردن؛ سفارش‌دادن",
+          "example": "Quiero pedir una sopa caliente.",
+          "example_fa": "می‌خواهم یک سوپ گرم سفارش بدهم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "servir",
+          "ipa": "/seɾˈβiɾ/",
+          "translation_fa": "سروکردن",
+          "example": "El camarero sirve agua en vasos.",
+          "example_fa": "گارسون آب را در لیوان‌ها می‌ریزد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Querer + comida o bebida",
+      "explanation_fa": "Usamos «querer» para pedir algo: «Quiero una sopa», «¿Quieres un té?». Sus formas en presente son «quiero», «quieres», «quiere», «queremos» y «quieren». La vocal cambia en varias personas, pero no en «nosotros»: queremos. Para pedir con cortesía, añadimos «por favor»: «Quiero un café, por favor». En un restaurante, primero podemos pedir el menú, después elegir un plato y una bebida, y al final pedir la cuenta. «Pedir» significa solicitar; «servir» describe la acción del personal que trae la comida.",
+      "pattern": "sujeto + querer + plato / bebida; pedir + objeto + por favor",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo / tú",
+            "Quiero una sopa. ¿Quieres un té?",
+            "یک سوپ می‌خواهم. چای می‌خواهی؟"
+          ],
+          [
+            "él / ella / usted",
+            "Ella quiere ensalada. Usted quiere café.",
+            "او سالاد می‌خواهد. شما قهوه می‌خواهید."
+          ],
+          [
+            "nosotros / nosotras",
+            "Queremos dos platos de arroz.",
+            "دو بشقاب برنج می‌خواهیم."
+          ],
+          [
+            "ustedes / ellos / ellas",
+            "¿Quieren la cuenta? Ellos quieren postre.",
+            "صورت‌حساب می‌خواهید؟ آن‌ها دسر می‌خواهند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Con nosotros, la forma es «queremos».",
+        "Añadir «por favor» para una petición amable."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Quiero una ensalada y agua, por favor.",
+          "fa": "لطفاً سالاد و آب می‌خواهم.",
+          "note_fa": "«Quiero» expresa una petición."
+        },
+        {
+          "target": "¿Quieres compartir el postre?",
+          "fa": "می‌خواهی دسر را تقسیم کنیم؟",
+          "note_fa": "«Quieres» corresponde a tú."
+        },
+        {
+          "target": "La camarera sirve café después de la comida.",
+          "fa": "گارسون پس از غذا قهوه سرو می‌کند.",
+          "note_fa": "El verbo «servir» describe una acción del personal."
+        },
+        {
+          "target": "Queremos una mesa cerca de la ventana.",
+          "fa": "میزی نزدیک پنجره می‌خواهیم.",
+          "note_fa": "«Queremos» se usa con nosotros."
+        },
+        {
+          "target": "Al final pedimos la cuenta.",
+          "fa": "در پایان صورت‌حساب را می‌خواهیم.",
+          "note_fa": "«Pedir» es solicitar algo."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Una comida familiar",
+      "script": "Camarera: Buenas tardes, ¿quieren ver el menú completo de hoy?\nMarta: Sí, gracias. Yo quiero una sopa de verduras con pan fresco.\nLuis: Yo quiero pollo con arroz y agua, y una ensalada para compartir.\nCamarera: ¿Quieren algo más para beber con la comida?\nMarta: Un té con limón, por favor.\nLuis: ¿Compartimos fruta como postre?\nMarta: Sí, buena idea.\nCamarera: Enseguida les sirvo la comida.\nLuis: Gracias; después pedimos la cuenta.",
+      "script_fa": "گارسون: عصر بخیر، منوی کامل امروز را می‌خواهید ببینید؟\nمارتا: بله، ممنون. من سوپ سبزیجات با نان تازه می‌خواهم.\nلوئیس: من مرغ با برنج و آب و یک سالاد برای تقسیم می‌خواهم.\nگارسون: نوشیدنی دیگری همراه غذا می‌خواهید؟\nمارتا: لطفاً چای با لیمو.\nلوئیس: میوه را برای دسر تقسیم کنیم؟\nمارتا: بله، فکر خوبی است.\nگارسون: همین حالا غذا را برایتان می‌آورم.\nلوئیس: ممنون؛ بعد صورت‌حساب را می‌خواهیم.",
+      "question_fa": "¿Qué quiere Marta de beber?",
+      "answer": "Un té con limón.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Pedir en una cafetería",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Qué quieres pedir?",
+          "fa": "چه چیزی می‌خواهی سفارش بدهی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Quiero un café y una tostada.",
+          "fa": "یک قهوه و نان برشته می‌خواهم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Quieres algo para compartir?",
+          "fa": "چیزی برای تقسیم می‌خواهی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, pedimos fruta como postre.",
+          "fa": "بله، میوه برای دسر می‌خواهیم."
+        },
+        {
+          "speaker": "A",
+          "target": "La cuenta, por favor.",
+          "fa": "لطفاً صورت‌حساب."
+        },
+        {
+          "speaker": "B",
+          "target": "La camarera la trae enseguida.",
+          "fa": "گارسون همین حالا آن را می‌آورد."
+        },
+        {
+          "speaker": "A",
+          "target": "Gracias; la comida está muy rica.",
+          "fa": "ممنون؛ غذا خیلی خوشمزه است."
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, volvemos la próxima semana.",
+          "fa": "بله، هفتهٔ آینده برمی‌گردیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، در رستوران غذایت را با «quiero» و «por favor» سفارش بده.",
+      "useful_phrases": [
+        {
+          "target": "Quiero una sopa, por favor.",
+          "fa": "لطفاً یک سوپ می‌خواهم."
+        },
+        {
+          "target": "Quiero agua también.",
+          "fa": "آب هم می‌خواهم."
+        },
+        {
+          "target": "Pedimos la cuenta al final.",
+          "fa": "در پایان صورت‌حساب را می‌خواهیم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una comida después de clase",
+      "text": "La familia de Marta visita un restaurante del barrio después de clase. El camarero les trae el menú y todos miran los platos. A Marta le gusta la sopa de verduras; su hermano quiere pollo con arroz. Un amigo de la familia pide una ensalada y agua. La mesa está cerca de una ventana, desde donde se ve la plaza. Después de comer, comparten fruta como postre. La camarera sirve té y café. Antes de salir, piden la cuenta y agradecen el servicio. La familia planea volver otro día con una estudiante nueva.",
+      "glossary": [
+        {
+          "term": "el plato",
+          "fa": "غذا؛ بشقاب"
+        },
+        {
+          "term": "agradecer",
+          "fa": "سپاس‌گزاری‌کردن"
+        },
+        {
+          "term": "el servicio",
+          "fa": "خدمات"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué quiere el hermano?",
+          "a": "Pollo con arroz."
+        },
+        {
+          "q_fa": "¿Qué comparten como postre?",
+          "a": "Fruta."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست را انتخاب کن.",
+          "question": "Yo ___ una sopa.",
+          "options": [
+            "quiero",
+            "quieres",
+            "quieren"
+          ],
+          "answer": "quiero",
+          "explanation_fa": "با yo می‌گوییم «quiero»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "ضمیر را کامل کن.",
+          "question": "¿Tú ___ un té?",
+          "options": [
+            "quieres",
+            "quiere",
+            "queremos"
+          ],
+          "answer": "quieres",
+          "explanation_fa": "با tú می‌گوییم «quieres»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت سفارش را انتخاب کن.",
+          "question": "___ una mesa, por favor.",
+          "options": [
+            "Queremos",
+            "Quieren",
+            "Quieres"
+          ],
+          "answer": "Queremos",
+          "explanation_fa": "فاعل ما است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Queremos» se usa con nosotros.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "این صرف با nosotros می‌آید."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "La camarera ___ la comida. (servir)",
+          "answer": [
+            "sirve"
+          ],
+          "explanation_fa": "sirve"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué quiere Marta?",
+          "answer": [
+            "Una sopa de verduras y un té con limón."
+          ],
+          "explanation_fa": "مارتا سوپ سبزیجات و چای با لیمو می‌خواهد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué quiere Marta?",
+          "options": [
+            "Sopa y té",
+            "Pollo y café",
+            "Solo fruta"
+          ],
+          "answer": "Sopa y té",
+          "explanation_fa": "Marta pide sopa y té."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué quiere Luis?",
+          "options": [
+            "Pollo con arroz y agua",
+            "Una ensalada y café",
+            "Té con limón"
+          ],
+          "answer": "Pollo con arroz y agua",
+          "explanation_fa": "Luis menciona pollo, arroz y agua."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué comparten de postre?",
+          "options": [
+            "Fruta",
+            "Pastel",
+            "Helado"
+          ],
+          "answer": "Fruta",
+          "explanation_fa": "Marta y Luis comparten fruta."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde está la mesa?",
+          "options": [
+            "Cerca de una ventana",
+            "Junto a la cocina",
+            "En la terraza"
+          ],
+          "answer": "Cerca de una ventana",
+          "explanation_fa": "La mesa está cerca de una ventana."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué piden al final?",
+          "options": [
+            "La cuenta",
+            "Otro menú",
+            "Un taxi"
+          ],
+          "answer": "La cuenta",
+          "explanation_fa": "Piden la cuenta antes de salir."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Pide un plato y una bebida con cortesía; después pregunta por la cuenta.",
+      "suggested_prompts": [
+        "Quiero una sopa, por favor.",
+        "Quiero agua también.",
+        "Pedimos la cuenta al final."
+      ],
+      "focus": [
+        "querer",
+        "pedir comida",
+        "por favor"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Una familia pide comida antes de visitar a unos amigos."
+  }
+}

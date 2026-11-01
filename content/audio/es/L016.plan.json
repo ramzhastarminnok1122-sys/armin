@@ -1,0 +1,398 @@
+{
+  "lesson": "L016",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L016-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué quieres pedir?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L016-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Quiero un café y una tostada.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L016-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Quieres algo para compartir?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L016-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, pedimos fruta como postre.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L016-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La cuenta, por favor.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L016-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "La camarera la trae enseguida.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L016-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Gracias; la comida está muy rica.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L016-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, volvemos la próxima semana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L016-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Buenas tardes, ¿quieren ver el menú completo de hoy?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L016-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Sí, gracias. Yo quiero una sopa de verduras con pan fresco.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L016-es-listening-3",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "Yo quiero pollo con arroz y agua, y una ensalada para compartir.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 64
+    },
+    {
+      "id": "L016-es-listening-4",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "¿Quieren algo más para beber con la comida?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L016-es-listening-5",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "Un té con limón, por favor.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L016-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Compartimos fruta como postre?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L016-es-listening-7",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "Sí, buena idea.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 15
+    },
+    {
+      "id": "L016-es-listening-8",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Enseguida les sirvo la comida.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L016-es-listening-9",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[8]",
+      "tts_text": "Gracias; después pedimos la cuenta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L016-es-vocab-restaurante",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "restaurante. El restaurante está cerca del mercado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L016-es-vocab-camarerocamarera",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "camarero, camarera. La camarera trae el menú a la mesa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L016-es-vocab-menu",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "menú. El menú tiene platos sencillos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L016-es-vocab-mesa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "mesa. Nuestra mesa está junto a la ventana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L016-es-vocab-cuenta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "cuenta. Pedimos la cuenta al final.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L016-es-vocab-cafe",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "café. Mi padre quiere un café pequeño.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L016-es-vocab-te",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "té. ¿Quieres té con limón?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L016-es-vocab-postre",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "postre. Compartimos fruta como postre.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L016-es-vocab-pedir",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "pedir. Quiero pedir una sopa caliente.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L016-es-vocab-servir",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "servir. El camarero sirve agua en vasos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L016-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Quiero una sopa. ¿Quieres un té?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L016-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Ella quiere ensalada. Usted quiere café.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L016-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Queremos dos platos de arroz.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L016-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "¿Quieren la cuenta? Ellos quieren postre.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L016-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Quiero una ensalada y agua, por favor.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L016-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "¿Quieres compartir el postre?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L016-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La camarera sirve café después de la comida.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L016-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Queremos una mesa cerca de la ventana.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L016-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Al final pedimos la cuenta.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L016-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "La familia de Marta visita un restaurante del barrio después de clase. El camarero les trae el menú y todos miran los platos. A Marta le gusta la sopa de verduras; su hermano quiere pollo con arroz. Un amigo de la familia pide una ensalada y agua. La mesa está cerca de una ventana, desde donde se ve la plaza. Después de comer, comparten fruta como postre. La camarera sirve té y café. Antes de salir, piden la cuenta y agradecen el servicio. La familia planea volver otro día con una estudiante nueva.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 503
+    },
+    {
+      "id": "L016-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L016)",
+      "tts_text": "چطور در رستوران غذای مورد علاقه‌ات را مؤدبانه سفارش می‌دهی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L016-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L016)",
+      "tts_text": "برای سفارش با «querer» می‌گوییم «quiero» و عبارت «por favor» را اضافه می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L016-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L016)",
+      "tts_text": "به گفت‌وگو گوش کن و سفارش مارتا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 43
+    },
+    {
+      "id": "L016-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L016)",
+      "tts_text": "با «yo» می‌گوییم «quiero» و با «nosotros» «queremos».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L016-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L016)",
+      "tts_text": "یک غذا و نوشیدنی سفارش بده و صورت‌حساب را بخواه.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L016-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L016)",
+      "tts_text": "سفارش را با «por favor» مؤدبانه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 35
+    }
+  ]
+}
