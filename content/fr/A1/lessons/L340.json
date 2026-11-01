@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 340,
+    "title": "Hugo recharge sa liseuse avant le voyage",
+    "subtitle": "Gérer la batterie et la lecture",
+    "description": "Hugo prépare sa liseuse et vérifie sa batterie avant le départ.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان دستگاه مطالعه و صرف فعل recharger در زمان حال",
+      "objectives": [
+        "Préparer une liseuse pour un déplacement.",
+        "Comprendre les réglages simples de batterie et d’écran.",
+        "Conjuguer recharger au présent, notamment rechargeons."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "پیش از سفر با کتاب‌خوان الکترونیکی، چطور باتری را حفظ می‌کنی؟",
+      "questions": [
+        {
+          "q": "وسیله‌ای که دستگاه را به برق وصل می‌کند چیست؟",
+          "hint_fa": "به عبارت «câble de recharge» فکر کن."
+        },
+        {
+          "q": "تنظیم نور صفحه را چه می‌نامیم؟",
+          "hint_fa": "به عبارت «réglage de luminosité» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Recharger un appareil",
+      "body_fa": "پیش از سفر، خوب است شارژ دستگاه مطالعه را بررسی کنیم. فعل «recharger» در زمان حال صرف می‌شود: «je recharge»، «tu recharges»، «il/elle recharge»، «nous rechargeons»، «vous rechargez» و «ils/elles rechargent». چون این فعل به «-ger» ختم می‌شود، در شکل «nous» پس از g یک e می‌آید تا صدای نرم /ʒ/ حفظ شود. برای شارژ از کابل و آداپتور مناسب استفاده می‌کنیم. می‌توانیم روشنایی صفحه را کم کنیم و حالت هواپیما را فعال کنیم تا باتری دیرتر خالی شود. پیش از حرکت، بهتر است یک کتاب را هم برای مطالعهٔ بدون اینترنت آماده کنیم.",
+      "key_points": [
+        "در صرف recharger با nous، پس از g حرف e می‌آید.",
+        "کابل و آداپتور برای شارژ دستگاه به کار می‌روند.",
+        "کاهش روشنایی می‌تواند باتری را حفظ کند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "une batterie pleine",
+          "ipa": "/yn ba.tʁi plɛn/",
+          "translation_fa": "باتری پر",
+          "example": "Hugo part avec une batterie pleine.",
+          "example_fa": "هوگو با باتری پر حرکت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un câble de recharge",
+          "ipa": "/œ̃ kabl də ʁə.ʃaʁʒ/",
+          "translation_fa": "کابل شارژ",
+          "example": "Le câble de recharge reste dans son sac.",
+          "example_fa": "کابل شارژ در کیفش می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un adaptateur secteur",
+          "ipa": "/œ̃ na.dap.ta.tœʁ sɛk.tœʁ/",
+          "translation_fa": "آداپتور برق",
+          "example": "Mina branche l’adaptateur secteur près du bureau.",
+          "example_fa": "مینا آداپتور برق را نزدیک میز وصل می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "le mode avion",
+          "ipa": "/lə mɔd a.vjɔ̃/",
+          "translation_fa": "حالت هواپیما",
+          "example": "Le mode avion coupe la connexion sans fil.",
+          "example_fa": "حالت هواپیما اتصال بی‌سیم را قطع می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un écran tactile",
+          "ipa": "/œ̃ ne.kʁɑ̃ tak.til/",
+          "translation_fa": "صفحه‌نمایش لمسی",
+          "example": "L’écran tactile répond au doigt de Hugo.",
+          "example_fa": "صفحه‌نمایش لمسی به انگشت هوگو پاسخ می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un réglage de luminosité",
+          "ipa": "/œ̃ ʁe.ɡlaʒ də ly.mi.nɔ.zi.te/",
+          "translation_fa": "تنظیم روشنایی",
+          "example": "Un réglage de luminosité faible économise la batterie.",
+          "example_fa": "تنظیم روشنایی کم در باتری صرفه‌جویی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un signet numérique",
+          "ipa": "/œ̃ si.ɲɛ ny.me.ʁik/",
+          "translation_fa": "نشانک دیجیتال",
+          "example": "Hugo place un signet numérique au bon chapitre.",
+          "example_fa": "هوگو نشانکی دیجیتال در فصل مناسب می‌گذارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une lecture hors ligne",
+          "ipa": "/yn lɛk.tyʁ ɔʁ liɲ/",
+          "translation_fa": "مطالعه بدون اینترنت",
+          "example": "La lecture hors ligne fonctionne dans le train.",
+          "example_fa": "مطالعهٔ بدون اینترنت در قطار کار می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un temps d’écran",
+          "ipa": "/œ̃ tɑ̃ de.kʁɑ̃/",
+          "translation_fa": "مدت استفاده از صفحه",
+          "example": "Mina limite son temps d’écran le soir.",
+          "example_fa": "مینا شب‌ها مدت استفاده از صفحه را محدود می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une liseuse chargée",
+          "ipa": "/yn li.zøz ʃaʁ.ʒe/",
+          "translation_fa": "کتاب‌خوان شارژشده",
+          "example": "Une liseuse chargée accompagne Hugo en voyage.",
+          "example_fa": "کتاب‌خوان شارژشده در سفر همراه هوگو است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de recharger",
+      "explanation_fa": "«Recharger» est un verbe régulier en «-er». Au présent, on dit «je recharge», «tu recharges», «il ou elle recharge», «nous rechargeons», «vous rechargez» et «ils rechargent». Comme le verbe se termine par «-ger», on garde le son doux /ʒ/ avec un «e» après le «g» devant «o»: «nous rechargeons». On recharge une liseuse, un téléphone ou une batterie externe avec un câble adapté. Avant un trajet, on vérifie le niveau de batterie et on choisit une luminosité confortable. Le mode avion peut couper la connexion sans fil pendant la lecture hors ligne.",
+      "pattern": "sujet + recharger au présent + appareil / batterie + avec + câble",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je recharge ma liseuse avant le voyage. Tu recharges la batterie avec ce câble.",
+            "من پیش از سفر کتاب‌خوانم را شارژ می‌کنم. تو باتری را با این کابل شارژ می‌کنی."
+          ],
+          [
+            "il / elle",
+            "Hugo recharge son appareil près de la prise.",
+            "هوگو دستگاهش را نزدیک پریز شارژ می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous rechargeons les liseuses avant le départ. Vous rechargez votre appareil avec un adaptateur.",
+            "ما پیش از حرکت کتاب‌خوان‌ها را شارژ می‌کنیم. شما دستگاهتان را با آداپتور شارژ می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Les voyageurs rechargent leurs appareils à la maison.",
+            "مسافران دستگاه‌هایشان را در خانه شارژ می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Avec nous, écrire «rechargeons» avec un e après g.",
+        "Vérifier la batterie avant un trajet et utiliser un câble adapté."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Hugo baisse la lumière de son écran le soir.",
+          "fa": "هوگو شب‌ها نور صفحه‌اش را کم می‌کند.",
+          "note_fa": "«Baisser» signifie rendre moins élevé."
+        },
+        {
+          "target": "Le mode avion coupe le réseau pendant le trajet.",
+          "fa": "حالت هواپیما شبکه را در طول مسیر قطع می‌کند.",
+          "note_fa": "Le mode avion désactive les connexions sans fil."
+        },
+        {
+          "target": "Mina garde un signet au début du chapitre.",
+          "fa": "مینا نشانکی را در ابتدای فصل نگه می‌دارد.",
+          "note_fa": "Un signet aide à retrouver une page."
+        },
+        {
+          "target": "Le câble reste dans la poche extérieure du sac.",
+          "fa": "کابل در جیب بیرونی کیف می‌ماند.",
+          "note_fa": "«Extérieur» décrit la partie située dehors."
+        },
+        {
+          "target": "Une batterie pleine permet de lire pendant le voyage.",
+          "fa": "باتری پر امکان مطالعه در طول سفر را فراهم می‌کند.",
+          "note_fa": "«Permet de» est suivi d’un infinitif."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Préparer la liseuse",
+      "script": "Mina: Hugo recharge sa liseuse avant le voyage.\nHugo: Oui, l’icône indique que la batterie est presque pleine.\nMina: Tu emportes un câble de recharge ?\nHugo: Oui, avec un adaptateur secteur dans mon sac.\nMina: Tu règles la luminosité de l’écran ?\nHugo: Je choisis un niveau assez bas.\nMina: Et le mode avion, tu l’actives ?\nHugo: Oui, le livre est prêt pour la lecture hors ligne.\nMina: Alors, ton appareil est prêt pour le train.",
+      "script_fa": "مینا: هوگو پیش از سفر کتاب‌خوانش را شارژ می‌کند.\nهوگو: بله، نماد نشان می‌دهد باتری تقریباً پر است.\nمینا: کابل شارژ با خودت می‌بری؟\nهوگو: بله، همراه یک آداپتور برق در کیفم.\nمینا: روشنایی صفحه را تنظیم می‌کنی؟\nهوگو: سطحی نسبتاً کم انتخاب می‌کنم.\nمینا: حالت هواپیما را هم فعال می‌کنی؟\nهوگو: بله، کتاب برای مطالعهٔ بدون اینترنت آماده است.\nمینا: پس دستگاهت برای قطار آماده است.",
+      "question_fa": "Quel accessoire Hugo met-il dans son sac ?",
+      "answer": "Un adaptateur secteur.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Avant le départ",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Ta liseuse est chargée ?",
+          "fa": "کتاب‌خوانت شارژ است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, la batterie est presque pleine.",
+          "fa": "بله، باتری تقریباً پر است."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu prends le câble avec toi ?",
+          "fa": "کابل را با خودت می‌بری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, il est dans la poche du sac.",
+          "fa": "بله، در جیب کیف است."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu règles l’écran maintenant ?",
+          "fa": "الان صفحه را تنظیم می‌کنی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Je baisse un peu la luminosité.",
+          "fa": "روشنایی را کمی کم می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "Tu peux lire sans connexion ?",
+          "fa": "می‌توانی بدون اتصال بخوانی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, le livre est déjà disponible hors ligne.",
+          "fa": "بله، کتاب از قبل بدون اینترنت در دسترس است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، برای سفر دستگاه مطالعه‌ات را آماده کن و بگو چطور باتری را حفظ می‌کنی.",
+      "useful_phrases": [
+        {
+          "target": "Je recharge ma liseuse.",
+          "fa": "کتاب‌خوانم را شارژ می‌کنم."
+        },
+        {
+          "target": "Je baisse la luminosité.",
+          "fa": "روشنایی را کم می‌کنم."
+        },
+        {
+          "target": "J’active le mode avion.",
+          "fa": "حالت هواپیما را فعال می‌کنم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une liseuse prête pour le train",
+      "text": "Avant de partir en train, Hugo vérifie sa liseuse. La batterie est presque pleine, mais il emporte un câble de recharge et un adaptateur secteur. Il choisit un réglage de luminosité confortable pour lire sans fatiguer ses yeux. Dans le train, il active le mode avion et ouvre le livre déjà téléchargé. Un signet numérique marque le chapitre où il s’est arrêté. Mina préfère limiter son temps d’écran pendant les longs trajets; elle fait une pause et regarde le paysage. Les deux amis peuvent continuer leur lecture hors ligne. À l’arrivée, Hugo remet son appareil dans la poche intérieure de son sac.",
+      "glossary": [
+        {
+          "term": "fatiguer",
+          "fa": "خسته‌کردن"
+        },
+        {
+          "term": "s’arrêter",
+          "fa": "متوقف‌شدن"
+        },
+        {
+          "term": "le paysage",
+          "fa": "منظره"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Que marque le signet numérique ?",
+          "a": "Le chapitre où Hugo s’est arrêté."
+        },
+        {
+          "q_fa": "Que fait Mina pendant le long trajet ?",
+          "a": "Elle fait une pause et regarde le paysage."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست را انتخاب کن.",
+          "question": "Nous ___ nos appareils avant le départ.",
+          "options": [
+            "rechargez",
+            "rechargeons",
+            "rechargent"
+          ],
+          "answer": "rechargeons",
+          "explanation_fa": "با nous می‌گوییم rechargeons و پس از g حرف e می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "وسیلهٔ درست را انتخاب کن.",
+          "question": "Pour brancher la liseuse, Hugo emporte…",
+          "options": [
+            "un câble de recharge",
+            "un bulletin de vote",
+            "un mot gentil"
+          ],
+          "answer": "un câble de recharge",
+          "explanation_fa": "کابل برای اتصال دستگاه به منبع برق است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "تنظیم مناسب را انتخاب کن.",
+          "question": "Pour économiser la batterie, Mina choisit…",
+          "options": [
+            "une luminosité faible",
+            "un écran plus grand",
+            "un temps d’écran long"
+          ],
+          "answer": "une luminosité faible",
+          "explanation_fa": "روشنایی کمتر می‌تواند باتری را حفظ کند."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "Hugo utilise le mode avion pour lire hors ligne.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "کتاب از قبل دریافت شده و بدون اتصال خوانده می‌شود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ ta liseuse avant le voyage.",
+          "answer": [
+            "recharges"
+          ],
+          "explanation_fa": "recharges"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "Quel accessoire Hugo met-il dans son sac ?",
+          "answer": [
+            "Un câble de recharge et un adaptateur secteur."
+          ],
+          "explanation_fa": "او کابل شارژ و آداپتور برق را در کیف می‌گذارد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Qu’est-ce que Hugo vérifie avant le départ ?",
+          "options": [
+            "Sa liseuse et sa batterie",
+            "Le bulletin du club",
+            "La date de la rencontre"
+          ],
+          "answer": "Sa liseuse et sa batterie",
+          "explanation_fa": "Il vérifie l’appareil et son niveau de batterie."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel accessoire accompagne Hugo ?",
+          "options": [
+            "Un câble de recharge",
+            "Une carte de remerciement",
+            "Un formulaire"
+          ],
+          "answer": "Un câble de recharge",
+          "explanation_fa": "Il prend le câble avec lui."
+        },
+        {
+          "type": "mcq",
+          "question": "Que marque le signet numérique ?",
+          "options": [
+            "Le chapitre où il s’est arrêté",
+            "Le prix du livre",
+            "La date du voyage"
+          ],
+          "answer": "Le chapitre où il s’est arrêté",
+          "explanation_fa": "Le signet indique le chapitre de reprise."
+        },
+        {
+          "type": "mcq",
+          "question": "Que fait Mina pendant le trajet ?",
+          "options": [
+            "Elle fait une pause",
+            "Elle publie une photo",
+            "Elle remplit un sondage"
+          ],
+          "answer": "Elle fait une pause",
+          "explanation_fa": "Mina fait une pause et regarde le paysage."
+        },
+        {
+          "type": "mcq",
+          "question": "Comment les amis continuent-ils leur lecture ?",
+          "options": [
+            "Hors ligne",
+            "Seulement en magasin",
+            "À la radio"
+          ],
+          "answer": "Hors ligne",
+          "explanation_fa": "Le livre téléchargé reste disponible sans connexion."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Prépare ton appareil pour un trajet : parle de la charge, de la luminosité et de la lecture hors ligne.",
+      "suggested_prompts": [
+        "Je recharge ma liseuse.",
+        "Je baisse la luminosité.",
+        "J’active le mode avion."
+      ],
+      "focus": [
+        "recharger au présent",
+        "préparer un appareil",
+        "lecture hors ligne"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Hugo charge son appareil et règle l’écran pour lire en voyage."
+  }
+}

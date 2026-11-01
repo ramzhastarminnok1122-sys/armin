@@ -1,0 +1,398 @@
+{
+  "lesson": "L339",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L339-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le livre est déjà sur la liseuse ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L339-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, mon prêt numérique est actif.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L339-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu as utilisé le code d’accès ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L339-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, je l’ai entré dans mon compte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L339-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La connexion Wi-Fi est nécessaire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L339-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Seulement pour télécharger le fichier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L339-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Tu peux lire dans le train ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L339-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, l’accès hors ligne est disponible.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L339-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La bibliothèque prête des livres numériques à ses membres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L339-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Tu télécharges le roman sur la liseuse électronique ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L339-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, je vérifie d’abord le code d’accès.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L339-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Il faut une connexion Wi-Fi pour ouvrir le livre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L339-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, ensuite la lecture reste possible hors ligne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L339-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Le prêt numérique prend fin après combien de jours ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L339-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Quatorze jours, puis le fichier disparaît.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L339-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "La bibliothèque numérique propose aussi des nouvelles ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L339-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, plusieurs formats sont disponibles en ligne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L339-fr-vocab-unlivrenumerique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un livre numérique. La bibliothèque prête un livre numérique à Mina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L339-fr-vocab-uneliseuseelectronique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une liseuse électronique. Hugo lit un roman sur sa liseuse électronique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L339-fr-vocab-unfichierdelecture",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un fichier de lecture. Le fichier de lecture arrive sur la tablette.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L339-fr-vocab-unpretnumerique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un prêt numérique. Le prêt numérique dure deux semaines.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L339-fr-vocab-uneconnexionwifi",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une connexion Wi-Fi. Une connexion Wi-Fi permet de télécharger le livre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L339-fr-vocab-unespacedestockage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un espace de stockage. La liseuse garde plusieurs romans dans son espace de stockage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 85
+    },
+    {
+      "id": "L339-fr-vocab-unformatnumerique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un format numérique. Le catalogue propose un format numérique simple.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L339-fr-vocab-unacceshorsligne",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un accès hors ligne. L’accès hors ligne fonctionne après le téléchargement.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 75
+    },
+    {
+      "id": "L339-fr-vocab-unebibliothequenumerique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une bibliothèque numérique. Mina choisit un titre dans la bibliothèque numérique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 81
+    },
+    {
+      "id": "L339-fr-vocab-uncodedacces",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un code d’accès. Le code d’accès ouvre le compte de lecture.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L339-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je télécharge le livre sur ma liseuse. Tu télécharges le fichier depuis le catalogue.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 85
+    },
+    {
+      "id": "L339-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina télécharge un roman avant le départ.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L339-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous téléchargeons les livres à la bibliothèque. Vous téléchargez le fichier sur la tablette.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 93
+    },
+    {
+      "id": "L339-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les lecteurs téléchargent leurs prêts numériques à la maison.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L339-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Le prêt numérique se termine dans deux semaines.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L339-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mina ouvre son compte avec un code personnel.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L339-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La tablette conserve le fichier dans sa mémoire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L339-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Hugo choisit un format facile à lire.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L339-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "La connexion coupe parfois pendant le trajet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L339-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La bibliothèque numérique de Mina propose des romans et des nouvelles. Elle choisit un livre numérique pour le trajet en train et vérifie la durée du prêt. À la maison, Mina se connecte au catalogue avec son code d’accès. Elle télécharge ensuite le fichier de lecture sur sa liseuse électronique. Le téléchargement prend quelques minutes avec le Wi-Fi. Une fois le livre ouvert, elle peut le lire hors ligne. Hugo préfère garder plusieurs titres dans l’espace de stockage de sa tablette. Il vérifie toujours le format numérique avant de commencer. Le prêt expire après quatorze jours; le fichier n’est alors plus accessible. Les deux amis choisissent leurs lectures avant le départ.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 682
+    },
+    {
+      "id": "L339-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L339)",
+      "tts_text": "برای دریافت و خواندن کتاب دیجیتال از چه دستگاهی استفاده می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L339-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L339)",
+      "tts_text": "برای دریافت فایل می‌گوییم «télécharger»؛ با «nous» شکل «téléchargeons» می‌آید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L339-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L339)",
+      "tts_text": "به گفت‌وگو گوش کن و اطلاعاتی را پیدا کن که مینا پیش از بازکردن کتاب بررسی می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 81
+    },
+    {
+      "id": "L339-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L339)",
+      "tts_text": "در شکل «nous» پس از «g» حرف «e» می‌آید: «nous téléchargeons».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L339-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L339)",
+      "tts_text": "روش دریافت کتاب دیجیتال و امکان مطالعهٔ بدون اینترنت را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L339-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L339)",
+      "tts_text": "پس از دریافت فایل، اگر دسترسی فراهم باشد می‌توانی آفلاین بخوانی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    }
+  ]
+}

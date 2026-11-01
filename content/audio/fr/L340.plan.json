@@ -1,0 +1,398 @@
+{
+  "lesson": "L340",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L340-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Ta liseuse est chargée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L340-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, la batterie est presque pleine.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L340-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu prends le câble avec toi ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L340-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, il est dans la poche du sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L340-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Tu règles l’écran maintenant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L340-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Je baisse un peu la luminosité.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L340-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Tu peux lire sans connexion ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 29
+    },
+    {
+      "id": "L340-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, le livre est déjà disponible hors ligne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L340-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Hugo recharge sa liseuse avant le voyage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L340-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, l’icône indique que la batterie est presque pleine.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L340-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tu emportes un câble de recharge ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L340-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Oui, avec un adaptateur secteur dans mon sac.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L340-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Tu règles la luminosité de l’écran ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L340-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Je choisis un niveau assez bas.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L340-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Et le mode avion, tu l’actives ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L340-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Oui, le livre est prêt pour la lecture hors ligne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L340-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Alors, ton appareil est prêt pour le train.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L340-fr-vocab-unebatteriepleine",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "une batterie pleine. Hugo part avec une batterie pleine.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L340-fr-vocab-uncablederecharge",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un câble de recharge. Le câble de recharge reste dans son sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L340-fr-vocab-unadaptateursecteur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un adaptateur secteur. Mina branche l’adaptateur secteur près du bureau.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L340-fr-vocab-lemodeavion",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "le mode avion. Le mode avion coupe la connexion sans fil.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L340-fr-vocab-unecrantactile",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un écran tactile. L’écran tactile répond au doigt de Hugo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L340-fr-vocab-unreglagedeluminosite",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un réglage de luminosité. Un réglage de luminosité faible économise la batterie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 80
+    },
+    {
+      "id": "L340-fr-vocab-unsignetnumerique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un signet numérique. Hugo place un signet numérique au bon chapitre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L340-fr-vocab-unelecturehorsligne",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une lecture hors ligne. La lecture hors ligne fonctionne dans le train.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 71
+    },
+    {
+      "id": "L340-fr-vocab-untempsdecran",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un temps d’écran. Mina limite son temps d’écran le soir.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L340-fr-vocab-uneliseusechargee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une liseuse chargée. Une liseuse chargée accompagne Hugo en voyage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L340-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je recharge ma liseuse avant le voyage. Tu recharges la batterie avec ce câble.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 79
+    },
+    {
+      "id": "L340-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Hugo recharge son appareil près de la prise.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L340-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous rechargeons les liseuses avant le départ. Vous rechargez votre appareil avec un adaptateur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 96
+    },
+    {
+      "id": "L340-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les voyageurs rechargent leurs appareils à la maison.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L340-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Hugo baisse la lumière de son écran le soir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L340-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Le mode avion coupe le réseau pendant le trajet.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L340-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Mina garde un signet au début du chapitre.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L340-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le câble reste dans la poche extérieure du sac.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L340-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Une batterie pleine permet de lire pendant le voyage.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L340-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Avant de partir en train, Hugo vérifie sa liseuse. La batterie est presque pleine, mais il emporte un câble de recharge et un adaptateur secteur. Il choisit un réglage de luminosité confortable pour lire sans fatiguer ses yeux. Dans le train, il active le mode avion et ouvre le livre déjà téléchargé. Un signet numérique marque le chapitre où il s’est arrêté. Mina préfère limiter son temps d’écran pendant les longs trajets; elle fait une pause et regarde le paysage. Les deux amis peuvent continuer leur lecture hors ligne. À l’arrivée, Hugo remet son appareil dans la poche intérieure de son sac.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 600
+    },
+    {
+      "id": "L340-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L340)",
+      "tts_text": "پیش از سفر با کتاب‌خوان الکترونیکی، چطور باتری را حفظ می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L340-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L340)",
+      "tts_text": "در فعل «recharger» با «nous»، پس از «g» حرف «e» می‌آید: «nous rechargeons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L340-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L340)",
+      "tts_text": "به گفت‌وگو گوش کن و وسیله‌هایی را پیدا کن که هوگو در کیفش می‌گذارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L340-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L340)",
+      "tts_text": "فعل «recharger» برای شارژکردن دستگاه به کار می‌رود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L340-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L340)",
+      "tts_text": "دستگاه مطالعه‌ات را برای سفر آماده کن و دربارهٔ باتری بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L340-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L340)",
+      "tts_text": "پیش از حرکت، باتری و کابل مناسب را بررسی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 44
+    }
+  ]
+}
