@@ -1,0 +1,398 @@
+{
+  "lesson": "L332",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L332-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu lis la critique de Léa ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L332-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, je la partage avec le groupe.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L332-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu apprécies son avis ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L332-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je l’apprécie, il est très clair.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L332-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Et les illustrations du roman ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L332-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Je les trouve vraiment lumineuses.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L332-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Tu recommandes le livre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 25
+    },
+    {
+      "id": "L332-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Je le recommande aux nouveaux lecteurs.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L332-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Tu connais le roman d’aventures de Paul ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L332-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Oui, je le recommande au club de lecture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L332-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Qu’est-ce qui te plaît dans cette histoire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L332-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Son intrigue est captivante et le personnage attachant.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L332-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Tu écris une critique de lecteur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L332-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Oui, je la prépare pour la séance de jeudi.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L332-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Quelle note donnes-tu à ce roman ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L332-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Quatre étoiles sur cinq; son point fort, c’est sa fin ouverte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L332-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Je consulte ton avis avant de choisir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L332-fr-vocab-unecritiquedelecteur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "une critique de lecteur. Sa critique de lecteur présente deux idées claires.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L332-fr-vocab-unenotesurcinq",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une note sur cinq. Mina donne une note sur cinq au roman.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L332-fr-vocab-unavisargumente",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un avis argumenté. Un avis argumenté explique les raisons du choix.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L332-fr-vocab-unpointfort",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un point fort. Le point fort du récit est son héroïne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L332-fr-vocab-unpointfaible",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un point faible. Le lecteur signale un point faible sans méchanceté.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L332-fr-vocab-uneintriguecaptivante",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une intrigue captivante. Cette intrigue captivante donne envie de continuer.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L332-fr-vocab-undebutsurprenant",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un début surprenant. Le début surprenant attire vite les lecteurs.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L332-fr-vocab-unefinouverte",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une fin ouverte. Une fin ouverte laisse plusieurs questions.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L332-fr-vocab-unerecommandationpersonnelle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une recommandation personnelle. Sa recommandation personnelle aide les nouveaux membres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 88
+    },
+    {
+      "id": "L332-fr-vocab-unpersonnageattachant",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un personnage attachant. Le lecteur suit un personnage attachant.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L332-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je conseille ce roman. → Je le conseille.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L332-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina relit la critique. → Mina la relit.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L332-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Tu apprécies l’intrigue. → Tu l’apprécies.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L332-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Nous recommandons ces livres. → Nous les recommandons.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L332-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Je relis cette critique avant la réunion.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L332-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Les lecteurs apprécient cette fin inattendue.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L332-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Mina propose son avis au groupe de lecture.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L332-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le début surprenant retient l’attention de Hugo.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L332-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Une recommandation sincère peut guider un ami.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L332-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Pour la rencontre du club, Hugo rédige un avis sur un roman d’aventures. Il présente d’abord son point fort: le personnage principal aide les autres sans hésiter. Ensuite, il parle d’un point faible: quelques pages sont difficiles à comprendre. Hugo donne quatre étoiles sur cinq et recommande le livre aux lecteurs qui aiment les voyages. Dans sa critique, il décrit aussi le début surprenant et la fin ouverte. Mina lit le texte avant la réunion. Elle apprécie les exemples précis et comprend facilement l’opinion de Hugo. Elle choisit ensuite un autre roman et prépare son propre avis pour la prochaine séance.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 613
+    },
+    {
+      "id": "L332-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L332)",
+      "tts_text": "وقتی دربارهٔ کتابی نظر می‌دهی، چه نکته‌ای را برجسته می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L332-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L332)",
+      "tts_text": "ضمیرهای COD مانند le، la، l’ و les پیش از فعل صرف‌شده می‌آیند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L332-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L332)",
+      "tts_text": "به گفت‌وگو گوش کن و نقطهٔ قوت رمان را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    },
+    {
+      "id": "L332-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L332)",
+      "tts_text": "برای جایگزینی اسم مفعول مستقیم، ضمیر را پیش از فعل قرار بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L332-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L332)",
+      "tts_text": "یک نظر کوتاه دربارهٔ کتاب بگو و از ضمیر مفعولی مستقیم استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L332-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L332)",
+      "tts_text": "le، la، l’ یا les را با اسم جایگزین‌شده هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    }
+  ]
+}

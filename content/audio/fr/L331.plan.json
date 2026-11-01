@@ -1,0 +1,398 @@
+{
+  "lesson": "L331",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L331-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Le héros de ton livre est comment ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L331-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Il est courageux, mais un peu distrait.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L331-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Et l’héroïne de cette histoire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L331-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Elle est curieuse et très généreuse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L331-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Le narrateur parle de son apparence ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L331-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, il décrit ses cheveux et son sourire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L331-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Quel personnage te plaît le plus ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L331-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "La narratrice secondaire, car elle est attentive.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L331-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le nouveau roman présente un personnage secondaire très drôle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L331-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Qui est le personnage principal ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L331-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Une héroïne curieuse, qui cherche une vieille carte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L331-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Quel est son caractère ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L331-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Elle est courageuse et patiente, mais parfois un peu distraite.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L331-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Et son compagnon de voyage ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L331-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Il est généreux et attentif aux autres.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L331-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Le narrateur décrit-il son apparence physique ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L331-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, une scène marquante montre son sourire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L331-fr-vocab-unpersonnagesecondaire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un personnage secondaire. Un personnage secondaire aide parfois le héros.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 73
+    },
+    {
+      "id": "L331-fr-vocab-unpersonnageprincipal",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un personnage principal. Le personnage principal cherche une réponse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L331-fr-vocab-unherosgenereux",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un héros généreux. Le héros généreux partage son repas.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L331-fr-vocab-uneheroinecurieuse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une héroïne curieuse. Une héroïne curieuse pose beaucoup de questions.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L331-fr-vocab-unnarrateurexterieur",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un narrateur extérieur. Un narrateur extérieur raconte les actions du héros.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L331-fr-vocab-uneapparencephysique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une apparence physique. Le portrait décrit son apparence physique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L331-fr-vocab-untraitdecaractere",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un trait de caractère. La patience est un trait de caractère important.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 71
+    },
+    {
+      "id": "L331-fr-vocab-unequalitemorale",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une qualité morale. La franchise est une qualité morale appréciée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L331-fr-vocab-undefautleger",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un défaut léger. Son défaut léger ne gêne personne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L331-fr-vocab-unescenemarquante",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une scène marquante. Une scène marquante montre son courage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L331-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Un héros courageux aide une héroïne curieuse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L331-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Le compagnon est généreux; sa sœur est généreuse aussi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L331-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Le narrateur est attentif; la narratrice est attentive.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L331-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les personnages secondaires sont parfois timides.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L331-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "L’héroïne paraît timide au début du roman.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L331-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Son compagnon reste attentif aux besoins du groupe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L331-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Les deux voisines sont courageuses et généreuses.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L331-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le vieux cartographe semble sévère, mais il aide Alba.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L331-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Un personnage secondaire apporte une idée nouvelle.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L331-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Dans le roman de Salomé, le personnage principal s’appelle Alba. C’est une héroïne curieuse qui voyage avec un compagnon fidèle. Le narrateur raconte leur départ et décrit l’apparence physique d’Alba: elle a les cheveux bouclés et un manteau vert. Son trait de caractère le plus visible est le courage. Elle aide souvent les habitants du village et garde une grande patience. Un personnage secondaire, le vieux cartographe, apparaît dans une scène marquante. Il semble sévère au début, mais il devient généreux. Mina aime ce portrait, car chaque qualité accompagne une action précise.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 584
+    },
+    {
+      "id": "L331-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L331)",
+      "tts_text": "برای توصیف شخصیت داستان، به ظاهر و چه ویژگی‌های دیگری توجه می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L331-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L331)",
+      "tts_text": "صفت با اسم از نظر جنس و شمار هماهنگ می‌شود؛ برای نمونه، «courageux» و «courageuse».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 83
+    },
+    {
+      "id": "L331-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L331)",
+      "tts_text": "به توصیف گوش کن و نقطه‌ضعفی را پیدا کن که مینا برای قهرمان زن بیان می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L331-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L331)",
+      "tts_text": "صفت مؤنث و مذکر ممکن است متفاوت باشد؛ در جمع هم معمولاً s می‌گیرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L331-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L331)",
+      "tts_text": "یک قهرمان یا شخصیت فرعی را با یک ویژگی خوب و یک نقطه‌ضعف توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L331-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L331)",
+      "tts_text": "صفت را با اسم از نظر جنس و شمار هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 42
+    }
+  ]
+}

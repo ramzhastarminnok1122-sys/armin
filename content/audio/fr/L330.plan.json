@@ -1,0 +1,398 @@
+{
+  "lesson": "L330",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L330-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu participes au club de lecture ce soir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L330-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, j’apporte un conte merveilleux.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L330-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu peux lire ce passage devant tout le monde ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L330-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, le passage est très court.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L330-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Après, nous parlons de l’histoire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L330-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Chacun note une idée dans son carnet.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L330-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "La séance mensuelle m’intéresse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L330-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Alors, retrouvons-nous jeudi à la bibliothèque.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L330-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le club de lecture se réunit jeudi soir dans la petite salle.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L330-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Quel livre présente-t-on cette semaine ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L330-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Nous discutons d’un récit de voyage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L330-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "J’aime aussi les histoires fantastiques.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L330-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Chacun lit un court passage à voix haute.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L330-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Après, nous échangeons nos idées.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L330-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "J’écoute parfois un livre audio dans le bus.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L330-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Je note le titre dans mon carnet de lecture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L330-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "La séance se termine à sept heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L330-fr-vocab-unclubdelecture",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un club de lecture. Hugo rejoint un club de lecture près de chez lui.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L330-fr-vocab-uneseancemensuelle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une séance mensuelle. La séance mensuelle commence après le travail.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L330-fr-vocab-unechangedidees",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un échange d’idées. Un échange d’idées enrichit la discussion.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 62
+    },
+    {
+      "id": "L330-fr-vocab-unromandaventures",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un roman d’aventures. Mina choisit un roman d’aventures pour le club.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L330-fr-vocab-unrecitdevoyage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un récit de voyage. Le récit de voyage décrit des îles lointaines.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L330-fr-vocab-uncontemerveilleux",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un conte merveilleux. Noah raconte un conte merveilleux aux enfants.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L330-fr-vocab-unehistoirefantastique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une histoire fantastique. Cette histoire fantastique commence dans une forêt.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 77
+    },
+    {
+      "id": "L330-fr-vocab-unelectureavoixhaute",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une lecture à voix haute. La lecture à voix haute aide le groupe à écouter.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 75
+    },
+    {
+      "id": "L330-fr-vocab-uncarnetdelecture",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un carnet de lecture. Lina garde son carnet de lecture dans son sac.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L330-fr-vocab-unlivreaudio",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un livre audio. J’écoute un livre audio pendant le trajet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L330-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je discute du récit de voyage. Tu discutes d’une histoire fantastique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L330-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Hugo discute de la séance avec Mina. Elle discute d’un conte merveilleux.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 73
+    },
+    {
+      "id": "L330-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous discutons des romans du mois. Vous discutez du prochain échange.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L330-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les lecteurs discutent d’un auteur après la rencontre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L330-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Après la rencontre, nous discutons des idées de chacun.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L330-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Le groupe échange ses impressions autour d’un thé.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L330-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Chaque lecteur choisit un passage différent à présenter.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L330-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Léo écoute un conte pendant le trajet du matin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L330-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "La bibliothécaire accueille les nouveaux membres du cercle.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L330-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Une fois par mois, Hugo retrouve Mina dans le club de lecture de leur quartier. La bibliothécaire propose un récit de voyage, puis les participants choisissent chacun un passage à présenter. Hugo aime les histoires où les personnages découvrent des lieux inconnus. Mina préfère les contes merveilleux, mais elle écoute les avis des autres. Ce soir, le groupe commence par une lecture à voix haute. Ensuite, chacun explique son passage favori et pose une question. Hugo écrit quelques mots dans son carnet de lecture pour garder une trace de la rencontre. Avant de partir, les lecteurs choisissent le livre du mois prochain.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 623
+    },
+    {
+      "id": "L330-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L330)",
+      "tts_text": "در یک باشگاه کتاب‌خوانی دربارهٔ چه موضوع‌هایی صحبت می‌کنید؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L330-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L330)",
+      "tts_text": "فعل «discuter» را با «de» به کار می‌بریم تا موضوع گفت‌وگو را بگوییم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L330-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L330)",
+      "tts_text": "به گفت‌وگو گوش کن و نوع کتابی را پیدا کن که گروه این هفته معرفی می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L330-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L330)",
+      "tts_text": "پیش از le، حرف اضافهٔ de به du تبدیل می‌شود؛ پیش از les به des تبدیل می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L330-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L330)",
+      "tts_text": "یک کتاب معرفی کن و بگو دوست داری دربارهٔ کدام بخش آن گفت‌وگو کنی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L330-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L330)",
+      "tts_text": "از عبارت «discuter de» برای گفت‌وگو دربارهٔ یک کتاب استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    }
+  ]
+}
