@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 12,
+    "title": "¿Cómo llego a la plaza?",
+    "subtitle": "Dar indicaciones sencillas",
+    "description": "Un visitante pregunta cómo llegar desde el mercado hasta la plaza.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "مکان با estar و راهنمایی با جهت‌های ساده",
+      "objectives": [
+        "Nombrar lugares públicos y direcciones básicas.",
+        "Usar estar para ubicar un lugar.",
+        "Seguir indicaciones cortas a pie."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور مسیر را با کمک یک میدان یا ایستگاه برای کسی توضیح می‌دهی؟",
+      "questions": [
+        {
+          "q": "جایی که خیابان از رودخانه عبور می‌کند چه نام دارد؟",
+          "hint_fa": "به واژهٔ «puente» فکر کن."
+        },
+        {
+          "q": "برای تغییر جهت به چپ یا راست از چه فعلی استفاده می‌کنیم؟",
+          "hint_fa": "به واژهٔ «doblar» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Estar para ubicar lugares",
+      "body_fa": "برای گفتن جای یک مکان از فعل «estar» استفاده می‌کنیم: «La plaza está cerca del mercado». صرف آن در زمان حال این‌گونه است: «yo estoy», «tú estás», «él/ella está», «nosotros estamos» و «ustedes están». می‌توانیم مکان‌ها را با «a la derecha», «a la izquierda» و «al lado de» توصیف کنیم. برای راهنمایی کوتاه به یک نفر می‌گوییم «sigue recto», «cruza el puente» یا «dobla a la derecha». در این درس تمرکز بر فهم مسیر و جای مکان‌هاست؛ نام خیابان‌ها با حرف بزرگ نوشته می‌شود.",
+      "key_points": [
+        "«Estar» ubica un lugar.",
+        "«A la derecha/izquierda» indican dirección.",
+        "«Sigue», «cruza» y «dobla» dan instrucciones sencillas."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "plaza",
+          "ipa": "/ˈpla.sa/",
+          "translation_fa": "میدان",
+          "example": "La plaza está frente a la biblioteca.",
+          "example_fa": "میدان روبه‌روی کتابخانه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "avenida",
+          "ipa": "/a.beˈni.ða/",
+          "translation_fa": "خیابان اصلی",
+          "example": "La avenida cruza el centro de la ciudad.",
+          "example_fa": "خیابان اصلی از مرکز شهر می‌گذرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "puente",
+          "ipa": "/ˈpwen.te/",
+          "translation_fa": "پل",
+          "example": "El puente está al lado del río.",
+          "example_fa": "پل کنار رودخانه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "parada",
+          "ipa": "/paˈɾa.ða/",
+          "translation_fa": "ایستگاه",
+          "example": "La parada está frente al mercado.",
+          "example_fa": "ایستگاه روبه‌روی بازار است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "estación",
+          "ipa": "/es.taˈsjon/",
+          "translation_fa": "ایستگاه قطار؛ ایستگاه",
+          "example": "La estación queda cerca de la avenida.",
+          "example_fa": "ایستگاه نزدیک خیابان اصلی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "semáforo",
+          "ipa": "/seˈma.fo.ɾo/",
+          "translation_fa": "چراغ راهنمایی",
+          "example": "Dobla a la izquierda en el semáforo.",
+          "example_fa": "سر چراغ راهنمایی به چپ بپیچ.",
+          "tag": "اسم"
+        },
+        {
+          "term": "a la derecha",
+          "ipa": "/a la deˈɾe.tʃa/",
+          "translation_fa": "به سمت راست",
+          "example": "La plaza queda a la derecha.",
+          "example_fa": "میدان در سمت راست قرار دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "a la izquierda",
+          "ipa": "/a la isˈkjeɾ.ða/",
+          "translation_fa": "به سمت چپ",
+          "example": "Sigue hasta la esquina y gira a la izquierda.",
+          "example_fa": "تا نبش برو و به چپ بپیچ.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cruzar",
+          "ipa": "/kɾuˈsaɾ/",
+          "translation_fa": "از عرض گذشتن",
+          "example": "Cruza el puente para llegar al parque.",
+          "example_fa": "برای رسیدن به پارک از پل بگذر.",
+          "tag": "اسم"
+        },
+        {
+          "term": "doblar",
+          "ipa": "/doˈβlaɾ/",
+          "translation_fa": "پیچیدن",
+          "example": "Dobla a la derecha después del mercado.",
+          "example_fa": "پس از بازار به راست بپیچ.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Estar + lugar",
+      "explanation_fa": "Usamos «estar» para indicar dónde se encuentra un lugar: «La plaza está cerca del mercado», «Los puentes están al norte». Sus formas son «estoy», «estás», «está», «estamos» y «están». Para dar indicaciones, podemos usar expresiones breves: «sigue recto», «cruza el puente», «dobla a la derecha». «A la derecha» y «a la izquierda» señalan una dirección; «al lado de» indica proximidad. En una ruta, nombramos primero un punto conocido y luego damos el siguiente paso. Por ejemplo: «Sigue hasta el semáforo y dobla a la izquierda».",
+      "pattern": "lugar + estar + referencia; sigue / cruza / dobla + dirección",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "singular",
+            "La plaza está junto al mercado.",
+            "میدان کنار بازار است."
+          ],
+          [
+            "plural",
+            "Las paradas están frente a la estación.",
+            "ایستگاه‌ها روبه‌روی ایستگاه قطار هستند."
+          ],
+          [
+            "ruta",
+            "Cruza el puente y sigue recto.",
+            "از پل بگذر و مستقیم ادامه بده."
+          ],
+          [
+            "dirección",
+            "Dobla a la derecha en el semáforo.",
+            "سر چراغ راهنمایی به راست بپیچ."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Usar «estar» para ubicar un lugar.",
+        "Dar las indicaciones en orden y mencionar un punto conocido."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "La estación está al lado de la avenida.",
+          "fa": "ایستگاه کنار خیابان اصلی است.",
+          "note_fa": "«Estación» es singular; usamos «está»."
+        },
+        {
+          "target": "Las plazas están cerca del mercado.",
+          "fa": "میدان‌ها نزدیک بازار هستند.",
+          "note_fa": "«Plazas» es plural; usamos «están»."
+        },
+        {
+          "target": "Sigue recto hasta el puente pequeño.",
+          "fa": "تا پل کوچک مستقیم ادامه بده.",
+          "note_fa": "«Sigue» da una indicación a una persona."
+        },
+        {
+          "target": "Cruza la avenida y dobla a la izquierda.",
+          "fa": "از خیابان اصلی بگذر و به چپ بپیچ.",
+          "note_fa": "La indicación tiene dos pasos."
+        },
+        {
+          "target": "La parada está frente a la biblioteca.",
+          "fa": "ایستگاه روبه‌روی کتابخانه است.",
+          "note_fa": "«Frente a» ubica un lugar."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "El camino a la plaza",
+      "script": "Visitante: Disculpe, ¿cómo llego a la plaza desde aquí, por favor?\nMarta: Sigue recto por la avenida principal hasta el semáforo.\nVisitante: ¿Tengo que cruzar el puente?\nMarta: Sí; la plaza está al lado del puente.\nVisitante: ¿Queda a la derecha o a la izquierda?\nMarta: A la derecha, frente a la biblioteca.\nVisitante: ¿La parada está cerca?\nMarta: Sí, está frente al mercado.\nVisitante: Muchas gracias por ayudarme.",
+      "script_fa": "رهگذر: ببخشید، چطور از اینجا به میدان بروم، لطفاً؟\nمارتا: در خیابان اصلی مستقیم برو تا چراغ راهنمایی.\nرهگذر: باید از پل بگذرم؟\nمارتا: بله؛ میدان کنار پل است.\nرهگذر: سمت راست است یا چپ؟\nمارتا: سمت راست، روبه‌روی کتابخانه.\nرهگذر: ایستگاه نزدیک است؟\nمارتا: بله، روبه‌روی بازار است.\nرهگذر: برای راهنمایی ممنونم.",
+      "question_fa": "¿Dónde está la plaza?",
+      "answer": "Al lado del puente.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Encontrar un lugar",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Dónde está la estación?",
+          "fa": "ایستگاه کجاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Está junto a la avenida principal.",
+          "fa": "کنار خیابان اصلی است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Sigo recto desde el mercado?",
+          "fa": "از بازار مستقیم بروم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, cruza la avenida en el semáforo.",
+          "fa": "بله، سر چراغ از خیابان بگذر."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Después doblo a la derecha?",
+          "fa": "بعد به راست بپیچم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Exacto; la plaza queda frente a la estación.",
+          "fa": "دقیقاً؛ میدان روبه‌روی ایستگاه است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Hay una parada cerca?",
+          "fa": "ایستگاهی نزدیک هست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, está al lado de la biblioteca.",
+          "fa": "بله، کنار کتابخانه است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، از یک نشانهٔ نزدیک استفاده کن و سه مرحلهٔ مسیر را توضیح بده.",
+      "useful_phrases": [
+        {
+          "target": "Sigue recto hasta el puente.",
+          "fa": "تا پل مستقیم برو."
+        },
+        {
+          "target": "Cruza la avenida.",
+          "fa": "از خیابان اصلی بگذر."
+        },
+        {
+          "target": "La plaza está a la derecha.",
+          "fa": "میدان سمت راست است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una ruta por el centro",
+      "text": "El mercado queda en una avenida amplia, cerca de la estación. Desde allí, una persona puede caminar hasta la plaza en pocos minutos. Primero, sigue recto hasta el semáforo y cruza la avenida con cuidado. Después, pasa por el puente pequeño que está junto al río. La plaza queda a la derecha, frente a una biblioteca pública. La parada de autobús está al otro lado de la avenida. Marta conoce bien el barrio y ayuda a los visitantes cuando preguntan por una dirección. Cerca de la plaza hay una panadería; la familia de Marta compra allí pan y fruta para compartir.",
+      "glossary": [
+        {
+          "term": "amplia",
+          "fa": "پهن؛ وسیع"
+        },
+        {
+          "term": "con cuidado",
+          "fa": "بااحتیاط"
+        },
+        {
+          "term": "al otro lado",
+          "fa": "آن‌سوی"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Dónde queda la plaza?",
+          "a": "A la derecha, frente a una biblioteca."
+        },
+        {
+          "q_fa": "¿Qué hay cerca de la plaza?",
+          "a": "Una panadería."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست estar را انتخاب کن.",
+          "question": "La plaza ___ al lado del puente.",
+          "options": [
+            "está",
+            "están",
+            "estoy"
+          ],
+          "answer": "está",
+          "explanation_fa": "فاعل مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جهت را کامل کن.",
+          "question": "Dobla ___ la derecha.",
+          "options": [
+            "a",
+            "en",
+            "de"
+          ],
+          "answer": "a",
+          "explanation_fa": "عبارت درست «a la derecha» است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل راهنمایی را انتخاب کن.",
+          "question": "___ el puente y sigue recto.",
+          "options": [
+            "Cruza",
+            "Cruzan",
+            "Cruzo"
+          ],
+          "answer": "Cruza",
+          "explanation_fa": "برای راهنمایی مستقیم به یک نفر می‌گوییم «cruza»."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "La plaza está al lado del puente.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "مارتا این جایگاه را در گفت‌وگو بیان می‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Las paradas ___ frente al mercado.",
+          "answer": [
+            "están"
+          ],
+          "explanation_fa": "están"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Dónde está la plaza?",
+          "answer": [
+            "Al lado del puente."
+          ],
+          "explanation_fa": "میدان کنار پل است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Dónde está la plaza?",
+          "options": [
+            "Al lado del puente",
+            "Dentro del mercado",
+            "Detrás del hospital"
+          ],
+          "answer": "Al lado del puente",
+          "explanation_fa": "Marta dice que está al lado del puente."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué punto señala el camino?",
+          "options": [
+            "El semáforo",
+            "La panadería",
+            "La oficina"
+          ],
+          "answer": "El semáforo",
+          "explanation_fa": "La ruta pasa por un semáforo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Hacia qué lado queda la plaza?",
+          "options": [
+            "A la derecha",
+            "A la izquierda",
+            "Detrás de la estación"
+          ],
+          "answer": "A la derecha",
+          "explanation_fa": "Marta indica que queda a la derecha."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde está la parada?",
+          "options": [
+            "Frente al mercado",
+            "Junto al río",
+            "Dentro de la plaza"
+          ],
+          "answer": "Frente al mercado",
+          "explanation_fa": "La parada está frente al mercado."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hay cerca de la plaza?",
+          "options": [
+            "Una panadería",
+            "Un hospital",
+            "Una oficina"
+          ],
+          "answer": "Una panadería",
+          "explanation_fa": "La lectura menciona una panadería."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Da indicaciones breves para llegar desde un punto conocido hasta una plaza o estación.",
+      "suggested_prompts": [
+        "Sigue recto hasta el puente.",
+        "Cruza la avenida.",
+        "La plaza está a la derecha."
+      ],
+      "focus": [
+        "estar para ubicar",
+        "direcciones",
+        "sigue / cruza / dobla"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Marta ayuda a un visitante a encontrar la plaza del barrio."
+  }
+}

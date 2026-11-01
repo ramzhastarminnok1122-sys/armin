@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 11,
+    "title": "En el mercado",
+    "subtitle": "Preguntar por precios y cantidades",
+    "description": "Marta compra fruta y pan para una comida con sus amigos.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "بازار و گفتن قیمت با cuesta/cuestan",
+      "objectives": [
+        "Nombrar productos y cantidades sencillas.",
+        "Preguntar cuánto cuesta un producto.",
+        "Distinguir cuesta singular y cuestan plural."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور در بازار قیمت یک خوراکی یا چند خوراکی را می‌پرسی؟",
+      "questions": [
+        {
+          "q": "برای خرید مقدار زیادی سیب چه واحدی می‌گوییم؟",
+          "hint_fa": "به واژهٔ «kilo» فکر کن."
+        },
+        {
+          "q": "چیزی که خریدها را در آن می‌گذاریم چیست؟",
+          "hint_fa": "به واژهٔ «bolsa» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Preguntar cuánto cuesta",
+      "body_fa": "برای پرسیدن قیمت یک چیز می‌گوییم «¿Cuánto cuesta?»؛ اگر چند چیز را می‌پرسیم، «¿Cuánto cuestan?». فعل با کالایی که درباره‌اش می‌پرسیم هماهنگ می‌شود: «¿Cuánto cuesta el pan?» و «¿Cuánto cuestan las manzanas?». برای مقدار می‌توان از «un kilo», «medio kilo» یا «una bolsa» استفاده کرد. قیمت را می‌توان با عدد و واحد پول گفت: «Cuesta tres euros». «Querer» برای درخواست خرید به کار می‌رود: «Quiero un kilo de naranjas, por favor». در بازار، لطفاً و ممنون را برای درخواست مؤدبانه به کار ببریم.",
+      "key_points": [
+        "«Cuesta» برای یک کالا و «cuestan» برای چند کالا.",
+        "برای مقدار از kilo, medio kilo یا bolsa استفاده می‌کنیم.",
+        "«Quiero ... por favor» درخواست مؤدبانه است."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "mercado",
+          "ipa": "/meɾˈka.ðo/",
+          "translation_fa": "بازار",
+          "example": "El mercado abre temprano los sábados.",
+          "example_fa": "بازار شنبه‌ها زود باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "kilo",
+          "ipa": "/ˈki.lo/",
+          "translation_fa": "کیلو",
+          "example": "Quiero un kilo de manzanas.",
+          "example_fa": "یک کیلو سیب می‌خواهم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "medio kilo",
+          "ipa": "/ˈme.ðjo ˈki.lo/",
+          "translation_fa": "نیم کیلو",
+          "example": "Compramos medio kilo de tomates.",
+          "example_fa": "نیم کیلو گوجه‌فرنگی می‌خریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "precio",
+          "ipa": "/ˈpɾe.sjo/",
+          "translation_fa": "قیمت",
+          "example": "El precio del pan es razonable.",
+          "example_fa": "قیمت نان مناسب است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "costar",
+          "ipa": "/kosˈtaɾ/",
+          "translation_fa": "قیمت‌داشتن",
+          "example": "¿Cuánto cuesta esta bolsa de arroz?",
+          "example_fa": "این کیسه برنج چقدر قیمت دارد؟",
+          "tag": "اسم"
+        },
+        {
+          "term": "comprar",
+          "ipa": "/komˈpɾaɾ/",
+          "translation_fa": "خریدن",
+          "example": "Marta compra fruta para sus amigos.",
+          "example_fa": "مارتا برای دوستانش میوه می‌خرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "vender",
+          "ipa": "/benˈdeɾ/",
+          "translation_fa": "فروختن",
+          "example": "El puesto vende pan y queso.",
+          "example_fa": "غرفه نان و پنیر می‌فروشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "bolsa",
+          "ipa": "/ˈbol.sa/",
+          "translation_fa": "کیسه",
+          "example": "Pongo las naranjas en una bolsa.",
+          "example_fa": "پرتقال‌ها را در یک کیسه می‌گذارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "moneda",
+          "ipa": "/moˈne.ða/",
+          "translation_fa": "سکه؛ واحد پول",
+          "example": "La moneda local aparece en el precio.",
+          "example_fa": "واحد پول محلی در قیمت نوشته می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "barato, barata",
+          "ipa": "/baˈɾa.to/, /baˈɾa.ta/",
+          "translation_fa": "ارزان",
+          "example": "El pan está barato esta semana.",
+          "example_fa": "نان این هفته ارزان است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "¿Cuánto cuesta / cuestan?",
+      "explanation_fa": "Para preguntar el precio, usamos «¿Cuánto cuesta?» con un producto singular: «¿Cuánto cuesta el pan?». Con varios productos, preguntamos «¿Cuánto cuestan las manzanas?». La forma del verbo concuerda con el nombre del producto, no con la persona que compra. Podemos indicar una cantidad con «un kilo», «medio kilo» o «una bolsa de». Para hacer una petición sencilla, decimos «Quiero un kilo de fruta, por favor». El vendedor puede responder «Cuesta tres euros» o «Cuestan cuatro euros». «Costar» cambia la vocal en algunas formas: cuesta, cuestan.",
+      "pattern": "¿Cuánto cuesta + singular? / ¿Cuánto cuestan + plural?",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "singular",
+            "¿Cuánto cuesta el pan? Cuesta dos euros.",
+            "نان چقدر است؟ دو یورو است."
+          ],
+          [
+            "plural",
+            "¿Cuánto cuestan las manzanas? Cuestan tres euros.",
+            "سیب‌ها چقدرند؟ سه یورو هستند."
+          ],
+          [
+            "cantidad",
+            "Quiero medio kilo de tomates, por favor.",
+            "لطفاً نیم کیلو گوجه‌فرنگی می‌خواهم."
+          ],
+          [
+            "petición",
+            "¿Me da una bolsa, por favor?",
+            "لطفاً یک کیسه به من می‌دهید؟"
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "El verbo cuesta/cuestan concuerda con el producto.",
+        "Usar «por favor» para formular una petición amable."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "¿Cuánto cuesta un kilo de arroz?",
+          "fa": "یک کیلو برنج چقدر است؟",
+          "note_fa": "«Kilo» es una cantidad singular."
+        },
+        {
+          "target": "Las naranjas cuestan dos euros.",
+          "fa": "پرتقال‌ها دو یورو هستند.",
+          "note_fa": "«Naranjas» es plural; usamos cuestan."
+        },
+        {
+          "target": "Quiero medio kilo de pan, por favor.",
+          "fa": "لطفاً نیم کیلو نان می‌خواهم.",
+          "note_fa": "La petición empieza con «quiero»."
+        },
+        {
+          "target": "Marta compra tomates y una bolsa de fruta.",
+          "fa": "مارتا گوجه و یک کیسه میوه می‌خرد.",
+          "note_fa": "La bolsa indica el recipiente de compra."
+        },
+        {
+          "target": "El precio del queso está barato hoy.",
+          "fa": "قیمت پنیر امروز ارزان است.",
+          "note_fa": "«Barato» concuerda con «precio»."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Comprar para la cena",
+      "script": "Marta: Buenos días, ¿cuánto cuesta medio kilo de tomates frescos?\nVendedora: Cuesta solo tres euros.\nMarta: Quiero también un kilo de naranjas para compartir en casa, por favor.\nVendedora: Claro; las naranjas cuestan cuatro euros.\nMarta: ¿Tiene pan fresco?\nVendedora: Sí, una barra grande de pan fresco cuesta dos euros.\nMarta: Perfecto; pongo todo en una bolsa.\nVendedora: ¿Necesita algo más?\nMarta: No, gracias; llevo fruta para mis amigos.",
+      "script_fa": "مارتا: صبح بخیر، نیم کیلو گوجه‌فرنگی تازه چقدر است؟\nفروشنده: فقط سه یورو است.\nمارتا: یک کیلو پرتقال هم برای تقسیم در خانه می‌خواهم، لطفاً.\nفروشنده: حتماً؛ پرتقال‌ها چهار یورو هستند.\nمارتا: نان تازه دارید؟\nفروشنده: بله، یک قرص نان تازه و بزرگ دو یورو است.\nمارتا: عالی؛ همه را در کیسه می‌گذارم.\nفروشنده: چیز دیگری لازم دارید؟\nمارتا: نه، ممنون؛ برای دوستانم میوه می‌برم.",
+      "question_fa": "¿Cuánto cuesta medio kilo de tomates?",
+      "answer": "Tres euros.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "En el puesto de fruta",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Buenos días, quiero un kilo de manzanas.",
+          "fa": "صبح بخیر، یک کیلو سیب می‌خواهم."
+        },
+        {
+          "speaker": "B",
+          "target": "Claro. ¿Algo más?",
+          "fa": "حتماً. چیز دیگری؟"
+        },
+        {
+          "speaker": "A",
+          "target": "¿Cuánto cuestan las peras?",
+          "fa": "گلابی‌ها چقدر هستند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Cuestan dos euros el kilo.",
+          "fa": "کیلویی دو یورو هستند."
+        },
+        {
+          "speaker": "A",
+          "target": "Entonces compro medio kilo.",
+          "fa": "پس نیم کیلو می‌خرم."
+        },
+        {
+          "speaker": "B",
+          "target": "¿Quiere una bolsa?",
+          "fa": "کیسه می‌خواهید؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Sí, por favor; también llevo pan.",
+          "fa": "بله، لطفاً؛ نان هم می‌برم."
+        },
+        {
+          "speaker": "B",
+          "target": "Gracias; que tenga buen día.",
+          "fa": "ممنون؛ روز خوبی داشته باشید."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، سه قلم خوراکی و مقدارشان را مؤدبانه در بازار سفارش بده.",
+      "useful_phrases": [
+        {
+          "target": "Quiero un kilo de manzanas.",
+          "fa": "یک کیلو سیب می‌خواهم."
+        },
+        {
+          "target": "¿Cuánto cuestan las peras?",
+          "fa": "گلابی‌ها چقدر هستند؟"
+        },
+        {
+          "target": "Una bolsa, por favor.",
+          "fa": "لطفاً یک کیسه."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una compra para compartir",
+      "text": "Marta va al mercado del barrio después de clase. Quiere preparar una merienda para su familia y un amigo. Primero compra pan fresco y medio kilo de tomates. Después pregunta el precio de las naranjas; cuestan cuatro euros el kilo. En otro puesto, una vendedora ofrece arroz, verduras y fruta de temporada. Marta compra una bolsa de manzanas porque a su hermano le gustan mucho. Antes de volver a casa, mira la lista y confirma que tiene todo. Sus amigos llegan por la tarde, así que la compra es sencilla y alcanza para todos.",
+      "glossary": [
+        {
+          "term": "la merienda",
+          "fa": "میان‌وعده"
+        },
+        {
+          "term": "de temporada",
+          "fa": "فصلی"
+        },
+        {
+          "term": "alcanzar",
+          "fa": "کافی‌بودن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué compra Marta primero?",
+          "a": "Pan y medio kilo de tomates."
+        },
+        {
+          "q_fa": "¿Cuándo llegan sus amigos?",
+          "a": "Por la tarde."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل فعل را انتخاب کن.",
+          "question": "¿Cuánto ___ el pan?",
+          "options": [
+            "cuesta",
+            "cuestan",
+            "costamos"
+          ],
+          "answer": "cuesta",
+          "explanation_fa": "«Pan» مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل جمع را انتخاب کن.",
+          "question": "¿Cuánto ___ las naranjas?",
+          "options": [
+            "cuesta",
+            "cuestan",
+            "cuesto"
+          ],
+          "answer": "cuestan",
+          "explanation_fa": "«Naranjas» جمع است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "مقدار درست را انتخاب کن.",
+          "question": "Quiero ___ kilo de tomates.",
+          "options": [
+            "medio",
+            "media",
+            "medios"
+          ],
+          "answer": "medio",
+          "explanation_fa": "«Kilo» مذکر است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "La vendedora dice que los tomates cuestan tres euros.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "سه یورو قیمت نیم کیلو گوجه است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Las peras ___ dos euros.",
+          "answer": [
+            "cuestan"
+          ],
+          "explanation_fa": "cuestan"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Cuánto cuesta medio kilo de tomates?",
+          "answer": [
+            "Tres euros."
+          ],
+          "explanation_fa": "نیم کیلو گوجه سه یورو است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Cuánto cuesta medio kilo de tomates?",
+          "options": [
+            "Tres euros",
+            "Dos euros",
+            "Cuatro euros"
+          ],
+          "answer": "Tres euros",
+          "explanation_fa": "La vendedora dice que cuesta tres euros."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuánto cuestan las naranjas?",
+          "options": [
+            "Cuatro euros",
+            "Un euro",
+            "Seis euros"
+          ],
+          "answer": "Cuatro euros",
+          "explanation_fa": "Las naranjas cuestan cuatro euros."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué compra Marta primero?",
+          "options": [
+            "Pan y tomates",
+            "Queso y arroz",
+            "Leche y sopa"
+          ],
+          "answer": "Pan y tomates",
+          "explanation_fa": "Compra pan y medio kilo de tomates."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué lleva Marta en una bolsa?",
+          "options": [
+            "Manzanas",
+            "Velas",
+            "Mapas"
+          ],
+          "answer": "Manzanas",
+          "explanation_fa": "Compra una bolsa de manzanas."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuándo llegan los amigos?",
+          "options": [
+            "Por la tarde",
+            "Al mediodía",
+            "Por la mañana"
+          ],
+          "answer": "Por la tarde",
+          "explanation_fa": "El texto dice que llegan por la tarde."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Pide productos y pregunta por el precio; usa cuesta o cuestan según el nombre.",
+      "suggested_prompts": [
+        "Quiero un kilo de manzanas.",
+        "¿Cuánto cuestan las peras?",
+        "Una bolsa, por favor."
+      ],
+      "focus": [
+        "compras",
+        "cantidades",
+        "costar"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Marta compra alimentos y pregunta el precio antes de elegir."
+  }
+}

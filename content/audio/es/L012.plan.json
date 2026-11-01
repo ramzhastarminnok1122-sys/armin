@@ -1,0 +1,398 @@
+{
+  "lesson": "L012",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L012-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Dónde está la estación?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L012-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Está junto a la avenida principal.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L012-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Sigo recto desde el mercado?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L012-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, cruza la avenida en el semáforo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L012-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Después doblo a la derecha?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L012-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Exacto; la plaza queda frente a la estación.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L012-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Hay una parada cerca?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L012-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, está al lado de la biblioteca.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L012-es-listening-1",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[0]",
+      "tts_text": "Disculpe, ¿cómo llego a la plaza desde aquí, por favor?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L012-es-listening-2",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[1]",
+      "tts_text": "Sigue recto por la avenida principal hasta el semáforo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L012-es-listening-3",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[2]",
+      "tts_text": "¿Tengo que cruzar el puente?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L012-es-listening-4",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[3]",
+      "tts_text": "Sí; la plaza está al lado del puente.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L012-es-listening-5",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[4]",
+      "tts_text": "¿Queda a la derecha o a la izquierda?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L012-es-listening-6",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[5]",
+      "tts_text": "A la derecha, frente a la biblioteca.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L012-es-listening-7",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[6]",
+      "tts_text": "¿La parada está cerca?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L012-es-listening-8",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, está frente al mercado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L012-es-listening-9",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[8]",
+      "tts_text": "Muchas gracias por ayudarme.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L012-es-vocab-plaza",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "plaza. La plaza está frente a la biblioteca.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L012-es-vocab-avenida",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "avenida. La avenida cruza el centro de la ciudad.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L012-es-vocab-puente",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "puente. El puente está al lado del río.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L012-es-vocab-parada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "parada. La parada está frente al mercado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L012-es-vocab-estacion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "estación. La estación queda cerca de la avenida.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L012-es-vocab-semaforo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "semáforo. Dobla a la izquierda en el semáforo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L012-es-vocab-aladerecha",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "a la derecha. La plaza queda a la derecha.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L012-es-vocab-alaizquierda",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "a la izquierda. Sigue hasta la esquina y gira a la izquierda.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L012-es-vocab-cruzar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "cruzar. Cruza el puente para llegar al parque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L012-es-vocab-doblar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "doblar. Dobla a la derecha después del mercado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L012-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "La plaza está junto al mercado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L012-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Las paradas están frente a la estación.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L012-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Cruza el puente y sigue recto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L012-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Dobla a la derecha en el semáforo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L012-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La estación está al lado de la avenida.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L012-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Las plazas están cerca del mercado.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L012-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Sigue recto hasta el puente pequeño.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L012-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Cruza la avenida y dobla a la izquierda.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L012-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "La parada está frente a la biblioteca.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L012-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "El mercado queda en una avenida amplia, cerca de la estación. Desde allí, una persona puede caminar hasta la plaza en pocos minutos. Primero, sigue recto hasta el semáforo y cruza la avenida con cuidado. Después, pasa por el puente pequeño que está junto al río. La plaza queda a la derecha, frente a una biblioteca pública. La parada de autobús está al otro lado de la avenida. Marta conoce bien el barrio y ayuda a los visitantes cuando preguntan por una dirección. Cerca de la plaza hay una panadería; la familia de Marta compra allí pan y fruta para compartir.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 564
+    },
+    {
+      "id": "L012-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L012)",
+      "tts_text": "چطور مسیر را با کمک یک میدان یا ایستگاه برای کسی توضیح می‌دهی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L012-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L012)",
+      "tts_text": "برای جای مکان از «estar» و برای جهت از عبارت‌هایی مانند «a la derecha» استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 87
+    },
+    {
+      "id": "L012-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L012)",
+      "tts_text": "به گفت‌وگو گوش کن و جای میدان را نسبت به پل پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L012-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L012)",
+      "tts_text": "می‌گوییم «la plaza está» و «las paradas están».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L012-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L012)",
+      "tts_text": "با سه مرحله مسیر کوتاهی را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 37
+    },
+    {
+      "id": "L012-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L012)",
+      "tts_text": "از یک نشانهٔ شناخته‌شده شروع کن و مرحله‌ها را به ترتیب بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "lesson": "L011",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L011-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Buenos días, quiero un kilo de manzanas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L011-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Claro. ¿Algo más?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 17
+    },
+    {
+      "id": "L011-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Cuánto cuestan las peras?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L011-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Cuestan dos euros el kilo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L011-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Entonces compro medio kilo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L011-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "¿Quiere una bolsa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 18
+    },
+    {
+      "id": "L011-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Sí, por favor; también llevo pan.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L011-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Gracias; que tenga buen día.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L011-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Buenos días, ¿cuánto cuesta medio kilo de tomates frescos?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L011-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Cuesta solo tres euros.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L011-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Quiero también un kilo de naranjas para compartir en casa, por favor.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 69
+    },
+    {
+      "id": "L011-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Claro; las naranjas cuestan cuatro euros.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L011-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Tiene pan fresco?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 18
+    },
+    {
+      "id": "L011-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Sí, una barra grande de pan fresco cuesta dos euros.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L011-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Perfecto; pongo todo en una bolsa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L011-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¿Necesita algo más?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L011-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "No, gracias; llevo fruta para mis amigos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L011-es-vocab-mercado",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "mercado. El mercado abre temprano los sábados.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L011-es-vocab-kilo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "kilo. Quiero un kilo de manzanas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L011-es-vocab-mediokilo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "medio kilo. Compramos medio kilo de tomates.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L011-es-vocab-precio",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "precio. El precio del pan es razonable.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L011-es-vocab-costar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "costar. ¿Cuánto cuesta esta bolsa de arroz?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L011-es-vocab-comprar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "comprar. Marta compra fruta para sus amigos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L011-es-vocab-vender",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "vender. El puesto vende pan y queso.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L011-es-vocab-bolsa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "bolsa. Pongo las naranjas en una bolsa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L011-es-vocab-moneda",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "moneda. La moneda local aparece en el precio.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L011-es-vocab-baratobarata",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "barato, barata. El pan está barato esta semana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L011-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "¿Cuánto cuesta el pan? Cuesta dos euros.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L011-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "¿Cuánto cuestan las manzanas? Cuestan tres euros.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L011-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Quiero medio kilo de tomates, por favor.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L011-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "¿Me da una bolsa, por favor?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L011-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "¿Cuánto cuesta un kilo de arroz?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L011-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Las naranjas cuestan dos euros.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L011-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Quiero medio kilo de pan, por favor.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L011-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Marta compra tomates y una bolsa de fruta.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L011-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "El precio del queso está barato hoy.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L011-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Marta va al mercado del barrio después de clase. Quiere preparar una merienda para su familia y un amigo. Primero compra pan fresco y medio kilo de tomates. Después pregunta el precio de las naranjas; cuestan cuatro euros el kilo. En otro puesto, una vendedora ofrece arroz, verduras y fruta de temporada. Marta compra una bolsa de manzanas porque a su hermano le gustan mucho. Antes de volver a casa, mira la lista y confirma que tiene todo. Sus amigos llegan por la tarde, así que la compra es sencilla y alcanza para todos.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 526
+    },
+    {
+      "id": "L011-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L011)",
+      "tts_text": "چطور در بازار قیمت یک خوراکی یا چند خوراکی را می‌پرسی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L011-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L011)",
+      "tts_text": "برای یک کالا «cuesta» و برای چند کالا «cuestan» به کار می‌رود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L011-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L011)",
+      "tts_text": "به گفت‌وگو گوش کن و قیمت نیم کیلو گوجه‌فرنگی را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L011-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L011)",
+      "tts_text": "می‌پرسیم «¿Cuánto cuesta el pan?» و «¿Cuánto cuestan las naranjas?».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L011-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L011)",
+      "tts_text": "درخواست خرید را با مقدار و «por favor» بیان کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L011-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L011)",
+      "tts_text": "فعل را با مفرد یا جمع بودن کالا هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 42
+    }
+  ]
+}

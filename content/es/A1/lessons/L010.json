@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 10,
+    "title": "Me gusta la comida casera",
+    "subtitle": "Hablar de gustos y comidas",
+    "description": "Sofía y Leo comparten los platos que les gustan en casa.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Expresar gustos con gustar y nombrar alimentos cotidianos",
+      "objectives": [
+        "Nombrar alimentos y comidas sencillas.",
+        "Expresar gustos con me gusta y me gustan.",
+        "Elegir la forma de gustar según el nombre."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چه غذایی را دوست داری و دربارهٔ علاقه‌ات به چند خوراکی چه می‌گویی؟",
+      "questions": [
+        {
+          "q": "غذایی که از برنج و سبزی درست می‌شود چه نام دارد؟",
+          "hint_fa": "به واژهٔ «arroz» فکر کن."
+        },
+        {
+          "q": "غذای مایع گرمی که با قاشق می‌خوریم چیست؟",
+          "hint_fa": "به واژهٔ «sopa» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Gustar para expresar preferencias",
+      "body_fa": "برای بیان علاقه از فعل «gustar» استفاده می‌کنیم. وقتی یک چیز یا فعالیت مفرد را دوست داریم، می‌گوییم «Me gusta la sopa» یا «Te gusta cocinar». وقتی چند چیز را دوست داریم، «gustan» می‌آید: «Me gustan las verduras». ضمیرهای «me», «te», «le», «nos» و «les» نشان می‌دهند چه کسی از چیزی خوشش می‌آید. در این ساختار، چیزی که دوست داریم از نظر مفرد یا جمع بودن شکل فعل را تعیین می‌کند؛ نه شخصی که دوست دارد. برای پرسیدن نظر می‌گوییم «¿Te gusta el arroz?» یا «¿Te gustan las frutas?».",
+      "key_points": [
+        "با اسم مفرد می‌گوییم «gusta».",
+        "با اسم جمع می‌گوییم «gustan».",
+        "ضمیر me/te/le/nos/les شخصِ علاقه‌مند را نشان می‌دهد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "arroz",
+          "ipa": "/aˈros/",
+          "translation_fa": "برنج",
+          "example": "Me gusta el arroz con verduras.",
+          "example_fa": "برنج با سبزیجات را دوست دارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pan",
+          "ipa": "/pan/",
+          "translation_fa": "نان",
+          "example": "Compramos pan fresco para la cena.",
+          "example_fa": "برای شام نان تازه می‌خریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pollo",
+          "ipa": "/ˈpo.ʝo/",
+          "translation_fa": "مرغ",
+          "example": "A Leo le gusta el pollo al horno.",
+          "example_fa": "لئو مرغ تنوری را دوست دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "verdura",
+          "ipa": "/beɾˈðu.ɾa/",
+          "translation_fa": "سبزی",
+          "example": "Mi familia cocina verdura cada semana.",
+          "example_fa": "خانواده‌ام هر هفته سبزی می‌پزد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "fruta",
+          "ipa": "/ˈfɾu.ta/",
+          "translation_fa": "میوه",
+          "example": "Sofía come fruta después de clase.",
+          "example_fa": "سوفیا بعد از کلاس میوه می‌خورد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ensalada",
+          "ipa": "/en.saˈla.ða/",
+          "translation_fa": "سالاد",
+          "example": "La ensalada lleva tomate y pepino.",
+          "example_fa": "سالاد گوجه‌فرنگی و خیار دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "sopa",
+          "ipa": "/ˈso.pa/",
+          "translation_fa": "سوپ",
+          "example": "Me gusta la sopa cuando hace frío.",
+          "example_fa": "وقتی هوا سرد است سوپ دوست دارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "agua",
+          "ipa": "/ˈa.ɣwa/",
+          "translation_fa": "آب",
+          "example": "¿Te gusta el agua con limón?",
+          "example_fa": "آب با لیمو را دوست داری؟",
+          "tag": "اسم"
+        },
+        {
+          "term": "desayuno",
+          "ipa": "/des.aˈʝu.no/",
+          "translation_fa": "صبحانه",
+          "example": "El desayuno incluye pan y fruta.",
+          "example_fa": "صبحانه نان و میوه دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cena",
+          "ipa": "/ˈse.na/",
+          "translation_fa": "شام",
+          "example": "Cenamos juntos los viernes.",
+          "example_fa": "جمعه‌ها با هم شام می‌خوریم.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Me gusta / me gustan",
+      "explanation_fa": "El verbo «gustar» concuerda con la cosa que agrada. Con un nombre singular decimos «Me gusta el arroz»; con varios, «Me gustan las verduras». El pronombre indica quién siente el gusto: «me», «te», «le», «nos» o «les». Podemos preguntar «¿Te gusta la sopa?» o «¿Te gustan las frutas?». Si mencionamos una actividad, usamos el infinitivo en singular: «Me gusta cocinar». En español, el orden habitual es pronombre + gusta/gustan + cosa o actividad. Para responder, podemos decir «Sí, me gusta» o «No, no me gustan».",
+      "pattern": "pronombre de gusto + gusta (singular / infinitivo) o gustan (plural)",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "me / te",
+            "Me gusta el arroz. ¿Te gustan las frutas?",
+            "برنج را دوست دارم. میوه‌ها را دوست داری؟"
+          ],
+          [
+            "le",
+            "A Leo le gusta el pollo.",
+            "لئو مرغ را دوست دارد."
+          ],
+          [
+            "nos",
+            "Nos gusta cenar en familia.",
+            "شام‌خوردن با خانواده را دوست داریم."
+          ],
+          [
+            "les",
+            "A Sofía y a Ana les gustan las verduras.",
+            "سوفیا و آنا سبزیجات را دوست دارند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Con un nombre plural, usar «gustan».",
+        "Con un infinitivo, usar «gusta»: «Me gusta cocinar»."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "A mi hermano le gusta la ensalada fresca.",
+          "fa": "برادرم سالاد تازه را دوست دارد.",
+          "note_fa": "«Ensalada» es singular; usamos «gusta»."
+        },
+        {
+          "target": "Nos gustan las verduras de la huerta.",
+          "fa": "سبزیجات باغچه را دوست داریم.",
+          "note_fa": "«Verduras» está en plural; usamos «gustan»."
+        },
+        {
+          "target": "¿Te gusta desayunar con fruta?",
+          "fa": "صبحانه‌خوردن با میوه را دوست داری؟",
+          "note_fa": "El infinitivo «desayunar» lleva «gusta»."
+        },
+        {
+          "target": "A Sofía le gusta el pollo, pero prefiere sopa.",
+          "fa": "سوفیا مرغ را دوست دارد، اما سوپ را ترجیح می‌دهد.",
+          "note_fa": "El pronombre «le» corresponde a Sofía."
+        },
+        {
+          "target": "A mis amigos les gustan el arroz y el pan.",
+          "fa": "دوستانم برنج و نان را دوست دارند.",
+          "note_fa": "El sujeto de «gustan» son dos alimentos."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Una cena en casa",
+      "script": "Sofía: ¿Qué te gusta comer cuando hace frío?\nLeo: Me gusta la sopa de verduras.\nSofía: A mí me gustan el arroz y el pollo.\nLeo: ¿Te gusta la ensalada con tomate?\nSofía: Sí, y también me gusta el pan fresco.\nLeo: Mi familia prepara la cena los viernes.\nSofía: ¿Les gustan las frutas de postre?\nLeo: Sí, a todos les gusta la fruta.\nSofía: Entonces llevo agua y una ensalada.",
+      "script_fa": "سوفیا: وقتی هوا سرد است چه غذایی را دوست داری؟\nلئو: سوپ سبزیجات را دوست دارم.\nسوفیا: من برنج و مرغ را دوست دارم.\nلئو: سالاد با گوجه‌فرنگی را دوست داری؟\nسوفیا: بله، نان تازه را هم دوست دارم.\nلئو: خانواده‌ام جمعه‌ها شام آماده می‌کند.\nسوفیا: میوه را برای دسر دوست دارند؟\nلئو: بله، همه میوه را دوست دارند.\nسوفیا: پس آب و سالاد می‌آورم.",
+      "question_fa": "¿Qué comida le gusta a Leo cuando hace frío?",
+      "answer": "La sopa de verduras.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Hablar de la comida",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Te gusta el arroz?",
+          "fa": "برنج را دوست داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, me gusta mucho.",
+          "fa": "بله، خیلی دوست دارم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Y te gustan las verduras?",
+          "fa": "سبزیجات را هم دوست داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, pero no me gusta la sopa fría.",
+          "fa": "بله، اما سوپ سرد را دوست ندارم."
+        },
+        {
+          "speaker": "A",
+          "target": "A mi familia le gusta cenar temprano.",
+          "fa": "خانواده‌ام شام زود را دوست دارد."
+        },
+        {
+          "speaker": "B",
+          "target": "A nosotros nos gusta comer juntos.",
+          "fa": "ما با هم غذاخوردن را دوست داریم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Te gusta preparar ensalada?",
+          "fa": "سالاد آماده‌کردن را دوست داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, llevo fruta para el postre.",
+          "fa": "بله، برای دسر میوه می‌آورم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، یک غذای مفرد و چند خوراکی را که دوست داری نام ببر.",
+      "useful_phrases": [
+        {
+          "target": "Me gusta la sopa.",
+          "fa": "سوپ را دوست دارم."
+        },
+        {
+          "target": "Me gustan las frutas.",
+          "fa": "میوه‌ها را دوست دارم."
+        },
+        {
+          "target": "A mi familia le gusta cenar junta.",
+          "fa": "خانواده‌ام شام‌خوردن با هم را دوست دارد."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una comida de los viernes",
+      "text": "La familia de Sofía vive en una ciudad tranquila y suele cenar junta los viernes. Su madre prepara arroz con verduras, y su hermano trae pan de la panadería del barrio. A Sofía le gusta ayudar en la cocina; a su amigo Leo le gusta probar platos nuevos. La abuela sirve sopa cuando hace frío y pone fruta sobre la mesa para el postre. Un estudiante que vive cerca se une a veces a la cena. Todos conversan sobre la comida que prefieren y escuchan música después. Para beber, la familia ofrece agua con limón.",
+      "glossary": [
+        {
+          "term": "probar",
+          "fa": "امتحان‌کردن؛ چشیدن"
+        },
+        {
+          "term": "unirse",
+          "fa": "پیوستن"
+        },
+        {
+          "term": "preferir",
+          "fa": "ترجیح‌دادن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Cuándo cena junta la familia?",
+          "a": "Los viernes."
+        },
+        {
+          "q_fa": "¿Qué ofrece la familia para beber?",
+          "a": "Agua con limón."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست را انتخاب کن.",
+          "question": "Me ___ la sopa.",
+          "options": [
+            "gusta",
+            "gustan",
+            "gusto"
+          ],
+          "answer": "gusta",
+          "explanation_fa": "«Sopa» مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "A mis amigos les ___ las frutas.",
+          "options": [
+            "gusta",
+            "gustan",
+            "gustamos"
+          ],
+          "answer": "gustan",
+          "explanation_fa": "«Frutas» جمع است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "ضمیر مناسب را انتخاب کن.",
+          "question": "A Leo ___ gusta el pollo.",
+          "options": [
+            "le",
+            "me",
+            "nos"
+          ],
+          "answer": "le",
+          "explanation_fa": "ضمیر سوم‌شخص برای لئو «le» است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "Con el infinitivo decimos «Me gustan cocinar».",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "با مصدر می‌گوییم «Me gusta cocinar»."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Nos ___ cenar en familia.",
+          "answer": [
+            "gusta"
+          ],
+          "explanation_fa": "gusta"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué comida le gusta a Leo cuando hace frío?",
+          "answer": [
+            "La sopa de verduras."
+          ],
+          "explanation_fa": "لئو وقتی هوا سرد است سوپ سبزیجات دوست دارد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué le gusta a Leo?",
+          "options": [
+            "La sopa de verduras",
+            "El pollo frío",
+            "El arroz solo"
+          ],
+          "answer": "La sopa de verduras",
+          "explanation_fa": "Leo dice que le gusta la sopa."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué le gusta a Sofía?",
+          "options": [
+            "El arroz y el pollo",
+            "La sopa fría",
+            "Solo el pan"
+          ],
+          "answer": "El arroz y el pollo",
+          "explanation_fa": "Sofía menciona el arroz y el pollo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuándo cena junta la familia?",
+          "options": [
+            "Los viernes",
+            "Los lunes",
+            "Cada mañana"
+          ],
+          "answer": "Los viernes",
+          "explanation_fa": "La familia suele cenar los viernes."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué pone la abuela para el postre?",
+          "options": [
+            "Fruta",
+            "Ensalada",
+            "Pan"
+          ],
+          "answer": "Fruta",
+          "explanation_fa": "La abuela pone fruta sobre la mesa."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué bebida ofrece la familia?",
+          "options": [
+            "Agua con limón",
+            "Café frío",
+            "Leche caliente"
+          ],
+          "answer": "Agua con limón",
+          "explanation_fa": "El texto menciona agua con limón."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Di qué comida te gusta y cuál no te gusta; compara un nombre singular y uno plural.",
+      "suggested_prompts": [
+        "Me gusta la sopa.",
+        "Me gustan las frutas.",
+        "A mi familia le gusta cenar junta."
+      ],
+      "focus": [
+        "gustar",
+        "alimentos",
+        "gusta / gustan"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Sofía y Leo preparan una comida familiar y comparan sus gustos."
+  }
+}
