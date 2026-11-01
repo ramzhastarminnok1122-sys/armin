@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 35,
+    "title": "Un edificio especial",
+    "subtitle": "Describir lugares con ser y estar",
+    "description": "Marta enseña a un amigo un edificio antiguo de su ciudad.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Ser para características y estar para ubicación o estado",
+      "objectives": [
+        "Describir características permanentes de un edificio.",
+        "Indicar dónde está un lugar.",
+        "Distinguir «ser» de «estar» en descripciones sencillas."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در ساختمانی که می‌شناسی، چه چیزی ویژگی آن است و کجا قرار دارد؟",
+      "questions": [
+        {
+          "q": "برای گفتن ویژگی، «ser» یا «estar» را انتخاب می‌کنی؟",
+          "hint_fa": "به تفاوت «es» و «está» فکر کن."
+        },
+        {
+          "q": "چه چیزی می‌تواند از سنگ ساخته شده باشد؟",
+          "hint_fa": "به واژهٔ «piedra» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Ser y estar para describir",
+      "body_fa": "برای ویژگی‌های کلی یا نسبتاً پایدار از «ser» استفاده می‌کنیم: «La torre es alta», «El museo es antiguo». برای گفتن مکان از «estar» استفاده می‌کنیم: «El museo está en la plaza». «Estar» همچنین حالت فعلی را نشان می‌دهد: «La puerta está abierta». پس از هر دو فعل صفت می‌آید و صفت با اسم از نظر جنس و شمار هماهنگ می‌شود. پرسش «¿Cómo es?» دربارهٔ ویژگی است و «¿Dónde está?» مکان را می‌پرسد. مکان یک چیز معمولاً با «estar» بیان می‌شود، حتی اگر ویژگی آن پایدار باشد.",
+      "key_points": [
+        "ویژگی کلی را با «ser» بیان کن.",
+        "مکان و حالت فعلی را با «estar» بگو.",
+        "صفت با اسم هماهنگ می‌شود."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "fachada",
+          "ipa": "/faˈtʃa.ða/",
+          "translation_fa": "نمای ساختمان",
+          "example": "La fachada del museo es muy clara.",
+          "example_fa": "نمای موزه بسیار روشن است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "torre",
+          "ipa": "/ˈto.re/",
+          "translation_fa": "برج",
+          "example": "La torre está junto al río.",
+          "example_fa": "برج کنار رودخانه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "monumento",
+          "ipa": "/mo.nuˈmen.to/",
+          "translation_fa": "یادمان",
+          "example": "El monumento es alto y antiguo.",
+          "example_fa": "یادمان بلند و قدیمی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "piedra",
+          "ipa": "/ˈpje.ðɾa/",
+          "translation_fa": "سنگ",
+          "example": "La pared es de piedra gris.",
+          "example_fa": "دیوار از سنگ خاکستری است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "madera",
+          "ipa": "/maˈðe.ɾa/",
+          "translation_fa": "چوب",
+          "example": "La puerta de madera está abierta.",
+          "example_fa": "در چوبی باز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cristal",
+          "ipa": "/kɾisˈtal/",
+          "translation_fa": "شیشه",
+          "example": "Las ventanas de cristal son grandes.",
+          "example_fa": "پنجره‌های شیشه‌ای بزرگ هستند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "escalera",
+          "ipa": "/es.kaˈle.ɾa/",
+          "translation_fa": "راه‌پله",
+          "example": "La escalera está dentro de la torre.",
+          "example_fa": "راه‌پله داخل برج است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ascensor",
+          "ipa": "/a.senˈsoɾ/",
+          "translation_fa": "آسانسور",
+          "example": "El ascensor está al fondo del pasillo.",
+          "example_fa": "آسانسور در انتهای راهرو است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "sótano",
+          "ipa": "/ˈso.ta.no/",
+          "translation_fa": "زیرزمین",
+          "example": "El sótano es fresco y silencioso.",
+          "example_fa": "زیرزمین خنک و ساکت است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "terraza",
+          "ipa": "/teˈra.sa/",
+          "translation_fa": "تراس",
+          "example": "La terraza está abierta por la tarde.",
+          "example_fa": "تراس بعدازظهر باز است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Ser: características; estar: ubicación y estado",
+      "explanation_fa": "برای ویژگی کلی، هویت یا جنس ماده از «ser» استفاده می‌کنیم: «la torre es alta» و «la puerta es de madera». برای مکان از «estar» استفاده می‌کنیم: «el museo está en la plaza». «Estar» حالت فعلی را نیز نشان می‌دهد: «la puerta está abierta». هر دو فعل با فاعل صرف می‌شوند و صفت با اسم از نظر جنس و شمار هماهنگ می‌شود: «el sótano es fresco» و «las ventanas están limpias». برای پرسیدن ویژگی می‌گوییم «¿Cómo es?»؛ برای مکان می‌پرسیم «¿Dónde está?». این تفاوت را در پاسخ‌های کوتاه هم حفظ کن.",
+      "pattern": "ser + adjetivo/material = característica; estar + lugar/estado = ubicación o condición",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "característica",
+            "La torre es alta.",
+            "برج بلند است."
+          ],
+          [
+            "material",
+            "La puerta es de madera.",
+            "در از چوب است."
+          ],
+          [
+            "ubicación",
+            "El museo está en la plaza.",
+            "موزه در میدان است."
+          ],
+          [
+            "estado",
+            "Las ventanas están abiertas.",
+            "پنجره‌ها باز هستند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای مکان از «estar» استفاده کن.",
+        "جنس و شمار صفت را با اسم هماهنگ کن."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "La fachada es de piedra clara.",
+          "fa": "نمای ساختمان از سنگ روشن است.",
+          "note_fa": "«Ser» indica material."
+        },
+        {
+          "target": "La torre está junto al río.",
+          "fa": "برج کنار رودخانه است.",
+          "note_fa": "«Estar» indica ubicación."
+        },
+        {
+          "target": "El ascensor está al fondo del pasillo.",
+          "fa": "آسانسور در انتهای راهرو است.",
+          "note_fa": "La frase responde «¿Dónde?»."
+        },
+        {
+          "target": "El sótano es fresco durante el verano.",
+          "fa": "زیرزمین در تابستان خنک است.",
+          "note_fa": "«Ser» presenta una característica."
+        },
+        {
+          "target": "La puerta de madera está abierta.",
+          "fa": "در چوبی باز است.",
+          "note_fa": "«Estar» expresa un estado actual."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Visita al edificio antiguo",
+      "script": "Marta: ¿Cómo es el edificio de la plaza?\nDiego: Es antiguo y tiene una fachada de piedra.\nMarta: ¿Dónde está la torre?\nDiego: Está junto al río, detrás del monumento.\nMarta: ¿La puerta de madera está abierta?\nDiego: Sí; la escalera está dentro y el ascensor está al fondo.\nMarta: ¿El sótano es oscuro?\nDiego: No, es fresco; la terraza está abierta esta tarde.\nMarta: Qué bonito es este lugar histórico.",
+      "script_fa": "مارتا: ساختمان میدان چه ویژگی‌ای دارد؟\nدیه‌گو: قدیمی است و نمای سنگی دارد.\nمارتا: برج کجاست؟\nدیه‌گو: کنار رودخانه، پشت یادمان است.\nمارتا: در چوبی باز است؟\nدیه‌گو: بله؛ راه‌پله داخل است و آسانسور در انتهاست.\nمارتا: زیرزمین تاریک است؟\nدیه‌گو: نه، خنک است؛ تراس امروز بعدازظهر باز است.\nمارتا: این مکان تاریخی چقدر زیباست.",
+      "question_fa": "¿Dónde está la torre?",
+      "answer": "Junto al río, detrás del monumento.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Describir un lugar",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Cómo es la fachada?",
+          "fa": "نما چه ویژگی‌ای دارد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Es de piedra y es muy antigua.",
+          "fa": "سنگی و بسیار قدیمی است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Dónde está la escalera?",
+          "fa": "راه‌پله کجاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Está dentro de la torre.",
+          "fa": "داخل برج است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿El museo está abierto ahora?",
+          "fa": "موزه الان باز است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, la puerta está abierta.",
+          "fa": "بله، در باز است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Cómo es el sótano?",
+          "fa": "زیرزمین چه ویژگی‌ای دارد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Es fresco y bastante silencioso.",
+          "fa": "خنک و نسبتاً ساکت است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، ساختمانی را با «ser» توصیف کن و مکان و وضعیت فعلی آن را با «estar» بگو.",
+      "useful_phrases": [
+        {
+          "target": "La torre es alta.",
+          "fa": "برج بلند است."
+        },
+        {
+          "target": "El museo está en la plaza.",
+          "fa": "موزه در میدان است."
+        },
+        {
+          "target": "La puerta está abierta.",
+          "fa": "در باز است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "El museo y la torre",
+      "text": "Marta visita el museo con su amigo Diego. El edificio es antiguo y la fachada es de piedra clara. La torre está detrás de un monumento, cerca del río. Dentro, una escalera de madera sube hasta una terraza; el ascensor está al fondo del pasillo. El sótano es fresco, pero hoy está cerrado. En cambio, las salas principales están abiertas y tienen ventanas grandes de cristal. Marta pregunta cómo es cada espacio y dónde se encuentra. Diego responde con calma: primero describe sus características y luego indica su ubicación.",
+      "glossary": [
+        {
+          "term": "en cambio",
+          "fa": "در عوض"
+        },
+        {
+          "term": "sala",
+          "fa": "تالار؛ اتاق"
+        },
+        {
+          "term": "encontrarse",
+          "fa": "قرارداشتن؛ واقع‌بودن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Dónde está la torre?",
+          "a": "Detrás de un monumento, cerca del río."
+        },
+        {
+          "q_fa": "¿Cómo es el sótano?",
+          "a": "Es fresco."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل درست را انتخاب کن.",
+          "question": "La torre ___ alta.",
+          "options": [
+            "es",
+            "está",
+            "son"
+          ],
+          "answer": "es",
+          "explanation_fa": "ویژگی کلی با «ser» بیان می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "مکان را کامل کن.",
+          "question": "El museo ___ en la plaza.",
+          "options": [
+            "está",
+            "es",
+            "están"
+          ],
+          "answer": "está",
+          "explanation_fa": "مکان با «estar» بیان می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "صفت مناسب را انتخاب کن.",
+          "question": "Las ventanas ___ abiertas.",
+          "options": [
+            "está",
+            "están",
+            "es"
+          ],
+          "answer": "están",
+          "explanation_fa": "«Ventanas» مؤنث جمع است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«La torre está junto al río» indica una ubicación.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "«Estar» مکان را نشان می‌دهد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "La puerta ___ abierta. (estar)",
+          "answer": [
+            "está"
+          ],
+          "explanation_fa": "está"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Dónde está la torre?",
+          "answer": [
+            "Junto al río, detrás del monumento."
+          ],
+          "explanation_fa": "برج کنار رودخانه، پشت یادمان است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Cómo es el edificio de la plaza?",
+          "options": [
+            "Es antiguo y tiene una fachada de piedra",
+            "Es nuevo y de madera",
+            "Es pequeño y de cristal"
+          ],
+          "answer": "Es antiguo y tiene una fachada de piedra",
+          "explanation_fa": "Diego lo describe como antiguo y de piedra."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde está la torre?",
+          "options": [
+            "Junto al río",
+            "En el sótano",
+            "Dentro del ascensor"
+          ],
+          "answer": "Junto al río",
+          "explanation_fa": "Diego dice que está junto al río."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué está abierto?",
+          "options": [
+            "La puerta de madera",
+            "El sótano",
+            "El ascensor"
+          ],
+          "answer": "La puerta de madera",
+          "explanation_fa": "Diego confirma que la puerta está abierta."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cómo es el sótano?",
+          "options": [
+            "Fresco",
+            "Muy caliente",
+            "De cristal"
+          ],
+          "answer": "Fresco",
+          "explanation_fa": "Diego dice que es fresco."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde está la escalera?",
+          "options": [
+            "Dentro de la torre",
+            "En la terraza",
+            "Junto al río"
+          ],
+          "answer": "Dentro de la torre",
+          "explanation_fa": "La escalera está dentro de la torre."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش راهنمای محلی، ساختمانی را برای یک بازدیدکننده معرفی کن؛ ویژگی، مکان و وضعیت فعلی آن را با «ser» و «estar» بیان کن.",
+      "suggested_prompts": [
+        "La torre es alta.",
+        "El museo está en la plaza.",
+        "La puerta está abierta."
+      ],
+      "focus": [
+        "ser",
+        "estar",
+        "edificios"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Dos amigos recorren una zona histórica y describen sus edificios."
+  }
+}

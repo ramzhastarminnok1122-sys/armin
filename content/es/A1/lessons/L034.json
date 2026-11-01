@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 34,
+    "title": "¿De qué color es?",
+    "subtitle": "Describir colores y objetos",
+    "description": "Lucía y Pablo preparan carteles y eligen los colores adecuados.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Adjetivos de color y concordancia de género y número",
+      "objectives": [
+        "Nombrar colores frecuentes.",
+        "Hacer concordar el adjetivo de color con el nombre.",
+        "Describir objetos escolares y prendas sencillas."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چه رنگ‌هایی برای وسایل اطرافت می‌بینی؟",
+      "questions": [
+        {
+          "q": "آسمان در یک روز صاف چه رنگی است؟",
+          "hint_fa": "به واژهٔ «azul» فکر کن."
+        },
+        {
+          "q": "چمن معمولاً چه رنگی است؟",
+          "hint_fa": "به واژهٔ «verde» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Los adjetivos de color",
+      "body_fa": "صفت رنگ پس از اسم می‌آید و از نظر جنس و شمار با آن هماهنگ می‌شود: «el cuaderno rojo», «la carpeta roja», «los cuadernos rojos». رنگ‌هایی که به «-o» ختم می‌شوند معمولاً برای مؤنث «-a» می‌گیرند؛ بیشتر آن‌ها در جمع «-s» می‌گیرند. صفت‌هایی مانند «azul» و «verde» برای مذکر و مؤنث یکسان‌اند، اما جمع می‌شوند: «azules», «verdes». اگر اسم چندتا باشد، رنگ را هم جمع می‌بندیم. هنگام توصیف، ابتدا اسم و سپس رنگ را می‌آوریم: «una camisa blanca». رنگ نامناسب، معنی جمله را تغییر می‌دهد.",
+      "key_points": [
+        "صفت رنگ معمولاً پس از اسم قرار می‌گیرد.",
+        "جنس و شمار صفت را با اسم هماهنگ کن.",
+        "«Azul» و «verde» برای دو جنس یکسان‌اند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "rojo, roja",
+          "ipa": "/ˈro.xo/, /ˈro.xa/",
+          "translation_fa": "قرمز",
+          "example": "La carpeta roja está sobre la mesa.",
+          "example_fa": "پوشهٔ قرمز روی میز است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "azul",
+          "ipa": "/aˈsul/",
+          "translation_fa": "آبی",
+          "example": "El bolígrafo azul tiene tinta nueva.",
+          "example_fa": "خودکار آبی خیلی خوب می‌نویسد.",
+          "tag": "صفت"
+        },
+        {
+          "term": "verde",
+          "ipa": "/ˈbeɾ.ðe/",
+          "translation_fa": "سبز",
+          "example": "Las hojas verdes están en la ventana.",
+          "example_fa": "برگ‌های سبز کنار پنجره هستند.",
+          "tag": "صفت"
+        },
+        {
+          "term": "amarillo, amarilla",
+          "ipa": "/a.maˈɾi.ʝo/, /a.maˈɾi.ʝa/",
+          "translation_fa": "زرد",
+          "example": "El pájaro amarillo canta en el árbol.",
+          "example_fa": "پرندهٔ زرد روی درخت آواز می‌خواند.",
+          "tag": "صفت"
+        },
+        {
+          "term": "blanco, blanca",
+          "ipa": "/ˈblaŋ.ko/, /ˈblaŋ.ka/",
+          "translation_fa": "سفید",
+          "example": "Tengo una camisa blanca para la fiesta.",
+          "example_fa": "برای مهمانی یک پیراهن سفید دارم.",
+          "tag": "صفت"
+        },
+        {
+          "term": "negro, negra",
+          "ipa": "/ˈne.ɣɾo/, /ˈne.ɣɾa/",
+          "translation_fa": "سیاه",
+          "example": "El estuche negro está dentro de mi mochila.",
+          "example_fa": "جامدادی مشکی متعلق به پابلو است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "gris",
+          "ipa": "/ɡɾis/",
+          "translation_fa": "خاکستری",
+          "example": "La mochila gris está junto a la silla.",
+          "example_fa": "کوله‌پشتی خاکستری کنار صندلی است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "marrón",
+          "ipa": "/maˈron/",
+          "translation_fa": "قهوه‌ای",
+          "example": "Los zapatos marrones son cómodos.",
+          "example_fa": "کفش‌های قهوه‌ای راحت هستند.",
+          "tag": "صفت"
+        },
+        {
+          "term": "naranja",
+          "ipa": "/naˈɾaŋ.xa/",
+          "translation_fa": "نارنجی",
+          "example": "Las flores naranjas están en el jardín.",
+          "example_fa": "گل‌های نارنجی در باغ هستند.",
+          "tag": "صفت"
+        },
+        {
+          "term": "morado, morada",
+          "ipa": "/moˈɾa.ðo/, /moˈɾa.ða/",
+          "translation_fa": "بنفش",
+          "example": "La camiseta morada es de Inés.",
+          "example_fa": "تی‌شرت بنفش مال اینس است.",
+          "tag": "صفت"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Concordancia de los colores",
+      "explanation_fa": "صفت‌های رنگ معمولاً پس از اسم قرار می‌گیرند و از نظر جنس و شمار با آن هماهنگ می‌شوند. صفت پایان‌یافته به «-o» در مؤنث به «-a» تبدیل می‌شود: «lápiz rojo» و «carpeta roja». برای جمع، اغلب «-s» یا «-es» می‌افزاییم. رنگ‌هایی که به «-e» یا همخوان ختم می‌شوند برای مذکر و مؤنث یکسان‌اند، مانند «verde» و «azul»، اما شکل جمع دارند: «verdes»، «azules»، «grises» و «marrones». در عبارت «los lápices azules»، اسم و صفت هر دو جمع هستند. «Naranja» ممکن است بدون تغییر بیاید یا در جمع «naranjas» شنیده شود.",
+      "pattern": "nombre + adjetivo de color concordado",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "masculino singular",
+            "El cuaderno rojo está aquí.",
+            "دفتر قرمز اینجاست."
+          ],
+          [
+            "femenino singular",
+            "La carpeta roja está aquí.",
+            "پوشهٔ قرمز اینجاست."
+          ],
+          [
+            "masculino plural",
+            "Los lápices azules son nuevos.",
+            "مدادهای آبی نو هستند."
+          ],
+          [
+            "femenino plural",
+            "Las mochilas verdes son grandes.",
+            "کوله‌پشتی‌های سبز بزرگ هستند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "پایانهٔ صفت را با جنس اسم هماهنگ کن.",
+        "در جمع، اسم و صفت را هر دو جمع ببند."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "El cuaderno rojo está junto a la puerta.",
+          "fa": "دفتر قرمز کنار در است.",
+          "note_fa": "«Rojo» concuerda con cuaderno."
+        },
+        {
+          "target": "La mochila negra es de Lucía.",
+          "fa": "کوله‌پشتی سیاه مال لوسیاست.",
+          "note_fa": "«Negra» concuerda con mochila."
+        },
+        {
+          "target": "Los bolígrafos verdes están en la caja.",
+          "fa": "خودکارهای سبز در جعبه هستند.",
+          "note_fa": "El adjetivo está en plural."
+        },
+        {
+          "target": "Las camisas blancas son para la fiesta.",
+          "fa": "پیراهن‌های سفید برای مهمانی هستند.",
+          "note_fa": "«Blancas» concuerda con camisas."
+        },
+        {
+          "target": "¿De qué color son las reglas?",
+          "fa": "خط‌کش‌ها چه رنگی هستند؟",
+          "note_fa": "La pregunta pide un color."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Elegir los carteles",
+      "script": "Lucía: ¿De qué color son estas carpetas?\nPablo: Las pequeñas son rojas y las grandes son azules.\nLucía: ¿Y los bolígrafos?\nPablo: Hay uno negro y dos verdes.\nLucía: Necesito una cartulina blanca para el cartel.\nPablo: También tenemos hojas amarillas y naranjas.\nLucía: ¿La mochila gris es tuya?\nPablo: No, la mía es morada; esa pertenece a Inés.\nLucía: Perfecto, ya tenemos todos los colores para el cartel final.",
+      "script_fa": "لوسیا: این پوشه‌ها چه رنگی هستند؟\nپابلو: کوچک‌ها قرمز و بزرگ‌ها آبی هستند.\nلوسیا: خودکارها چطور؟\nپابلو: یکی مشکی و دو تا سبز هستند.\nلوسیا: برای پوستر به مقوای سفید نیاز دارم.\nپابلو: برگ‌های زرد و نارنجی هم داریم.\nلوسیا: کوله‌پشتی خاکستری مال توست؟\nپابلو: نه، مال من بنفش است؛ آن یکی مال اینس است.\nلوسیا: عالی، حالا همهٔ رنگ‌های لازم برای پوستر را داریم.",
+      "question_fa": "¿De qué color son las carpetas grandes?",
+      "answer": "Son azules.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Describir colores",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿De qué color es tu cuaderno?",
+          "fa": "دفترت چه رنگی است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Es verde y bastante pequeño.",
+          "fa": "سبز و نسبتاً کوچک است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Y las carpetas?",
+          "fa": "و پوشه‌ها؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Son rojas; los bolígrafos son azules.",
+          "fa": "قرمز هستند؛ خودکارها آبی‌اند."
+        },
+        {
+          "speaker": "A",
+          "target": "¿La mochila negra es tuya?",
+          "fa": "کوله‌پشتی مشکی مال توست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "No, la mía es gris.",
+          "fa": "نه، مال من خاکستری است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Te gusta la camiseta morada?",
+          "fa": "تی‌شرت بنفش را دوست داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, combina con mis zapatos marrones.",
+          "fa": "بله، با کفش‌های قهوه‌ای‌ام جور است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، پنج وسیله را با رنگ توصیف کن و صفت را با اسم هماهنگ کن.",
+      "useful_phrases": [
+        {
+          "target": "El cuaderno rojo está aquí.",
+          "fa": "دفتر قرمز اینجاست."
+        },
+        {
+          "target": "La mochila negra es mía.",
+          "fa": "کوله‌پشتی مشکی مال من است."
+        },
+        {
+          "target": "Los bolígrafos verdes son nuevos.",
+          "fa": "خودکارهای سبز نو هستند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Colores para cada cosa",
+      "text": "Lucía prepara un cartel para la clase. Usa una cartulina blanca y escribe el título con un bolígrafo negro. Pablo coloca tres hojas verdes y dos amarillas alrededor del texto. Una carpeta roja guarda los lápices; la mochila gris de Inés está debajo de la mesa. Lucía busca unas tijeras, pero solo encuentra unas pequeñas y naranjas. Al final, los amigos añaden una flor morada al cartel. Revisan los nombres y los colores antes de colgarlo en la pared. El resultado es claro y alegre.",
+      "glossary": [
+        {
+          "term": "alrededor",
+          "fa": "اطراف"
+        },
+        {
+          "term": "colgar",
+          "fa": "آویزان‌کردن"
+        },
+        {
+          "term": "resultado",
+          "fa": "نتیجه"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué color es la cartulina?",
+          "a": "Blanca."
+        },
+        {
+          "q_fa": "¿Dónde está la mochila de Inés?",
+          "a": "Debajo de la mesa."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صفت را با اسم هماهنگ کن.",
+          "question": "La servilleta es ___.",
+          "options": [
+            "rojo",
+            "roja",
+            "rojos"
+          ],
+          "answer": "roja",
+          "explanation_fa": "«Carpeta» مؤنث مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل جمع را انتخاب کن.",
+          "question": "dos lápices…",
+          "options": [
+            "azul",
+            "azules",
+            "azula"
+          ],
+          "answer": "azules",
+          "explanation_fa": "«Azul» در جمع «azules» می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "رنگ مناسب را انتخاب کن.",
+          "question": "Las hojas son…",
+          "options": [
+            "verde",
+            "verdes",
+            "verdas"
+          ],
+          "answer": "verdes",
+          "explanation_fa": "«Hojas» مؤنث جمع است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Negro» cambia a «negra» con un nombre femenino.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "صفت پایان‌یافته به -o برای مؤنث -a می‌گیرد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "شکل جمع رنگ را کامل کن.",
+          "question": "Los zapatos ___ son cómodos. (marrón)",
+          "answer": [
+            "marrones"
+          ],
+          "explanation_fa": "marrones"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿De qué color son las carpetas grandes?",
+          "answer": [
+            "Son azules."
+          ],
+          "explanation_fa": "پوشه‌های بزرگ آبی هستند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿De qué color son las carpetas grandes?",
+          "options": [
+            "Azules",
+            "Rojas",
+            "Verdes"
+          ],
+          "answer": "Azules",
+          "explanation_fa": "Pablo dice que las grandes son azules."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuántos bolígrafos verdes hay?",
+          "options": [
+            "Dos",
+            "Uno",
+            "Tres"
+          ],
+          "answer": "Dos",
+          "explanation_fa": "Hay uno negro y dos verdes."
+        },
+        {
+          "type": "mcq",
+          "question": "¿De qué color es la cartulina?",
+          "options": [
+            "Blanca",
+            "Morada",
+            "Gris"
+          ],
+          "answer": "Blanca",
+          "explanation_fa": "Lucía necesita una cartulina blanca."
+        },
+        {
+          "type": "mcq",
+          "question": "¿De quién es la mochila gris?",
+          "options": [
+            "De Inés",
+            "De Lucía",
+            "De Pablo"
+          ],
+          "answer": "De Inés",
+          "explanation_fa": "Pablo dice que pertenece a Inés."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué color es la mochila de Pablo?",
+          "options": [
+            "Morada",
+            "Naranja",
+            "Amarilla"
+          ],
+          "answer": "Morada",
+          "explanation_fa": "Pablo aclara que la suya es morada."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش دانش‌آموزی که برای کلاس پوستر آماده می‌کند، پنج وسیله را با رنگ توصیف کن و هر صفت را با اسم از نظر جنس و شمار هماهنگ کن.",
+      "suggested_prompts": [
+        "El cuaderno rojo está aquí.",
+        "La mochila negra es mía.",
+        "Los bolígrafos verdes son nuevos."
+      ],
+      "focus": [
+        "colores",
+        "género y número",
+        "concordancia"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Dos amigos comparan materiales de distintos colores."
+  }
+}

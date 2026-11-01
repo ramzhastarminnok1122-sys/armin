@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 36,
+    "title": "¿Dónde está?",
+    "subtitle": "Dar indicaciones con referencias",
+    "description": "Dos amigos se encuentran en el centro y buscan una fuente.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Preposiciones de lugar con estar",
+      "objectives": [
+        "Preguntar dónde se encuentra un objeto o lugar.",
+        "Usar delante de, detrás de, entre y otras referencias.",
+        "Describir la posición de un sitio en relación con otro."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور جای یک مکان را نسبت به ساختمان یا میدان دیگری توضیح می‌دهی؟",
+      "questions": [
+        {
+          "q": "اگر چیزی پشت موزه باشد از کدام عبارت استفاده می‌کنی؟",
+          "hint_fa": "به عبارت «detrás de» فکر کن."
+        },
+        {
+          "q": "اگر چیزی میان دو ساختمان باشد، چه می‌گویی؟",
+          "hint_fa": "به واژهٔ «entre» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Estar + preposición de lugar",
+      "body_fa": "برای گفتن جای یک چیز، از «estar» و عبارت مکانی استفاده می‌کنیم: «La fuente está delante del museo». بعضی عبارت‌ها مانند «delante de», «detrás de», «encima de» و «debajo de» پیش از اسم می‌آیند. وقتی پس از آن‌ها «el» بیاید، «de + el» به «del» تبدیل می‌شود: «delante del museo». برای توصیف مکان میان دو چیز از «entre... y...» استفاده می‌کنیم. پرسش «¿Dónde está?» دربارهٔ جای فعلی شیء یا مکان است. عبارت مکانی با اسم پس از «de» ساخته می‌شود و به جنس اسم وابسته نیست.",
+      "key_points": [
+        "«Estar» را با فاعل هماهنگ کن.",
+        "«De + el» به «del» تبدیل می‌شود.",
+        "از «entre... y...» برای دو مرجع استفاده کن."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "delante de",
+          "ipa": "/deˈlaŋ.te ðe/",
+          "translation_fa": "جلوی",
+          "example": "La parada está delante del museo.",
+          "example_fa": "ایستگاه جلوی موزه است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "detrás de",
+          "ipa": "/deˈtɾas ðe/",
+          "translation_fa": "پشت",
+          "example": "El parque está detrás de la biblioteca.",
+          "example_fa": "پارک پشت کتابخانه است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "encima de",
+          "ipa": "/eŋˈsi.ma ðe/",
+          "translation_fa": "روی؛ بالای",
+          "example": "El mapa está encima de la mesa.",
+          "example_fa": "نقشه روی میز است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "debajo de",
+          "ipa": "/deˈβa.xo ðe/",
+          "translation_fa": "زیر",
+          "example": "La fuente está debajo de la torre.",
+          "example_fa": "آبنما زیر برج است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "entre",
+          "ipa": "/ˈen.tɾe/",
+          "translation_fa": "بین",
+          "example": "El banco está entre dos árboles.",
+          "example_fa": "نیمکت بین دو درخت است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "enfrente de",
+          "ipa": "/emˈfɾen.te ðe/",
+          "translation_fa": "روبروی",
+          "example": "La librería está enfrente del teatro.",
+          "example_fa": "کتاب‌فروشی روبروی تئاتر است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "al lado de",
+          "ipa": "/al ˈla.ðo ðe/",
+          "translation_fa": "کنار",
+          "example": "El café está al lado de la plaza.",
+          "example_fa": "کافه کنار میدان است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "junto a",
+          "ipa": "/ˈxuŋ.to a/",
+          "translation_fa": "در کنار",
+          "example": "El ascensor está junto a la escalera.",
+          "example_fa": "آسانسور کنار راه‌پله است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "dentro de",
+          "ipa": "/ˈden.tɾo ðe/",
+          "translation_fa": "داخل",
+          "example": "La entrada está dentro de la carpeta.",
+          "example_fa": "بلیت ورودی داخل پوشه است.",
+          "tag": "عبارت"
+        },
+        {
+          "term": "fuera de",
+          "ipa": "/ˈfwe.ɾa ðe/",
+          "translation_fa": "بیرون از",
+          "example": "Esperamos fuera del museo.",
+          "example_fa": "بیرون از موزه منتظر می‌مانیم.",
+          "tag": "عبارت"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Preposiciones de lugar",
+      "explanation_fa": "پس از پرسش «¿Dónde está?» می‌توانیم جای یک مکان را با «estar» و عبارت مکانی بگوییم: «delante de»، «detrás de»، «encima de»، «debajo de»، «entre»، «enfrente de»، «al lado de»، «junto a»، «dentro de» یا «fuera de». اگر پس از «de» حرف تعریف مذکر مفرد «el» بیاید، «de + el» به «del» تبدیل می‌شود: «delante del museo». برای «entre» دو مرجع را با «y» وصل می‌کنیم: «entre la plaza y el teatro». فعل «estar» با اسم مکان اصلی هماهنگ می‌شود و عبارت‌های مکانی شکل خود را حفظ می‌کنند.",
+      "pattern": "estar + referencia + preposición de lugar + punto de referencia",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "delante / detrás",
+            "La fuente está delante del museo; el parque está detrás.",
+            "آبنما جلوی موزه است؛ پارک پشت آن است."
+          ],
+          [
+            "encima / debajo",
+            "El mapa está encima de la mesa; la bolsa está debajo.",
+            "نقشه روی میز است؛ کیف زیر آن است."
+          ],
+          [
+            "entre dos lugares",
+            "El café está entre la plaza y el teatro.",
+            "کافه بین میدان و تئاتر است."
+          ],
+          [
+            "al lado / enfrente",
+            "La parada está al lado del museo, enfrente del parque.",
+            "ایستگاه کنار موزه و روبروی پارک است."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«De + el» را پیش از اسم مذکر به «del» تبدیل کن.",
+        "برای دو مرجع از الگوی «entre... y...» استفاده کن."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "La fuente está delante del museo.",
+          "fa": "آبنما جلوی موزه است.",
+          "note_fa": "«Delante de» introduce la referencia."
+        },
+        {
+          "target": "El parque queda detrás de la biblioteca.",
+          "fa": "پارک پشت کتابخانه قرار دارد.",
+          "note_fa": "La expresión indica la posición."
+        },
+        {
+          "target": "La fuente está entre la plaza y el teatro.",
+          "fa": "آبنما بین میدان و تئاتر است.",
+          "note_fa": "Se nombran dos puntos de referencia."
+        },
+        {
+          "target": "La entrada está dentro de mi carpeta.",
+          "fa": "بلیت ورودی داخل پوشه‌ام است.",
+          "note_fa": "«Dentro de» indica interior."
+        },
+        {
+          "target": "Esperamos fuera del museo.",
+          "fa": "بیرون موزه منتظر می‌مانیم.",
+          "note_fa": "«De + el» forma «del»."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Buscar la fuente",
+      "script": "Clara: ¿Dónde está la fuente del centro?\nDiego: Está delante del museo, junto a la plaza.\nClara: ¿El parque está detrás de la biblioteca?\nDiego: Sí, queda entre la biblioteca y el río.\nClara: ¿Y el café?\nDiego: Está enfrente del teatro, al lado de la parada.\nClara: ¿La entrada del museo está dentro de la carpeta?\nDiego: Sí; esperamos fuera del edificio.\nClara: Ya veo la fuente; está debajo de la torre.",
+      "script_fa": "کلارا: آبنمای مرکز کجاست؟\nدیه‌گو: جلوی موزه، کنار میدان است.\nکلارا: پارک پشت کتابخانه است؟\nدیه‌گو: بله، بین کتابخانه و رودخانه قرار دارد.\nکلارا: کافه چطور؟\nدیه‌گو: روبروی تئاتر، کنار ایستگاه است.\nکلارا: بلیت ورودی موزه داخل پوشه است؟\nدیه‌گو: بله؛ بیرون ساختمان منتظر می‌مانیم.\nکلارا: آبنما را می‌بینم؛ زیر برج است.",
+      "question_fa": "¿Dónde está la fuente del centro?",
+      "answer": "Delante del museo, junto a la plaza.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Explicar dónde está",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Dónde está el parque?",
+          "fa": "پارک کجاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Está detrás de la biblioteca.",
+          "fa": "پشت کتابخانه است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Y el teatro?",
+          "fa": "و تئاتر؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Está enfrente de la plaza.",
+          "fa": "روبروی میدان است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿El café está cerca?",
+          "fa": "کافه نزدیک است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, está al lado del museo.",
+          "fa": "بله، کنار موزه است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Dónde esperamos?",
+          "fa": "کجا منتظر بمانیم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Fuera del edificio, junto a la parada.",
+          "fa": "بیرون ساختمان، کنار ایستگاه."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، به دوستی نشانی یک محل را با سه عبارت مکانی و دو نقطهٔ راهنما توضیح بده.",
+      "useful_phrases": [
+        {
+          "target": "La fuente está delante del museo.",
+          "fa": "آبنما جلوی موزه است."
+        },
+        {
+          "target": "El parque está detrás de la biblioteca.",
+          "fa": "پارک پشت کتابخانه است."
+        },
+        {
+          "target": "El café está entre la plaza y el teatro.",
+          "fa": "کافه بین میدان و تئاتر است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Encontrar un punto de encuentro",
+      "text": "Clara está en la plaza y quiere encontrar una fuente. Diego le explica que la fuente está delante del museo y debajo de una torre alta. El parque queda detrás de la biblioteca, entre el río y una calle tranquila. El café está enfrente del teatro, al lado de la parada de autobús. La entrada del museo está dentro de una carpeta azul que lleva Clara. Los amigos caminan juntos y esperan fuera del edificio. Al mirar el mapa, Clara entiende las referencias y llega al lugar correcto sin preguntar otra vez.",
+      "glossary": [
+        {
+          "term": "referencia",
+          "fa": "نقطهٔ راهنما"
+        },
+        {
+          "term": "quedar",
+          "fa": "قرارداشتن"
+        },
+        {
+          "term": "entender",
+          "fa": "فهمیدن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Dónde está el café?",
+          "a": "Enfrente del teatro, al lado de la parada."
+        },
+        {
+          "q_fa": "¿Qué está dentro de la carpeta?",
+          "a": "La entrada del museo."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت مکانی درست را انتخاب کن.",
+          "question": "La fuente está ___ del museo.",
+          "options": [
+            "delante",
+            "entre",
+            "dentro"
+          ],
+          "answer": "delante",
+          "explanation_fa": "آبنما جلوی موزه است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست را انتخاب کن.",
+          "question": "El parque está detrás ___ biblioteca.",
+          "options": [
+            "de la",
+            "del",
+            "a la"
+          ],
+          "answer": "de la",
+          "explanation_fa": "«Biblioteca» مؤنث است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "مکان درست را انتخاب کن.",
+          "question": "El café está ___ la plaza y el teatro.",
+          "options": [
+            "entre",
+            "encima de",
+            "fuera de"
+          ],
+          "answer": "entre",
+          "explanation_fa": "برای دو نقطه از «entre... y...» استفاده می‌شود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«De + el» se contrae en «del».",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "پیش از اسم مذکر مفرد «el»، می‌گوییم «del»."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "عبارت را کامل کن.",
+          "question": "La parada está al lado ___ museo.",
+          "answer": [
+            "del"
+          ],
+          "explanation_fa": "del"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Dónde está la fuente del centro?",
+          "answer": [
+            "Delante del museo, junto a la plaza."
+          ],
+          "explanation_fa": "آبنما جلوی موزه و کنار میدان است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Dónde está la fuente?",
+          "options": [
+            "Delante del museo",
+            "Detrás del teatro",
+            "Dentro de la biblioteca"
+          ],
+          "answer": "Delante del museo",
+          "explanation_fa": "Diego dice que está delante del museo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde está el parque?",
+          "options": [
+            "Entre la biblioteca y el río",
+            "Encima del museo",
+            "Fuera de la plaza"
+          ],
+          "answer": "Entre la biblioteca y el río",
+          "explanation_fa": "El parque queda entre la biblioteca y el río."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde está el café?",
+          "options": [
+            "Enfrente del teatro",
+            "Debajo de la torre",
+            "Dentro del museo"
+          ],
+          "answer": "Enfrente del teatro",
+          "explanation_fa": "Diego lo sitúa enfrente del teatro."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué está dentro de la carpeta?",
+          "options": [
+            "La entrada del museo",
+            "Un mapa grande",
+            "Una servilleta"
+          ],
+          "answer": "La entrada del museo",
+          "explanation_fa": "Clara pregunta por la entrada."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde esperan?",
+          "options": [
+            "Fuera del edificio",
+            "Dentro del café",
+            "En la fuente"
+          ],
+          "answer": "Fuera del edificio",
+          "explanation_fa": "Diego dice que esperan fuera."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش دوستی که قرار ملاقات را توضیح می‌دهد، جای سه مکان را با عبارت‌های مکانی و دست‌کم دو نقطهٔ راهنما به همراهت بگو.",
+      "suggested_prompts": [
+        "La fuente está delante del museo.",
+        "El parque está detrás de la biblioteca.",
+        "El café está entre la plaza y el teatro."
+      ],
+      "focus": [
+        "preposiciones de lugar",
+        "estar",
+        "referencias"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Clara y Diego usan edificios conocidos para encontrar una fuente."
+  }
+}

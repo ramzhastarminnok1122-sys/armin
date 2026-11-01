@@ -1,0 +1,398 @@
+{
+  "lesson": "L034",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L034-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿De qué color es tu cuaderno?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L034-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Es verde y bastante pequeño.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L034-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Y las carpetas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 16
+    },
+    {
+      "id": "L034-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Son rojas; los bolígrafos son azules.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L034-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿La mochila negra es tuya?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L034-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, la mía es gris.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L034-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Te gusta la camiseta morada?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L034-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, combina con mis zapatos marrones.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L034-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿De qué color son estas carpetas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L034-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Las pequeñas son rojas y las grandes son azules.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L034-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Y los bolígrafos?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 18
+    },
+    {
+      "id": "L034-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Hay uno negro y dos verdes.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L034-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Necesito una cartulina blanca para el cartel.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L034-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "También tenemos hojas amarillas y naranjas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L034-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿La mochila gris es tuya?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L034-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "No, la mía es morada; esa pertenece a Inés.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L034-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Perfecto, ya tenemos todos los colores para el cartel final.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L034-es-vocab-rojoroja",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "rojo, roja. La carpeta roja está sobre la mesa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L034-es-vocab-azul",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "azul. El bolígrafo azul tiene tinta nueva.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L034-es-vocab-verde",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "verde. Las hojas verdes están en la ventana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L034-es-vocab-amarilloamarilla",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "amarillo, amarilla. El pájaro amarillo canta en el árbol.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L034-es-vocab-blancoblanca",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "blanco, blanca. Tengo una camisa blanca para la fiesta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L034-es-vocab-negronegra",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "negro, negra. El estuche negro está dentro de mi mochila.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L034-es-vocab-gris",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "gris. La mochila gris está junto a la silla.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L034-es-vocab-marron",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "marrón. Los zapatos marrones son cómodos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L034-es-vocab-naranja",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "naranja. Las flores naranjas están en el jardín.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L034-es-vocab-moradomorada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "morado, morada. La camiseta morada es de Inés.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L034-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "El cuaderno rojo está aquí.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L034-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La carpeta roja está aquí.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L034-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Los lápices azules son nuevos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L034-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Las mochilas verdes son grandes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L034-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "El cuaderno rojo está junto a la puerta.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L034-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "La mochila negra es de Lucía.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L034-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Los bolígrafos verdes están en la caja.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L034-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Las camisas blancas son para la fiesta.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L034-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "¿De qué color son las reglas?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L034-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Lucía prepara un cartel para la clase. Usa una cartulina blanca y escribe el título con un bolígrafo negro. Pablo coloca tres hojas verdes y dos amarillas alrededor del texto. Una carpeta roja guarda los lápices; la mochila gris de Inés está debajo de la mesa. Lucía busca unas tijeras, pero solo encuentra unas pequeñas y naranjas. Al final, los amigos añaden una flor morada al cartel. Revisan los nombres y los colores antes de colgarlo en la pared. El resultado es claro y alegre.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 484
+    },
+    {
+      "id": "L034-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L034)",
+      "tts_text": "چه رنگ‌هایی برای وسایل اطرافت می‌بینی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 38
+    },
+    {
+      "id": "L034-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L034)",
+      "tts_text": "صفت رنگ پس از اسم می‌آید و از نظر جنس و شمار با آن هماهنگ می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L034-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L034)",
+      "tts_text": "به گفت‌وگو گوش کن و رنگ پوشه‌های بزرگ را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L034-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L034)",
+      "tts_text": "می‌گوییم «cuaderno rojo» و «carpetas rojas».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 44
+    },
+    {
+      "id": "L034-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L034)",
+      "tts_text": "پنج وسیله را با صفت رنگ توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 33
+    },
+    {
+      "id": "L034-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L034)",
+      "tts_text": "اسم و صفت رنگ را از نظر جنس و شمار هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    }
+  ]
+}
