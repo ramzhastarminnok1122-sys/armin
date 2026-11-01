@@ -1,0 +1,398 @@
+{
+  "lesson": "L024",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L024-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Tu cocina es amplia?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L024-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Es pequeña, pero muy luminosa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L024-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿El salón es más grande que el dormitorio?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L024-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, y el balcón es tan claro como el jardín.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L024-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Tu barrio es ruidoso?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L024-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, es menos ruidoso que el centro.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L024-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Me gusta la casa antigua.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L024-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, es tranquila y espaciosa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L024-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Cómo es tu casa nueva, Nora?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L024-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "El salón es más amplio que el de mi casa anterior.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L024-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Y la cocina?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 13
+    },
+    {
+      "id": "L024-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Es pequeña, pero más luminosa que el pasillo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L024-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Mi dormitorio es tan espacioso como el tuyo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L024-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Tu barrio es tranquilo por la noche?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L024-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Sí, es menos ruidoso que el centro.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L024-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "El jardín de mi casa es tan bonito como tu balcón.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L024-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Entonces nuestras casas tienen cosas buenas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L024-es-vocab-amplioamplia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "amplio, amplia. El salón es amplio y tiene dos ventanas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L024-es-vocab-luminosoluminosa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "luminoso, luminosa. La cocina es luminosa por la mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L024-es-vocab-oscurooscura",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "oscuro, oscura. El dormitorio queda oscuro por la noche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L024-es-vocab-ruidosoruidosa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "ruidoso, ruidosa. La avenida es ruidosa durante el día.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L024-es-vocab-modernomoderna",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "moderno, moderna. El edificio moderno tiene un balcón grande.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L024-es-vocab-antiguoantigua",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "antiguo, antigua. La casa antigua tiene un jardín tranquilo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L024-es-vocab-espaciosoespaciosa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "espacioso, espaciosa. El dormitorio es espacioso y claro.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L024-es-vocab-pequenopequena",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "pequeño, pequeña. La cocina pequeña tiene una ventana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L024-es-vocab-tranquilotranquila",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "tranquilo, tranquila. El barrio está tranquilo por la noche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L024-es-vocab-luminosidad",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "luminosidad. La luminosidad del salón es agradable.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L024-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "El salón es más amplio que el dormitorio.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L024-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La cocina es menos oscura que el pasillo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L024-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "El balcón es tan luminoso como el jardín.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L024-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Las habitaciones pequeñas son tranquilas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L024-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La cocina es más luminosa que el pasillo.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L024-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "El balcón es tan amplio como el salón.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L024-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La casa antigua es menos ruidosa que el edificio nuevo.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L024-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Los dormitorios son más espaciosos que la cocina.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L024-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "El jardín es tan tranquilo como el patio.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L024-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora visita la casa de Julia para estudiar juntas. La casa de Julia es antigua, pero su cocina resulta muy luminosa. El salón es más amplio que el dormitorio y tiene una ventana grande. En la casa de Nora, el balcón es tan espacioso como el jardín de Julia. El barrio de Nora es menos ruidoso que el centro, así que pueden leer con calma. Después de estudiar, comparten una merienda en la cocina. Las dos amigas comparan sus habitaciones y descubren que cada hogar tiene un espacio favorito. A Julia le gusta el jardín; Nora prefiere el balcón.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 544
+    },
+    {
+      "id": "L024-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L024)",
+      "tts_text": "چطور دو اتاق را از نظر اندازه، روشنایی یا آرامش مقایسه می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L024-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L024)",
+      "tts_text": "برای مقایسه از «más/menos... que» و برای برابری از «tan... como» استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 81
+    },
+    {
+      "id": "L024-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L024)",
+      "tts_text": "به گفت‌وگو گوش کن و اتاقی را پیدا کن که از راهرو روشن‌تر است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L024-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L024)",
+      "tts_text": "می‌گوییم «más amplia que» و «tan luminosa como».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L024-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L024)",
+      "tts_text": "دو اتاق را از نظر یک ویژگی مقایسه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 37
+    },
+    {
+      "id": "L024-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L024)",
+      "tts_text": "صفت را با جنس و شمار اسم هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 35
+    }
+  ]
+}

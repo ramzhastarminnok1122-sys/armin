@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 23,
+    "title": "Tareas en casa",
+    "subtitle": "Hablar de las actividades domésticas",
+    "description": "Los hermanos de Nora comparten pequeñas tareas en casa.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Presente regular de verbos en -er e -ir",
+      "objectives": [
+        "Nombrar tareas sencillas del hogar.",
+        "Conjugar verbos regulares en -er e -ir.",
+        "Contar quién hace cada actividad."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چه کارهایی را در خانه انجام می‌دهی یا با دیگران تقسیم می‌کنی؟",
+      "questions": [
+        {
+          "q": "به نوشته‌ای که برای یادآوری کارها می‌خوانیم چه می‌گوییم؟",
+          "hint_fa": "به واژهٔ «lista» فکر کن."
+        },
+        {
+          "q": "بعد از غذا، چه کاری با ظرف‌ها انجام می‌دهیم؟",
+          "hint_fa": "به واژهٔ «lavar» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Verbos regulares en -er e -ir",
+      "body_fa": "فعل‌های باقاعدهٔ پایان‌یافته به «-er» و «-ir» در زمان حال ریشهٔ ثابت دارند و پایانشان با فاعل عوض می‌شود. برای «leer» می‌گوییم «leo», «lees», «lee», «leemos», «leen»؛ برای «vivir» می‌گوییم «vivo», «vives», «vive», «vivimos», «viven». فعل‌هایی مانند «comer», «beber», «abrir» و «escribir» نیز از همین الگو پیروی می‌کنند. مصدر پس از حذف «-er» یا «-ir» پایان مناسب می‌گیرد. در گفت‌وگوهای روزمره می‌توانیم بگوییم چه کاری را انجام می‌دهیم یا چه چیزی را با هم تقسیم می‌کنیم. این الگو برای کارهای تکراری خانه و برنامهٔ روزانه هم به کار می‌رود؛ فقط به فاعل جمله توجه کن.",
+      "key_points": [
+        "پایان‌های -er: -o, -es, -e, -emos, -en.",
+        "پایان‌های -ir: -o, -es, -e, -imos, -en.",
+        "ریشهٔ فعل باقاعده ثابت می‌ماند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "comer",
+          "ipa": "/koˈmeɾ/",
+          "translation_fa": "غذاخوردن",
+          "example": "Comemos juntos en la cocina.",
+          "example_fa": "در آشپزخانه با هم غذا می‌خوریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "beber",
+          "ipa": "/beˈβeɾ/",
+          "translation_fa": "نوشیدن",
+          "example": "Mi hermano bebe agua después de correr.",
+          "example_fa": "برادرم بعد از دویدن آب می‌نوشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "leer",
+          "ipa": "/leˈeɾ/",
+          "translation_fa": "خواندن",
+          "example": "Leo una receta mientras cocinas.",
+          "example_fa": "وقتی آشپزی می‌کنی من دستور غذا می‌خوانم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "escribir",
+          "ipa": "/es.kɾiˈβiɾ/",
+          "translation_fa": "نوشتن",
+          "example": "Escribimos la lista de tareas.",
+          "example_fa": "فهرست کارها را می‌نویسیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "abrir",
+          "ipa": "/aˈβɾiɾ/",
+          "translation_fa": "بازکردن",
+          "example": "Abro la ventana por la mañana.",
+          "example_fa": "صبح پنجره را باز می‌کنم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "recibir",
+          "ipa": "/re.siˈβiɾ/",
+          "translation_fa": "دریافت‌کردن",
+          "example": "Nora recibe un mensaje de su hermano.",
+          "example_fa": "نورا از برادرش پیامی دریافت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "compartir",
+          "ipa": "/kom.paɾˈtiɾ/",
+          "translation_fa": "تقسیم‌کردن؛ شریک‌شدن",
+          "example": "Compartimos la limpieza de la casa.",
+          "example_fa": "نظافت خانه را تقسیم می‌کنیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "barrer",
+          "ipa": "/baˈreɾ/",
+          "translation_fa": "جاروکردن",
+          "example": "Luis barre el suelo del salón.",
+          "example_fa": "لوئیس کف اتاق نشیمن را جارو می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "lavar",
+          "ipa": "/laˈβaɾ/",
+          "translation_fa": "شستن",
+          "example": "Lavo los platos después de cenar.",
+          "example_fa": "بعد از شام ظرف‌ها را می‌شویم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "limpiar",
+          "ipa": "/limˈpjaɾ/",
+          "translation_fa": "تمیزکردن",
+          "example": "Limpiamos la cocina juntos.",
+          "example_fa": "آشپزخانه را با هم تمیز می‌کنیم.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Presente regular: -er / -ir",
+      "explanation_fa": "Para conjugar verbos regulares en «-er», quitamos la terminación y añadimos «-o», «-es», «-e», «-emos» o «-en»: «como», «comes», «come», «comemos», «comen». Los verbos en «-ir» usan «-o», «-es», «-e», «-imos» y «-en»: «escribo», «escribes», «escribe», «escribimos», «escriben». La raíz se conserva. En casa, podemos decir «Leo la lista», «Abrimos la ventana» o «Barren el salón». El sujeto indica qué terminación necesitamos. En una conversación, el pronombre puede omitirse cuando la forma verbal ya identifica a la persona.",
+      "pattern": "raíz + terminaciones -er / -ir según el sujeto",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "comer",
+            "Como en la cocina. ¿Comes aquí?",
+            "در آشپزخانه غذا می‌خورم. اینجا غذا می‌خوری؟"
+          ],
+          [
+            "leer",
+            "Leo la lista. Nora lee la receta.",
+            "فهرست را می‌خوانم. نورا دستور غذا را می‌خواند."
+          ],
+          [
+            "escribir",
+            "Escribimos las tareas. Ellos escriben una nota.",
+            "کارها را می‌نویسیم. آن‌ها یادداشتی می‌نویسند."
+          ],
+          [
+            "abrir",
+            "Abrimos la ventana y limpian la mesa.",
+            "پنجره را باز می‌کنیم و آن‌ها میز را تمیز می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Los verbos en -er usan -emos con nosotros.",
+        "Los verbos en -ir usan -imos con nosotros."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mi hermana lee una lista de compras.",
+          "fa": "خواهرم فهرست خرید را می‌خواند.",
+          "note_fa": "«Lee» corresponde a ella."
+        },
+        {
+          "target": "Nosotros escribimos los nombres en el calendario.",
+          "fa": "نام‌ها را در تقویم می‌نویسیم.",
+          "note_fa": "Con nosotros usamos «escribimos»."
+        },
+        {
+          "target": "¿Abres la ventana antes de limpiar?",
+          "fa": "پیش از تمیزکردن پنجره را باز می‌کنی؟",
+          "note_fa": "«Abres» lleva la terminación -es."
+        },
+        {
+          "target": "Luis barre el suelo y yo lavo los platos.",
+          "fa": "لوئیس کف را جارو می‌کند و من ظرف‌ها را می‌شویم.",
+          "note_fa": "Los verbos cambian según el sujeto."
+        },
+        {
+          "target": "Compartimos las tareas después de comer.",
+          "fa": "پس از غذا کارها را تقسیم می‌کنیم.",
+          "note_fa": "«Compartimos» es un verbo en -ir."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Repartir las tareas",
+      "script": "Nora: ¿Qué tareas hacemos hoy en casa?\nLuis: Yo barro el salón y lavo los platos.\nNora: Yo limpio la cocina después de comer.\nLuis: ¿Lees la lista que escribió mamá?\nNora: Sí, y escribo otra para mañana.\nLuis: También abro las ventanas por la mañana.\nNora: Perfecto; compartimos todo el trabajo.\nLuis: Luego bebemos agua y descansamos en casa.\nNora: De acuerdo; recibimos a la abuela a las seis.",
+      "script_fa": "نورا: امروز در خانه چه کارهایی انجام دهیم؟\nلوئیس: من اتاق نشیمن را جارو می‌کنم و ظرف‌ها را می‌شویم.\nنورا: من بعد از غذا آشپزخانه را تمیز می‌کنم.\nلوئیس: فهرستی را که مامان نوشته می‌خوانی؟\nنورا: بله، و برای فردا یکی دیگر می‌نویسم.\nلوئیس: صبح پنجره‌ها را هم باز می‌کنم.\nنورا: عالی؛ همهٔ کارها را تقسیم می‌کنیم.\nلوئیس: بعد در خانه آب می‌نوشیم و استراحت می‌کنیم.\nنورا: قبول؛ ساعت شش از مادربزرگ پذیرایی می‌کنیم.",
+      "question_fa": "¿Qué dice Luis que hace?",
+      "answer": "Yo barro el salón y lavo los platos.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Organizar la casa",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Quién limpia la cocina?",
+          "fa": "چه کسی آشپزخانه را تمیز می‌کند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Yo la limpio después de comer.",
+          "fa": "من بعد از غذا تمیزش می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Lees la lista de tareas?",
+          "fa": "فهرست کارها را می‌خوانی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, y escribo una nota.",
+          "fa": "بله، و یادداشتی می‌نویسم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Abres la ventana?",
+          "fa": "پنجره را باز می‌کنی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí; después barro el suelo.",
+          "fa": "بله؛ بعد کف را جارو می‌کنم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Compartimos el trabajo?",
+          "fa": "کارها را تقسیم کنیم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Claro, limpiamos juntos.",
+          "fa": "حتماً، با هم تمیز می‌کنیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، دو کار خانه را با فعل‌های -er یا -ir توضیح بده.",
+      "useful_phrases": [
+        {
+          "target": "Leo la lista.",
+          "fa": "فهرست را می‌خوانم."
+        },
+        {
+          "target": "Escribimos las tareas.",
+          "fa": "کارها را می‌نویسیم."
+        },
+        {
+          "target": "Abrimos la ventana.",
+          "fa": "پنجره را باز می‌کنیم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Las tareas de Nora y Luis",
+      "text": "Nora y Luis viven con su familia en una casa con un jardín pequeño. Cada sábado escriben una lista de tareas. Nora lee la lista y limpia la cocina; Luis barre el salón y abre las ventanas. Después, los dos lavan los platos y comparten la limpieza del baño. Su madre prepara la comida mientras ellos ordenan las habitaciones. Al terminar, beben agua en el balcón y reciben a una amiga de la ciudad. Trabajar juntos es más fácil que hacer todo a solas. El domingo, la familia descansa y disfruta del jardín.",
+      "glossary": [
+        {
+          "term": "ordenar",
+          "fa": "مرتب‌کردن"
+        },
+        {
+          "term": "a solas",
+          "fa": "تنهایی"
+        },
+        {
+          "term": "disfrutar",
+          "fa": "لذت‌بردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué hace Nora?",
+          "a": "Lee la lista y limpia la cocina."
+        },
+        {
+          "q_fa": "¿Qué hacen al terminar?",
+          "a": "Beben agua en el balcón."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "پایان فعل را انتخاب کن.",
+          "question": "Nosotros com___ juntos.",
+          "options": [
+            "-emos",
+            "-imos",
+            "-en"
+          ],
+          "answer": "-emos",
+          "explanation_fa": "فعل comer با nosotros به -emos ختم می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Nora ___ una lista. (leer)",
+          "options": [
+            "lee",
+            "lees",
+            "leemos"
+          ],
+          "answer": "lee",
+          "explanation_fa": "با Nora می‌گوییم «lee»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست را انتخاب کن.",
+          "question": "Ellos ___ una nota. (escribir)",
+          "options": [
+            "escribimos",
+            "escriben",
+            "escribes"
+          ],
+          "answer": "escriben",
+          "explanation_fa": "با ellos می‌گوییم «escriben»."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Abrimos» lleva la terminación -imos.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "فعل abrir با nosotros به -imos ختم می‌شود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "Tú ___ agua después de correr. (beber)",
+          "answer": [
+            "bebes"
+          ],
+          "explanation_fa": "bebes"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué tarea hace Luis?",
+          "answer": [
+            "Barre el salón y lava los platos."
+          ],
+          "explanation_fa": "لوئیس اتاق نشیمن را جارو و ظرف‌ها را می‌شوید."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué hace Nora el sábado?",
+          "options": [
+            "Lee la lista y limpia la cocina",
+            "Viaja en tren",
+            "Compra una maleta"
+          ],
+          "answer": "Lee la lista y limpia la cocina",
+          "explanation_fa": "Nora lee la lista y limpia la cocina."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hace Luis?",
+          "options": [
+            "Barre el salón y abre ventanas",
+            "Cocina en un hospital",
+            "Compra fruta"
+          ],
+          "answer": "Barre el salón y abre ventanas",
+          "explanation_fa": "Luis barre y abre las ventanas."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hacen después?",
+          "options": [
+            "Lavan los platos",
+            "Van a la farmacia",
+            "Leen un menú"
+          ],
+          "answer": "Lavan los platos",
+          "explanation_fa": "Después lavan los platos."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde beben agua?",
+          "options": [
+            "En el balcón",
+            "En el dormitorio",
+            "En la estación"
+          ],
+          "answer": "En el balcón",
+          "explanation_fa": "Beben agua en el balcón."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hace la familia el domingo?",
+          "options": [
+            "Descansa",
+            "Limpia el mercado",
+            "Viaja a otra ciudad"
+          ],
+          "answer": "Descansa",
+          "explanation_fa": "El domingo la familia descansa."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Cuenta dos tareas de casa y usa verbos regulares en -er o -ir.",
+      "suggested_prompts": [
+        "Leo la lista.",
+        "Escribimos las tareas.",
+        "Abrimos la ventana."
+      ],
+      "focus": [
+        "tareas del hogar",
+        "verbos en -er",
+        "verbos en -ir"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Nora y su hermano organizan las tareas de la semana."
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 24,
+    "title": "Una casa cómoda",
+    "subtitle": "Comparar espacios y habitaciones",
+    "description": "Nora compara su casa con la de una amiga.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Comparativos más/menos... que y tan... como",
+      "objectives": [
+        "Describir una habitación con adjetivos.",
+        "Comparar dos espacios con más o menos que.",
+        "Usar tan... como para expresar igualdad."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور دو اتاق را از نظر اندازه، روشنایی یا آرامش مقایسه می‌کنی؟",
+      "questions": [
+        {
+          "q": "اتاقی که نور زیادی دارد چه صفتی دارد؟",
+          "hint_fa": "به واژهٔ «luminoso» فکر کن."
+        },
+        {
+          "q": "اتاقی که جا و فضای زیادی دارد چه صفتی دارد؟",
+          "hint_fa": "به واژهٔ «espacioso» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Comparar con más, menos y tan",
+      "body_fa": "برای مقایسه می‌گوییم «más + صفت + que»: «La cocina es más amplia que el baño». برای بیان درجهٔ کمتر از «menos ... que» استفاده می‌کنیم. اگر دو چیز از نظر یک ویژگی برابر باشند، می‌گوییم «tan + صفت + como»: «El balcón es tan luminoso como el jardín». صفت با اسمی که توصیف می‌کند از نظر جنس و شمار هماهنگ می‌شود: «un salón amplio», «una cocina amplia», «habitaciones luminosas». واژهٔ «que» در مقایسه به معنی «از» است. این ساختار به ما کمک می‌کند اندازه، نور یا آرامش اتاق‌ها را با هم بسنجیم.",
+      "key_points": [
+        "«Más/menos + صفت + que» برای مقایسه است.",
+        "«Tan + صفت + como» برابری را نشان می‌دهد.",
+        "صفت با اسم از نظر جنس و شمار هماهنگ می‌شود."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "amplio, amplia",
+          "ipa": "/ˈam.pljo/, /ˈam.plja/",
+          "translation_fa": "وسیع",
+          "example": "El salón es amplio y tiene dos ventanas.",
+          "example_fa": "اتاق نشیمن وسیع است و دو پنجره دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "luminoso, luminosa",
+          "ipa": "/lu.miˈno.so/, /lu.miˈno.sa/",
+          "translation_fa": "روشن",
+          "example": "La cocina es luminosa por la mañana.",
+          "example_fa": "آشپزخانه صبح‌ها روشن است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "oscuro, oscura",
+          "ipa": "/osˈku.ɾo/, /osˈku.ɾa/",
+          "translation_fa": "تاریک",
+          "example": "El dormitorio queda oscuro por la noche.",
+          "example_fa": "اتاق‌خواب شب‌ها تاریک می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ruidoso, ruidosa",
+          "ipa": "/rwiˈðo.so/, /rwiˈðo.sa/",
+          "translation_fa": "پرسروصدا",
+          "example": "La avenida es ruidosa durante el día.",
+          "example_fa": "خیابان اصلی در روز پرسروصدا است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "moderno, moderna",
+          "ipa": "/moˈðeɾ.no/, /moˈðeɾ.na/",
+          "translation_fa": "مدرن",
+          "example": "El edificio moderno tiene un balcón grande.",
+          "example_fa": "ساختمان مدرن بالکن بزرگی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "antiguo, antigua",
+          "ipa": "/anˈti.ɣwo/, /anˈti.ɣwa/",
+          "translation_fa": "قدیمی",
+          "example": "La casa antigua tiene un jardín tranquilo.",
+          "example_fa": "خانهٔ قدیمی باغ آرامی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "espacioso, espaciosa",
+          "ipa": "/es.paˈsjo.so/, /es.paˈsjo.sa/",
+          "translation_fa": "جاردار",
+          "example": "El dormitorio es espacioso y claro.",
+          "example_fa": "اتاق‌خواب جادار و روشن است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pequeño, pequeña",
+          "ipa": "/peˈke.ɲo/, /peˈke.ɲa/",
+          "translation_fa": "کوچک",
+          "example": "La cocina pequeña tiene una ventana.",
+          "example_fa": "آشپزخانهٔ کوچک پنجره‌ای دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "tranquilo, tranquila",
+          "ipa": "/tɾaŋˈki.lo/, /tɾaŋˈki.la/",
+          "translation_fa": "آرام",
+          "example": "El barrio está tranquilo por la noche.",
+          "example_fa": "محله شب‌ها آرام است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "luminosidad",
+          "ipa": "/lu.mi.no.siˈðað/",
+          "translation_fa": "روشنایی",
+          "example": "La luminosidad del salón es agradable.",
+          "example_fa": "روشنایی اتاق نشیمن دلپذیر است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Más / menos... que; tan... como",
+      "explanation_fa": "Para comparar dos espacios, usamos «más + adjetivo + que»: «El salón es más amplio que la cocina». Para indicar una cantidad menor, decimos «menos + adjetivo + que». Cuando dos espacios tienen el mismo grado de una cualidad, usamos «tan + adjetivo + como»: «El balcón es tan luminoso como el jardín». El adjetivo concuerda con el nombre: «casa antigua», «salones amplios», «habitaciones pequeñas». Podemos comparar tamaño, luz, ruido o tranquilidad. «Que» conecta los dos elementos comparados.",
+      "pattern": "más / menos + adjetivo + que; tan + adjetivo + como",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "más",
+            "El salón es más amplio que el dormitorio.",
+            "اتاق نشیمن از اتاق‌خواب وسیع‌تر است."
+          ],
+          [
+            "menos",
+            "La cocina es menos oscura que el pasillo.",
+            "آشپزخانه از راهرو کمتر تاریک است."
+          ],
+          [
+            "igualdad",
+            "El balcón es tan luminoso como el jardín.",
+            "بالکن به‌اندازهٔ باغ روشن است."
+          ],
+          [
+            "concordancia",
+            "Las habitaciones pequeñas son tranquilas.",
+            "اتاق‌های کوچک آرام هستند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Más» y «menos» llevan «que» en una comparación.",
+        "«Tan... como» expresa igualdad."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "La cocina es más luminosa que el pasillo.",
+          "fa": "آشپزخانه از راهرو روشن‌تر است.",
+          "note_fa": "«Luminosa» concuerda con «cocina»."
+        },
+        {
+          "target": "El balcón es tan amplio como el salón.",
+          "fa": "بالکن به‌اندازهٔ اتاق نشیمن وسیع است.",
+          "note_fa": "La estructura expresa igualdad."
+        },
+        {
+          "target": "La casa antigua es menos ruidosa que el edificio nuevo.",
+          "fa": "خانهٔ قدیمی از ساختمان جدید کم‌سروصداتر است.",
+          "note_fa": "«Antigua» concuerda con «casa»."
+        },
+        {
+          "target": "Los dormitorios son más espaciosos que la cocina.",
+          "fa": "اتاق‌خواب‌ها از آشپزخانه جادارتر هستند.",
+          "note_fa": "El adjetivo plural concuerda con dormitorios."
+        },
+        {
+          "target": "El jardín es tan tranquilo como el patio.",
+          "fa": "باغ به‌اندازهٔ حیاط آرام است.",
+          "note_fa": "«Tan... como» compara dos lugares."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Comparar dos casas",
+      "script": "Julia: ¿Cómo es tu casa nueva, Nora?\nNora: El salón es más amplio que el de mi casa anterior.\nJulia: ¿Y la cocina?\nNora: Es pequeña, pero más luminosa que el pasillo.\nJulia: Mi dormitorio es tan espacioso como el tuyo.\nNora: ¿Tu barrio es tranquilo por la noche?\nJulia: Sí, es menos ruidoso que el centro.\nNora: El jardín de mi casa es tan bonito como tu balcón.\nJulia: Entonces nuestras casas tienen cosas buenas.",
+      "script_fa": "خولیا: خانهٔ جدیدت چطور است نورا؟\nنورا: اتاق نشیمن از خانهٔ قبلی‌ام وسیع‌تر است.\nخولیا: آشپزخانه چطور؟\nنورا: کوچک است، اما از راهرو روشن‌تر است.\nخولیا: اتاق‌خوابم به‌اندازهٔ اتاق تو جادار است.\nنورا: محله‌ات شب‌ها آرام است؟\nخولیا: بله، از مرکز شهر کم‌سروصداتر است.\nنورا: باغ خانه‌ام به‌اندازهٔ بالکن تو زیباست.\nخولیا: پس خانه‌های ما هرکدام نکتهٔ خوبی دارند.",
+      "question_fa": "¿Qué espacio es más luminoso que el pasillo?",
+      "answer": "La cocina.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Hablar de una habitación",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Tu cocina es amplia?",
+          "fa": "آشپزخانه‌ات وسیع است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Es pequeña, pero muy luminosa.",
+          "fa": "کوچک است، اما خیلی روشن است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿El salón es más grande que el dormitorio?",
+          "fa": "اتاق نشیمن از اتاق‌خواب بزرگ‌تر است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, y el balcón es tan claro como el jardín.",
+          "fa": "بله، و بالکن به‌اندازهٔ باغ روشن است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Tu barrio es ruidoso?",
+          "fa": "محله‌ات پرسروصدا است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "No, es menos ruidoso que el centro.",
+          "fa": "نه، از مرکز کم‌سروصداتر است."
+        },
+        {
+          "speaker": "A",
+          "target": "Me gusta la casa antigua.",
+          "fa": "خانهٔ قدیمی را دوست دارم."
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, es tranquila y espaciosa.",
+          "fa": "بله، آرام و جادار است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، دو اتاق را با «más... que» یا «tan... como» مقایسه کن.",
+      "useful_phrases": [
+        {
+          "target": "El salón es más amplio que la cocina.",
+          "fa": "اتاق نشیمن از آشپزخانه وسیع‌تر است."
+        },
+        {
+          "target": "El balcón es tan luminoso como el jardín.",
+          "fa": "بالکن به‌اندازهٔ باغ روشن است."
+        },
+        {
+          "target": "La casa antigua es menos ruidosa.",
+          "fa": "خانهٔ قدیمی کم‌سروصداتر است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Dos hogares diferentes",
+      "text": "Nora visita la casa de Julia para estudiar juntas. La casa de Julia es antigua, pero su cocina resulta muy luminosa. El salón es más amplio que el dormitorio y tiene una ventana grande. En la casa de Nora, el balcón es tan espacioso como el jardín de Julia. El barrio de Nora es menos ruidoso que el centro, así que pueden leer con calma. Después de estudiar, comparten una merienda en la cocina. Las dos amigas comparan sus habitaciones y descubren que cada hogar tiene un espacio favorito. A Julia le gusta el jardín; Nora prefiere el balcón.",
+      "glossary": [
+        {
+          "term": "resultar",
+          "fa": "به نظر رسیدن"
+        },
+        {
+          "term": "con calma",
+          "fa": "با آرامش"
+        },
+        {
+          "term": "el hogar",
+          "fa": "خانه"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Dónde estudian Nora y Julia?",
+          "a": "En la casa de Julia."
+        },
+        {
+          "q_fa": "¿Qué lugar prefiere Nora?",
+          "a": "El balcón."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صفت را کامل کن.",
+          "question": "La cocina es más ___ que el pasillo.",
+          "options": [
+            "luminosa",
+            "luminoso",
+            "luminosos"
+          ],
+          "answer": "luminosa",
+          "explanation_fa": "«Cocina» مؤنث مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "مقایسهٔ برابری را انتخاب کن.",
+          "question": "El balcón es ___ amplio ___ el salón.",
+          "options": [
+            "tan / como",
+            "más / que",
+            "menos / de"
+          ],
+          "answer": "tan / como",
+          "explanation_fa": "برای برابری می‌گوییم «tan... como»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "عبارت مقایسه را انتخاب کن.",
+          "question": "El salón es más grande ___ la cocina.",
+          "options": [
+            "que",
+            "como",
+            "de"
+          ],
+          "answer": "que",
+          "explanation_fa": "«Más» در این ساختار با «que» می‌آید."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Las habitaciones pequeñas» tiene concordancia correcta.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "اسم و صفت هر دو مؤنث جمع هستند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "کلمه را کامل کن.",
+          "question": "La casa es menos ruidosa ___ el centro.",
+          "answer": [
+            "que"
+          ],
+          "explanation_fa": "que"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué espacio es más luminoso que el pasillo?",
+          "answer": [
+            "La cocina."
+          ],
+          "explanation_fa": "آشپزخانه از راهرو روشن‌تر است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué espacio es más luminoso?",
+          "options": [
+            "La cocina",
+            "El dormitorio",
+            "El jardín"
+          ],
+          "answer": "La cocina",
+          "explanation_fa": "La cocina es más luminosa que el pasillo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué lugar es tan espacioso como el jardín?",
+          "options": [
+            "El balcón de Nora",
+            "El pasillo",
+            "La cocina"
+          ],
+          "answer": "El balcón de Nora",
+          "explanation_fa": "El balcón de Nora tiene el mismo tamaño indicado."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué barrio es menos ruidoso?",
+          "options": [
+            "El de Nora",
+            "El centro",
+            "El de Julia"
+          ],
+          "answer": "El de Nora",
+          "explanation_fa": "El barrio de Nora es menos ruidoso que el centro."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde comparten una merienda?",
+          "options": [
+            "En la cocina",
+            "En el dormitorio",
+            "En el balcón"
+          ],
+          "answer": "En la cocina",
+          "explanation_fa": "Después estudian y comparten la merienda."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué lugar prefiere Nora?",
+          "options": [
+            "El balcón",
+            "El jardín",
+            "El salón"
+          ],
+          "answer": "El balcón",
+          "explanation_fa": "Nora prefiere el balcón."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Compara dos habitaciones con más... que o tan... como y describe una cualidad.",
+      "suggested_prompts": [
+        "El salón es más amplio que la cocina.",
+        "El balcón es tan luminoso como el jardín.",
+        "La casa antigua es menos ruidosa."
+      ],
+      "focus": [
+        "comparativos",
+        "adjetivos",
+        "habitaciones"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Nora y Julia comparan la luz y el tamaño de sus casas."
+  }
+}

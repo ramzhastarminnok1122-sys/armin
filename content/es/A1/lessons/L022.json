@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 22,
+    "title": "Una casa para todos",
+    "subtitle": "Hablar de las habitaciones",
+    "description": "Nora y Luis describen las habitaciones de la casa de Nora.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Hay para presentar algo y estar para ubicarlo",
+      "objectives": [
+        "Nombrar habitaciones y algunos muebles.",
+        "Usar hay para presentar algo que existe.",
+        "Usar estar para decir dónde se encuentra."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور اتاقی را توصیف می‌کنی و می‌گویی وسیله‌ای کجاست؟",
+      "questions": [
+        {
+          "q": "جایی که غذا آماده می‌کنیم چه نام دارد؟",
+          "hint_fa": "به واژهٔ «cocina» فکر کن."
+        },
+        {
+          "q": "وسیله‌ای که لباس‌ها را در آن می‌گذاریم چیست؟",
+          "hint_fa": "به واژهٔ «armario» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Hay y estar en la casa",
+      "body_fa": "برای معرفی چیزهایی که در جایی وجود دارند از «hay» استفاده می‌کنیم: «Hay una cama en el dormitorio». وقتی چیزی مشخص را مکان‌یابی می‌کنیم، از «estar» بهره می‌بریم: «La cama está junto a la ventana». «Hay» برای مفرد و جمع یکسان است، اما فعل «estar» با اسم هماهنگ می‌شود: «El armario está aquí», «Las ventanas están abiertas». واژه‌های اتاق خانه معمولاً با حرف تعریف می‌آیند: «la cocina», «el baño». برای توصیف مکان از عبارت‌هایی مثل «en», «junto a» و «cerca de» استفاده می‌کنیم. در پاسخ به «¿Qué hay?» می‌توانیم یک اسم را معرفی کنیم.",
+      "key_points": [
+        "«Hay» یعنی چیزی وجود دارد.",
+        "«Está/están» مکان چیز مشخص را می‌گوید.",
+        "Hay با مفرد و جمع تغییر نمی‌کند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "habitación",
+          "ipa": "/a.βi.taˈsjon/",
+          "translation_fa": "اتاق",
+          "example": "La habitación tiene una ventana grande.",
+          "example_fa": "اتاق پنجرهٔ بزرگی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cocina",
+          "ipa": "/koˈsi.na/",
+          "translation_fa": "آشپزخانه",
+          "example": "La cocina está junto al comedor.",
+          "example_fa": "آشپزخانه کنار اتاق غذاخوری است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "dormitorio",
+          "ipa": "/doɾ.miˈto.ɾjo/",
+          "translation_fa": "اتاق‌خواب",
+          "example": "Mi dormitorio tiene una cama cómoda.",
+          "example_fa": "اتاق‌خوابم تخت راحتی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "baño",
+          "ipa": "/ˈba.ɲo/",
+          "translation_fa": "حمام؛ دستشویی",
+          "example": "El baño está al final del pasillo.",
+          "example_fa": "حمام در انتهای راهرو است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cama",
+          "ipa": "/ˈka.ma/",
+          "translation_fa": "تخت",
+          "example": "Hay una cama cerca de la pared.",
+          "example_fa": "تختی نزدیک دیوار هست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "armario",
+          "ipa": "/aɾˈma.ɾjo/",
+          "translation_fa": "کمد",
+          "example": "El armario está frente a la cama.",
+          "example_fa": "کمد روبه‌روی تخت است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ventana",
+          "ipa": "/benˈta.na/",
+          "translation_fa": "پنجره",
+          "example": "La ventana da al jardín.",
+          "example_fa": "پنجره رو به باغ است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "puerta",
+          "ipa": "/ˈpweɾ.ta/",
+          "translation_fa": "در",
+          "example": "La puerta de la cocina está abierta.",
+          "example_fa": "در آشپزخانه باز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "jardín",
+          "ipa": "/xaɾˈðin/",
+          "translation_fa": "باغ",
+          "example": "Hay flores en el jardín.",
+          "example_fa": "در باغ گل هست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "balcón",
+          "ipa": "/balˈkon/",
+          "translation_fa": "بالکن",
+          "example": "El balcón está junto al salón.",
+          "example_fa": "بالکن کنار اتاق نشیمن است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Hay + nombre / estar + lugar",
+      "explanation_fa": "Usamos «hay» para presentar algo nuevo: «Hay una cama en el dormitorio», «Hay dos ventanas». Para ubicar un objeto concreto, usamos «estar»: «La cama está junto a la ventana», «Las ventanas están abiertas». «Hay» no cambia entre singular y plural; «está» corresponde a un sujeto singular y «están» a uno plural. Las expresiones «en», «cerca de», «junto a» y «frente a» ayudan a explicar dónde se encuentra cada cosa. Podemos preguntar «¿Qué hay en la cocina?» o «¿Dónde está el armario?».",
+      "pattern": "hay + nombre; nombre concreto + estar + ubicación",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "existencia",
+            "Hay una cama en el dormitorio.",
+            "در اتاق‌خواب تختی هست."
+          ],
+          [
+            "singular",
+            "El armario está frente a la puerta.",
+            "کمد روبه‌روی در است."
+          ],
+          [
+            "plural",
+            "Las ventanas están junto al balcón.",
+            "پنجره‌ها کنار بالکن هستند."
+          ],
+          [
+            "pregunta",
+            "¿Qué hay en la cocina? Hay una mesa pequeña.",
+            "در آشپزخانه چه هست؟ میز کوچکی هست."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Hay» introduce algo que existe.",
+        "«Está/están» ubica un objeto o lugar mencionado."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Hay dos habitaciones en el piso de arriba.",
+          "fa": "در طبقهٔ بالا دو اتاق هست.",
+          "note_fa": "«Hay» se usa igual con un nombre plural."
+        },
+        {
+          "target": "La cama está junto a la ventana.",
+          "fa": "تخت کنار پنجره است.",
+          "note_fa": "«La cama» ya es un objeto identificado."
+        },
+        {
+          "target": "¿Dónde están las llaves?",
+          "fa": "کلیدها کجا هستند؟",
+          "note_fa": "El nombre plural lleva «están»."
+        },
+        {
+          "target": "El baño está cerca de la cocina.",
+          "fa": "حمام نزدیک آشپزخانه است.",
+          "note_fa": "«Cerca de» indica ubicación."
+        },
+        {
+          "target": "En el jardín hay flores y una silla.",
+          "fa": "در باغ گل و یک صندلی هست.",
+          "note_fa": "La oración presenta cosas que existen."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "La casa de Nora",
+      "script": "Luis: ¿Qué hay en esta habitación?\nNora: Hay una cama y un armario grande en el dormitorio.\nLuis: ¿Dónde está la ventana?\nNora: Está justo junto al balcón.\nLuis: ¿Hay un jardín grande detrás de la casa?\nNora: Sí, y hay muchas flores cerca de la puerta.\nLuis: ¿Dónde están las llaves de la cocina?\nNora: Están sobre la mesa del salón.\nLuis: Gracias; la casa es muy luminosa.",
+      "script_fa": "لوئیس: در این اتاق چه هست؟\nنورا: در اتاق‌خواب تخت و کمد بزرگی هست.\nلوئیس: پنجره کجاست؟\nنورا: درست کنار بالکن است.\nلوئیس: پشت خانه باغ بزرگی هست؟\nنورا: بله، نزدیک در گل‌های زیادی هست.\nلوئیس: کلیدهای آشپزخانه کجا هستند؟\nنورا: روی میز اتاق نشیمن هستند.\nلوئیس: ممنون؛ خانه خیلی روشن است.",
+      "question_fa": "¿Dónde está la ventana?",
+      "answer": "Junto al balcón.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Recorrer una casa",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Qué hay en el dormitorio?",
+          "fa": "در اتاق‌خواب چه هست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Hay una cama y un armario.",
+          "fa": "تخت و کمدی هست."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Dónde está la puerta?",
+          "fa": "در کجاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Está junto a la ventana.",
+          "fa": "کنار پنجره است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Hay un jardín?",
+          "fa": "باغی هست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, está detrás de la casa.",
+          "fa": "بله، پشت خانه است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Dónde están las flores?",
+          "fa": "گل‌ها کجا هستند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Están cerca del balcón.",
+          "fa": "نزدیک بالکن هستند."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، دو اتاق را معرفی کن؛ بگو چه چیزی هست و یک وسیله کجاست.",
+      "useful_phrases": [
+        {
+          "target": "Hay una cama en el dormitorio.",
+          "fa": "در اتاق‌خواب تختی هست."
+        },
+        {
+          "target": "La ventana está junto al balcón.",
+          "fa": "پنجره کنار بالکن است."
+        },
+        {
+          "target": "Hay flores en el jardín.",
+          "fa": "در باغ گل هست."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "La casa de una estudiante",
+      "text": "En una ciudad tranquila, Nora comparte su casa con la familia. Su casa tiene un dormitorio para ella y una habitación para su hermano. En la cocina hay una mesa pequeña y una ventana que da al jardín. El baño está cerca del pasillo, y el armario de Nora está frente a su cama. Un amigo de la familia visita la casa después de clase. Nora le enseña el balcón, donde hay dos sillas y varias plantas. La casa no es grande, pero cada cosa tiene su lugar. Por la tarde, todos se reúnen en el salón para conversar.",
+      "glossary": [
+        {
+          "term": "dar a",
+          "fa": "dar a; رو به بودن"
+        },
+        {
+          "term": "el pasillo",
+          "fa": "راهرو"
+        },
+        {
+          "term": "reunirse",
+          "fa": "جمع‌شدن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué hay en la cocina?",
+          "a": "Una mesa pequeña."
+        },
+        {
+          "q_fa": "¿Dónde está el armario?",
+          "a": "Frente a la cama."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل درست را انتخاب کن.",
+          "question": "___ una cama en el dormitorio.",
+          "options": [
+            "Hay",
+            "Está",
+            "Están"
+          ],
+          "answer": "Hay",
+          "explanation_fa": "برای معرفی تخت از hay استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جای خالی را کامل کن.",
+          "question": "El armario ___ frente a la cama.",
+          "options": [
+            "está",
+            "están",
+            "hay"
+          ],
+          "answer": "está",
+          "explanation_fa": "کمد مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل جمع را انتخاب کن.",
+          "question": "Las ventanas ___ junto al balcón.",
+          "options": [
+            "está",
+            "están",
+            "hay"
+          ],
+          "answer": "están",
+          "explanation_fa": "پنجره‌ها جمع هستند."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Hay» cambia a «han» con nombres plurales.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "«Hay» با مفرد و جمع تغییر نمی‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Las llaves ___ sobre la mesa.",
+          "answer": [
+            "están"
+          ],
+          "explanation_fa": "están"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Dónde está la ventana?",
+          "answer": [
+            "Junto al balcón."
+          ],
+          "explanation_fa": "پنجره کنار بالکن است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué hay en el dormitorio?",
+          "options": [
+            "Una cama y un armario",
+            "Una mesa y un sofá",
+            "Una puerta y un reloj"
+          ],
+          "answer": "Una cama y un armario",
+          "explanation_fa": "Nora menciona una cama y un armario."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde está la ventana?",
+          "options": [
+            "Junto al balcón",
+            "En el baño",
+            "Frente a la cocina"
+          ],
+          "answer": "Junto al balcón",
+          "explanation_fa": "La ventana está junto al balcón."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hay en el jardín?",
+          "options": [
+            "Flores",
+            "Un tren",
+            "Una mesa grande"
+          ],
+          "answer": "Flores",
+          "explanation_fa": "Nora dice que hay flores."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde están las llaves?",
+          "options": [
+            "Sobre la mesa del salón",
+            "En el dormitorio",
+            "Junto al jardín"
+          ],
+          "answer": "Sobre la mesa del salón",
+          "explanation_fa": "Nora las ubica sobre la mesa."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde conversa la familia?",
+          "options": [
+            "En el salón",
+            "En el baño",
+            "En el balcón"
+          ],
+          "answer": "En el salón",
+          "explanation_fa": "La familia se reúne en el salón."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Describe dos habitaciones de una casa y ubica un objeto en cada una.",
+      "suggested_prompts": [
+        "Hay una cama en el dormitorio.",
+        "La ventana está junto al balcón.",
+        "Hay flores en el jardín."
+      ],
+      "focus": [
+        "habitaciones",
+        "hay / estar",
+        "objetos de la casa"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Nora enseña su casa a un amigo que la visita por primera vez."
+  }
+}

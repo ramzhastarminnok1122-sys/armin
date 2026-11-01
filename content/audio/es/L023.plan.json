@@ -1,0 +1,398 @@
+{
+  "lesson": "L023",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L023-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Quién limpia la cocina?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L023-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Yo la limpio después de comer.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L023-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Lees la lista de tareas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L023-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, y escribo una nota.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L023-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Abres la ventana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 18
+    },
+    {
+      "id": "L023-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí; después barro el suelo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L023-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Compartimos el trabajo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L023-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Claro, limpiamos juntos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L023-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Qué tareas hacemos hoy en casa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L023-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Yo barro el salón y lavo los platos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L023-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Yo limpio la cocina después de comer.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L023-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Lees la lista que escribió mamá?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L023-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Sí, y escribo otra para mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L023-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "También abro las ventanas por la mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L023-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Perfecto; compartimos todo el trabajo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L023-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Luego bebemos agua y descansamos en casa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L023-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "De acuerdo; recibimos a la abuela a las seis.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L023-es-vocab-comer",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "comer. Comemos juntos en la cocina.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L023-es-vocab-beber",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "beber. Mi hermano bebe agua después de correr.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L023-es-vocab-leer",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "leer. Leo una receta mientras cocinas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L023-es-vocab-escribir",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "escribir. Escribimos la lista de tareas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L023-es-vocab-abrir",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "abrir. Abro la ventana por la mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L023-es-vocab-recibir",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "recibir. Nora recibe un mensaje de su hermano.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L023-es-vocab-compartir",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "compartir. Compartimos la limpieza de la casa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L023-es-vocab-barrer",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "barrer. Luis barre el suelo del salón.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L023-es-vocab-lavar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "lavar. Lavo los platos después de cenar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L023-es-vocab-limpiar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "limpiar. Limpiamos la cocina juntos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L023-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Como en la cocina. ¿Comes aquí?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L023-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Leo la lista. Nora lee la receta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L023-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Escribimos las tareas. Ellos escriben una nota.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L023-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Abrimos la ventana y limpian la mesa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L023-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mi hermana lee una lista de compras.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L023-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nosotros escribimos los nombres en el calendario.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L023-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "¿Abres la ventana antes de limpiar?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L023-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Luis barre el suelo y yo lavo los platos.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L023-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Compartimos las tareas después de comer.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L023-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora y Luis viven con su familia en una casa con un jardín pequeño. Cada sábado escriben una lista de tareas. Nora lee la lista y limpia la cocina; Luis barre el salón y abre las ventanas. Después, los dos lavan los platos y comparten la limpieza del baño. Su madre prepara la comida mientras ellos ordenan las habitaciones. Al terminar, beben agua en el balcón y reciben a una amiga de la ciudad. Trabajar juntos es más fácil que hacer todo a solas. El domingo, la familia descansa y disfruta del jardín.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 505
+    },
+    {
+      "id": "L023-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L023)",
+      "tts_text": "چه کارهایی را در خانه انجام می‌دهی یا با دیگران تقسیم می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L023-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L023)",
+      "tts_text": "فعل‌های -er و -ir پایان‌های متفاوتی می‌گیرند؛ ریشه ثابت می‌ماند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L023-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L023)",
+      "tts_text": "به گفت‌وگو گوش کن و دو کاری را پیدا کن که لوئیس انجام می‌دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L023-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L023)",
+      "tts_text": "می‌گوییم «leo», «lees», «lee» و «leemos».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    },
+    {
+      "id": "L023-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L023)",
+      "tts_text": "دو کار خانه را با فعل -er یا -ir بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 37
+    },
+    {
+      "id": "L023-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L023)",
+      "tts_text": "پایان فعل را با فاعل هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 31
+    }
+  ]
+}
