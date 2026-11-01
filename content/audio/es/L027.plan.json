@@ -1,0 +1,398 @@
+{
+  "lesson": "L027",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L027-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿De quién es este cuaderno?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L027-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Es mío; tiene una etiqueta roja.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L027-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Y las reglas de la mesa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L027-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Las mías están en la carpeta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L027-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Este estuche es de Pablo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L027-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, el suyo es negro.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L027-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Voy a devolverle el lápiz.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L027-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Gracias; ya encontramos al dueño.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L027-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿De quién es el cuaderno azul?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L027-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "No es mío; el mío tiene una etiqueta roja.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L027-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Y esta carpeta verde?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L027-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Es de Julia; la suya es verde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L027-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Hay dos lápices sobre la pizarra.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L027-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Los míos están en mi estuche.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L027-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Entonces estos deben ser los tuyos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L027-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, gracias; voy a devolverlos a mi mochila.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L027-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Busquemos también al dueño del llavero con la etiqueta azul.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L027-es-vocab-pertenecer",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "pertenecer. Este cuaderno pertenece a Julia.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L027-es-vocab-duenoduena",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "dueño, dueña. Buscamos al dueño de la mochila.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L027-es-vocab-etiqueta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "etiqueta. La etiqueta tiene un nombre escrito.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L027-es-vocab-olvidar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "olvidar. Pablo puede olvidar su carpeta en clase.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L027-es-vocab-perder",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "perder. No quiero perder mis llaves.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L027-es-vocab-encontrar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "encontrar. Lucía encuentra un cuaderno en el aula.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L027-es-vocab-devolver",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "devolver. Voy a devolver el lápiz a su dueño.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L027-es-vocab-objeto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "objeto. El objeto perdido está en la oficina.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L027-es-vocab-llavero",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "llavero. El llavero tiene una etiqueta azul.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L027-es-vocab-estuche",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "estuche. El estuche negro pertenece a Pablo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L027-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "El cuaderno es mío; el tuyo está aquí.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L027-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La carpeta es mía; la suya es azul.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L027-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Los lápices son míos; los tuyos están allí.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L027-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Las reglas son mías; las suyas están en la caja.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L027-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "¿De quién es este bolígrafo? El mío es azul.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L027-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "La carpeta roja es la mía.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L027-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Los cuadernos son suyos.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L027-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Estas reglas son las tuyas.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L027-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "El estuche de Pablo es negro; el mío es verde.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L027-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Después de la clase, Lucía encuentra una carpeta y un estuche junto a la pizarra. La etiqueta de la carpeta tiene el nombre de Julia, pero el estuche no tiene nombre. Pablo mira los materiales y dice: «El cuaderno es mío, pero esos lápices son tuyos». Lucía sonríe; las reglas de la mesa pertenecen a la profesora. Los estudiantes preguntan de quién es cada objeto y buscan al dueño. Al final, devuelven la carpeta a Julia y guardan el estuche en la oficina hasta el día siguiente. Identificar las cosas ayuda a que nada se pierda.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 531
+    },
+    {
+      "id": "L027-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L027)",
+      "tts_text": "چطور می‌پرسی وسیله‌ای مال چه کسی است و با ضمیر ملکی جواب می‌دهی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L027-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L027)",
+      "tts_text": "ضمیر ملکی با اسم حذف‌شده از نظر جنس و شمار هماهنگ می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L027-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L027)",
+      "tts_text": "به گفت‌وگو گوش کن و صاحب پوشهٔ سبز را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    },
+    {
+      "id": "L027-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L027)",
+      "tts_text": "می‌گوییم «el mío», «la mía», «los míos» و «las mías».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L027-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L027)",
+      "tts_text": "دربارهٔ صاحب چند وسیله سؤال کن و پاسخ بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 42
+    },
+    {
+      "id": "L027-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L027)",
+      "tts_text": "ضمیر ملکی را با وسیله هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 32
+    }
+  ]
+}

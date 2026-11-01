@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 27,
+    "title": "¿De quién es?",
+    "subtitle": "Hablar de objetos perdidos",
+    "description": "Dos estudiantes buscan al dueño de unos materiales olvidados.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Pronombres posesivos mío/tuyo/suyo con artículo",
+      "objectives": [
+        "Preguntar de quién es un objeto.",
+        "Usar el mío, la mía, los míos y las mías.",
+        "Hacer una pregunta amable sobre un objeto perdido."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور می‌پرسی وسیله‌ای مال چه کسی است و با ضمیر ملکی جواب می‌دهی؟",
+      "questions": [
+        {
+          "q": "چیزی که نام صاحب وسیله را نشان می‌دهد چیست؟",
+          "hint_fa": "به واژهٔ «etiqueta» فکر کن."
+        },
+        {
+          "q": "وقتی وسیله‌ای را پیدا می‌کنی، چه کاری به صاحبش می‌کنی؟",
+          "hint_fa": "به واژهٔ «devolver» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Pronombres posesivos",
+      "body_fa": "برای پاسخ‌دادن به این‌که چیزی مال چه کسی است می‌توانیم از ضمیر ملکی استفاده کنیم: «Es mío», «Es la mía». وقتی اسم را حذف می‌کنیم، معمولاً حرف تعریف را نگه می‌داریم: «el mío», «la mía», «los míos», «las mías». شکل ضمیر با چیزی که متعلق به ماست از نظر جنس و شمار هماهنگ می‌شود: «el cuaderno es mío», «la carpeta es mía», «los lápices son míos», «las reglas son mías». برای پرسیدن می‌گوییم «¿De quién es este cuaderno?». ضمیر «suyo» می‌تواند به او، آن‌ها یا شما اشاره کند؛ بافت جمله روشن می‌کند منظور کیست.",
+      "key_points": [
+        "ضمایر ملکی جای اسم را می‌گیرند.",
+        "شکل ملکی با اسم حذف‌شده از نظر جنس و شمار هماهنگ است.",
+        "«El mío/la mía/los míos/las mías» الگوهای پرکاربرد هستند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "pertenecer",
+          "ipa": "/peɾ.te.neˈseɾ/",
+          "translation_fa": "متعلق‌بودن",
+          "example": "Este cuaderno pertenece a Julia.",
+          "example_fa": "این دفتر متعلق به خولیاست.",
+          "tag": "فعل"
+        },
+        {
+          "term": "dueño, dueña",
+          "ipa": "/ˈdwe.ɲo/, /ˈdwe.ɲa/",
+          "translation_fa": "صاحب",
+          "example": "Buscamos al dueño de la mochila.",
+          "example_fa": "دنبال صاحب کوله‌پشتی می‌گردیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "etiqueta",
+          "ipa": "/e.tiˈke.ta/",
+          "translation_fa": "برچسب",
+          "example": "La etiqueta tiene un nombre escrito.",
+          "example_fa": "روی برچسب نامی نوشته شده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "olvidar",
+          "ipa": "/ol.βiˈðaɾ/",
+          "translation_fa": "فراموش‌کردن",
+          "example": "Pablo puede olvidar su carpeta en clase.",
+          "example_fa": "پابلو ممکن است پوشه‌اش را در کلاس جا بگذارد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "perder",
+          "ipa": "/peɾˈðeɾ/",
+          "translation_fa": "گم‌کردن",
+          "example": "No quiero perder mis llaves.",
+          "example_fa": "نمی‌خواهم کلیدهایم را گم کنم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "encontrar",
+          "ipa": "/eŋ.koŋˈtɾaɾ/",
+          "translation_fa": "پیداکردن",
+          "example": "Lucía encuentra un cuaderno en el aula.",
+          "example_fa": "لوسیا دفتری در کلاس پیدا می‌کند.",
+          "tag": "فعل"
+        },
+        {
+          "term": "devolver",
+          "ipa": "/de.βolˈβeɾ/",
+          "translation_fa": "پس‌دادن",
+          "example": "Voy a devolver el lápiz a su dueño.",
+          "example_fa": "مداد را به صاحبش پس می‌دهم.",
+          "tag": "فعل"
+        },
+        {
+          "term": "objeto",
+          "ipa": "/oˈβxe.to/",
+          "translation_fa": "شیء",
+          "example": "El objeto perdido está en la oficina.",
+          "example_fa": "شیء گمشده در دفتر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "llavero",
+          "ipa": "/ʝaˈβe.ɾo/",
+          "translation_fa": "جاکلیدی",
+          "example": "El llavero tiene una etiqueta azul.",
+          "example_fa": "جاکلیدی برچسب آبی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "estuche",
+          "ipa": "/esˈtu.tʃe/",
+          "translation_fa": "جامدادی",
+          "example": "El estuche negro pertenece a Pablo.",
+          "example_fa": "جامدادی مشکی متعلق به پابلو است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "El mío / la mía / los míos / las mías",
+      "explanation_fa": "Los pronombres posesivos reemplazan un nombre que ya conocemos. Se usan con artículo: «el mío», «la mía», «los míos», «las mías». Concuerdan con el objeto poseído, no con la persona dueña: «El cuaderno es mío», «La carpeta es mía», «Los lápices son míos», «Las reglas son mías». Preguntamos «¿De quién es?» para un objeto singular y «¿De quiénes son?» para varios. «Suyo/suya/suyos/suyas» puede referirse a él, ella, usted o ellos; el contexto aclara quién es el dueño.",
+      "pattern": "artículo + posesivo: el mío / la mía / los míos / las mías",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "masculino singular",
+            "El cuaderno es mío; el tuyo está aquí.",
+            "دفتر مال من است؛ دفتر تو اینجاست."
+          ],
+          [
+            "femenino singular",
+            "La carpeta es mía; la suya es azul.",
+            "پوشه مال من است؛ پوشهٔ او آبی است."
+          ],
+          [
+            "masculino plural",
+            "Los lápices son míos; los tuyos están allí.",
+            "مدادها مال من هستند؛ مدادهای تو آنجاست."
+          ],
+          [
+            "femenino plural",
+            "Las reglas son mías; las suyas están en la caja.",
+            "خط‌کش‌ها مال من هستند؛ خط‌کش‌های او در جعبه‌اند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "El pronombre concuerda con el objeto poseído.",
+        "Mantener el artículo delante del pronombre posesivo."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "¿De quién es este bolígrafo? El mío es azul.",
+          "fa": "این خودکار مال کیست؟ مال من آبی است.",
+          "note_fa": "«El mío» reemplaza «mi bolígrafo»."
+        },
+        {
+          "target": "La carpeta roja es la mía.",
+          "fa": "پوشهٔ قرمز مال من است.",
+          "note_fa": "«La mía» concuerda con un nombre femenino."
+        },
+        {
+          "target": "Los cuadernos son suyos.",
+          "fa": "دفترها مال او هستند.",
+          "note_fa": "El posesivo está en masculino plural."
+        },
+        {
+          "target": "Estas reglas son las tuyas.",
+          "fa": "این خط‌کش‌ها مال تو هستند.",
+          "note_fa": "«Las tuyas» concuerda con reglas."
+        },
+        {
+          "target": "El estuche de Pablo es negro; el mío es verde.",
+          "fa": "جامدادی پابلو مشکی است؛ مال من سبز است.",
+          "note_fa": "El artículo evita repetir el nombre."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Buscar al dueño",
+      "script": "Lucía: ¿De quién es el cuaderno azul?\nPablo: No es mío; el mío tiene una etiqueta roja.\nLucía: ¿Y esta carpeta verde?\nPablo: Es de Julia; la suya es verde.\nLucía: Hay dos lápices sobre la pizarra.\nPablo: Los míos están en mi estuche.\nLucía: Entonces estos deben ser los tuyos.\nPablo: Sí, gracias; voy a devolverlos a mi mochila.\nLucía: Busquemos también al dueño del llavero con la etiqueta azul.",
+      "script_fa": "لوسیا: دفتر آبی مال کیست؟\nپابلو: مال من نیست؛ دفتر من برچسب قرمز دارد.\nلوسیا: این پوشهٔ سبز چطور؟\nپابلو: مال خولیاست؛ پوشهٔ او سبز است.\nلوسیا: دو مداد روی تخته هست.\nپابلو: مدادهای من در جامدادی‌ام هستند.\nلوسیا: پس این‌ها باید مال تو باشند.\nپابلو: بله، ممنون؛ آن‌ها را به کوله‌پشتی‌ام برمی‌گردانم.\nلوسیا: صاحب جاکلیدیِ دارای برچسب آبی را هم پیدا کنیم.",
+      "question_fa": "¿De quién es la carpeta verde?",
+      "answer": "Es de Julia; la suya es verde.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Identificar objetos",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿De quién es este cuaderno?",
+          "fa": "این دفتر مال کیست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Es mío; tiene una etiqueta roja.",
+          "fa": "مال من است؛ برچسب قرمز دارد."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Y las reglas de la mesa?",
+          "fa": "خط‌کش‌های روی میز چطور؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Las mías están en la carpeta.",
+          "fa": "مال من در پوشه هستند."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Este estuche es de Pablo?",
+          "fa": "این جامدادی مال پابلو است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, el suyo es negro.",
+          "fa": "بله، مال او مشکی است."
+        },
+        {
+          "speaker": "A",
+          "target": "Voy a devolverle el lápiz.",
+          "fa": "مداد را به او پس می‌دهم."
+        },
+        {
+          "speaker": "B",
+          "target": "Gracias; ya encontramos al dueño.",
+          "fa": "ممنون؛ صاحبش را پیدا کردیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، دربارهٔ صاحب سه وسیله سؤال کن و با ضمیر ملکی پاسخ بده.",
+      "useful_phrases": [
+        {
+          "target": "El cuaderno es mío.",
+          "fa": "دفتر مال من است."
+        },
+        {
+          "target": "La carpeta es la mía.",
+          "fa": "پوشه مال من است."
+        },
+        {
+          "target": "Los lápices son tuyos.",
+          "fa": "مدادها مال تو هستند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Objetos olvidados en clase",
+      "text": "Después de la clase, Lucía encuentra una carpeta y un estuche junto a la pizarra. La etiqueta de la carpeta tiene el nombre de Julia, pero el estuche no tiene nombre. Pablo mira los materiales y dice: «El cuaderno es mío, pero esos lápices son tuyos». Lucía sonríe; las reglas de la mesa pertenecen a la profesora. Los estudiantes preguntan de quién es cada objeto y buscan al dueño. Al final, devuelven la carpeta a Julia y guardan el estuche en la oficina hasta el día siguiente. Identificar las cosas ayuda a que nada se pierda.",
+      "glossary": [
+        {
+          "term": "pertenecer",
+          "fa": "متعلق‌بودن"
+        },
+        {
+          "term": "identificar",
+          "fa": "شناسایی‌کردن"
+        },
+        {
+          "term": "perderse",
+          "fa": "گم‌شدن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué encuentra Lucía?",
+          "a": "Una carpeta y un estuche."
+        },
+        {
+          "q_fa": "¿Dónde guardan el estuche?",
+          "a": "En la oficina."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "ضمیر ملکی درست را انتخاب کن.",
+          "question": "La carpeta es ___.",
+          "options": [
+            "mío",
+            "mía",
+            "míos"
+          ],
+          "answer": "mía",
+          "explanation_fa": "«Carpeta» مؤنث مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل جمع مذکر را انتخاب کن.",
+          "question": "Los lápices son ___.",
+          "options": [
+            "mía",
+            "míos",
+            "mías"
+          ],
+          "answer": "míos",
+          "explanation_fa": "«Lápices» مذکر جمع است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "حرف تعریف را کامل کن.",
+          "question": "___ mía está en la mochila.",
+          "options": [
+            "El",
+            "La",
+            "Los"
+          ],
+          "answer": "La",
+          "explanation_fa": "برای پوشهٔ مؤنث مفرد می‌گوییم «la mía»."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "El posesivo concuerda con la persona dueña, no con el objeto.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "ضمیر با اسم متعلق‌به از نظر جنس و شمار هماهنگ می‌شود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "عبارت را کامل کن.",
+          "question": "Estos lápices son ___ (tú).",
+          "answer": [
+            "tuyos"
+          ],
+          "explanation_fa": "tuyos"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿De quién es la carpeta verde?",
+          "answer": [
+            "Es de Julia; la suya es verde."
+          ],
+          "explanation_fa": "پوشهٔ سبز مال خولیاست؛ مال او سبز است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿De quién es la carpeta verde?",
+          "options": [
+            "De Julia",
+            "De Lucía",
+            "De la profesora"
+          ],
+          "answer": "De Julia",
+          "explanation_fa": "Pablo dice que la carpeta es de Julia."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué etiqueta tiene el cuaderno de Pablo?",
+          "options": [
+            "Roja",
+            "Azul",
+            "Verde"
+          ],
+          "answer": "Roja",
+          "explanation_fa": "El cuaderno de Pablo tiene una etiqueta roja."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde están los lápices de Pablo?",
+          "options": [
+            "En su estuche",
+            "En la oficina",
+            "Sobre la ventana"
+          ],
+          "answer": "En su estuche",
+          "explanation_fa": "Pablo dice que los suyos están en el estuche."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué encuentra Lucía después de clase?",
+          "options": [
+            "Una carpeta y un estuche",
+            "Un menú y una taza",
+            "Un paraguas y una bolsa"
+          ],
+          "answer": "Una carpeta y un estuche",
+          "explanation_fa": "Lucía encuentra esos materiales."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde guardan el estuche?",
+          "options": [
+            "En la oficina",
+            "En el jardín",
+            "En el mercado"
+          ],
+          "answer": "En la oficina",
+          "explanation_fa": "Lo guardan en la oficina hasta mañana."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Pregunta de quién es un objeto y responde con un pronombre posesivo.",
+      "suggested_prompts": [
+        "El cuaderno es mío.",
+        "La carpeta es la mía.",
+        "Los lápices son tuyos."
+      ],
+      "focus": [
+        "posesivos",
+        "objetos escolares",
+        "preguntar de quién es"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Lucía y Pablo identifican a quién pertenecen varias cosas."
+  }
+}

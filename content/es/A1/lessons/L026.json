@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 26,
+    "title": "Mi horario de clase",
+    "subtitle": "Hablar de las asignaturas",
+    "description": "Marta explica qué asignaturas tiene cada día.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Asignaturas y horarios con tener clase de",
+      "objectives": [
+        "Nombrar materias escolares comunes.",
+        "Preguntar qué asignaturas tiene una persona.",
+        "Hablar del horario semanal con días y horas."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چه درس‌هایی در برنامهٔ هفتگی‌ات داری و کدام روزها کلاس می‌روی؟",
+      "questions": [
+        {
+          "q": "درس مربوط به اعداد و محاسبه چیست؟",
+          "hint_fa": "به واژهٔ «matemáticas» فکر کن."
+        },
+        {
+          "q": "برگه‌ای که کلاس‌ها و روزها را نشان می‌دهد چیست؟",
+          "hint_fa": "به واژهٔ «horario» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Tener clase de + asignatura",
+      "body_fa": "برای گفتن درس یا موضوعی که در برنامه داریم می‌توانیم بگوییم «Tengo clase de matemáticas». با فاعل‌های دیگر، «tener» تغییر می‌کند: «tienes», «tiene», «tenemos», «tienen». برای پرسیدن دربارهٔ برنامه می‌گوییم «¿Qué asignaturas tienes el martes?» و برای ساعت «¿A qué hora empieza la clase?». روزهای هفته در متن معمولاً با حرف کوچک نوشته می‌شوند. برای ترتیب درس‌ها می‌توان از «primero», «después» و «por último» استفاده کرد. بعضی نام درس‌ها مانند «matemáticas» معمولاً به صورت جمع به کار می‌روند. برای گفتن ساعت شروع کلاس، حرف اضافهٔ «a» را به کار می‌بریم؛ برای نمونه «a las nueve».",
+      "key_points": [
+        "«Tener clase de» معرفی درس است.",
+        "صرف tener را با فاعل هماهنگ کن.",
+        "روزهای هفته با حرف کوچک نوشته می‌شوند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "matemáticas",
+          "ipa": "/ma.teˈma.ti.kas/",
+          "translation_fa": "ریاضی",
+          "example": "Tengo matemáticas los lunes.",
+          "example_fa": "دوشنبه‌ها ریاضی دارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ciencias",
+          "ipa": "/ˈsjen.sjas/",
+          "translation_fa": "علوم",
+          "example": "Las ciencias incluyen temas de naturaleza.",
+          "example_fa": "علوم موضوعات طبیعت را دربرمی‌گیرد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "historia",
+          "ipa": "/isˈto.ɾja/",
+          "translation_fa": "تاریخ",
+          "example": "La clase de historia empieza temprano.",
+          "example_fa": "کلاس تاریخ زود شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "geografía",
+          "ipa": "/xe.o.ɣɾaˈfi.a/",
+          "translation_fa": "جغرافیا",
+          "example": "En geografía estudiamos mapas y lugares.",
+          "example_fa": "در جغرافیا نقشه‌ها و مکان‌ها را می‌خوانیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "literatura",
+          "ipa": "/li.te.ɾaˈtu.ɾa/",
+          "translation_fa": "ادبیات",
+          "example": "Leemos cuentos en literatura.",
+          "example_fa": "در درس ادبیات داستان می‌خوانیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "arte",
+          "ipa": "/ˈaɾ.te/",
+          "translation_fa": "هنر",
+          "example": "El arte es mi asignatura favorita.",
+          "example_fa": "هنر درس موردعلاقهٔ من است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "educación física",
+          "ipa": "/e.ðu.kaˈsjon ˈfi.si.ka/",
+          "translation_fa": "تربیت‌بدنی",
+          "example": "Tenemos educación física en el gimnasio.",
+          "example_fa": "در سالن ورزش تربیت‌بدنی داریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "tarea",
+          "ipa": "/taˈɾe.a/",
+          "translation_fa": "تکلیف",
+          "example": "La tarea de ciencias es corta.",
+          "example_fa": "تکلیف علوم کوتاه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "examen",
+          "ipa": "/ekˈsa.men/",
+          "translation_fa": "امتحان",
+          "example": "El examen de historia es el viernes.",
+          "example_fa": "امتحان تاریخ جمعه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "horario",
+          "ipa": "/oˈɾa.ɾjo/",
+          "translation_fa": "برنامهٔ زمانی",
+          "example": "Miro mi horario antes de salir.",
+          "example_fa": "پیش از بیرون‌رفتن برنامه‌ام را نگاه می‌کنم.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Tener clase de + asignatura",
+      "explanation_fa": "Para hablar de las materias del horario, usamos «tener clase de»: «Tengo clase de matemáticas», «Marta tiene clase de historia el jueves». «Tener» cambia según el sujeto: «tengo», «tienes», «tiene», «tenemos» y «tienen». Preguntamos «¿Qué asignaturas tienes hoy?» o «¿A qué hora empieza la clase?». Podemos ordenar las clases con «primero», «después» y «por último». Los nombres de los días se escriben con minúscula en mitad de una oración: lunes, martes, miércoles, jueves y viernes.",
+      "pattern": "sujeto + tener clase de + asignatura + día / hora",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo / tú",
+            "Tengo matemáticas el lunes. ¿Tienes historia el martes?",
+            "دوشنبه ریاضی دارم. سه‌شنبه تاریخ داری؟"
+          ],
+          [
+            "él / ella",
+            "Marta tiene clase de ciencias después del recreo.",
+            "مارتا بعد از زنگ تفریح علوم دارد."
+          ],
+          [
+            "nosotros / nosotras",
+            "Tenemos literatura y arte el viernes.",
+            "جمعه ادبیات و هنر داریم."
+          ],
+          [
+            "ustedes / ellos",
+            "Ellos tienen educación física por la tarde.",
+            "آن‌ها بعدازظهر تربیت‌بدنی دارند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Con «tener», la forma depende del sujeto.",
+        "Usar «clase de» antes del nombre de la asignatura."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Tengo geografía después de matemáticas.",
+          "fa": "بعد از ریاضی جغرافیا دارم.",
+          "note_fa": "«Tengo» corresponde a yo."
+        },
+        {
+          "target": "Marta tiene literatura el jueves.",
+          "fa": "مارتا پنج‌شنبه ادبیات دارد.",
+          "note_fa": "Con Marta usamos «tiene»."
+        },
+        {
+          "target": "¿A qué hora empieza el examen?",
+          "fa": "امتحان چه ساعتی شروع می‌شود؟",
+          "note_fa": "La pregunta pide una hora."
+        },
+        {
+          "target": "Tenemos arte antes de educación física.",
+          "fa": "پیش از تربیت‌بدنی هنر داریم.",
+          "note_fa": "«Tenemos» se usa con nosotros."
+        },
+        {
+          "target": "La tarea de ciencias es para el viernes.",
+          "fa": "تکلیف علوم برای جمعه است.",
+          "note_fa": "El día se escribe con minúscula."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "El horario de Marta",
+      "script": "Marta: ¿Qué asignaturas tienes el martes?\nDiego: Tengo matemáticas y literatura.\nMarta: ¿A qué hora empieza la clase de matemáticas?\nDiego: A las nueve; después tenemos ciencias en la misma aula.\nMarta: Yo tengo historia el miércoles y literatura por la tarde.\nDiego: ¿Y educación física? ¿Es en el gimnasio?\nMarta: Es el viernes, después del recreo.\nDiego: Mi examen de geografía también es el viernes.\nMarta: Entonces miramos juntos el horario.",
+      "script_fa": "مارتا: سه‌شنبه چه درس‌هایی داری؟\nدیه‌گو: ریاضی و ادبیات دارم.\nمارتا: کلاس ریاضی چه ساعتی شروع می‌شود؟\nدیه‌گو: ساعت نه؛ بعد در همان کلاس علوم داریم.\nمارتا: من چهارشنبه تاریخ و بعدازظهر ادبیات دارم.\nدیه‌گو: تربیت‌بدنی چطور؟ در سالن ورزش است؟\nمارتا: جمعه، بعد از زنگ تفریح است.\nدیه‌گو: امتحان جغرافیای من هم جمعه است.\nمارتا: پس با هم برنامه را نگاه می‌کنیم.",
+      "question_fa": "¿Qué asignaturas tiene Diego el martes?",
+      "answer": "Matemáticas y literatura.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Hablar del horario",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Tienes ciencias hoy?",
+          "fa": "امروز علوم داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, después de literatura.",
+          "fa": "بله، بعد از ادبیات."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Cuándo es el examen?",
+          "fa": "امتحان چه زمانی است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "El viernes por la mañana.",
+          "fa": "جمعه صبح."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Qué tarea tenemos?",
+          "fa": "چه تکلیفی داریم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Una actividad de geografía.",
+          "fa": "یک فعالیت جغرافیا."
+        },
+        {
+          "speaker": "A",
+          "target": "Miro mi horario ahora.",
+          "fa": "الان برنامه‌ام را نگاه می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Perfecto; luego estudiamos juntos.",
+          "fa": "عالی؛ بعد با هم درس می‌خوانیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، برنامهٔ درسی دو روزت را با نام درس و ساعت توضیح بده.",
+      "useful_phrases": [
+        {
+          "target": "Tengo matemáticas el lunes.",
+          "fa": "دوشنبه ریاضی دارم."
+        },
+        {
+          "target": "La clase empieza a las nueve.",
+          "fa": "کلاس ساعت نه شروع می‌شود."
+        },
+        {
+          "target": "Tenemos literatura el jueves.",
+          "fa": "پنج‌شنبه ادبیات داریم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una semana en la escuela",
+      "text": "Diego es estudiante y escribe su horario en una carpeta. El lunes tiene matemáticas y ciencias. El martes, literatura y arte ocupan la mañana. El miércoles empieza con historia; después, la clase de geografía usa un mapa grande. El jueves, Diego lee un cuento en literatura. El viernes tiene educación física y un examen corto de ciencias. Su amiga Marta le ayuda a revisar la tarea antes de salir. Los dos estudian en la biblioteca del barrio y luego caminan a casa. Un horario claro les permite organizar cada día.",
+      "glossary": [
+        {
+          "term": "ocupar",
+          "fa": "پرکردن؛ اشغال‌کردن"
+        },
+        {
+          "term": "revisar",
+          "fa": "مرورکردن"
+        },
+        {
+          "term": "permitir",
+          "fa": "اجازه‌دادن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué tiene Diego el lunes?",
+          "a": "Matemáticas y ciencias."
+        },
+        {
+          "q_fa": "¿Dónde estudian Diego y Marta?",
+          "a": "En la biblioteca."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست را انتخاب کن.",
+          "question": "Marta ___ historia el miércoles.",
+          "options": [
+            "tengo",
+            "tiene",
+            "tenemos"
+          ],
+          "answer": "tiene",
+          "explanation_fa": "با Marta می‌گوییم «tiene»."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "درس مناسب را انتخاب کن.",
+          "question": "Leemos cuentos en…",
+          "options": [
+            "literatura",
+            "matemáticas",
+            "educación física"
+          ],
+          "answer": "literatura",
+          "explanation_fa": "خواندن داستان در ادبیات انجام می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "نام روز را کامل کن.",
+          "question": "El examen es el ___.",
+          "options": [
+            "viernes",
+            "mesa",
+            "horario"
+          ],
+          "answer": "viernes",
+          "explanation_fa": "جمعه یکی از روزهای هفته است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "Los días de la semana llevan mayúscula siempre.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "در میانهٔ جمله روزها با حرف کوچک نوشته می‌شوند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "Nosotros ___ ciencias. (tener)",
+          "answer": [
+            "tenemos"
+          ],
+          "explanation_fa": "tenemos"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué asignaturas tiene Diego el martes?",
+          "answer": [
+            "Matemáticas y literatura."
+          ],
+          "explanation_fa": "دیه‌گو سه‌شنبه ریاضی و ادبیات دارد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué asignaturas tiene Diego el martes?",
+          "options": [
+            "Matemáticas y literatura",
+            "Historia y arte",
+            "Ciencias y educación física"
+          ],
+          "answer": "Matemáticas y literatura",
+          "explanation_fa": "Diego menciona matemáticas y literatura."
+        },
+        {
+          "type": "mcq",
+          "question": "¿A qué hora empieza matemáticas?",
+          "options": [
+            "A las nueve",
+            "A las ocho",
+            "Al mediodía"
+          ],
+          "answer": "A las nueve",
+          "explanation_fa": "Diego dice que empieza a las nueve."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuándo tiene historia Marta?",
+          "options": [
+            "El miércoles",
+            "El lunes",
+            "El viernes"
+          ],
+          "answer": "El miércoles",
+          "explanation_fa": "Marta tiene historia el miércoles."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuándo es el examen de geografía?",
+          "options": [
+            "El viernes",
+            "El martes",
+            "El jueves"
+          ],
+          "answer": "El viernes",
+          "explanation_fa": "Diego dice que es el viernes."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué miran juntos?",
+          "options": [
+            "El horario",
+            "Un menú",
+            "Un billete"
+          ],
+          "answer": "El horario",
+          "explanation_fa": "Marta propone mirar el horario."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Habla de tus asignaturas de dos días y menciona cuándo empiezan.",
+      "suggested_prompts": [
+        "Tengo matemáticas el lunes.",
+        "La clase empieza a las nueve.",
+        "Tenemos literatura el jueves."
+      ],
+      "focus": [
+        "asignaturas",
+        "horario",
+        "tener clase de"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Marta comparte su horario con un estudiante nuevo."
+  }
+}

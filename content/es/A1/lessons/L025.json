@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 25,
+    "title": "En el aula",
+    "subtitle": "Nombrar objetos de clase",
+    "description": "La profesora prepara el aula antes de recibir a sus estudiantes.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Material escolar y artículos definidos el/la/los/las",
+      "objectives": [
+        "Nombrar materiales escolares básicos.",
+        "Elegir el artículo definido según género y número.",
+        "Formar plurales sencillos en -s o -es."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور چند وسیلهٔ مدرسه را با حرف تعریف درست نام می‌بری؟",
+      "questions": [
+        {
+          "q": "وسیله‌ای که روی آن در کلاس می‌نویسیم چه نام دارد؟",
+          "hint_fa": "به واژهٔ «pizarra» فکر کن."
+        },
+        {
+          "q": "برای خط‌کشیدن به چه وسیله‌ای نیاز داریم؟",
+          "hint_fa": "به واژهٔ «regla» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Artículos y plural de los nombres",
+      "body_fa": "در اسپانیایی اسم‌ها معمولاً با حرف تعریف می‌آیند. برای اسم مذکر مفرد از «el» و برای مؤنث مفرد از «la» استفاده می‌کنیم: «el cuaderno», «la mochila». شکل جمع آن‌ها «los» و «las» است: «los lápices», «las carpetas». بیشتر اسم‌هایی که به واکه ختم می‌شوند با افزودن «-s» جمع می‌بندند؛ اگر به همخوان ختم شوند، معمولاً «-es» می‌گیرند: «papel/papeles». جنس دستوری همیشه از جنسیت واقعی شیء پیروی نمی‌کند و بهتر است اسم را همراه حرف تعریف یاد بگیریم. برای پرسیدن دربارهٔ وجود چیزی می‌گوییم «¿Qué hay en el aula?».",
+      "key_points": [
+        "el/los برای اسم مذکر؛ la/las برای مؤنث.",
+        "اسم پایان‌یافته به واکه معمولاً با -s جمع می‌بندد.",
+        "اسم پایان‌یافته به همخوان معمولاً با -es جمع می‌بندد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "pizarra",
+          "ipa": "/piˈsa.ra/",
+          "translation_fa": "تختهٔ کلاس",
+          "example": "La profesora escribe la fecha en la pizarra.",
+          "example_fa": "معلم تاریخ را روی تخته می‌نویسد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cuaderno",
+          "ipa": "/kwaˈðeɾ.no/",
+          "translation_fa": "دفتر",
+          "example": "Mi cuaderno está dentro de la mochila.",
+          "example_fa": "دفترم داخل کوله‌پشتی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "lápiz",
+          "ipa": "/ˈla.pis/",
+          "translation_fa": "مداد",
+          "example": "Necesito un lápiz para la actividad.",
+          "example_fa": "برای فعالیت به مداد نیاز دارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "bolígrafo",
+          "ipa": "/boˈli.ɣɾa.fo/",
+          "translation_fa": "خودکار",
+          "example": "El bolígrafo azul escribe muy bien.",
+          "example_fa": "خودکار آبی خیلی خوب می‌نویسد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mochila",
+          "ipa": "/moˈtʃi.la/",
+          "translation_fa": "کوله‌پشتی",
+          "example": "La mochila de Pablo está junto a la silla.",
+          "example_fa": "کوله‌پشتی پابلو کنار صندلی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "regla",
+          "ipa": "/ˈre.ɣla/",
+          "translation_fa": "خط‌کش",
+          "example": "Uso una regla para dibujar una línea.",
+          "example_fa": "برای کشیدن خط از خط‌کش استفاده می‌کنم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "borrador",
+          "ipa": "/bo.raˈðoɾ/",
+          "translation_fa": "پاک‌کن؛ تخته‌پاک‌کن",
+          "example": "El borrador está debajo de la pizarra.",
+          "example_fa": "تخته‌پاک‌کن زیر تخته است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "papel",
+          "ipa": "/paˈpel/",
+          "translation_fa": "کاغذ",
+          "example": "Hay papeles blancos sobre la mesa.",
+          "example_fa": "روی میز کاغذهای سفیدی هست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "carpeta",
+          "ipa": "/kaɾˈpe.ta/",
+          "translation_fa": "پوشه",
+          "example": "Guardo las hojas en una carpeta.",
+          "example_fa": "برگه‌ها را در پوشه می‌گذارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "sacapuntas",
+          "ipa": "/sa.kaˈpun.tas/",
+          "translation_fa": "تراش",
+          "example": "El sacapuntas pequeño está en el estuche.",
+          "example_fa": "تراش کوچک در جامدادی است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "El / la / los / las",
+      "explanation_fa": "El artículo definido acompaña a un nombre conocido. «El» se usa con un nombre masculino singular, «la» con uno femenino singular; «los» y «las» son las formas plurales. Por ejemplo: «el lápiz», «la regla», «los cuadernos», «las carpetas». Para formar el plural, la mayoría de nombres que terminan en vocal añade «-s»: «mochila/mochilas». Si terminan en consonante, suelen añadir «-es»: «papel/papeles». Algunas palabras cambian la tilde al formar el plural, como «lápiz/lápices».",
+      "pattern": "el + masculino singular; la + femenino singular; los/las + plural",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "masculino singular",
+            "El cuaderno está en la mochila.",
+            "دفتر در کوله‌پشتی است."
+          ],
+          [
+            "femenino singular",
+            "La regla está sobre la mesa.",
+            "خط‌کش روی میز است."
+          ],
+          [
+            "masculino plural",
+            "Los lápices están junto a la pizarra.",
+            "مدادها کنار تخته هستند."
+          ],
+          [
+            "femenino plural",
+            "Las carpetas están en el aula.",
+            "پوشه‌ها در کلاس هستند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Con nombres terminados en vocal, añadir -s para el plural.",
+        "Con consonante, normalmente añadir -es: papel/papeles."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Los cuadernos nuevos están sobre la silla.",
+          "fa": "دفترهای جدید روی صندلی هستند.",
+          "note_fa": "«Cuaderno» añade -s en plural."
+        },
+        {
+          "target": "Las reglas son largas y amarillas.",
+          "fa": "خط‌کش‌ها بلند و زرد هستند.",
+          "note_fa": "El artículo y el adjetivo están en femenino plural."
+        },
+        {
+          "target": "El lápiz rojo está dentro de mi carpeta.",
+          "fa": "مداد قرمز داخل پوشه‌ام است.",
+          "note_fa": "El artículo concuerda con «lápiz»."
+        },
+        {
+          "target": "Necesitamos papeles para la actividad.",
+          "fa": "برای فعالیت به کاغذ نیاز داریم.",
+          "note_fa": "«Papel» forma el plural con -es."
+        },
+        {
+          "target": "La profesora borra la pizarra al final.",
+          "fa": "معلم در پایان تخته را پاک می‌کند.",
+          "note_fa": "Los nombres singulares llevan su artículo."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Preparar el aula",
+      "script": "Profesora: ¿Qué hay en la mochila azul?\nLucía: Hay un cuaderno, dos lápices y una regla.\nProfesora: ¿Dónde están los bolígrafos?\nLucía: Están sobre la mesa, junto a las carpetas.\nProfesora: ¿Tenemos papel para todos?\nLucía: Sí, hay papeles blancos en el armario.\nProfesora: Pon el borrador cerca de la pizarra.\nLucía: También llevo un sacapuntas pequeño.\nProfesora: Gracias; ya podemos empezar la clase de hoy con todos los materiales.",
+      "script_fa": "معلم: در کوله‌پشتی آبی چه هست؟\nلوسیا: دفتر، دو مداد و یک خط‌کش هست.\nمعلم: خودکارها کجا هستند؟\nلوسیا: روی میز کنار پوشه‌ها هستند.\nمعلم: برای همه کاغذ داریم؟\nلوسیا: بله، در کمد کاغذ سفید هست.\nمعلم: تخته‌پاک‌کن را نزدیک تخته بگذار.\nلوسیا: تراش کوچکی هم آورده‌ام.\nمعلم: ممنون؛ حالا می‌توانیم کلاس امروز را با همهٔ وسایل شروع کنیم.",
+      "question_fa": "¿Qué hay en la mochila azul?",
+      "answer": "Un cuaderno, dos lápices y una regla.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Materiales para la clase",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Tienes un bolígrafo azul?",
+          "fa": "خودکار آبی داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, está dentro de mi carpeta.",
+          "fa": "بله، داخل پوشه‌ام است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Dónde están los lápices?",
+          "fa": "مدادها کجا هستند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Están junto a la pizarra.",
+          "fa": "کنار تخته هستند."
+        },
+        {
+          "speaker": "A",
+          "target": "Necesito una regla para esta actividad.",
+          "fa": "برای این فعالیت به خط‌کش نیاز دارم."
+        },
+        {
+          "speaker": "B",
+          "target": "Hay una en mi mochila.",
+          "fa": "یکی در کوله‌پشتی من هست."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Y el papel blanco?",
+          "fa": "کاغذ سفید چطور؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Está sobre la mesa grande.",
+          "fa": "روی میز بزرگ است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، سه وسیلهٔ کلاس را با حرف تعریف درست معرفی کن.",
+      "useful_phrases": [
+        {
+          "target": "El cuaderno está en la mochila.",
+          "fa": "دفتر در کوله‌پشتی است."
+        },
+        {
+          "target": "Los lápices están junto a la pizarra.",
+          "fa": "مدادها کنار تخته هستند."
+        },
+        {
+          "target": "La regla es larga.",
+          "fa": "خط‌کش بلند است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una clase bien preparada",
+      "text": "Lucía es estudiante y llega temprano al aula. La profesora escribe la fecha en la pizarra y deja varias carpetas sobre una mesa. En la mochila de Lucía hay un cuaderno, dos lápices y un bolígrafo azul. Su amigo Pablo trae papeles para una actividad en grupo. La regla está junto a la ventana y el borrador queda cerca de la puerta. Antes de empezar, Lucía y Pablo colocan los materiales para todos. La clase tiene un ambiente tranquilo y luminoso. Al final, cada estudiante guarda sus cosas en la mochila.",
+      "glossary": [
+        {
+          "term": "colocar",
+          "fa": "گذاشتن؛ مرتب‌کردن"
+        },
+        {
+          "term": "el ambiente",
+          "fa": "فضا"
+        },
+        {
+          "term": "guardar",
+          "fa": "در جایی گذاشتن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué trae Pablo?",
+          "a": "Papeles para una actividad."
+        },
+        {
+          "q_fa": "¿Dónde está la regla?",
+          "a": "Junto a la ventana."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "حرف تعریف درست را انتخاب کن.",
+          "question": "___ pizarra está limpia.",
+          "options": [
+            "El",
+            "La",
+            "Los"
+          ],
+          "answer": "La",
+          "explanation_fa": "«Pizarra» مؤنث مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل جمع را انتخاب کن.",
+          "question": "___ lápiz rojo está en la mesa.",
+          "options": [
+            "El",
+            "La",
+            "Los"
+          ],
+          "answer": "El",
+          "explanation_fa": "«Lápiz» مذکر مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمع درست را انتخاب کن.",
+          "question": "un papel → dos…",
+          "options": [
+            "papels",
+            "papeles",
+            "papeleses"
+          ],
+          "answer": "papeles",
+          "explanation_fa": "اسم پایان‌یافته به همخوان با -es جمع می‌بندد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "El plural de «mochila» es «mochilas».",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "اسم پایان‌یافته به واکه -s می‌گیرد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "حرف تعریف را کامل کن.",
+          "question": "___ carpetas están sobre la mesa.",
+          "answer": [
+            "Las"
+          ],
+          "explanation_fa": "Las"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué hay en la mochila azul?",
+          "answer": [
+            "Un cuaderno, dos lápices y una regla."
+          ],
+          "explanation_fa": "در کوله‌پشتی آبی دفتر، دو مداد و خط‌کش هست."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué hay en la mochila azul?",
+          "options": [
+            "Un cuaderno, lápices y una regla",
+            "Un libro y una taza",
+            "Una chaqueta y un mapa"
+          ],
+          "answer": "Un cuaderno, lápices y una regla",
+          "explanation_fa": "Lucía enumera tres materiales."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde están los bolígrafos?",
+          "options": [
+            "Sobre la mesa",
+            "En el jardín",
+            "Junto a la puerta"
+          ],
+          "answer": "Sobre la mesa",
+          "explanation_fa": "Están sobre la mesa."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué trae Pablo?",
+          "options": [
+            "Papeles",
+            "Una maleta",
+            "Una receta"
+          ],
+          "answer": "Papeles",
+          "explanation_fa": "Pablo trae papeles para el grupo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde está la regla?",
+          "options": [
+            "Junto a la ventana",
+            "En la mochila azul",
+            "Debajo de la pizarra"
+          ],
+          "answer": "Junto a la ventana",
+          "explanation_fa": "La regla está junto a la ventana."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hacen los estudiantes antes de irse?",
+          "options": [
+            "Guardan sus cosas",
+            "Van al mercado",
+            "Limpian el jardín"
+          ],
+          "answer": "Guardan sus cosas",
+          "explanation_fa": "Cada estudiante guarda sus materiales."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Describe tres objetos escolares y usa el artículo definido adecuado.",
+      "suggested_prompts": [
+        "El cuaderno está en la mochila.",
+        "Los lápices están junto a la pizarra.",
+        "La regla es larga."
+      ],
+      "focus": [
+        "artículos",
+        "materiales de clase",
+        "singular y plural"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Una estudiante ayuda a preparar los materiales para la clase."
+  }
+}
