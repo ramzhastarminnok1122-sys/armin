@@ -1,0 +1,398 @@
+{
+  "lesson": "L335",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L335-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu veux un exemplaire dédicacé ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L335-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, je demande une petite dédicace.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L335-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Quel prénom dois-je écrire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L335-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Écris Mina, avec un i.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L335-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "L’autrice ajoute une formule de politesse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L335-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Cette phrase manuscrite sera un beau souvenir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L335-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Garde le ruban de lecture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L335-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Je le glisse dans le livre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 27
+    },
+    {
+      "id": "L335-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "L’autrice dédicace un exemplaire à Mina.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L335-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Est-ce qu’elle écrit le nom de chaque lecteur ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L335-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, elle ajoute une phrase manuscrite à chaque exemplaire.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L335-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Je peux lui demander une dédicace personnelle ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L335-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Bien sûr, indique ton prénom sur un petit papier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L335-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Quel message peut-elle écrire ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L335-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Une formule de politesse et un souhait de bonne lecture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 56
+    },
+    {
+      "id": "L335-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Où place-t-elle sa signature originale ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L335-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Sur la page de titre, près du nom de l’autrice.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L335-fr-vocab-unededicace",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "une dédicace. Mina demande une dédicace à l’autrice.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L335-fr-vocab-unesignatureoriginale",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une signature originale. La signature originale apparaît sous le message.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 73
+    },
+    {
+      "id": "L335-fr-vocab-unexemplairepersonnel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un exemplaire personnel. Hugo apporte son exemplaire personnel à la rencontre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 78
+    },
+    {
+      "id": "L335-fr-vocab-unepagedetitre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une page de titre. L’autrice signe la page de titre du roman.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L335-fr-vocab-unsouvenirdelecture",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un souvenir de lecture. Cette dédicace devient un souvenir de lecture.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L335-fr-vocab-uneformuledepolitesse",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une formule de politesse. Une formule de politesse termine le petit mot.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L335-fr-vocab-unephrasemanuscrite",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une phrase manuscrite. Une phrase manuscrite accompagne la signature.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L335-fr-vocab-unstyloabille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un stylo à bille. L’écrivaine prend un stylo à bille bleu.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L335-fr-vocab-unrubandelecture",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un ruban de lecture. Un ruban de lecture marque la page préférée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L335-fr-vocab-unnomecritalamain",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un nom écrit à la main. Son nom écrit à la main reste près du texte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L335-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je dédicace mon roman à Mina. Tu dédicaces ton livre à Hugo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L335-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "L’autrice dédicace un exemplaire à chaque lecteur.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L335-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous dédicaçons les livres aux membres du club. Vous dédicacez un roman à votre amie.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 85
+    },
+    {
+      "id": "L335-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les écrivaines dédicacent leurs romans aux visiteurs.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L335-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina inscrit son prénom sur un papier.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L335-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "L’autrice ajoute quelques mots sous la signature.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L335-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Hugo choisit une phrase simple et chaleureuse.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L335-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le livre devient un souvenir précieux pour Mina.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L335-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "La lectrice remercie l’autrice avant de partir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L335-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après la rencontre, Mina attend son tour avec son exemplaire personnel. L’autrice lui demande comment écrire son prénom et choisit un stylo à bille bleu. Sur la page de titre, elle ajoute une phrase manuscrite et une formule de politesse. Sa signature originale apparaît sous le petit message. Mina remercie l’écrivaine et garde le livre avec soin. Elle place ensuite un ruban de lecture à la page de son passage préféré. Pour elle, cette dédicace représente un souvenir de lecture très précieux. Hugo regarde le texte et demande à son tour une signature pour sa sœur. L’autrice accepte avec plaisir et écrit le nom de la jeune lectrice à la main.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 647
+    },
+    {
+      "id": "L335-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L335)",
+      "tts_text": "برای گرفتن امضای نویسنده، چه اطلاعاتی را به او می‌دهی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L335-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L335)",
+      "tts_text": "برای بیان گیرنده می‌گوییم «dédicacer un livre à quelqu’un».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L335-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L335)",
+      "tts_text": "به گفت‌وگو گوش کن و نام خواننده‌ای را پیدا کن که کتاب برای او امضا می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L335-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L335)",
+      "tts_text": "در ساختار «dédicacer un livre à quelqu’un»، نام شخص با «à» می‌آید.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L335-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L335)",
+      "tts_text": "از نویسنده امضای کتاب بخواه و نام کوچک خودت را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L335-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L335)",
+      "tts_text": "نام گیرنده را پس از حرف اضافهٔ «à» بیاور.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    }
+  ]
+}

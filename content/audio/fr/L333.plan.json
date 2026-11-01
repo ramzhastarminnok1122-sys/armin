@@ -1,0 +1,398 @@
+{
+  "lesson": "L333",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L333-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu as vu le calendrier culturel ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L333-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, une rencontre est annoncée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L333-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Je peux venir sans inscription ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L333-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, l’accès est libre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 23
+    },
+    {
+      "id": "L333-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Où se trouve la salle polyvalente ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L333-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Au fond du couloir, près de l’accueil.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L333-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Je consulte l’horaire détaillé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L333-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Tu peux aussi t’inscrire en ligne.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L333-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La bibliothèque annonce une rencontre littéraire pour samedi prochain.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L333-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "L’accès est libre pour tous les lecteurs ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 42
+    },
+    {
+      "id": "L333-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, l’entrée ne coûte rien et la salle est ouverte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L333-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Où trouve-t-on le programme culturel ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L333-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Il est près de l’affiche imprimée, à l’accueil.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L333-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Je peux remplir le formulaire d’inscription en ligne ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 54
+    },
+    {
+      "id": "L333-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, mais indique ton nom et ton adresse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L333-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "À quelle heure commence la rencontre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L333-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "L’horaire détaillé annonce le début à quinze heures.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L333-fr-vocab-unavisofficiel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un avis officiel. Un avis officiel annonce la rencontre de samedi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L333-fr-vocab-uncalendrierculturel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un calendrier culturel. Le calendrier culturel présente les activités du mois.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 78
+    },
+    {
+      "id": "L333-fr-vocab-unprogrammeculturel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un programme culturel. Le programme culturel inclut une rencontre littéraire.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 77
+    },
+    {
+      "id": "L333-fr-vocab-unerencontrelitteraire",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "une rencontre littéraire. La rencontre littéraire réunit des lecteurs du quartier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 82
+    },
+    {
+      "id": "L333-fr-vocab-uneafficheimprimee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une affiche imprimée. Une affiche imprimée indique le lieu de la soirée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L333-fr-vocab-unacceslibre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "un accès libre. Un accès libre permet à chacun de participer.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L333-fr-vocab-unformulairedinscription",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un formulaire d’inscription. Hugo remplit un formulaire d’inscription sur le site.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 82
+    },
+    {
+      "id": "L333-fr-vocab-unesallepolyvalente",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une salle polyvalente. La salle polyvalente accueille les activités du quartier.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 80
+    },
+    {
+      "id": "L333-fr-vocab-unhorairedetaille",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un horaire détaillé. L’horaire détaillé précise le début de chaque activité.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L333-fr-vocab-uneinscriptionenligne",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une inscription en ligne. Mina confirme son inscription en ligne.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 65
+    },
+    {
+      "id": "L333-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’annonce la rencontre aux lecteurs. Tu annonces l’horaire à tes amis.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L333-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina annonce un accès libre au public. Elle annonce aussi le lieu.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L333-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous annonçons la date du programme. Vous annoncez le début aux participants.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 77
+    },
+    {
+      "id": "L333-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les bibliothécaires annoncent la rencontre sur le site.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L333-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "L’annonce officielle paraît sur le site de la ville.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L333-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Les lecteurs découvrent les activités du calendrier culturel.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L333-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La bibliothécaire indique l’adresse près de l’entrée.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L333-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Chaque participant reçoit un message de confirmation.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L333-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Le programme commence par une courte présentation.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L333-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "La bibliothèque du quartier prépare une soirée autour des livres. Un avis officiel annonce la date et le programme culturel sur le site municipal. À l’entrée, une affiche imprimée indique que l’accès est libre. Mina consulte le calendrier culturel et choisit la rencontre littéraire du samedi. Elle remplit un formulaire d’inscription en ligne, puis reçoit un message de confirmation. Le programme commence à quinze heures dans la salle polyvalente. Hugo vérifie l’horaire détaillé pour ne pas manquer la présentation. La bibliothécaire invite aussi les visiteurs à poser des questions après la lecture. Les deux amis arrivent un peu en avance pour trouver leurs places.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 670
+    },
+    {
+      "id": "L333-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L333)",
+      "tts_text": "برای معرفی یک دیدار فرهنگی، چه اطلاعاتی را در اطلاعیه می‌نویسی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L333-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L333)",
+      "tts_text": "در صرف «annoncer» با «nous»، حرف «c» به «ç» تبدیل می‌شود: «nous annonçons».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L333-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L333)",
+      "tts_text": "به گفت‌وگو گوش کن و روز برگزاری دیدار ادبی را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L333-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L333)",
+      "tts_text": "فعل «annoncer» خبر یا برنامه را به مخاطب اعلام می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L333-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L333)",
+      "tts_text": "یک برنامه را معرفی کن و ساعت، مکان و روش ثبت‌نام را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L333-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L333)",
+      "tts_text": "در اطلاعیه، تاریخ، مکان و ساعت را واضح بنویس.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    }
+  ]
+}

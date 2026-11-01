@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 333,
+    "title": "La bibliothèque annonce une rencontre littéraire",
+    "subtitle": "Lire les informations d’un événement",
+    "description": "Mina consulte l’annonce d’une rencontre organisée à la bibliothèque.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان برنامه‌ریزی رویداد فرهنگی و صرف فعل annoncer در زمان حال",
+      "objectives": [
+        "Repérer les informations pratiques d’une rencontre littéraire.",
+        "Présenter la date, l’heure, le lieu et l’accès à un événement.",
+        "Conjuguer annoncer au présent, y compris annonçons."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای معرفی یک رویداد فرهنگی، کدام اطلاعات را در اطلاعیه می‌نویسی؟",
+      "questions": [
+        {
+          "q": "آگاهی رسمی دربارهٔ یک برنامه چه نام دارد؟",
+          "hint_fa": "به عبارت «avis officiel» فکر کن."
+        },
+        {
+          "q": "کدام نوشته فعالیت‌های ماه را فهرست می‌کند؟",
+          "hint_fa": "به عبارت «calendrier culturel» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Annoncer un événement",
+      "body_fa": "در کتابخانه، برای آگاه‌کردن خوانندگان از یک برنامه، تاریخ، ساعت و مکان را اعلام می‌کنیم. فعل «annoncer» در زمان حال صرف می‌شود: «j’annonce»، «tu annonces»، «il/elle annonce»، «nous annonçons»، «vous annoncez» و «ils/elles annoncent». در شکل «nous»، پیش از پایان «-ons» حرف «c» به «ç» تبدیل می‌شود تا صدای /s/ حفظ شود. می‌توانیم یک دیدار ادبی، برنامهٔ فرهنگی یا ساعت شروع را اعلام کنیم. اگر بخواهیم مخاطب را مشخص کنیم، از حرف اضافهٔ «à» استفاده می‌کنیم: annoncer la rencontre aux lecteurs. در یک اطلاعیه، عنوان، تاریخ، مکان و روش ثبت‌نام را روشن می‌نویسیم.",
+      "key_points": [
+        "در صرف annoncer با nous، شکل درست «nous annonçons» است.",
+        "فعل annoncer می‌تواند خبر یا برنامه‌ای را معرفی کند.",
+        "در اطلاعیه، تاریخ، مکان و ساعت را روشن می‌نویسیم."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "un avis officiel",
+          "ipa": "/œ̃ na.vi ɔ.fi.sjɛl/",
+          "translation_fa": "اطلاعیهٔ رسمی",
+          "example": "Un avis officiel annonce la rencontre de samedi.",
+          "example_fa": "اطلاعیه‌ای رسمی دیدار روز شنبه را اعلام می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un calendrier culturel",
+          "ipa": "/œ̃ ka.lɑ̃.dʁi.ye kyl.ty.ʁɛl/",
+          "translation_fa": "تقویم فرهنگی",
+          "example": "Le calendrier culturel présente les activités du mois.",
+          "example_fa": "تقویم فرهنگی برنامه‌های ماه را معرفی می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un programme culturel",
+          "ipa": "/œ̃ pʁɔ.ɡʁam kyl.ty.ʁɛl/",
+          "translation_fa": "برنامهٔ فرهنگی",
+          "example": "Le programme culturel inclut une rencontre littéraire.",
+          "example_fa": "برنامهٔ فرهنگی شامل یک دیدار ادبی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une rencontre littéraire",
+          "ipa": "/yn ʁɑ̃.kɔ̃tʁ li.te.ʁɛʁ/",
+          "translation_fa": "دیدار ادبی",
+          "example": "La rencontre littéraire réunit des lecteurs du quartier.",
+          "example_fa": "دیدار ادبی خوانندگان محله را گرد هم می‌آورد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une affiche imprimée",
+          "ipa": "/yn a.fiʃ ɛ̃.pʁi.me/",
+          "translation_fa": "پوستر چاپ‌شده",
+          "example": "Une affiche imprimée indique le lieu de la soirée.",
+          "example_fa": "پوستر چاپ‌شده محل برنامهٔ شبانه را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un accès libre",
+          "ipa": "/œ̃ ak.sɛ li.bʁ/",
+          "translation_fa": "ورود آزاد",
+          "example": "Un accès libre permet à chacun de participer.",
+          "example_fa": "ورود آزاد به همه امکان شرکت می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un formulaire d’inscription",
+          "ipa": "/œ̃ fɔʁ.my.lɛʁ dɛ̃s.kʁip.sjɔ̃/",
+          "translation_fa": "فرم ثبت‌نام",
+          "example": "Hugo remplit un formulaire d’inscription sur le site.",
+          "example_fa": "هوگو فرم ثبت‌نام را در وب‌سایت پر می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une salle polyvalente",
+          "ipa": "/yn sal pɔ.li.va.lɑ̃t/",
+          "translation_fa": "سالن چندمنظوره",
+          "example": "La salle polyvalente accueille les activités du quartier.",
+          "example_fa": "سالن چندمنظوره میزبان برنامه‌های محله است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un horaire détaillé",
+          "ipa": "/œ̃ nɔ.ʁɛʁ de.ta.je/",
+          "translation_fa": "برنامهٔ زمانی دقیق",
+          "example": "L’horaire détaillé précise le début de chaque activité.",
+          "example_fa": "برنامهٔ زمانی دقیق آغاز هر فعالیت را مشخص می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une inscription en ligne",
+          "ipa": "/yn ɛ̃s.kʁip.sjɔ̃ ɑ̃ liɲ/",
+          "translation_fa": "ثبت‌نام اینترنتی",
+          "example": "Mina confirme son inscription en ligne.",
+          "example_fa": "مینا ثبت‌نام اینترنتی‌اش را تأیید می‌کند.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent d’annoncer",
+      "explanation_fa": "Le verbe «annoncer» appartient au premier groupe. Au présent, on écrit «j’annonce», «tu annonces», «il ou elle annonce», «nous annonçons», «vous annoncez» et «ils annoncent». Devant la terminaison «-ons», le «c» prend une cédille afin de conserver le son /s/. On peut annoncer une rencontre, un horaire ou une nouvelle. Pour préciser le destinataire, on ajoute «à»: annoncer une activité aux lecteurs. Le nom annoncé suit directement le verbe; le destinataire vient après. Dans une affiche, les informations importantes sont la date, le lieu, l’heure et les conditions d’accès.",
+      "pattern": "sujet + annoncer au présent + événement / information + à + destinataire",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "J’annonce la rencontre aux lecteurs. Tu annonces l’horaire à tes amis.",
+            "من دیدار را به خوانندگان اعلام می‌کنم. تو برنامهٔ زمانی را به دوستانت اعلام می‌کنی."
+          ],
+          [
+            "il / elle",
+            "Mina annonce un accès libre au public. Elle annonce aussi le lieu.",
+            "مینا ورود آزاد را به مردم اعلام می‌کند. او مکان را هم اعلام می‌کند."
+          ],
+          [
+            "nous / vous",
+            "Nous annonçons la date du programme. Vous annoncez le début aux participants.",
+            "ما تاریخ برنامه را اعلام می‌کنیم. شما آغاز را به شرکت‌کنندگان اعلام می‌کنید."
+          ],
+          [
+            "ils / elles",
+            "Les bibliothécaires annoncent la rencontre sur le site.",
+            "کتابداران دیدار را در وب‌سایت اعلام می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "Avec «nous», écrire «annonçons» avec une cédille.",
+        "Le nom de l’événement suit directement «annoncer»."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "L’annonce officielle paraît sur le site de la ville.",
+          "fa": "اطلاعیهٔ رسمی در وب‌سایت شهر منتشر می‌شود.",
+          "note_fa": "«Paraître» signifie être publié ou devenir visible."
+        },
+        {
+          "target": "Les lecteurs découvrent les activités du calendrier culturel.",
+          "fa": "خوانندگان برنامه‌های تقویم فرهنگی را پیدا می‌کنند.",
+          "note_fa": "Le calendrier rassemble des propositions pour le mois."
+        },
+        {
+          "target": "La bibliothécaire indique l’adresse près de l’entrée.",
+          "fa": "کتابدار نشانی را نزدیک ورودی می‌نویسد.",
+          "note_fa": "«Indiquer» introduit une information utile."
+        },
+        {
+          "target": "Chaque participant reçoit un message de confirmation.",
+          "fa": "هر شرکت‌کننده یک پیام تأیید دریافت می‌کند.",
+          "note_fa": "Le nom «participant» désigne une personne inscrite."
+        },
+        {
+          "target": "Le programme commence par une courte présentation.",
+          "fa": "برنامه با معرفی کوتاهی آغاز می‌شود.",
+          "note_fa": "«Commencer par» présente la première étape."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "L’annonce du samedi",
+      "script": "Mina: La bibliothèque annonce une rencontre littéraire pour samedi prochain.\nHugo: L’accès est libre pour tous les lecteurs ?\nMina: Oui, l’entrée ne coûte rien et la salle est ouverte.\nHugo: Où trouve-t-on le programme culturel ?\nMina: Il est près de l’affiche imprimée, à l’accueil.\nHugo: Je peux remplir le formulaire d’inscription en ligne ?\nMina: Oui, mais indique ton nom et ton adresse.\nHugo: À quelle heure commence la rencontre ?\nMina: L’horaire détaillé annonce le début à quinze heures.",
+      "script_fa": "مینا: کتابخانه برای شنبهٔ آینده یک دیدار ادبی اعلام می‌کند.\nهوگو: ورود برای همهٔ خوانندگان آزاد است؟\nمینا: بله، ورود هزینه‌ای ندارد و سالن باز است.\nهوگو: برنامهٔ فرهنگی را کجا پیدا می‌کنیم؟\nمینا: نزدیک پوستر چاپ‌شده، در بخش پذیرش است.\nهوگو: می‌توانم فرم ثبت‌نام را آنلاین پر کنم؟\nمینا: بله، اما نام و نشانی‌ات را بنویس.\nهوگو: دیدار ساعت چند شروع می‌شود؟\nمینا: برنامهٔ دقیق شروع را ساعت پانزده اعلام می‌کند.",
+      "question_fa": "Quand la rencontre a-t-elle lieu ?",
+      "answer": "Samedi prochain.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Consulter une annonce",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Tu as vu le calendrier culturel ?",
+          "fa": "تقویم فرهنگی را دیدی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, une rencontre est annoncée.",
+          "fa": "بله، یک دیدار اعلام شده است."
+        },
+        {
+          "speaker": "A",
+          "target": "Je peux venir sans inscription ?",
+          "fa": "می‌توانم بدون ثبت‌نام بیایم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Oui, l’accès est libre.",
+          "fa": "بله، ورود آزاد است."
+        },
+        {
+          "speaker": "A",
+          "target": "Où se trouve la salle polyvalente ?",
+          "fa": "سالن چندمنظوره کجاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Au fond du couloir, près de l’accueil.",
+          "fa": "انتهای راهرو، نزدیک بخش پذیرش."
+        },
+        {
+          "speaker": "A",
+          "target": "Je consulte l’horaire détaillé.",
+          "fa": "برنامهٔ زمانی دقیق را بررسی می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Tu peux aussi t’inscrire en ligne.",
+          "fa": "می‌توانی آنلاین هم ثبت‌نام کنی."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، رویدادی را معرفی کن و تاریخ، مکان و ساعت آن را بگو.",
+      "useful_phrases": [
+        {
+          "target": "La rencontre a lieu samedi.",
+          "fa": "دیدار روز شنبه برگزار می‌شود."
+        },
+        {
+          "target": "L’accès est libre.",
+          "fa": "ورود آزاد است."
+        },
+        {
+          "target": "Le programme commence à quinze heures.",
+          "fa": "برنامه ساعت پانزده شروع می‌شود."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Une rencontre ouverte à tous",
+      "text": "La bibliothèque du quartier prépare une soirée autour des livres. Un avis officiel annonce la date et le programme culturel sur le site municipal. À l’entrée, une affiche imprimée indique que l’accès est libre. Mina consulte le calendrier culturel et choisit la rencontre littéraire du samedi. Elle remplit un formulaire d’inscription en ligne, puis reçoit un message de confirmation. Le programme commence à quinze heures dans la salle polyvalente. Hugo vérifie l’horaire détaillé pour ne pas manquer la présentation. La bibliothécaire invite aussi les visiteurs à poser des questions après la lecture. Les deux amis arrivent un peu en avance pour trouver leurs places.",
+      "glossary": [
+        {
+          "term": "municipal",
+          "fa": "شهری"
+        },
+        {
+          "term": "en avance",
+          "fa": "زودتر"
+        },
+        {
+          "term": "manquer",
+          "fa": "از دست دادن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Quand commence le programme ?",
+          "a": "À quinze heures."
+        },
+        {
+          "q_fa": "Comment Mina s’inscrit-elle ?",
+          "a": "En ligne."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست فعل را انتخاب کن.",
+          "question": "Nous ___ la date aux lecteurs.",
+          "options": [
+            "annoncez",
+            "annonçons",
+            "annoncent"
+          ],
+          "answer": "annonçons",
+          "explanation_fa": "با فاعل nous می‌گوییم nous annonçons و c cedilla می‌گیرد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "واژهٔ مناسب را انتخاب کن.",
+          "question": "Pour connaître l’heure exacte, on consulte…",
+          "options": [
+            "un horaire détaillé",
+            "un récit de voyage",
+            "un carnet de lecture"
+          ],
+          "answer": "un horaire détaillé",
+          "explanation_fa": "برنامهٔ زمانی دقیق، ساعت هر فعالیت را نشان می‌دهد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "روش مناسب ثبت‌نام را انتخاب کن.",
+          "question": "Mina remplit…",
+          "options": [
+            "un formulaire d’inscription",
+            "une critique de lecteur",
+            "un portrait physique"
+          ],
+          "answer": "un formulaire d’inscription",
+          "explanation_fa": "فرم ثبت‌نام برای نام‌نویسی رویداد است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "L’accès à la rencontre est libre.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "اطلاعیه می‌گوید ورود آزاد است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ la rencontre à tes amis.",
+          "answer": [
+            "annonces"
+          ],
+          "explanation_fa": "annonces"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "Dans quelle salle a lieu la rencontre ?",
+          "answer": [
+            "Dans la salle polyvalente."
+          ],
+          "explanation_fa": "دیدار در سالن چندمنظوره برگزار می‌شود."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Quand la rencontre est-elle organisée ?",
+          "options": [
+            "Samedi prochain",
+            "Le mois dernier",
+            "Mardi matin"
+          ],
+          "answer": "Samedi prochain",
+          "explanation_fa": "Mina annonce une rencontre pour samedi prochain."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel est le prix de l’accès ?",
+          "options": [
+            "L’entrée est libre",
+            "Il faut payer dix euros",
+            "Le prix change chaque heure"
+          ],
+          "answer": "L’entrée est libre",
+          "explanation_fa": "Mina précise que l’entrée ne coûte rien."
+        },
+        {
+          "type": "mcq",
+          "question": "Où trouve-t-on le programme culturel ?",
+          "options": [
+            "Près de l’affiche imprimée",
+            "Dans une librairie",
+            "À la gare"
+          ],
+          "answer": "Près de l’affiche imprimée",
+          "explanation_fa": "Mina indique qu’il est près de l’affiche."
+        },
+        {
+          "type": "mcq",
+          "question": "Comment Hugo peut-il s’inscrire ?",
+          "options": [
+            "En ligne",
+            "Par téléphone uniquement",
+            "À la banque"
+          ],
+          "answer": "En ligne",
+          "explanation_fa": "Le formulaire est disponible en ligne."
+        },
+        {
+          "type": "mcq",
+          "question": "À quelle heure commence la rencontre ?",
+          "options": [
+            "À quinze heures",
+            "À sept heures",
+            "À midi"
+          ],
+          "answer": "À quinze heures",
+          "explanation_fa": "L’horaire détaillé annonce quinze heures."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Annonce un événement : précise sa date, son lieu, son horaire et la façon de s’inscrire.",
+      "suggested_prompts": [
+        "La rencontre a lieu samedi.",
+        "L’accès est libre.",
+        "On peut s’inscrire en ligne."
+      ],
+      "focus": [
+        "annoncer au présent",
+        "informations pratiques",
+        "date et horaire"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Mina partage les informations d’une rencontre avec Hugo."
+  }
+}

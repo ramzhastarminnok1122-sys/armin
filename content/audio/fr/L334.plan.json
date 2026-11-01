@@ -1,0 +1,398 @@
+{
+  "lesson": "L334",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L334-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "L’autrice est déjà arrivée ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L334-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, je l’accueille près de la porte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L334-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu as lu sa biographie courte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 31
+    },
+    {
+      "id": "L334-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, elle vient d’une petite ville.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L334-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La table ronde commence maintenant ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L334-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Dans quelques minutes, avec le public.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L334-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Tu as une question à lui poser ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L334-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Je vais lui demander d’où vient son idée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L334-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Hugo accueille une autrice invitée à la bibliothèque.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L334-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Elle vient présenter son roman récent ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L334-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, le programme commence dans la salle polyvalente.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L334-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Y a-t-il un entretien public après la lecture ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L334-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Oui, le public pose ensuite quelques questions.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L334-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Elle raconte aussi sa biographie courte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L334-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Elle la présente en quelques phrases simples.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L334-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Qui anime la table ronde ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L334-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "La bibliothécaire conduit l’échange avec l’autrice.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 51
+    },
+    {
+      "id": "L334-fr-vocab-uneautriceinvitee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "une autrice invitée. Une autrice invitée présente son dernier roman.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L334-fr-vocab-uneseancedededicaces",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une séance de dédicaces. La séance de dédicaces suit la discussion publique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L334-fr-vocab-unetableronde",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une table ronde. La table ronde réunit trois écrivains.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 55
+    },
+    {
+      "id": "L334-fr-vocab-unentretienpublic",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un entretien public. L’entretien public commence après la présentation.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 71
+    },
+    {
+      "id": "L334-fr-vocab-unequestiondupublic",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une question du public. Une question du public concerne le nouveau livre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 73
+    },
+    {
+      "id": "L334-fr-vocab-unereponsedetaillee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une réponse détaillée. L’autrice donne une réponse détaillée à Mina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 68
+    },
+    {
+      "id": "L334-fr-vocab-unebiographiecourte",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une biographie courte. La biographie courte présente son parcours.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L334-fr-vocab-unromanrecent",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un roman récent. Hugo emprunte un roman récent de cette autrice.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L334-fr-vocab-unevenementculturel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un événement culturel. Cet événement culturel attire des lecteurs de tous âges.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 79
+    },
+    {
+      "id": "L334-fr-vocab-unepresentationdelautrice",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "une présentation de l’autrice. La présentation de l’autrice précède les questions.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 82
+    },
+    {
+      "id": "L334-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "J’accueille l’autrice à la bibliothèque. Tu accueilles les visiteurs à l’entrée.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 80
+    },
+    {
+      "id": "L334-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Hugo accueille une invitée. Mina accueille le groupe dans la salle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L334-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous accueillons les lecteurs près de la porte. Vous accueillez l’écrivaine au centre culturel.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 95
+    },
+    {
+      "id": "L334-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les bénévoles accueillent les participants avant l’entretien.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L334-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La médiathèque reçoit une écrivaine ce soir.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L334-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Les bénévoles accompagnent les personnes jusqu’à la salle.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 58
+    },
+    {
+      "id": "L334-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Une présentation brève précède l’entretien public.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L334-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Les visiteurs posent leurs questions à la fin.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L334-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "La bibliothécaire remercie chaque personne présente.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 52
+    },
+    {
+      "id": "L334-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Ce soir, la médiathèque reçoit une autrice invitée. Hugo se tient près de l’entrée pour accueillir les visiteurs et leur montrer la salle. Mina lit une biographie courte de l’écrivaine avant la présentation. L’autrice parle de son roman récent, puis répond aux questions du public. Une personne demande comment elle choisit ses personnages; elle donne une réponse détaillée et raconte une anecdote de son enfance. Après l’entretien public, une table ronde réunit plusieurs lecteurs. La bibliothécaire remercie l’invitée et annonce la prochaine activité. Hugo accompagne enfin l’autrice vers la séance de dédicaces, dans le hall.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 628
+    },
+    {
+      "id": "L334-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L334)",
+      "tts_text": "وقتی نویسنده‌ای مهمان کتابخانه می‌شود، میزبان چطور از او استقبال می‌کند؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L334-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L334)",
+      "tts_text": "فعل بی‌قاعدهٔ «accueillir» در زمان حال به شکل‌های مختلف صرف می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L334-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L334)",
+      "tts_text": "به گفت‌وگو گوش کن و کتابی را پیدا کن که نویسنده برای معرفی آورده است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L334-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L334)",
+      "tts_text": "با «nous» می‌گوییم «nous accueillons» و با «vous» می‌گوییم «vous accueillez».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L334-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L334)",
+      "tts_text": "از یک مهمان استقبال کن و او را به سالن مناسب راهنمایی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L334-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L334)",
+      "tts_text": "بعد از استقبال، مهمان را معرفی و برنامه را توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    }
+  ]
+}
