@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "fr",
+    "level": "A1",
+    "order_index": 327,
+    "title": "Mina s’abonne à la bibliothèque",
+    "subtitle": "Découvrir les services du quartier",
+    "description": "Mina s’abonne à la bibliothèque municipale et consulte son catalogue.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "واژگان کتابخانه و صرف s’abonner در زمان حال",
+      "objectives": [
+        "Nommer des services et des espaces d’une bibliothèque.",
+        "Expliquer comment s’abonner et utiliser un catalogue numérique.",
+        "Conjuguer s’abonner au présent."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "برای استفاده از کتابخانهٔ محله چطور عضو می‌شوی و از چه بخشی کتاب انتخاب می‌کنی؟",
+      "questions": [
+        {
+          "q": "فضایی برای نشستن و خواندن کتاب چه نام دارد؟",
+          "hint_fa": "به واژهٔ «salle de lecture» فکر کن."
+        },
+        {
+          "q": "بخشی از کتابخانه برای کتاب‌های کودکان چه نام دارد؟",
+          "hint_fa": "به واژهٔ «rayon jeunesse» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "عضویت در کتابخانه",
+      "body_fa": "فعل ضمیری «s’abonner» یعنی ثبت‌نام‌کردن برای دریافت خدمات در یک دورهٔ زمانی. در زمان حال می‌گوییم «je m’abonne»، «tu t’abonnes»، «il/elle s’abonne»، «nous nous abonnons»، «vous vous abonnez» و «ils/elles s’abonnent». ضمیر بازتابی با فاعل هماهنگ می‌شود. می‌توانیم s’abonner à la bibliothèque یا s’abonner à un service بگوییم. پس از عضویت، یک carte de lecteur به عضو داده می‌شود. در bibliothèque municipale می‌توانیم از bibliothécaire دربارهٔ catalogue numérique بپرسیم، در rayon jeunesse کتاب ببینیم و در salle de lecture ساکت مطالعه کنیم.",
+      "key_points": [
+        "s’abonner فعل ضمیری است.",
+        "پس از s’abonner از حرف اضافهٔ à استفاده می‌کنیم.",
+        "ضمیر بازتابی با فاعل هماهنگ می‌شود."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "une carte de bibliothèque",
+          "ipa": "/yn kaʁt də bi.bli.jɔ.tɛk/",
+          "translation_fa": "کارت کتابخانه",
+          "example": "Mina présente sa carte de bibliothèque à l’accueil.",
+          "example_fa": "مینا کارت کتابخانه‌اش را در بخش پذیرش نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un abonnement",
+          "ipa": "/œ̃.na.bɔn.mɑ̃/",
+          "translation_fa": "عضویت؛ اشتراک",
+          "example": "Un abonnement permet d’emprunter des livres.",
+          "example_fa": "عضویت امکان امانت‌گرفتن کتاب را می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une bibliothèque municipale",
+          "ipa": "/yn bi.bli.jɔ.tɛk my.ni.si.pal/",
+          "translation_fa": "کتابخانهٔ شهری",
+          "example": "La bibliothèque municipale ouvre à neuf heures.",
+          "example_fa": "کتابخانهٔ شهری ساعت نه باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un bibliothécaire",
+          "ipa": "/œ̃ bi.bli.jɔ.te.kɛʁ/",
+          "translation_fa": "کتابدار",
+          "example": "Le bibliothécaire aide Mina à trouver un livre.",
+          "example_fa": "کتابدار به مینا برای پیداکردن کتاب کمک می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une salle de lecture",
+          "ipa": "/yn sal də lɛk.tyʁ/",
+          "translation_fa": "سالن مطالعه",
+          "example": "La salle de lecture est calme le matin.",
+          "example_fa": "سالن مطالعه صبح‌ها آرام است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un rayon jeunesse",
+          "ipa": "/œ̃ ʁɛ.jɔ̃ ʒœ.nɛs/",
+          "translation_fa": "بخش کتاب کودک",
+          "example": "Le rayon jeunesse présente des histoires illustrées.",
+          "example_fa": "بخش کودک داستان‌های مصور دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une bibliothèque en ligne",
+          "ipa": "/yn bi.bli.jɔ.tɛk ɑ̃ liɲ/",
+          "translation_fa": "کتابخانهٔ آنلاین",
+          "example": "La bibliothèque en ligne montre les livres disponibles.",
+          "example_fa": "کتابخانهٔ آنلاین کتاب‌های موجود را نشان می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "un catalogue numérique",
+          "ipa": "/œ̃ ka.ta.lɔɡ ny.me.ʁik/",
+          "translation_fa": "فهرست دیجیتال",
+          "example": "Le catalogue numérique cherche un titre rapidement.",
+          "example_fa": "فهرست دیجیتال عنوانی را سریع پیدا می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une carte de lecteur",
+          "ipa": "/yn kaʁt də lɛk.tœʁ/",
+          "translation_fa": "کارت عضویت خواننده",
+          "example": "La carte de lecteur reste dans le portefeuille.",
+          "example_fa": "کارت عضویت در کیف پول می‌ماند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "une carte d’abonnement",
+          "ipa": "/yn kaʁt da.bɔn.mɑ̃/",
+          "translation_fa": "کارت اشتراک",
+          "example": "Hugo présente sa carte d’abonnement au comptoir.",
+          "example_fa": "هوگو کارت اشتراکش را در پیشخوان نشان می‌دهد.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Le présent de s’abonner",
+      "explanation_fa": "Le verbe pronominal «s’abonner» signifie s’inscrire à un service pour une durée déterminée. Au présent, on dit «je m’abonne», «tu t’abonnes», «il/elle s’abonne», «nous nous abonnons», «vous vous abonnez» et «ils/elles s’abonnent». Le pronom réfléchi change avec le sujet. Le verbe se construit avec «à»: s’abonner à une bibliothèque, à une revue ou à un service. Après l’abonnement, une carte de lecteur permet d’utiliser les services. On peut préciser la durée avec «pour un an» ou «pour six mois».",
+      "pattern": "sujet + pronom réfléchi + abonner + à + service",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "je / tu",
+            "Je m’abonne à la bibliothèque municipale. Tu t’abonnes au service en ligne.",
+            "من در کتابخانهٔ شهری عضو می‌شوم. تو در خدمات آنلاین عضو می‌شوی."
+          ],
+          [
+            "il / elle",
+            "Il s’abonne au rayon numérique. Elle s’abonne à la bibliothèque du quartier.",
+            "او در بخش دیجیتال عضو می‌شود. او در کتابخانهٔ محله عضو می‌شود."
+          ],
+          [
+            "nous / vous",
+            "Nous nous abonnons pour un an. Vous vous abonnez à la bibliothèque en ligne.",
+            "ما برای یک سال عضو می‌شویم. شما در کتابخانهٔ آنلاین عضو می‌شوید."
+          ],
+          [
+            "ils / elles",
+            "Les lecteurs s’abonnent au service municipal.",
+            "خوانندگان در خدمات شهری عضو می‌شوند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "s’abonner se construit avec à.",
+        "Le pronom réfléchi change selon le sujet."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Mina s’abonne à la bibliothèque du quartier.",
+          "fa": "مینا در کتابخانهٔ محله عضو می‌شود.",
+          "note_fa": "Le pronom réfléchi correspond au sujet."
+        },
+        {
+          "target": "Nous nous abonnons au service pour un an.",
+          "fa": "ما برای یک سال در خدمات عضو می‌شویم.",
+          "note_fa": "Avec nous, on répète le pronom nous."
+        },
+        {
+          "target": "Tu t’abonnes à la bibliothèque en ligne.",
+          "fa": "تو در کتابخانهٔ آنلاین عضو می‌شوی.",
+          "note_fa": "Avec tu, le pronom te devient t’."
+        },
+        {
+          "target": "Les lecteurs s’abonnent à la bibliothèque du centre.",
+          "fa": "خوانندگان در کتابخانهٔ مرکزی عضو می‌شوند.",
+          "note_fa": "Le sujet pluriel prend s’."
+        },
+        {
+          "target": "Vous vous abonnez pour six mois.",
+          "fa": "شما برای شش ماه عضو می‌شوید.",
+          "note_fa": "Avec vous, le pronom est vous."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Une nouvelle carte de lecteur",
+      "script": "Mina: La bibliothèque municipale est près du parc.\nHugo: Tu as déjà une carte de bibliothèque ?\nMina: Non, je m’abonne aujourd’hui.\nHugo: Le bibliothécaire explique les services.\nMina: Le rayon jeunesse est à gauche.\nHugo: La salle de lecture est au premier étage.\nMina: Le catalogue numérique montre les livres disponibles.\nHugo: La carte d’abonnement est valable un an.\nMina: Je peux aussi utiliser la bibliothèque en ligne depuis chez moi.",
+      "script_fa": "مینا: کتابخانهٔ شهری نزدیک پارک است.\nهوگو: کارت کتابخانه داری؟\nمینا: نه، امروز عضو می‌شوم.\nهوگو: کتابدار خدمات را توضیح می‌دهد.\nمینا: بخش کتاب کودک سمت چپ است.\nهوگو: سالن مطالعه در طبقهٔ اول است.\nمینا: فهرست دیجیتال کتاب‌های موجود را نشان می‌دهد.\nهوگو: کارت اشتراک یک سال اعتبار دارد.\nمینا: می‌توانم از خانه هم از کتابخانهٔ آنلاین استفاده کنم.",
+      "question_fa": "Combien de temps la carte d’abonnement est-elle valable ?",
+      "answer": "Un an.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "À l’accueil de la bibliothèque",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "Je voudrais m’abonner pour un an.",
+          "fa": "می‌خواهم برای یک سال عضو شوم."
+        },
+        {
+          "speaker": "B",
+          "target": "Tu as une carte de lecteur ?",
+          "fa": "کارت عضویت خواننده داری؟"
+        },
+        {
+          "speaker": "A",
+          "target": "Pas encore, je remplis la fiche.",
+          "fa": "هنوز نه، فرم را پر می‌کنم."
+        },
+        {
+          "speaker": "B",
+          "target": "Le bibliothécaire peut t’aider.",
+          "fa": "کتابدار می‌تواند کمکت کند."
+        },
+        {
+          "speaker": "A",
+          "target": "Le rayon jeunesse est où ?",
+          "fa": "بخش کتاب کودک کجاست؟"
+        },
+        {
+          "speaker": "B",
+          "target": "À gauche de la salle de lecture.",
+          "fa": "سمت چپ سالن مطالعه."
+        },
+        {
+          "speaker": "A",
+          "target": "Le catalogue numérique est facile.",
+          "fa": "فهرست دیجیتال آسان است."
+        },
+        {
+          "speaker": "B",
+          "target": "Tu peux chercher un titre en ligne.",
+          "fa": "می‌توانی عنوانی را آنلاین جست‌وجو کنی."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، توضیح بده چطور در کتابخانه عضو می‌شوی؛ نام یک کارت و یک بخش کتابخانه را بگو.",
+      "useful_phrases": [
+        {
+          "target": "Je m’abonne à la bibliothèque.",
+          "fa": "در کتابخانه عضو می‌شوم."
+        },
+        {
+          "target": "Le bibliothécaire m’aide.",
+          "fa": "کتابدار به من کمک می‌کند."
+        },
+        {
+          "target": "Le rayon jeunesse est à gauche.",
+          "fa": "بخش کتاب کودک سمت چپ است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Mina s’abonne à la bibliothèque",
+      "text": "Mina découvre la bibliothèque municipale de son quartier. À l’accueil, elle montre sa carte de bibliothèque et demande un abonnement. Le bibliothécaire lui explique comment obtenir une carte de lecteur. Mina regarde le rayon jeunesse, puis elle monte dans la salle de lecture. Elle consulte le catalogue numérique pour chercher un roman. Sa carte d’abonnement est valable un an. À la maison, elle peut aussi utiliser la bibliothèque en ligne. Hugo préfère lire dans le calme de la salle. Les deux amis choisissent un livre avant de rentrer.",
+      "glossary": [
+        {
+          "term": "à l’accueil",
+          "fa": "در بخش پذیرش"
+        },
+        {
+          "term": "valable",
+          "fa": "معتبر"
+        },
+        {
+          "term": "dans le calme",
+          "fa": "در آرامش"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "Où Mina cherche-t-elle un roman ?",
+          "a": "Dans le catalogue numérique."
+        },
+        {
+          "q_fa": "Combien de temps sa carte est-elle valable ?",
+          "a": "Un an."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "صرف درست فعل را انتخاب کن.",
+          "question": "Nous ___ à la bibliothèque municipale.",
+          "options": [
+            "nous abonnons",
+            "vous abonnez",
+            "s’abonnent"
+          ],
+          "answer": "nous abonnons",
+          "explanation_fa": "با فاعل nous می‌گوییم nous nous abonnons."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "وسیلهٔ مناسب را انتخاب کن.",
+          "question": "Pour emprunter des livres, Mina présente…",
+          "options": [
+            "une carte de lecteur",
+            "un niveau à bulle",
+            "un reçu de paiement"
+          ],
+          "answer": "une carte de lecteur",
+          "explanation_fa": "کارت عضویت برای استفاده از کتابخانه است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "بخش مناسب را انتخاب کن.",
+          "question": "Pour lire au calme, Hugo va dans…",
+          "options": [
+            "une salle de lecture",
+            "un fournil",
+            "un guichet automatique"
+          ],
+          "answer": "une salle de lecture",
+          "explanation_fa": "سالن مطالعه برای خواندن آرام است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست بودن جمله را مشخص کن.",
+          "question": "La carte d’abonnement est valable un an.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "کارت اشتراک یک سال اعتبار دارد."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Tu ___ au service en ligne.",
+          "answer": [
+            "t’abonnes"
+          ],
+          "explanation_fa": "t’abonnes"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "پاسخ کوتاه بده.",
+          "question": "Combien de temps la carte d’abonnement est-elle valable ?",
+          "answer": [
+            "Un an."
+          ],
+          "explanation_fa": "کارت اشتراک یک سال معتبر است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "Où se trouve la bibliothèque municipale ?",
+          "options": [
+            "Près du parc",
+            "Dans le fournil",
+            "Au sommet"
+          ],
+          "answer": "Près du parc",
+          "explanation_fa": "La bibliothèque est près du parc."
+        },
+        {
+          "type": "mcq",
+          "question": "Qui explique les services ?",
+          "options": [
+            "Le bibliothécaire",
+            "Le boulanger",
+            "Le mécanicien"
+          ],
+          "answer": "Le bibliothécaire",
+          "explanation_fa": "Le bibliothécaire donne les informations."
+        },
+        {
+          "type": "mcq",
+          "question": "Où se trouve le rayon jeunesse ?",
+          "options": [
+            "À gauche",
+            "Au sous-sol",
+            "À droite de la porte"
+          ],
+          "answer": "À gauche",
+          "explanation_fa": "Mina dit qu’il est à gauche."
+        },
+        {
+          "type": "mcq",
+          "question": "Combien de temps la carte est-elle valable ?",
+          "options": [
+            "Un an",
+            "Un jour",
+            "Dix ans"
+          ],
+          "answer": "Un an",
+          "explanation_fa": "La carte d’abonnement est valable un an."
+        },
+        {
+          "type": "mcq",
+          "question": "Quel outil montre les livres disponibles ?",
+          "options": [
+            "Le catalogue numérique",
+            "Le niveau à bulle",
+            "Le minuteur"
+          ],
+          "answer": "Le catalogue numérique",
+          "explanation_fa": "Le catalogue indique les livres disponibles."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "Présente ton inscription à une bibliothèque : indique la carte que tu demandes, le service choisi et un espace où tu peux lire.",
+      "suggested_prompts": [
+        "Je m’abonne à la bibliothèque.",
+        "Le bibliothécaire m’aide.",
+        "Le rayon jeunesse est à gauche."
+      ],
+      "focus": [
+        "s’abonner au présent",
+        "vocabulaire de la bibliothèque",
+        "décrire un service"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Mina découvre la bibliothèque municipale près de chez elle."
+  }
+}
