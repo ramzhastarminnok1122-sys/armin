@@ -1,0 +1,398 @@
+{
+  "lesson": "L338",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L338-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Quel thème préfères-tu pour le mois prochain ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L338-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Je vote pour les récits de voyage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L338-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu écris ton choix sur le bulletin ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L338-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, puis je le dépose dans la boîte.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L338-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Le vote est anonyme ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 21
+    },
+    {
+      "id": "L338-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Oui, personne ne voit ma préférence.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L338-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Quand annonce-t-on le résultat ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L338-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "À la prochaine rencontre du club.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L338-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Pour la prochaine réunion, nous choisissons un thème de lecture.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L338-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Les membres proposent un récit d’aventures et des histoires de voyage.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L338-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Un sondage rapide commence après la séance.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L338-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Chaque personne coche une seule réponse.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L338-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Le vote à main levée est aussi possible.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L338-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Quelle proposition reçoit le plus de voix ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L338-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Le thème des animaux obtient la majorité.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L338-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Nous votons donc pour les récits animaliers.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 44
+    },
+    {
+      "id": "L338-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "La prochaine rencontre suit le calendrier mensuel.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L338-fr-vocab-unthemedelecture",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un thème de lecture. Le thème de lecture change chaque mois.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L338-fr-vocab-unsondagerapide",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "un sondage rapide. Mina lance un sondage rapide dans le groupe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L338-fr-vocab-unbulletindevote",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un bulletin de vote. Chaque lecteur coche son bulletin de vote.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 63
+    },
+    {
+      "id": "L338-fr-vocab-unchoixcollectif",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un choix collectif. Le choix collectif plaît à la majorité.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L338-fr-vocab-unepropositionanonyme",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "une proposition anonyme. Une proposition anonyme reste dans la boîte.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L338-fr-vocab-unepreferencepersonnelle",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une préférence personnelle. Chacun exprime une préférence personnelle.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L338-fr-vocab-unsujetdediscussion",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un sujet de discussion. Les voyages deviennent un sujet de discussion.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L338-fr-vocab-unvoteamainlevee",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "un vote à main levée. Le vote à main levée prend quelques secondes.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 67
+    },
+    {
+      "id": "L338-fr-vocab-uneprochainerencontre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une prochaine rencontre. La prochaine rencontre a lieu vendredi.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L338-fr-vocab-uncalendriermensuel",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un calendrier mensuel. Le calendrier mensuel indique les réunions du club.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 74
+    },
+    {
+      "id": "L338-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je vote pour le thème des animaux. Tu votes pour les récits d’aventures.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L338-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina vote pour une histoire de voyage.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 38
+    },
+    {
+      "id": "L338-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous votons pour le choix collectif. Vous votez pour le prochain sujet.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 71
+    },
+    {
+      "id": "L338-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les membres votent pour une proposition anonyme.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L338-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Le sondage rapide recueille les idées du groupe.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L338-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mina écrit son choix sur un bulletin de vote.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L338-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Les lecteurs comptent les voix après la réunion.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L338-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le sujet choisi devient le thème du mois.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L338-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Chacun peut proposer une idée différente.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L338-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Le club de lecture prépare son calendrier mensuel. Mina propose un thème sur les animaux et Hugo préfère les récits de voyage. Chaque membre écrit une idée sur un petit papier; les propositions restent anonymes jusqu’au début du sondage. Ensuite, les lecteurs reçoivent un bulletin de vote et choisissent une seule option. La bibliothécaire compte les voix devant le groupe. Le thème des animaux obtient le plus de réponses, alors les membres votent pour des récits animaliers. Ce choix collectif convient à la majorité. La prochaine rencontre aura lieu vendredi. Hugo note la date et promet d’apporter un livre sur les oiseaux.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 628
+    },
+    {
+      "id": "L338-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L338)",
+      "tts_text": "چطور می‌توانی موضوع جلسهٔ بعد را به‌صورت گروهی انتخاب کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L338-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L338)",
+      "tts_text": "برای گفتن گزینهٔ انتخاب‌شده می‌گوییم «voter pour» و نام موضوع را می‌آوریم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 74
+    },
+    {
+      "id": "L338-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L338)",
+      "tts_text": "به گفت‌وگو گوش کن و موضوعی را پیدا کن که بیشترین رأی را می‌گیرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L338-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L338)",
+      "tts_text": "پس از فعل «voter» برای معرفی گزینه از حرف اضافهٔ «pour» استفاده می‌کنیم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L338-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L338)",
+      "tts_text": "موضوعی پیشنهاد بده و بگو به کدام گزینه رأی می‌دهی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L338-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L338)",
+      "tts_text": "«voter pour» را با نام گزینهٔ انتخابی به کار ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    }
+  ]
+}

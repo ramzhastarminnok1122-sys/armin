@@ -1,0 +1,398 @@
+{
+  "lesson": "L336",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L336-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu écris à l’autrice ce soir ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L336-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Oui, je veux la remercier pour son accueil.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L336-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Tu lui envoies une carte ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 26
+    },
+    {
+      "id": "L336-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Je prépare un petit message.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L336-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Ajoute un mot gentil sur la soirée.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L336-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Je remercie aussi les bénévoles.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L336-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Le prochain rendez-vous est déjà fixé ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L336-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Oui, le club retrouve l’autrice en juin.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L336-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Je remercie l’autrice pour son accueil.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 39
+    },
+    {
+      "id": "L336-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Tu lui écris après la rencontre ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 33
+    },
+    {
+      "id": "L336-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, je prépare un message de remerciement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L336-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Tu peux aussi lui envoyer la carte du club.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L336-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Bonne idée, j’ajoute un mot gentil.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 35
+    },
+    {
+      "id": "L336-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "L’autrice a laissé son adresse électronique ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L336-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Oui, elle répond vite aux lecteurs, souvent en une heure.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L336-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Tu as reçu son message ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 24
+    },
+    {
+      "id": "L336-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, sa réponse me fait très plaisir.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 37
+    },
+    {
+      "id": "L336-fr-vocab-unmessagederemerciement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un message de remerciement. Mina envoie un message de remerciement après la séance.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 83
+    },
+    {
+      "id": "L336-fr-vocab-unecartederemerciement",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une carte de remerciement. Hugo prépare une carte de remerciement pour l’autrice.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 81
+    },
+    {
+      "id": "L336-fr-vocab-unmotgentil",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "un mot gentil. Un mot gentil rend la journée plus agréable.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 59
+    },
+    {
+      "id": "L336-fr-vocab-unsouveniragreable",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un souvenir agréable. La rencontre reste un souvenir agréable pour Mina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L336-fr-vocab-unretourpositif",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un retour positif. Les lecteurs donnent un retour positif à l’équipe.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L336-fr-vocab-uneadresseelectronique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une adresse électronique. L’autrice laisse son adresse électronique au club.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L336-fr-vocab-uneboitedereception",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "une boîte de réception. Le message arrive dans la boîte de réception de Mina.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 77
+    },
+    {
+      "id": "L336-fr-vocab-unereponserapide",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une réponse rapide. Mina reçoit une réponse rapide le lendemain.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 64
+    },
+    {
+      "id": "L336-fr-vocab-ungesteattentionne",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "un geste attentionné. Cette dédicace est un geste attentionné de l’autrice.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 75
+    },
+    {
+      "id": "L336-fr-vocab-unprochainrendezvous",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un prochain rendez-vous. Le club fixe un prochain rendez-vous avec l’autrice.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 77
+    },
+    {
+      "id": "L336-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je remercie la bibliothécaire pour ses conseils. Tu remercies Hugo pour son aide.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 81
+    },
+    {
+      "id": "L336-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina remercie sa voisine pour le message.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L336-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous remercions les bénévoles pour leur temps. Vous remerciez l’équipe après la rencontre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 90
+    },
+    {
+      "id": "L336-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les lecteurs remercient l’autrice pour sa réponse.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L336-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Mina remercie Hugo pour son conseil.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L336-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Une réponse rapide rassure les nouveaux membres.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L336-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La carte contient un mot gentil et sincère.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L336-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Le club garde un souvenir agréable de la soirée.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L336-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "L’autrice répond au message avec beaucoup de gentillesse.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L336-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après la rencontre, Mina écrit à l’autrice pour la remercier de son accueil. Elle relit son message avant de l’envoyer et ajoute une phrase sur la discussion. Hugo propose d’envoyer aussi une carte de remerciement au nom du club. Les bénévoles ajoutent leurs signatures au bas de la carte. Le lendemain, Mina trouve une réponse dans sa boîte de réception. L’autrice remercie le groupe pour son retour positif et propose un prochain rendez-vous. Mina garde ce message comme un souvenir agréable de la soirée. Elle répond avec un mot gentil et souhaite une bonne semaine à son interlocutrice.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 590
+    },
+    {
+      "id": "L336-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L336)",
+      "tts_text": "پس از یک دیدار یا دریافت کمک، چطور از کسی تشکر می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L336-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L336)",
+      "tts_text": "فعل «remercier» را با شخص مستقیم و «pour» با دلیل به کار می‌بریم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L336-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L336)",
+      "tts_text": "به گفت‌وگو گوش کن و دلیلی را پیدا کن که مینا برای آن از نویسنده تشکر می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L336-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L336)",
+      "tts_text": "نام شخص پس از «remercier» می‌آید؛ برای دلیل از «pour» استفاده می‌کنیم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L336-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L336)",
+      "tts_text": "از یک نفر برای کمک یا استقبالش تشکر کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 39
+    },
+    {
+      "id": "L336-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L336)",
+      "tts_text": "یک جملهٔ کوتاه و روشن برای قدردانی بنویس.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    }
+  ]
+}

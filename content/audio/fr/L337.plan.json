@@ -1,0 +1,398 @@
+{
+  "lesson": "L337",
+  "language": "fr",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/fr/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L337-fr-dialogue-1",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Tu publies déjà les photos ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L337-fr-dialogue-2",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Pas encore, je vérifie les autorisations.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 41
+    },
+    {
+      "id": "L337-fr-dialogue-3",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Cette image est nette.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 22
+    },
+    {
+      "id": "L337-fr-dialogue-4",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Oui, mais les lecteurs doivent donner leur accord.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 50
+    },
+    {
+      "id": "L337-fr-dialogue-5",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "La légende mentionne un prénom ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L337-fr-dialogue-6",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Non, elle décrit seulement la rencontre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 40
+    },
+    {
+      "id": "L337-fr-dialogue-7",
+      "role": "FR-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Qui peut voir le dossier partagé ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L337-fr-dialogue-8",
+      "role": "FR-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Les membres du club seulement.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 30
+    },
+    {
+      "id": "L337-fr-listening-1",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Le club prépare un compte rendu de la rencontre.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 48
+    },
+    {
+      "id": "L337-fr-listening-2",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Tu as les photos de groupe ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 28
+    },
+    {
+      "id": "L337-fr-listening-3",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Oui, mais je demande l’autorisation avant de publier.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 53
+    },
+    {
+      "id": "L337-fr-listening-4",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La légende courte indique le nom de l’autrice ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L337-fr-listening-5",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Non, on ne publie pas les noms sans accord.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 43
+    },
+    {
+      "id": "L337-fr-listening-6",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Où partages-tu l’album numérique ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L337-fr-listening-7",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Dans le dossier partagé du club.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 32
+    },
+    {
+      "id": "L337-fr-listening-8",
+      "role": "FR-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "La dernière image est-elle nette ?",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 34
+    },
+    {
+      "id": "L337-fr-listening-9",
+      "role": "FR-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Oui, et le lien partagé reste privé.",
+      "priority": "P1",
+      "language": "fr",
+      "chars": 36
+    },
+    {
+      "id": "L337-fr-vocab-uncompterenduderencontre",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "un compte rendu de rencontre. Mina rédige un compte rendu de rencontre pour le club.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 84
+    },
+    {
+      "id": "L337-fr-vocab-unephotodegroupe",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "une photo de groupe. La photo de groupe montre les lecteurs après la séance.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 76
+    },
+    {
+      "id": "L337-fr-vocab-unelegendecourte",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "une légende courte. Une légende courte décrit le lieu de la rencontre.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 70
+    },
+    {
+      "id": "L337-fr-vocab-unalbumnumerique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "un album numérique. Le club range les images dans un album numérique.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 69
+    },
+    {
+      "id": "L337-fr-vocab-unreseausocial",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "un réseau social. Le réseau social du club partage les nouvelles activités.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 75
+    },
+    {
+      "id": "L337-fr-vocab-unepublicationpublique",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "une publication publique. Une publication publique est visible par tous.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 72
+    },
+    {
+      "id": "L337-fr-vocab-unlienpartage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "un lien partagé. Hugo envoie un lien partagé aux membres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 57
+    },
+    {
+      "id": "L337-fr-vocab-uneautorisationdepublication",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "une autorisation de publication. Mina demande une autorisation de publication aux lecteurs.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 91
+    },
+    {
+      "id": "L337-fr-vocab-uneimagenette",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "une image nette. Une image nette permet de voir les visages.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 60
+    },
+    {
+      "id": "L337-fr-vocab-undossierpartage",
+      "role": "FR-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "un dossier partagé. Le compte rendu reste dans le dossier partagé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 66
+    },
+    {
+      "id": "L337-fr-grammar-row-1",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Je publie le compte rendu sur le site du club. Tu publies une image après l’accord des membres.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 95
+    },
+    {
+      "id": "L337-fr-grammar-row-2",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Mina publie une légende courte avec la photo.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 45
+    },
+    {
+      "id": "L337-fr-grammar-row-3",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nous publions le programme dans le dossier partagé. Vous publiez les images sur le site privé.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 94
+    },
+    {
+      "id": "L337-fr-grammar-row-4",
+      "role": "FR-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les bénévoles publient le compte rendu après la vérification.",
+      "priority": "P2",
+      "language": "fr",
+      "chars": 61
+    },
+    {
+      "id": "L337-fr-examples-1",
+      "role": "FR-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Le groupe relit le texte avant de le partager.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L337-fr-examples-2",
+      "role": "FR-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mina retire le nom d’un lecteur de la légende.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 46
+    },
+    {
+      "id": "L337-fr-examples-3",
+      "role": "FR-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Hugo choisit les membres qui voient le dossier.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 47
+    },
+    {
+      "id": "L337-fr-examples-4",
+      "role": "FR-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La photo reste privée jusqu’à l’accord de chacun.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L337-fr-examples-5",
+      "role": "FR-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Une légende précise explique le sujet de l’image.",
+      "priority": "P3",
+      "language": "fr",
+      "chars": 49
+    },
+    {
+      "id": "L337-fr-reading",
+      "role": "FR-READ-F",
+      "source": "reading.text",
+      "tts_text": "Après la rencontre, Mina rédige un compte rendu pour les membres du club. Elle choisit une photo de groupe, mais demande d’abord l’autorisation de chaque personne. Un lecteur préfère ne pas apparaître; Mina retire alors son image de l’album numérique. Hugo écrit une légende courte qui indique le lieu et le thème de la soirée. Le fichier reste dans un dossier partagé réservé aux membres. Avant d’envoyer le lien, Mina vérifie les paramètres de confidentialité. Une publication publique attendra l’accord de tout le monde. Le groupe relit enfin le texte et corrige deux détails. Ainsi, le souvenir reste agréable tout en respectant le choix de chacun.",
+      "priority": "P4",
+      "language": "fr",
+      "chars": 652
+    },
+    {
+      "id": "L337-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L337)",
+      "tts_text": "پیش از انتشار عکس یک دیدار، چه اجازه‌ای باید بگیری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L337-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L337)",
+      "tts_text": "فعل «publier» برای انتشار متن یا تصویر به کار می‌رود؛ پیش از اشتراک‌گذاری اجازه بگیر.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 85
+    },
+    {
+      "id": "L337-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L337)",
+      "tts_text": "به گفت‌وگو گوش کن و پوشه‌ای را پیدا کن که آلبوم در آن قرار دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L337-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L337)",
+      "tts_text": "در زمان حال می‌گوییم «je publie»، «nous publions» و «ils publient».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L337-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L337)",
+      "tts_text": "گزارشی کوتاه معرفی کن و حریم خصوصی افراد را رعایت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L337-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L337)",
+      "tts_text": "پیش از انتشار تصویر یا نام، موافقت افراد را بگیر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    }
+  ]
+}
