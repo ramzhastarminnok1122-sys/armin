@@ -4,8 +4,8 @@ Actualizado: 2026-11-01
 
 ## Contenido
 
-- Lecciones instaladas: L001–L036 (36 de 340).
-- Validación completa del corpus: 36 lecciones, 41.707 comprobaciones, 0 errores.
+- Lecciones instaladas: L001–L039 (39 de 340).
+- Validación completa del corpus: 39 lecciones, 45.231 comprobaciones, 0 errores.
 - QA independiente L001–L003: 36 comprobaciones de secciones, 30 términos nuevos y 141 enunciados objetivo únicos.
 - QA independiente L004–L006: 36 comprobaciones de secciones, 30 términos nuevos y 92 enunciados de ejemplos, diálogos y lecturas; revisión léxica previa aprobada.
 - QA independiente L007–L009: 36 comprobaciones de secciones, 30 términos nuevos y 91 enunciados objetivo únicos; revisión léxica previa aprobada.
@@ -18,14 +18,15 @@ Actualizado: 2026-11-01
 - QA independiente L028–L030: 36 comprobaciones de secciones, 30 términos nuevos y 73 enunciados únicos de ejemplos, gramática, diálogos y lecturas; explicaciones persas, gramática, escucha, roles de audio y continuidad revisados.
 - QA independiente L031–L033: 36 comprobaciones de secciones, 30 términos nuevos y 74 enunciados únicos de ejemplos, gramática, diálogos y lecturas; explicaciones persas, gramática, escucha, roles de audio y continuidad revisados.
 - QA independiente L034–L036: 36 comprobaciones de secciones, 30 términos nuevos y 74 enunciados únicos de ejemplos, gramática, diálogos y lecturas; explicaciones persas, categorías gramaticales, escucha y roles de audio revisados.
+- QA independiente L037–L039: 36 comprobaciones de secciones, 30 términos nuevos y 73 enunciados únicos de ejemplos, gramática, diálogos y lecturas; explicaciones persas, emociones, descripciones, habilidades y audio revisados.
 - Inglés y francés no se modificaron.
 
 ## Audio — planes no son grabaciones
 
-- Lecciones/manifiestos españoles: 36; clips planificados: 1.548 (1.332 en español y 216 en persa).
-- MP3 físicos verificados: 0; referencias de audio en las lecciones: 0; clips pendientes: 1.548.
+- Lecciones/manifiestos españoles: 39; clips planificados: 1.677 (1.443 en español y 234 en persa).
+- MP3 físicos verificados: 0; referencias de audio en las lecciones: 0; clips pendientes: 1.677.
 - No se generaron archivos de audio.
 
 ## Próximo paso
 
-Continuar secuencialmente con L037–L039 en un lote aislado; validar antes de instalar.
+Continuar secuencialmente con L040–L042 en un lote aislado; validar antes de instalar.

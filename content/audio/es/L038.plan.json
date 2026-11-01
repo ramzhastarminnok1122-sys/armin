@@ -1,0 +1,398 @@
+{
+  "lesson": "L038",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L038-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Cómo estás hoy?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 16
+    },
+    {
+      "id": "L038-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Estoy contenta porque llega mi amiga.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L038-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Estás cansada?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 15
+    },
+    {
+      "id": "L038-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Un poco; el viaje fue largo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L038-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Te sientes preocupada?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L038-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, estoy tranquila ahora.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L038-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Quieres hablar un momento?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L038-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, gracias por escucharme.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L038-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Cómo te sientes, Andrés?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L038-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Estoy nervioso; hoy tengo una presentación importante delante de toda la clase.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 79
+    },
+    {
+      "id": "L038-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Estás preocupado por el tema?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L038-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Un poco, pero también estoy emocionado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L038-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Es normal; yo también estoy cansada y un poco triste hoy, pero ahora estoy mejor.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 81
+    },
+    {
+      "id": "L038-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Por qué estás triste?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L038-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Porque estoy lejos de mi familia.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L038-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Ahora pareces más alegre.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L038-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Sí, estoy contenta porque vienes conmigo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L038-es-vocab-contentocontenta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "contento, contenta. Estoy contenta con mi resultado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L038-es-vocab-alegre",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "alegre. Mi amiga está alegre hoy.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L038-es-vocab-triste",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "triste. Andrés está triste por la noticia.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L038-es-vocab-cansadocansada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "cansado, cansada. Estamos cansados después del viaje.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L038-es-vocab-nerviosonerviosa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "nervioso, nerviosa. Lucía está nerviosa antes del examen.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L038-es-vocab-aburridoaburrida",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "aburrido, aburrida. Estoy aburrido en casa esta tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L038-es-vocab-enfadadoenfadada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "enfadado, enfadada. Noa está enfadada por el retraso.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L038-es-vocab-preocupadopreocupada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "preocupado, preocupada. Mi padre está preocupado por el trabajo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 64
+    },
+    {
+      "id": "L038-es-vocab-sorprendidosorprendida",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "sorprendido, sorprendida. Estamos sorprendidos con la visita.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L038-es-vocab-emocionadoemocionada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "emocionado, emocionada. Marta está emocionada por el concierto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L038-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Estoy nerviosa antes de hablar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L038-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Andrés está triste por la noticia.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L038-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Estamos cansadas después del viaje.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L038-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Lucía está alegre porque ve a su amiga.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L038-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Estoy cansada después de caminar.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L038-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Andrés está nervioso antes de la presentación.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L038-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Estamos contentos porque llega nuestra amiga.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L038-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Noa está enfadada por el retraso.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L038-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "¿Cómo te sientes hoy?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L038-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Andrés está nervioso antes de una presentación en clase. Su amiga Lucía le pregunta cómo se siente y lo escucha con atención. Andrés está preocupado por olvidar una parte, pero también está emocionado porque preparó el tema con cuidado. Lucía también está un poco cansada y triste porque su familia vive lejos. Hoy está más alegre porque Andrés la acompaña. Los dos respiran hondo y entran en el aula. Hablar de las emociones les ayuda a sentirse tranquilos y a apoyarse cuando tienen un día difícil.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 500
+    },
+    {
+      "id": "L038-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L038)",
+      "tts_text": "امروز چه احساسی داری و چه چیزی باعث این احساس شده است؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L038-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L038)",
+      "tts_text": "برای احساس لحظه‌ای از «estar» و صفت هماهنگ استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L038-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L038)",
+      "tts_text": "به گفت‌وگو گوش کن و احساس آندرس را پیش از ارائه پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L038-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L038)",
+      "tts_text": "می‌گوییم «estoy nerviosa» و «está contento».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 44
+    },
+    {
+      "id": "L038-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L038)",
+      "tts_text": "احساست را بگو و دلیلش را با «porque» اضافه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    },
+    {
+      "id": "L038-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L038)",
+      "tts_text": "با مهربانی دربارهٔ احساس طرف مقابل بپرس.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 40
+    }
+  ]
+}

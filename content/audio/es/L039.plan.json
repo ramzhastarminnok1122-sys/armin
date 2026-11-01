@@ -1,0 +1,398 @@
+{
+  "lesson": "L039",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L039-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Sabes nadar?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 13
+    },
+    {
+      "id": "L039-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, sé nadar desde pequeña.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L039-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Sabes tocar algún instrumento?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L039-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sé tocar el piano un poco.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L039-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Puedes patinar hoy?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L039-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, hoy no puedo; estoy cansado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L039-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Sabes jugar al ajedrez?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L039-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, mi abuelo me enseña.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L039-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Qué sabes hacer, Mateo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L039-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Sé montar en bicicleta y puedo patinar.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L039-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Qué instrumento sabes tocar?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L039-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, sé tocar la guitarra, pero no el piano.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L039-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Yo sé nadar y jugar al ajedrez.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L039-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Tu hermana sabe conducir?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L039-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Sí, sabe conducir y también practica natación.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L039-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¡Qué bien! Podemos aprender unos de otros.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L039-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Claro; en el club cada persona enseña una habilidad diferente a los demás.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 74
+    },
+    {
+      "id": "L039-es-vocab-nadar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "nadar. Sé nadar en una piscina pequeña.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L039-es-vocab-conducir",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "conducir. Mi hermana sabe conducir un coche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L039-es-vocab-patinar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "patinar. Mateo puede patinar en el parque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L039-es-vocab-montarenbicicleta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "montar en bicicleta. Los niños saben montar en bicicleta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L039-es-vocab-tocarlaguitarra",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "tocar la guitarra. Clara sabe tocar la guitarra.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L039-es-vocab-instrumento",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "instrumento. El piano es un instrumento musical.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L039-es-vocab-guitarra",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "guitarra. La guitarra de Mateo es nueva.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L039-es-vocab-piano",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "piano. Sé tocar el piano un poco.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L039-es-vocab-ajedrez",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "ajedrez. Mi abuelo sabe jugar al ajedrez.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L039-es-vocab-natacion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "natación. La natación es buena para el cuerpo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L039-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Sé nadar. ¿Sabes tocar el piano?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L039-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Clara sabe tocar la guitarra.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L039-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Sabemos montar en bicicleta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L039-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Mateo no sabe conducir todavía.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L039-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Sé nadar, pero no sé patinar.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L039-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "¿Sabes tocar la guitarra?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L039-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Mateo sabe jugar al ajedrez.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L039-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Sabemos montar en bicicleta por el parque.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L039-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Mi hermana no sabe conducir todavía.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L039-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Clara y Mateo se inscriben en un club del barrio. Clara sabe nadar y jugar al ajedrez; también sabe tocar la guitarra. Mateo sabe montar en bicicleta y está aprendiendo a patinar. La hermana de Clara sabe conducir, pero no toca ningún instrumento. En el club, una profesora enseña piano y un vecino organiza partidas de ajedrez. Los participantes comparten sus habilidades y practican juntos. Nadie sabe hacer todo, pero cada persona puede aprender algo nuevo con ayuda de los demás.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 483
+    },
+    {
+      "id": "L039-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L039)",
+      "tts_text": "چه مهارتی بلدی و دوست داری چه چیزی را یاد بگیری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L039-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L039)",
+      "tts_text": "برای مهارت آموخته‌شده از «saber» صرف‌شده و پس از آن مصدر استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L039-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L039)",
+      "tts_text": "به گفت‌وگو گوش کن و کاری را پیدا کن که کلارا بلد است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L039-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L039)",
+      "tts_text": "می‌گوییم «sé nadar» و «sabe tocar la guitarra».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L039-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L039)",
+      "tts_text": "سه مهارت و یک مهارت تازه را بیان کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 36
+    },
+    {
+      "id": "L039-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L039)",
+      "tts_text": "«saber» را صرف کن و فعل دوم را در مصدر نگه دار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    }
+  ]
+}

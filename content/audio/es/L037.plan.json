@@ -1,0 +1,398 @@
+{
+  "lesson": "L037",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L037-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Cómo es tu hermano?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L037-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Es alto y tiene el pelo liso.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L037-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Lleva gafas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 13
+    },
+    {
+      "id": "L037-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, usa gafas negras.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L037-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Tu hermana es rubia?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L037-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, es morena y tiene el pelo rizado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L037-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Es mayor que tú?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 17
+    },
+    {
+      "id": "L037-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, es mi hermana mayor.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L037-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Mira esta foto; es de mi familia.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L037-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "¿Quién es la chica de pelo rizado?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L037-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Es mi hermana menor; es baja y muy fuerte.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L037-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Y el hombre alto que lleva gafas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L037-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Es mi hermano mayor; tiene el pelo rubio.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L037-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Tu padre parece joven y delgado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L037-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Sí, y mi madre tiene el pelo largo y liso.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L037-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¿Tu primo es el chico moreno?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L037-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Sí; es amable y tiene los ojos verdes.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L037-es-vocab-altoalta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "alto, alta. Mi hermano es alto y delgado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L037-es-vocab-bajobaja",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "bajo, baja. La niña es baja y alegre.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L037-es-vocab-delgadodelgada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "delgado, delgada. Mi primo es delgado y fuerte.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L037-es-vocab-fuerte",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "fuerte. Marta es fuerte y practica deporte.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L037-es-vocab-joven",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "joven. El profesor joven lleva gafas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L037-es-vocab-mayor",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "mayor. Mi hermana mayor tiene el pelo liso.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L037-es-vocab-rubiorubia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "rubio, rubia. La mujer rubia tiene los ojos verdes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L037-es-vocab-morenomorena",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "moreno, morena. El chico moreno es muy amable.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L037-es-vocab-rizadorizada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "rizado, rizada. Tengo el pelo rizado y corto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L037-es-vocab-lisolisa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "liso, lisa. Su pelo es largo y liso.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L037-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Marta es alta y fuerte.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L037-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Tiene el pelo rizado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L037-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Mi hermano tiene los ojos verdes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L037-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "El profesor joven lleva gafas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L037-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Sara es baja y tiene el pelo liso.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L037-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mi hermano mayor es alto.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L037-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La mujer rubia tiene los ojos verdes.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L037-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "El chico moreno lleva gafas.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L037-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Mis primas son fuertes y altas.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L037-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Marcos mira una foto en casa de Sara. Su hermana menor es baja y tiene el pelo rizado. Su hermano mayor es alto, rubio y lleva gafas. La madre de Sara tiene el pelo largo y liso; su padre es delgado y fuerte. Al lado de ellos aparece un primo moreno con ojos verdes. Marcos pregunta cómo es cada persona y Sara responde con frases sencillas. En la familia hay distintas estaturas, colores de pelo y estilos. Todos sonríen en la foto, tomada durante una reunión familiar el domingo.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 481
+    },
+    {
+      "id": "L037-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L037)",
+      "tts_text": "چطور ظاهر یک نفر را محترمانه و کوتاه توصیف می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L037-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L037)",
+      "tts_text": "برای قد و ویژگی از «ser» و برای مو یا چشم از «tener» استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L037-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L037)",
+      "tts_text": "به گفت‌وگو گوش کن و ظاهر خواهر کوچک‌تر سارا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L037-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L037)",
+      "tts_text": "می‌گوییم «es alta» و «tiene el pelo rizado».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 44
+    },
+    {
+      "id": "L037-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L037)",
+      "tts_text": "ظاهر یک دوست را با چند عبارت توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 38
+    },
+    {
+      "id": "L037-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L037)",
+      "tts_text": "صفت را با شخص هماهنگ کن و توصیف محترمانه‌ای انتخاب کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    }
+  ]
+}
