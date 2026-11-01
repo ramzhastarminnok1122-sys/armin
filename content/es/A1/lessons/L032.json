@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 32,
+    "title": "Las estaciones del año",
+    "subtitle": "Hablar del tiempo durante el año",
+    "description": "Noa compara el tiempo de su ciudad en distintas estaciones.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Las estaciones y las expresiones hace/está",
+      "objectives": [
+        "Nombrar las cuatro estaciones.",
+        "Describir el tiempo típico de cada estación.",
+        "Usar «en» antes del nombre de una estación."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در کدام فصل هوا گرم، سرد یا بارانی است؟",
+      "questions": [
+        {
+          "q": "فصلی که بعد از تابستان می‌آید چیست؟",
+          "hint_fa": "به واژهٔ «otoño» فکر کن."
+        },
+        {
+          "q": "بارش سفیدرنگ زمستانی چه نام دارد؟",
+          "hint_fa": "به واژهٔ «nieve» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "El tiempo y las estaciones",
+      "body_fa": "برای صحبت دربارهٔ فصل‌ها می‌گوییم «en primavera», «en verano», «en otoño» و «en invierno». برای هوا از ساختارهای رایج «hace calor», «hace frío» و «está nublado» استفاده می‌کنیم. دقت کن که برای گرما و سرما معمولاً از «hacer» استفاده می‌شود، اما برای وضعیت آسمان «estar» می‌آید. «Temperatura» درجهٔ گرمی یا سردی هوا را بیان می‌کند. بعضی صفت‌ها با اسم هماهنگ می‌شوند: «tiempo húmedo» یا «tarde húmeda». برای گفتن وضعیت عادت‌گونهٔ یک فصل از زمان حال ساده استفاده می‌کنیم: «En otoño llueve».",
+      "key_points": [
+        "«En» را پیش از نام فصل بیاور.",
+        "برای گرما و سرما بگو «hace calor/frío».",
+        "برای وضعیت آسمان می‌توان از «está» استفاده کرد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "primavera",
+          "ipa": "/pɾi.maˈβe.ɾa/",
+          "translation_fa": "بهار",
+          "example": "En primavera aparecen muchas flores.",
+          "example_fa": "در بهار گل‌های زیادی پدیدار می‌شوند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "verano",
+          "ipa": "/beˈɾa.no/",
+          "translation_fa": "تابستان",
+          "example": "En verano los días son largos.",
+          "example_fa": "در تابستان روزها طولانی هستند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "otoño",
+          "ipa": "/oˈto.ɲo/",
+          "translation_fa": "پاییز",
+          "example": "En otoño las hojas cambian de color.",
+          "example_fa": "در پاییز برگ‌ها تغییر رنگ می‌دهند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "invierno",
+          "ipa": "/imˈbjeɾ.no/",
+          "translation_fa": "زمستان",
+          "example": "En invierno llevo un abrigo caliente.",
+          "example_fa": "در زمستان پالتویی گرم می‌پوشم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "estación del año",
+          "ipa": "/es.taˈsjon del ˈa.ɲo/",
+          "translation_fa": "فصل",
+          "example": "Cada estación del año tiene un tiempo diferente.",
+          "example_fa": "هر فصل از سال آب‌وهوای متفاوتی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "temperatura",
+          "ipa": "/tem.pe.ɾaˈtu.ɾa/",
+          "translation_fa": "دما",
+          "example": "La temperatura baja por la noche.",
+          "example_fa": "دما شب‌ها پایین می‌آید.",
+          "tag": "اسم"
+        },
+        {
+          "term": "húmedo, húmeda",
+          "ipa": "/ˈu.me.ðo/, /ˈu.me.ða/",
+          "translation_fa": "مرطوب",
+          "example": "El aire está húmedo después de la lluvia.",
+          "example_fa": "هوا بعد از باران مرطوب است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "seco, seca",
+          "ipa": "/ˈse.ko/, /ˈse.ka/",
+          "translation_fa": "خشک",
+          "example": "El verano es seco en esta región.",
+          "example_fa": "تابستان در این منطقه خشک است.",
+          "tag": "صفت"
+        },
+        {
+          "term": "nevar",
+          "ipa": "/neˈβaɾ/",
+          "translation_fa": "برف‌باریدن",
+          "example": "Puede nevar en la montaña durante el invierno.",
+          "example_fa": "ممکن است در زمستان در کوهستان برف ببارد.",
+          "tag": "فعل"
+        },
+        {
+          "term": "nieve",
+          "ipa": "/ˈnje.βe/",
+          "translation_fa": "برف",
+          "example": "La nieve cubre las calles por la mañana.",
+          "example_fa": "برف صبح‌ها خیابان‌ها را می‌پوشاند.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "En + estación; hace/está + tiempo",
+      "explanation_fa": "برای گفتن فصل، حرف اضافهٔ «en» را پیش از نام می‌آوریم: «en primavera»، «en verano»، «en otoño» و «en invierno». در عبارت‌های مربوط به هوا از «hacer» با اسم استفاده می‌کنیم: «hace calor»، «hace frío»، «hace viento» یا «hace sol». برای وصف آسمان و وضعیت هوا، «estar» همراه صفت رایج است: «está nublado» و «está despejado». صفت با اسمی که توصیف می‌کند از نظر جنس و شمار هماهنگ می‌شود: «aire húmedo» و «tarde húmeda». برای عادت فصلی حال ساده به کار می‌رود، مانند «En invierno nieva».",
+      "pattern": "en + estación; hace + sustantivo del tiempo; estar + adjetivo",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "primavera",
+            "En primavera hace buen tiempo.",
+            "در بهار هوا خوب است."
+          ],
+          [
+            "verano",
+            "En verano hace calor y hay sol.",
+            "در تابستان هوا گرم و آفتابی است."
+          ],
+          [
+            "otoño",
+            "En otoño el aire está húmedo.",
+            "در پاییز هوا مرطوب است."
+          ],
+          [
+            "invierno",
+            "En invierno puede nevar.",
+            "در زمستان ممکن است برف ببارد."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "برای گرما نگوییم «está calor»؛ بگوییم «hace calor».",
+        "صفت را با اسمی که توصیف می‌کند هماهنگ کن."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "En primavera aparecen flores nuevas.",
+          "fa": "در بهار گل‌های تازه پدیدار می‌شوند.",
+          "note_fa": "«En» introduce la estación."
+        },
+        {
+          "target": "En verano hace calor por la tarde.",
+          "fa": "تابستان بعدازظهر هوا گرم است.",
+          "note_fa": "«Hacer» expresa calor."
+        },
+        {
+          "target": "El aire está húmedo después de la lluvia.",
+          "fa": "هوا بعد از باران مرطوب است.",
+          "note_fa": "«Húmedo» concuerda con aire."
+        },
+        {
+          "target": "En otoño las hojas tienen otro color.",
+          "fa": "در پاییز برگ‌ها رنگ دیگری دارند.",
+          "note_fa": "El presente describe una costumbre estacional."
+        },
+        {
+          "target": "En invierno puede nevar en la montaña.",
+          "fa": "در زمستان ممکن است در کوهستان برف ببارد.",
+          "note_fa": "«Nevar» describe el tiempo."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "El tiempo en cuatro estaciones",
+      "script": "Noa: ¿Cómo es el tiempo en tu ciudad durante el año?\nIván: Cambia mucho según la estación en mi ciudad.\nNoa: ¿Qué pasa en primavera?\nIván: Hace buen tiempo y aparecen flores.\nNoa: ¿Qué ocurre durante el verano?\nIván: Hace calor; la temperatura sube por la tarde.\nNoa: En otoño, ¿el aire está húmedo?\nIván: Sí, y en invierno puede nevar en las montañas.\nNoa: Me gusta ver la nieve desde casa.",
+      "script_fa": "نوآ: آب‌وهوا در طول سال در شهرت چطور است؟\nایوان: در شهر من بسته به فصل خیلی تغییر می‌کند.\nنوآ: در بهار چه اتفاقی می‌افتد؟\nایوان: هوا خوب است و گل‌ها پدیدار می‌شوند.\nنوآ: در طول تابستان چه اتفاقی می‌افتد؟\nایوان: هوا گرم است؛ دما بعدازظهر بالا می‌رود.\nنوآ: در پاییز، هوا مرطوب است؟\nایوان: بله، و زمستان ممکن است در کوه‌ها برف ببارد.\nنوآ: دوست دارم برف را از خانه تماشا کنم.",
+      "question_fa": "¿Qué ocurre en primavera?",
+      "answer": "Hace buen tiempo y aparecen flores.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Hablar del tiempo",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Qué tiempo hace en invierno?",
+          "fa": "زمستان هوا چطور است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Hace frío y a veces nieva.",
+          "fa": "هوا سرد است و گاهی برف می‌بارد."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Y en verano?",
+          "fa": "و تابستان؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Hace calor; vamos a la piscina.",
+          "fa": "هوا گرم است؛ به استخر می‌رویم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿El otoño es húmedo aquí?",
+          "fa": "پاییز اینجا مرطوب است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, llueve muchos días.",
+          "fa": "بله، روزهای زیادی باران می‌بارد."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Qué estación prefieres?",
+          "fa": "کدام فصل را ترجیح می‌دهی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "La primavera, porque hay flores.",
+          "fa": "بهار را، چون گل هست."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، آب‌وهوای دو فصل را توضیح بده و از «hace» یا «está» استفاده کن.",
+      "useful_phrases": [
+        {
+          "target": "En verano hace calor.",
+          "fa": "در تابستان هوا گرم است."
+        },
+        {
+          "target": "En otoño el aire está húmedo.",
+          "fa": "در پاییز هوا مرطوب است."
+        },
+        {
+          "target": "En invierno puede nevar.",
+          "fa": "در زمستان ممکن است برف ببارد."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Cuatro estaciones en la ciudad",
+      "text": "En primavera, Noa sale a caminar porque aparecen flores en los jardines. El verano es seco y la temperatura sube durante la tarde; por eso, su familia busca lugares frescos. En otoño, el aire está húmedo y las hojas cambian de color. El invierno trae días fríos y, algunas veces, nieve en las montañas cercanas. Noa mira el pronóstico antes de preparar su ropa. Cada estación tiene algo especial, y el tiempo cambia de una semana a otra. Su amigo Iván prefiere el verano, pero Noa disfruta más de la primavera.",
+      "glossary": [
+        {
+          "term": "pronóstico",
+          "fa": "پیش‌بینی هوا"
+        },
+        {
+          "term": "cercano",
+          "fa": "نزدیک"
+        },
+        {
+          "term": "disfrutar",
+          "fa": "لذت‌بردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué ocurre en primavera?",
+          "a": "Aparecen flores."
+        },
+        {
+          "q_fa": "¿Qué mira Noa antes de preparar la ropa?",
+          "a": "El pronóstico."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "فصل درست را انتخاب کن.",
+          "question": "En ___ las hojas cambian de color.",
+          "options": [
+            "otoño",
+            "verano",
+            "primavera"
+          ],
+          "answer": "otoño",
+          "explanation_fa": "در پاییز برگ‌ها تغییر رنگ می‌دهند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "ساختار درست را انتخاب کن.",
+          "question": "En invierno ___ frío.",
+          "options": [
+            "hace",
+            "está",
+            "son"
+          ],
+          "answer": "hace",
+          "explanation_fa": "برای سرما از «hace frío» استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "صفت را با اسم هماهنگ کن.",
+          "question": "El aire está ___.",
+          "options": [
+            "húmedo",
+            "húmeda",
+            "humedades"
+          ],
+          "answer": "húmedo",
+          "explanation_fa": "«Aire» مذکر است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "Decimos «está calor» para hablar del calor.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "ساختار رایج «hace calor» است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "حرف اضافه را کامل کن.",
+          "question": "___ primavera aparecen flores.",
+          "answer": [
+            "En"
+          ],
+          "explanation_fa": "En"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué ocurre en primavera?",
+          "answer": [
+            "Hace buen tiempo y aparecen flores."
+          ],
+          "explanation_fa": "در بهار هوا خوب است و گل‌ها پدیدار می‌شوند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué ocurre en primavera?",
+          "options": [
+            "Hace buen tiempo y aparecen flores",
+            "Nieva en la ciudad",
+            "La temperatura baja mucho"
+          ],
+          "answer": "Hace buen tiempo y aparecen flores",
+          "explanation_fa": "Iván describe el buen tiempo y las flores."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué pasa con la temperatura en verano?",
+          "options": [
+            "Sube por la tarde",
+            "Baja por la tarde",
+            "No cambia nunca"
+          ],
+          "answer": "Sube por la tarde",
+          "explanation_fa": "Iván dice que sube."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cómo está el aire en otoño?",
+          "options": [
+            "Húmedo",
+            "Muy seco",
+            "Caliente todo el día"
+          ],
+          "answer": "Húmedo",
+          "explanation_fa": "Noa pregunta si está húmedo e Iván responde que sí."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde puede nevar en invierno?",
+          "options": [
+            "En las montañas",
+            "En la biblioteca",
+            "En el parque central"
+          ],
+          "answer": "En las montañas",
+          "explanation_fa": "Iván menciona las montañas."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué le gusta a Noa?",
+          "options": [
+            "Ver la nieve desde casa",
+            "Caminar bajo el sol",
+            "Cambiar de ropa"
+          ],
+          "answer": "Ver la nieve desde casa",
+          "explanation_fa": "Noa dice que le gusta verla desde casa."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش راهنمایی که دربارهٔ آب‌وهوای شهرش توضیح می‌دهد، به مسافری تازه‌وارد وضعیت دو فصل را بگو؛ از «hace» و «está» و نام فصل‌ها استفاده کن و فصل دلخواهش را بپرس.",
+      "suggested_prompts": [
+        "En verano hace calor.",
+        "En otoño el aire está húmedo.",
+        "En invierno puede nevar."
+      ],
+      "focus": [
+        "estaciones",
+        "hace/está",
+        "tiempo"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Noa cuenta a un amigo qué cambia con cada estación."
+  }
+}

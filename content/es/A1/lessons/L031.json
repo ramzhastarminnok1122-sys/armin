@@ -1,0 +1,457 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 31,
+    "title": "En el parque",
+    "subtitle": "Describir acciones en este momento",
+    "description": "Clara y Andrés observan lo que hace la gente en el parque.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Estar + gerundio para acciones en curso",
+      "objectives": [
+        "Decir qué está haciendo una persona ahora.",
+        "Formar gerundios regulares en -ando y -iendo.",
+        "Usar estar conjugado antes del gerundio."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "در پارک، دیگران همین حالا مشغول چه کارهایی هستند؟",
+      "questions": [
+        {
+          "q": "کجا گل و درخت را می‌توانی ببینی؟",
+          "hint_fa": "به واژهٔ «parque» فکر کن."
+        },
+        {
+          "q": "برای نشستن در پارک معمولاً از چه چیزی استفاده می‌کنیم؟",
+          "hint_fa": "به واژهٔ «banco» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Los gerundios con estar",
+      "body_fa": "برای بیان کاری که همین حالا در جریان است، فعل «estar» را صرف می‌کنیم و پس از آن شکل gerundio می‌آوریم: «estoy leyendo», «estás corriendo», «están jugando». برای فعل‌های پایان‌یافته به «-ar»، معمولاً «-ando» می‌آوریم؛ برای فعل‌های «-er» و «-ir»، معمولاً «-iendo» به کار می‌رود. این ساختار را «estar + gerundio» می‌نامیم. فعل «estar» با فاعل هماهنگ می‌شود، اما gerundio تغییر نمی‌کند. از این ساختار برای عملی استفاده می‌کنیم که در لحظهٔ صحبت ادامه دارد، نه برای عادت همیشگی. برای پرسیدن می‌گوییم «¿Qué estás haciendo?».",
+      "key_points": [
+        "«Estar» را با فاعل صرف کن.",
+        "برای -ar از -ando و برای -er/-ir از -iendo استفاده کن.",
+        "Gerundio با شخص یا شمار تغییر نمی‌کند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "árbol",
+          "ipa": "/ˈaɾ.βol/",
+          "translation_fa": "درخت",
+          "example": "El árbol grande da sombra al camino.",
+          "example_fa": "درخت بزرگ به مسیر سایه می‌دهد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "flor",
+          "ipa": "/floɾ/",
+          "translation_fa": "گل",
+          "example": "Una flor amarilla crece junto al banco.",
+          "example_fa": "گلی زرد کنار نیمکت رشد می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "banco",
+          "ipa": "/ˈbaŋ.ko/",
+          "translation_fa": "نیمکت",
+          "example": "Clara se sienta en un banco de madera.",
+          "example_fa": "کلارا روی نیمکت چوبی می‌نشیند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "fuente",
+          "ipa": "/ˈfwen.te/",
+          "translation_fa": "آبنما",
+          "example": "La fuente del parque tiene agua limpia.",
+          "example_fa": "آبنمای پارک آب تمیزی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "sendero",
+          "ipa": "/senˈde.ɾo/",
+          "translation_fa": "مسیر پیاده‌روی",
+          "example": "Andrés camina por un sendero estrecho.",
+          "example_fa": "آندرس در مسیر باریکی قدم می‌زند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "sombra",
+          "ipa": "/ˈsom.bɾa/",
+          "translation_fa": "سایه",
+          "example": "Buscamos sombra debajo de los árboles.",
+          "example_fa": "زیر درخت‌ها دنبال سایه می‌گردیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "césped",
+          "ipa": "/ˈses.peð/",
+          "translation_fa": "چمن",
+          "example": "Los niños juegan sobre el césped.",
+          "example_fa": "بچه‌ها روی چمن بازی می‌کنند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pájaro",
+          "ipa": "/ˈpa.xa.ɾo/",
+          "translation_fa": "پرنده",
+          "example": "Un pájaro pequeño canta en la rama.",
+          "example_fa": "پرندهٔ کوچکی روی شاخه آواز می‌خواند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "columpio",
+          "ipa": "/koˈlum.pjo/",
+          "translation_fa": "تاب",
+          "example": "La niña se mueve en el columpio.",
+          "example_fa": "دختر روی تاب حرکت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "estanque",
+          "ipa": "/esˈtaŋ.ke/",
+          "translation_fa": "برکه",
+          "example": "Hay patos en el estanque tranquilo.",
+          "example_fa": "در برکهٔ آرام اردک‌هایی هستند.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Estar + gerundio",
+      "explanation_fa": "ساختار حال استمراری از «estar» صرف‌شده و gerundio ساخته می‌شود. صرف فعل «estar» چنین است: «estoy»، «estás»، «está»، «estamos» و «están». برای فعل‌های گروه «-ar» پایانهٔ «-ando» را اضافه می‌کنیم: «caminar» به «caminando» تبدیل می‌شود. بیشتر فعل‌های «-er» و «-ir» پایانهٔ «-iendo» می‌گیرند: «correr/corriendo» و «vivir/viviendo». در جملهٔ «Clara está leyendo» فعل «estar» با کلارا هماهنگ می‌شود، ولی «leyendo» ثابت می‌ماند. برای عادت روزانه حال ساده به کار می‌رود؛ برای کاری که همین حالا ادامه دارد از ساختار استمراری استفاده کن.",
+      "pattern": "estar + gerundio expresa una acción en curso: estoy caminando, están jugando",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo / tú",
+            "Estoy leyendo; ¿estás caminando?",
+            "دارم می‌خوانم؛ داری قدم می‌زنی؟"
+          ],
+          [
+            "él / ella",
+            "Clara está mirando los patos.",
+            "کلارا دارد اردک‌ها را نگاه می‌کند."
+          ],
+          [
+            "nosotros / nosotras",
+            "Estamos descansando bajo un árbol.",
+            "زیر درختی داریم استراحت می‌کنیم."
+          ],
+          [
+            "ellos / ellas",
+            "Los niños están jugando junto a la fuente.",
+            "بچه‌ها کنار آبنما دارند بازی می‌کنند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "فعل «estar» را با فاعل صرف کن.",
+        "«Gerundio» را ثابت نگه دار."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Andrés está caminando por el sendero.",
+          "fa": "آندرس دارد در مسیر قدم می‌زند.",
+          "note_fa": "«Está» concuerda con Andrés."
+        },
+        {
+          "target": "Los niños están jugando en el césped.",
+          "fa": "بچه‌ها روی چمن دارند بازی می‌کنند.",
+          "note_fa": "El gerundio termina en -ando."
+        },
+        {
+          "target": "Clara está leyendo bajo un árbol.",
+          "fa": "کلارا زیر درخت دارد کتاب می‌خواند.",
+          "note_fa": "«Leer» forma «leyendo»."
+        },
+        {
+          "target": "¿Qué estás mirando en el estanque?",
+          "fa": "در برکه داری چه چیزی را نگاه می‌کنی؟",
+          "note_fa": "La forma «estás» corresponde a tú."
+        },
+        {
+          "target": "Estamos descansando en un banco.",
+          "fa": "روی نیمکتی داریم استراحت می‌کنیم.",
+          "note_fa": "«Descansando» permanece igual."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Una tarde en el parque",
+      "script": "Clara: ¿Qué están haciendo esos niños?\nAndrés: Están jugando cerca del columpio.\nClara: Una niña está leyendo bajo el árbol grande.\nAndrés: Y un hombre está caminando por el sendero.\nClara: ¿Están nadando los patos en el estanque?\nAndrés: No; están buscando comida junto al agua.\nClara: Yo estoy descansando en este banco.\nAndrés: Mira, un pájaro está cantando en la rama.\nClara: Qué tranquilo está el parque esta tarde.",
+      "script_fa": "کلارا: آن بچه‌ها دارند چه کار می‌کنند؟\nآندرس: نزدیک تاب دارند بازی می‌کنند.\nکلارا: دختری زیر درخت بزرگ دارد کتاب می‌خواند.\nآندرس: و مردی در مسیر دارد قدم می‌زند.\nکلارا: اردک‌ها در برکه دارند شنا می‌کنند؟\nآندرس: نه؛ کنار آب دارند دنبال غذا می‌گردند.\nکلارا: من روی این نیمکت دارم استراحت می‌کنم.\nآندرس: نگاه کن، پرنده‌ای روی شاخه دارد آواز می‌خواند.\nکلارا: پارک امروز بعدازظهر چقدر آرام است.",
+      "question_fa": "¿Qué están haciendo los niños?",
+      "answer": "Están jugando cerca del columpio.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Observar lo que pasa",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Qué está haciendo la niña?",
+          "fa": "دختر دارد چه کار می‌کند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Está leyendo bajo aquel árbol.",
+          "fa": "زیر آن درخت دارد کتاب می‌خواند."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Y Andrés?",
+          "fa": "و آندرس؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Está caminando por el sendero.",
+          "fa": "در مسیر دارد قدم می‌زند."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Los patos están comiendo?",
+          "fa": "اردک‌ها دارند غذا می‌خورند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, están junto al estanque.",
+          "fa": "بله، کنار برکه هستند."
+        },
+        {
+          "speaker": "A",
+          "target": "Nosotros estamos descansando aquí.",
+          "fa": "ما اینجا داریم استراحت می‌کنیم."
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, la sombra es muy agradable.",
+          "fa": "بله، سایه خیلی دلپذیر است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، کاری را که سه نفر در پارک همین حالا انجام می‌دهند با «estar + gerundio» توصیف کن.",
+      "useful_phrases": [
+        {
+          "target": "Clara está leyendo.",
+          "fa": "کلارا دارد کتاب می‌خواند."
+        },
+        {
+          "target": "Los niños están jugando.",
+          "fa": "بچه‌ها دارند بازی می‌کنند."
+        },
+        {
+          "target": "Estamos descansando.",
+          "fa": "داریم استراحت می‌کنیم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Un parque lleno de actividad",
+      "text": "Clara y Andrés llegan al parque después de comer. Clara está descansando en un banco mientras Andrés mira el estanque. Cerca del agua, varios patos están buscando comida. Dos niños están jugando sobre el césped y una niña está leyendo bajo un árbol. Un hombre está caminando por el sendero con su perro. Junto a la fuente, una mujer riega las flores; un pájaro canta en una rama alta. El parque está tranquilo, aunque muchas personas están disfrutando de la tarde. Los amigos se quedan un rato bajo la sombra antes de volver a casa.",
+      "glossary": [
+        {
+          "term": "regar",
+          "fa": "آب‌دادن"
+        },
+        {
+          "term": "quedarse",
+          "fa": "ماندن"
+        },
+        {
+          "term": "disfrutar",
+          "fa": "لذت‌بردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué están haciendo los niños?",
+          "a": "Están jugando sobre el césped."
+        },
+        {
+          "q_fa": "¿Dónde descansa Clara?",
+          "a": "En un banco."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "ساختار درست را انتخاب کن.",
+          "question": "Los niños ___ jugando.",
+          "options": [
+            "están",
+            "está",
+            "estoy"
+          ],
+          "answer": "están",
+          "explanation_fa": "«Los niños» جمع است، پس «están» می‌آید."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "gerundio درست را انتخاب کن.",
+          "question": "caminar → …",
+          "options": [
+            "caminando",
+            "caminido",
+            "caminandoe"
+          ],
+          "answer": "caminando",
+          "explanation_fa": "فعل‌های -ar معمولاً -ando می‌گیرند."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "Clara está ___ bajo un árbol.",
+          "options": [
+            "leyendo",
+            "lee",
+            "leemos"
+          ],
+          "answer": "leyendo",
+          "explanation_fa": "بعد از «está» از gerundio استفاده می‌کنیم."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "El gerundio cambia para concordar con el sujeto.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "Gerundio ثابت می‌ماند و «estar» صرف می‌شود."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Nosotros ___ descansando. (estar)",
+          "answer": [
+            "estamos"
+          ],
+          "explanation_fa": "estamos"
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué están haciendo los niños?",
+          "answer": [
+            "Están jugando cerca del columpio."
+          ],
+          "explanation_fa": "بچه‌ها نزدیک تاب دارند بازی می‌کنند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué están haciendo los niños?",
+          "options": [
+            "Están jugando cerca del columpio",
+            "Están leyendo en casa",
+            "Están nadando en la piscina"
+          ],
+          "answer": "Están jugando cerca del columpio",
+          "explanation_fa": "Andrés dice que juegan cerca del columpio."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde está leyendo la niña?",
+          "options": [
+            "Bajo el árbol grande",
+            "En el museo",
+            "Junto a la fuente"
+          ],
+          "answer": "Bajo el árbol grande",
+          "explanation_fa": "La niña lee bajo el árbol."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hace el hombre?",
+          "options": [
+            "Camina por el sendero",
+            "Duerme en el banco",
+            "Canta en la fuente"
+          ],
+          "answer": "Camina por el sendero",
+          "explanation_fa": "Andrés lo ve caminando."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué buscan los patos?",
+          "options": [
+            "Comida",
+            "Una pelota",
+            "Un libro"
+          ],
+          "answer": "Comida",
+          "explanation_fa": "Los patos buscan comida junto al agua."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde descansa Clara?",
+          "options": [
+            "En un banco",
+            "En el columpio",
+            "En el sendero"
+          ],
+          "answer": "En un banco",
+          "explanation_fa": "Clara dice que descansa en el banco."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش دوستی که برای تماشای پارک به آنجا رفته، برای همراهت شرح بده سه نفر چه می‌کنند؛ دست‌کم چهار جمله با «estar + gerundio» بساز و فعل estar را با فاعل هماهنگ کن.",
+      "suggested_prompts": [
+        "Clara está leyendo.",
+        "Los niños están jugando.",
+        "Estamos descansando."
+      ],
+      "focus": [
+        "estar + gerundio",
+        "acciones en curso",
+        "parque"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-01",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Dos amigos descansan y miran las actividades del parque."
+  }
+}

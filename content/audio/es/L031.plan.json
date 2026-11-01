@@ -1,0 +1,398 @@
+{
+  "lesson": "L031",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L031-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué está haciendo la niña?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L031-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Está leyendo bajo aquel árbol.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L031-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Y Andrés?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 10
+    },
+    {
+      "id": "L031-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Está caminando por el sendero.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L031-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Los patos están comiendo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L031-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, están junto al estanque.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L031-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Nosotros estamos descansando aquí.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L031-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, la sombra es muy agradable.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L031-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Qué están haciendo esos niños?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L031-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Están jugando cerca del columpio.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L031-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Una niña está leyendo bajo el árbol grande.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L031-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Y un hombre está caminando por el sendero.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L031-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Están nadando los patos en el estanque?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L031-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "No; están buscando comida junto al agua.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L031-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Yo estoy descansando en este banco.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L031-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Mira, un pájaro está cantando en la rama.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L031-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Qué tranquilo está el parque esta tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L031-es-vocab-arbol",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "árbol. El árbol grande da sombra al camino.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L031-es-vocab-flor",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "flor. Una flor amarilla crece junto al banco.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L031-es-vocab-banco",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "banco. Clara se sienta en un banco de madera.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L031-es-vocab-fuente",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "fuente. La fuente del parque tiene agua limpia.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L031-es-vocab-sendero",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "sendero. Andrés camina por un sendero estrecho.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L031-es-vocab-sombra",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "sombra. Buscamos sombra debajo de los árboles.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L031-es-vocab-cesped",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "césped. Los niños juegan sobre el césped.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L031-es-vocab-pajaro",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "pájaro. Un pájaro pequeño canta en la rama.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L031-es-vocab-columpio",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "columpio. La niña se mueve en el columpio.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L031-es-vocab-estanque",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "estanque. Hay patos en el estanque tranquilo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L031-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Estoy leyendo; ¿estás caminando?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L031-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Clara está mirando los patos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L031-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Estamos descansando bajo un árbol.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L031-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Los niños están jugando junto a la fuente.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L031-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Andrés está caminando por el sendero.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L031-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Los niños están jugando en el césped.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L031-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Clara está leyendo bajo un árbol.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L031-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "¿Qué estás mirando en el estanque?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L031-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Estamos descansando en un banco.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L031-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Clara y Andrés llegan al parque después de comer. Clara está descansando en un banco mientras Andrés mira el estanque. Cerca del agua, varios patos están buscando comida. Dos niños están jugando sobre el césped y una niña está leyendo bajo un árbol. Un hombre está caminando por el sendero con su perro. Junto a la fuente, una mujer riega las flores; un pájaro canta en una rama alta. El parque está tranquilo, aunque muchas personas están disfrutando de la tarde. Los amigos se quedan un rato bajo la sombra antes de volver a casa.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 532
+    },
+    {
+      "id": "L031-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L031)",
+      "tts_text": "در پارک، دیگران همین حالا مشغول چه کارهایی هستند؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L031-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L031)",
+      "tts_text": "برای کار در حال انجام، «estar» را صرف می‌کنیم و پس از آن «gerundio» می‌آوریم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L031-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L031)",
+      "tts_text": "به گفت‌وگو گوش کن و کاری را که بچه‌ها نزدیک تاب انجام می‌دهند پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 70
+    },
+    {
+      "id": "L031-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L031)",
+      "tts_text": "می‌گوییم «están jugando» و «está leyendo».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 42
+    },
+    {
+      "id": "L031-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L031)",
+      "tts_text": "سه کار را که افراد در پارک انجام می‌دهند توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L031-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L031)",
+      "tts_text": "«estar» را با فاعل هماهنگ کن؛ «gerundio» ثابت می‌ماند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "lesson": "L032",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L032-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué tiempo hace en invierno?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L032-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Hace frío y a veces nieva.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L032-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Y en verano?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 13
+    },
+    {
+      "id": "L032-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Hace calor; vamos a la piscina.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L032-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿El otoño es húmedo aquí?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L032-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, llueve muchos días.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L032-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Qué estación prefieres?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L032-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "La primavera, porque hay flores.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L032-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Cómo es el tiempo en tu ciudad durante el año?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L032-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Cambia mucho según la estación en mi ciudad.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L032-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Qué pasa en primavera?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L032-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Hace buen tiempo y aparecen flores.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L032-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Qué ocurre durante el verano?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L032-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Hace calor; la temperatura sube por la tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L032-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "En otoño, ¿el aire está húmedo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L032-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, y en invierno puede nevar en las montañas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L032-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Me gusta ver la nieve desde casa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L032-es-vocab-primavera",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "primavera. En primavera aparecen muchas flores.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L032-es-vocab-verano",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "verano. En verano los días son largos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L032-es-vocab-otono",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "otoño. En otoño las hojas cambian de color.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L032-es-vocab-invierno",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "invierno. En invierno llevo un abrigo caliente.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L032-es-vocab-estaciondelano",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "estación del año. Cada estación del año tiene un tiempo diferente.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 66
+    },
+    {
+      "id": "L032-es-vocab-temperatura",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "temperatura. La temperatura baja por la noche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L032-es-vocab-humedohumeda",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "húmedo, húmeda. El aire está húmedo después de la lluvia.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L032-es-vocab-secoseca",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "seco, seca. El verano es seco en esta región.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L032-es-vocab-nevar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "nevar. Puede nevar en la montaña durante el invierno.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L032-es-vocab-nieve",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "nieve. La nieve cubre las calles por la mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L032-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "En primavera hace buen tiempo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L032-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "En verano hace calor y hay sol.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L032-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "En otoño el aire está húmedo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L032-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "En invierno puede nevar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L032-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "En primavera aparecen flores nuevas.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L032-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "En verano hace calor por la tarde.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L032-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "El aire está húmedo después de la lluvia.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L032-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "En otoño las hojas tienen otro color.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L032-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "En invierno puede nevar en la montaña.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L032-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "En primavera, Noa sale a caminar porque aparecen flores en los jardines. El verano es seco y la temperatura sube durante la tarde; por eso, su familia busca lugares frescos. En otoño, el aire está húmedo y las hojas cambian de color. El invierno trae días fríos y, algunas veces, nieve en las montañas cercanas. Noa mira el pronóstico antes de preparar su ropa. Cada estación tiene algo especial, y el tiempo cambia de una semana a otra. Su amigo Iván prefiere el verano, pero Noa disfruta más de la primavera.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 510
+    },
+    {
+      "id": "L032-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L032)",
+      "tts_text": "در کدام فصل هوا گرم، سرد یا بارانی است؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 39
+    },
+    {
+      "id": "L032-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L032)",
+      "tts_text": "برای هر فصل از «en» استفاده می‌کنیم و حالت هوا را با «hace» یا «está» می‌گوییم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L032-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L032)",
+      "tts_text": "به گفت‌وگو گوش کن و اتفاقی را که در بهار می‌افتد پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L032-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L032)",
+      "tts_text": "می‌گوییم «hace calor» اما «está nublado».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    },
+    {
+      "id": "L032-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L032)",
+      "tts_text": "آب‌وهوای دو فصل را توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 28
+    },
+    {
+      "id": "L032-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L032)",
+      "tts_text": "فعل و صفت را با ساختار درست آب‌وهوا به کار ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    }
+  ]
+}

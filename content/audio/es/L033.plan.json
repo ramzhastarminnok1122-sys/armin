@@ -1,0 +1,398 @@
+{
+  "lesson": "L033",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L033-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Puedes traer fruta para el pícnic?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L033-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, llevo muchas uvas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L033-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Hay bastante agua?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L033-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Tenemos un poco en el termo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L033-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Yo preparo bocadillos de queso.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L033-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Entonces llevo platos y vasos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L033-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Dónde ponemos el mantel?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L033-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Bajo el árbol, junto a la sombra.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L033-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Qué podemos llevar al pícnic?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L033-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Yo preparo muchos bocadillos de queso para todos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L033-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Perfecto; también tenemos mucha fruta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L033-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Puedes traer bastantes servilletas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L033-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Sí, pongo algunas en la cesta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L033-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Yo llevo un poco de agua en el termo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L033-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Necesitamos platos para todos?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L033-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, y también vasos para la limonada.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L033-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Muy bien; extendemos el mantel bajo el árbol grande, junto al sendero.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 70
+    },
+    {
+      "id": "L033-es-vocab-cesta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "cesta. La cesta de mimbre tiene fruta fresca.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L033-es-vocab-mantel",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "mantel. Extendemos el mantel sobre el césped.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L033-es-vocab-servilleta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "servilleta. Cada persona lleva una servilleta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L033-es-vocab-termo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "termo. El termo conserva el agua fresca.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L033-es-vocab-bocadillo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "bocadillo. Preparo un bocadillo de queso.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L033-es-vocab-uva",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "uva. Hay muchas uvas en el recipiente.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L033-es-vocab-queso",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "queso. Ponemos un poco de queso en el pan.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L033-es-vocab-frutossecos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "frutos secos. Compartimos frutos secos bajo el árbol.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L033-es-vocab-plato",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "plato. Necesitamos platos para la ensalada.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L033-es-vocab-vaso",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "vaso. Dejo un vaso junto al termo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L033-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Hay mucho queso para el bocadillo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L033-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Tenemos mucha fruta fresca.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L033-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Traigo muchas uvas y bastantes platos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L033-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Pon un poco de agua en el termo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L033-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Tenemos mucha fruta en la cesta.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L033-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Luis trae muchos platos para el grupo.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L033-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Pongo un poco de queso en el bocadillo.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L033-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "¿Puedes traer bastantes servilletas?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L033-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Hay muchas uvas junto al termo.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L033-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora y Luis preparan una cesta para el pícnic del sábado. Nora pone muchas uvas y otra fruta en un recipiente. Luis prepara bocadillos con un poco de queso y pan. También lleva un termo con agua fresca. En la cesta hay bastantes platos, vasos y servilletas para sus amigos. Al llegar al parque, extienden el mantel bajo un árbol y reparten la comida. Una amiga trae una ensalada; otro amigo trae frutos secos. Todos toman una porción y dejan el lugar limpio antes de volver a casa.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 481
+    },
+    {
+      "id": "L033-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L033)",
+      "tts_text": "برای پیک‌نیک چه خوراکی و چه مقدار از هر چیز می‌بری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L033-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L033)",
+      "tts_text": "«Mucho» با اسم هماهنگ می‌شود و «un poco de» مقدار کم را نشان می‌دهد.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L033-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L033)",
+      "tts_text": "به گفت‌وگو گوش کن و چیزی را پیدا کن که نورا در سبد می‌گذارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L033-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L033)",
+      "tts_text": "می‌گوییم «mucha fruta», «muchos platos» و «un poco de agua».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L033-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L033)",
+      "tts_text": "خوراکی‌ها و وسایل یک پیک‌نیک را میان چند نفر تقسیم کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L033-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L033)",
+      "tts_text": "کمیت‌نما را با جنس و شمار اسم هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 40
+    }
+  ]
+}
