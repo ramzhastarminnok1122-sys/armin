@@ -1,0 +1,466 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 49,
+    "title": "El domingo visité el mercadillo",
+    "subtitle": "Hablar de actividades terminadas",
+    "description": "Marina cuenta una visita de domingo a un pueblo cercano.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Pretérito indefinido regular de los verbos -ar, -er e -ir",
+      "objectives": [
+        "Hablar de actividades terminadas en el pasado.",
+        "Formar el pretérito regular de verbos -ar, -er e -ir.",
+        "Usar expresiones de tiempo para situar una acción pasada."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "آخرین یکشنبه کجا رفتی و چه کار کردی؟",
+      "questions": [
+        {
+          "q": "برای زمان گذشته از چه فعل‌هایی استفاده می‌کنی؟",
+          "hint_fa": "به پایان‌یافتن کار در گذشته فکر کن."
+        },
+        {
+          "q": "کدام عبارت زمان گذشته را نشان می‌دهد؟",
+          "hint_fa": "مثلاً به «el domingo pasado» فکر کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Pretérito indefinido regular",
+      "body_fa": "از «pretérito indefinido» برای رویدادی استفاده می‌کنیم که در گذشتهٔ تمام‌شده رخ داده است؛ معمولاً زمان‌هایی مانند «ayer» یا «el domingo pasado» آن را مشخص می‌کنند. فعل‌های باقاعدهٔ «-ar» پایان‌های «-é, -aste, -ó, -amos, -asteis, -aron» می‌گیرند. فعل‌های «-er» و «-ir» پایان‌های «-í, -iste, -ió, -imos, -isteis, -ieron» دارند. به تکیهٔ نوشتاری در شکل‌های «yo» و «él/ella» دقت کن: «visité», «visitó», «comí», «comió». شکل «nosotros» در فعل‌های «-ar» و «-ir» مثل زمان حال نوشته می‌شود، پس قید زمان به فهم گذشته کمک می‌کند.",
+      "key_points": [
+        "برای رویداد تمام‌شده از «pretérito indefinido» استفاده کن.",
+        "پایان‌های «-ar» با «-er/-ir» فرق دارند.",
+        "در شکل‌های «yo» و «él/ella» به تکیهٔ نوشتاری توجه کن."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "mercadillo",
+          "ipa": "/meɾ.kaˈði.ʝo/",
+          "translation_fa": "بازارچه",
+          "example": "El mercadillo abrió temprano el domingo.",
+          "example_fa": "بازارچه یکشنبه زود باز شد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "puesto artesanal",
+          "ipa": "/ˈpwes.to aɾ.te.saˈnal/",
+          "translation_fa": "غرفهٔ صنایع دستی",
+          "example": "Compré una taza en un puesto artesanal.",
+          "example_fa": "در یک غرفهٔ صنایع دستی فنجانی خریدم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "artesanía local",
+          "ipa": "/aɾ.te.saˈni.a loˈkal/",
+          "translation_fa": "صنایع دستی محلی",
+          "example": "La artesanía local gustó mucho a mis padres.",
+          "example_fa": "صنایع دستی محلی خیلی مورد پسند پدر و مادرم بود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "postal",
+          "ipa": "/posˈtal/",
+          "translation_fa": "کارت‌پستال",
+          "example": "Envié una postal a mi abuela el lunes.",
+          "example_fa": "دوشنبه برای مادربزرگم کارت‌پستالی فرستادم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "recuerdo",
+          "ipa": "/reˈkweɾ.ðo/",
+          "translation_fa": "یادگاری",
+          "example": "Compré un recuerdo para mi hermana.",
+          "example_fa": "برای خواهرم یادگاری خریدم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "casco antiguo",
+          "ipa": "/ˈkas.ko anˈti.ɣwo/",
+          "translation_fa": "بافت تاریخی شهر",
+          "example": "Recorrimos el casco antiguo por la tarde.",
+          "example_fa": "بعدازظهر در بافت تاریخی شهر گشتیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "visita guiada",
+          "ipa": "/biˈsi.ta ɣiˈa.ða/",
+          "translation_fa": "بازدید با راهنما",
+          "example": "La visita guiada duró una hora.",
+          "example_fa": "بازدید با راهنما یک ساعت طول کشید.",
+          "tag": "اسم"
+        },
+        {
+          "term": "paseo en barco",
+          "ipa": "/paˈse.o em ˈbaɾ.ko/",
+          "translation_fa": "قایق‌سواری",
+          "example": "El paseo en barco terminó al mediodía.",
+          "example_fa": "قایق‌سواری ظهر تمام شد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "comida típica",
+          "ipa": "/koˈmi.ða ˈti.pi.ka/",
+          "translation_fa": "غذای محلی",
+          "example": "Probé una comida típica del pueblo.",
+          "example_fa": "غذای محلی آن روستا را امتحان کردم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "plaza mayor",
+          "ipa": "/ˈpla.θa maˈʝoɾ/",
+          "translation_fa": "میدان اصلی شهر",
+          "example": "Comimos en la plaza mayor después del paseo.",
+          "example_fa": "پس از گردش در میدان اصلی شهر غذا خوردیم.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Pretérito indefinido regular",
+      "explanation_fa": "برای گفتن رویداد تمام‌شده در گذشته، بن فعل را نگه می‌داریم و پایان گذشته را اضافه می‌کنیم. در فعل‌های «-ar» می‌گوییم «visité, visitaste, visitó, visitamos, visitasteis, visitaron». در فعل‌های «-er» و «-ir» پایان‌ها «-í, -iste, -ió, -imos, -isteis, -ieron» هستند؛ مانند «comí» و «escribieron». شکل‌های «yo» و «él/ella» تکیهٔ نوشتاری دارند. قیدهایی مثل «ayer» و «el domingo pasado» زمان را روشن می‌کنند. شکل «nosotros» در بسیاری از فعل‌ها با زمان حال یکسان است، پس به قید زمان و بافت جمله دقت کن.",
+      "pattern": "raíz + terminación del pretérito; -ar: é, aste, ó, amos, asteis, aron; -er/-ir: í, iste, ió, imos, isteis, ieron",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "yo (-ar)",
+            "El domingo visité el mercado.",
+            "یکشنبه از بازار دیدن کردم."
+          ],
+          [
+            "tú (-er)",
+            "¿Comiste con tu familia?",
+            "با خانواده‌ات غذا خوردی؟"
+          ],
+          [
+            "ella (-ir)",
+            "Marina escribió una postal.",
+            "مارینا کارت‌پستالی نوشت."
+          ],
+          [
+            "nosotros",
+            "El domingo paseamos por el pueblo.",
+            "یکشنبه در روستا گردش کردیم."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "در شکل‌های «yo» و «él/ella» تکیهٔ نوشتاری را فراموش نکن.",
+        "برای «nosotros» قید زمان کمک می‌کند حال را از گذشته تشخیص دهی."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Ayer recorrí el casco antiguo con mi hermana.",
+          "fa": "دیروز با خواهرم در بافت تاریخی شهر گشتم.",
+          "note_fa": "«Recorrí» برای یک کار تمام‌شده با فاعل yo است."
+        },
+        {
+          "target": "El sábado pasado compraste una postal.",
+          "fa": "شنبهٔ گذشته کارت‌پستالی خریدی.",
+          "note_fa": "پایان «-aste» برای tú می‌آید."
+        },
+        {
+          "target": "Marina probó una comida típica del pueblo.",
+          "fa": "مارینا غذای محلی روستا را امتحان کرد.",
+          "note_fa": "در فعل «-ar»، شکل سوم‌شخص به «-ó» ختم می‌شود."
+        },
+        {
+          "target": "Mis amigos y yo visitamos el mercadillo.",
+          "fa": "من و دوستانم از بازارچه دیدن کردیم.",
+          "note_fa": "عبارت زمانی می‌تواند شکل «nosotros» را روشن کند."
+        },
+        {
+          "target": "Los turistas pasearon por la plaza mayor.",
+          "fa": "گردشگران در میدان اصلی شهر قدم زدند.",
+          "note_fa": "در فعل‌های «-ar»، برای ellos از «-aron» استفاده می‌کنیم."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Una visita de domingo",
+      "script": "Marina: El domingo visité un pueblo con mi hermana y dos amigos.\nLeo: ¿Qué visitaron primero al llegar?\nMarina: Recorrimos el casco antiguo y miramos el mercadillo.\nLeo: ¿Compraste algo en un puesto artesanal?\nMarina: Compré una postal y un recuerdo para mis padres.\nLeo: ¿Comieron algo típico en la plaza mayor?\nMarina: Sí, probamos un plato local después de la visita guiada.\nLeo: ¿Cuánto duró el paseo en barco?\nMarina: Duró media hora; después paseamos junto al río.",
+      "script_fa": "مارینا: یکشنبه با خواهرم و دو دوست به روستایی رفتم.\nلئو: پس از رسیدن، اول از کجا دیدن کردید؟\nمارینا: در بافت تاریخی شهر گشتیم و بازارچه را دیدیم.\nلئو: از یک غرفهٔ صنایع دستی چیزی خریدی؟\nمارینا: برای پدر و مادرم کارت‌پستال و یادگاری خریدم.\nلئو: در میدان اصلی غذای محلی خوردید؟\nمارینا: بله، پس از بازدید با راهنما غذایی محلی امتحان کردیم.\nلئو: قایق‌سواری چقدر طول کشید؟\nمارینا: نیم ساعت طول کشید؛ بعد کنار رودخانه قدم زدیم.",
+      "question_fa": "¿Qué compró Marina en el mercadillo?",
+      "answer": "Una postal y un recuerdo.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Contar una salida",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Adónde viajaste el domingo?",
+          "fa": "یکشنبه به کجا سفر کردی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Viajé a un pueblo con mi familia.",
+          "fa": "با خانواده‌ام به روستایی سفر کردم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Visitaron el casco antiguo?",
+          "fa": "از بافت تاریخی شهر دیدن کردید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, paseamos por sus calles tranquilas.",
+          "fa": "بله، در خیابان‌های آرامش قدم زدیم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Compraste un recuerdo?",
+          "fa": "یادگاری خریدی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Compré una postal para mi abuela.",
+          "fa": "برای مادربزرگم کارت‌پستالی خریدم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Comieron allí?",
+          "fa": "آنجا غذا خوردید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí; probamos una comida típica.",
+          "fa": "بله؛ غذای محلی‌ای را امتحان کردیم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «سفر»، دربارهٔ گردش یکشنبهٔ گذشته‌ات صحبت کن؛ بگو کجا رفتی، چه دیدی و چه خریدی.",
+      "useful_phrases": [
+        {
+          "target": "El domingo visité el mercadillo.",
+          "fa": "یکشنبه از بازارچه دیدن کردم."
+        },
+        {
+          "target": "Compré una postal.",
+          "fa": "کارت‌پستالی خریدم."
+        },
+        {
+          "target": "Comimos en la plaza mayor.",
+          "fa": "در میدان اصلی شهر غذا خوردیم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una tarde en un pueblo",
+      "text": "El domingo, Marina y su hermano visitaron un pueblo cerca de la costa. Por la mañana recorrieron el casco antiguo y miraron los puestos del mercadillo. Marina compró una postal y un recuerdo para su abuela. Al mediodía, probaron una comida típica en la plaza mayor. Después participaron en una visita guiada; el guía habló de la historia del faro. El paseo en barco duró cuarenta minutos y todos regresaron al centro antes de la cena. Marina envió una foto a sus padres y guardó la postal en su cuaderno.",
+      "glossary": [
+        {
+          "term": "faro",
+          "fa": "فانوس دریایی"
+        },
+        {
+          "term": "guardar",
+          "fa": "نگه‌داشتن"
+        },
+        {
+          "term": "puesto",
+          "fa": "غرفه"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué compró Marina para su abuela?",
+          "a": "Una postal y un recuerdo."
+        },
+        {
+          "q_fa": "¿Cuánto duró el paseo en barco?",
+          "a": "Cuarenta minutos."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست را انتخاب کن.",
+          "question": "Ayer yo ___ el casco antiguo. (recorrer)",
+          "options": [
+            "recorrí",
+            "recorriste",
+            "recorrieron"
+          ],
+          "answer": "recorrí",
+          "explanation_fa": "برای فاعل yo از پایان «-í» استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل را کامل کن.",
+          "question": "Ana ___ una postal el domingo. (comprar)",
+          "options": [
+            "compró",
+            "compraste",
+            "compraron"
+          ],
+          "answer": "compró",
+          "explanation_fa": "برای ella از پایان «-ó» استفاده می‌کنیم."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "گزینهٔ مناسب را انتخاب کن.",
+          "question": "El domingo pasado nosotros ___ por el pueblo. (pasear)",
+          "options": [
+            "paseamos",
+            "pasearon",
+            "paseaste"
+          ],
+          "answer": "paseamos",
+          "explanation_fa": "«Nosotros» با پایان «-amos» می‌آید."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Comimos» puede ser la forma de nosotros del pretérito de comer.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "«Comimos» شکل گذشتهٔ باقاعده برای nosotros است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "El paseo en barco ___ media hora. (durar)",
+          "answer": [
+            "duró"
+          ],
+          "explanation_fa": "فعل «-ar» برای ella با پایان «-ó» می‌آید."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué compró Marina en el mercadillo?",
+          "answer": [
+            "Una postal y un recuerdo."
+          ],
+          "explanation_fa": "مارینا یک کارت‌پستال و یک یادگاری خرید."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué lugar visitó Marina el domingo?",
+          "options": [
+            "Un pueblo",
+            "Una estación",
+            "Una granja"
+          ],
+          "answer": "Un pueblo",
+          "explanation_fa": "Marina visitó un pueblo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué recorrió por la mañana?",
+          "options": [
+            "El casco antiguo",
+            "El puerto de carga",
+            "El jardín de su casa"
+          ],
+          "answer": "El casco antiguo",
+          "explanation_fa": "El texto menciona el casco antiguo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué compró para su abuela?",
+          "options": [
+            "Una postal y un recuerdo",
+            "Una chaqueta y un reloj",
+            "Un libro y una taza"
+          ],
+          "answer": "Una postal y un recuerdo",
+          "explanation_fa": "Compró una postal y un recuerdo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuánto duró el paseo en barco?",
+          "options": [
+            "Cuarenta minutos",
+            "Una hora",
+            "Dos horas"
+          ],
+          "answer": "Cuarenta minutos",
+          "explanation_fa": "El texto indica cuarenta minutos."
+        },
+        {
+          "type": "mcq",
+          "question": "¿A quién envió una foto?",
+          "options": [
+            "A sus padres",
+            "A su profesor",
+            "A sus vecinos"
+          ],
+          "answer": "A sus padres",
+          "explanation_fa": "Marina envió una foto a sus padres."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش دوستی که به‌تازگی گردش رفته است، پنج جمله دربارهٔ مکان، خریدها و کارهایی که انجام دادی بگو.",
+      "suggested_prompts": [
+        [
+          "کجا رفتی؟",
+          "از «el domingo pasado» و فعل گذشته استفاده کن."
+        ],
+        [
+          "چه چیزی خریدی؟",
+          "فعل را با فاعل yo صرف کن."
+        ],
+        [
+          "با چه کسی گردش کردی؟",
+          "از «con mi familia» یا «con mis amigos» استفاده کن."
+        ]
+      ],
+      "focus": [
+        "pretérito indefinido",
+        "verbos regulares",
+        "actividades pasadas"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-04",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Marina cuenta a Leo qué hizo durante una salida del domingo."
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 50,
+    "title": "¿Qué hiciste el sábado?",
+    "subtitle": "Contar una excursión pasada",
+    "description": "Marta y Luis recuerdan una excursión al parque natural.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Pretérito indefinido de ir, ser, hacer, tener y estar",
+      "objectives": [
+        "Contar una excursión terminada con verbos irregulares en pasado.",
+        "Reconocer fui/fue, hice/hicimos, tuve/tuvimos y estuve/estuvimos.",
+        "Distinguir ir y ser por el contexto."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "شنبهٔ گذشته چه گردش یا برنامه‌ای داشتی؟",
+      "questions": [
+        {
+          "q": "برای گفتن «رفتم» در گذشته چه شکلی از «ir» را می‌گویی؟",
+          "hint_fa": "به «fui» فکر کن."
+        },
+        {
+          "q": "«ir» و «ser» در گذشته چه ویژگی خاصی دارند؟",
+          "hint_fa": "شکل‌هایشان یکسان است."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Irregulares en el pretérito",
+      "body_fa": "چند فعل پرکاربرد در «pretérito indefinido» بن بی‌قاعده دارند. «Ir» و «ser» شکل‌های یکسانی دارند: «fui, fuiste, fue, fuimos, fueron»؛ مقصد یا حرکت نشان می‌دهد که فعل «ir» است و ویژگی یا رویداد معمولاً «ser» را مشخص می‌کند. «Hacer» می‌شود «hice, hiciste, hizo, hicimos, hicieron». «Tener» می‌شود «tuve, tuviste, tuvo, tuvimos, tuvieron» و «estar» می‌شود «estuve, estuviste, estuvo, estuvimos, estuvieron». این شکل‌ها تکیهٔ نوشتاری ندارند. آن‌ها را با قید زمان گذشته و بافت جمله به کار ببر؛ پایان‌ها را با صورت‌های باقاعده اشتباه نگیر.",
+      "key_points": [
+        "«Ir» و «ser» در این زمان شکل‌های یکسان دارند.",
+        "در شکل‌های بی‌قاعدهٔ این درس، بن فعل تغییر می‌کند.",
+        "زمان گذشته یا بافت، معنی «fui/fue» را روشن می‌کند."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "excursión de un día",
+          "ipa": "/eks.kuɾˈsjon ðe un ˈdi.a/",
+          "translation_fa": "گردش یک‌روزه",
+          "example": "La excursión de un día empezó a las ocho.",
+          "example_fa": "گردش یک‌روزه ساعت هشت شروع شد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "parque natural",
+          "ipa": "/ˈpaɾ.ke na.tuˈɾal/",
+          "translation_fa": "پارک طبیعی",
+          "example": "Ayer fuimos al parque natural con la clase.",
+          "example_fa": "دیروز با کلاس به پارک طبیعی رفتیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "sendero señalizado",
+          "ipa": "/senˈde.ɾo se.ɲa.liˈθa.ðo/",
+          "translation_fa": "مسیر علامت‌گذاری‌شده",
+          "example": "El sendero señalizado terminó junto a un río.",
+          "example_fa": "مسیر علامت‌گذاری‌شده کنار رودخانه تمام شد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mirador",
+          "ipa": "/mi.ɾaˈðoɾ/",
+          "translation_fa": "نقطهٔ دیدبانی",
+          "example": "El mirador estuvo abierto toda la tarde.",
+          "example_fa": "نقطهٔ دیدبانی تمام بعدازظهر باز بود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cascada",
+          "ipa": "/kasˈka.ða/",
+          "translation_fa": "آبشار",
+          "example": "La cascada estuvo muy cerca del puente.",
+          "example_fa": "آبشار خیلی نزدیک پل بود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "bosque de pinos",
+          "ipa": "/ˈbos.ke ðe ˈpi.nos/",
+          "translation_fa": "جنگل کاج",
+          "example": "El bosque de pinos fue muy tranquilo.",
+          "example_fa": "جنگل کاج بسیار آرام بود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "refugio de montaña",
+          "ipa": "/reˈfu.xjo ðe moŋˈta.ɲa/",
+          "translation_fa": "پناهگاه کوهستانی",
+          "example": "El refugio de montaña tuvo agua fresca.",
+          "example_fa": "پناهگاه کوهستانی آب خنک داشت.",
+          "tag": "اسم"
+        },
+        {
+          "term": "área de descanso",
+          "ipa": "/ˈa.ɾe.a ðe desˈkaŋ.so/",
+          "translation_fa": "محل استراحت",
+          "example": "Hicimos una pausa en el área de descanso.",
+          "example_fa": "در محل استراحت وقفه‌ای داشتیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mapa de la ruta",
+          "ipa": "/ˈma.pa ðe la ˈru.ta/",
+          "translation_fa": "نقشهٔ مسیر",
+          "example": "El mapa de la ruta fue fácil de leer.",
+          "example_fa": "خواندن نقشهٔ مسیر آسان بود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "puente colgante",
+          "ipa": "/ˈpwen.te kolˈɣan.te/",
+          "translation_fa": "پل معلق",
+          "example": "El puente colgante estuvo cerrado ayer.",
+          "example_fa": "پل معلق دیروز بسته بود.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Pretérito de algunos verbos irregulares",
+      "explanation_fa": "در گذشتهٔ کامل، بعضی فعل‌های رایج پایان‌های معمول ندارند. «Ir» و «ser» هر دو شکل‌های «fui, fuiste, fue, fuimos, fueron» دارند؛ «Fui al parque» رفتن را می‌گوید و «El día fue tranquilo» ویژگی روز را. برای «hacer» از «hice, hiciste, hizo, hicimos, hicieron» استفاده می‌کنیم. شکل‌های «tener» با «tuv-» و شکل‌های «estar» با «estuv-» ساخته می‌شوند: «tuve», «estuve», «tuvieron», «estuvieron». این شکل‌ها تکیهٔ نوشتاری ندارند. قیدهایی مانند «ayer» کمک می‌کنند بفهمیم دربارهٔ رویداد تمام‌شده حرف می‌زنیم.",
+      "pattern": "ir/ser: fui, fuiste, fue, fuimos, fueron; hacer: hice, hiciste, hizo, hicimos, hicieron; tener: tuv-; estar: estuv-",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "ir / yo",
+            "Ayer fui al parque natural.",
+            "دیروز به پارک طبیعی رفتم."
+          ],
+          [
+            "hacer / nosotros",
+            "Hicimos una ruta corta.",
+            "مسیر کوتاهی را پیمودیم."
+          ],
+          [
+            "ser / el día",
+            "El día fue tranquilo.",
+            "روز آرام بود."
+          ],
+          [
+            "tener / ellos",
+            "Tuvieron tiempo para comer.",
+            "آن‌ها برای غذاخوردن وقت داشتند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Fui» برای «ir» و «ser» یکسان است؛ معنی را از جمله پیدا کن.",
+        "در این شکل‌ها تکیهٔ نوشتاری نمی‌گذاریم."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Ayer fui al parque natural con mis primos.",
+          "fa": "دیروز با پسرعموهایم به پارک طبیعی رفتم.",
+          "note_fa": "«Fui» گذشتهٔ بی‌قاعدهٔ «ir» است."
+        },
+        {
+          "target": "Hicimos una ruta corta hasta el mirador.",
+          "fa": "مسیر کوتاهی تا نقطهٔ دیدبانی پیمودیم.",
+          "note_fa": "«Hicimos» شکل nosotros از «hacer» است."
+        },
+        {
+          "target": "Tuvieron tiempo para descansar en el refugio.",
+          "fa": "آن‌ها در پناهگاه برای استراحت وقت داشتند.",
+          "note_fa": "«Tuvieron» از بن بی‌قاعدهٔ «tuv-» ساخته می‌شود."
+        },
+        {
+          "target": "La tarde estuvo tranquila junto a la cascada.",
+          "fa": "بعدازظهر کنار آبشار آرام بود.",
+          "note_fa": "«Estuvo» برای وضعیت تمام‌شده به کار می‌رود."
+        },
+        {
+          "target": "El camino fue fácil para todos.",
+          "fa": "مسیر برای همه آسان بود.",
+          "note_fa": "«Fue» در این جمله شکل «ser» است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un día en el parque natural",
+      "script": "Marta: Ayer fuimos al parque natural con nuestros primos y dos amigos.\nLuis: ¿El recorrido fue largo?\nMarta: No, pero estuvimos tres horas en el bosque de pinos.\nLuis: ¿Qué hicieron primero, al llegar al parque?\nMarta: Hicimos una ruta corta hasta el mirador y la cascada.\nLuis: ¿Tuvieron tiempo para comer en el área de descanso?\nMarta: Sí, tuvimos un picnic junto al río y descansamos un rato.\nLuis: ¿Dónde estuvieron después?\nMarta: En el mirador; fue un día tranquilo y regresamos antes de la noche.",
+      "script_fa": "مارتا: دیروز با پسرعموهایمان و دو دوست به پارک طبیعی رفتیم.\nلوئیس: مسیر طولانی بود؟\nمارتا: نه، اما سه ساعت در جنگل کاج بودیم.\nلوئیس: اول، پس از رسیدن به پارک، چه کار کردید؟\nمارتا: مسیر کوتاهی تا نقطهٔ دیدبانی و آبشار پیمودیم.\nلوئیس: برای غذاخوردن در محل استراحت وقت داشتید؟\nمارتا: بله، کنار رودخانه پیک‌نیک داشتیم و کمی استراحت کردیم.\nلوئیس: بعد کجا بودید؟\nمارتا: در نقطهٔ دیدبانی؛ روز آرامی بود و پیش از شب برگشتیم.",
+      "question_fa": "¿Dónde estuvieron Marta y sus primos después?",
+      "answer": "En el mirador.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Recordar una excursión",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Adónde fuiste el sábado?",
+          "fa": "شنبه به کجا رفتی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Fui a un parque natural con mi familia.",
+          "fa": "با خانواده‌ام به پارک طبیعی رفتم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Cuánto tiempo estuvieron allí?",
+          "fa": "چه مدت آنجا بودید؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Estuvimos desde la mañana hasta la tarde.",
+          "fa": "از صبح تا بعدازظهر آنجا بودیم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Hiciste una caminata larga?",
+          "fa": "پیاده‌روی طولانی کردی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "No, hicimos una ruta sencilla.",
+          "fa": "نه، مسیر ساده‌ای را پیمودیم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Tuvieron buen tiempo?",
+          "fa": "هوا خوب بود؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, el cielo estuvo despejado.",
+          "fa": "بله، آسمان صاف بود."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «سفر»، یک گردش تمام‌شده را با دست‌کم سه فعل «ir، hacer، tener» یا «estar» در گذشته تعریف کن.",
+      "useful_phrases": [
+        {
+          "target": "¿Adónde fuiste?",
+          "fa": "کجا رفتی؟"
+        },
+        {
+          "target": "Hicimos una ruta.",
+          "fa": "مسیری پیمودیم."
+        },
+        {
+          "target": "Tuvimos tiempo para comer.",
+          "fa": "برای غذاخوردن وقت داشتیم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una salida al parque natural",
+      "text": "El sábado, Inés y sus amigos fueron a un parque natural. El viaje fue corto y el día estuvo despejado. Primero hicieron una ruta por el bosque de pinos. Después estuvieron cerca de una cascada y descansaron en un área tranquila. Inés tuvo una idea: caminar hasta el mirador antes de comer. Sus amigos tuvieron tiempo y fueron con ella. La vista fue bonita y el grupo hizo un picnic junto al río. Por la tarde, estuvieron en el refugio de montaña y regresaron a casa antes de la noche.",
+      "glossary": [
+        {
+          "term": "vista",
+          "fa": "چشم‌انداز"
+        },
+        {
+          "term": "despejado",
+          "fa": "صاف"
+        },
+        {
+          "term": "regresar",
+          "fa": "بازگشتن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Adónde fueron Inés y sus amigos?",
+          "a": "A un parque natural."
+        },
+        {
+          "q_fa": "¿Dónde hicieron un picnic?",
+          "a": "Junto al río."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل درست را انتخاب کن.",
+          "question": "Ayer yo ___ al parque natural. (ir)",
+          "options": [
+            "fui",
+            "iba",
+            "voy"
+          ],
+          "answer": "fui",
+          "explanation_fa": "«Fui» شکل گذشتهٔ «ir» برای yo است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "Nosotros ___ una ruta corta. (hacer)",
+          "options": [
+            "hicimos",
+            "hacemos",
+            "hice"
+          ],
+          "answer": "hicimos",
+          "explanation_fa": "«Hicimos» شکل nosotros del pretérito de hacer است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست را انتخاب کن.",
+          "question": "Ellos ___ tiempo para comer. (tener)",
+          "options": [
+            "tuvieron",
+            "tienen",
+            "tuviste"
+          ],
+          "answer": "tuvieron",
+          "explanation_fa": "برای ellos از «tuvieron» استفاده می‌کنیم."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Fui» puede ser una forma pasada de ir y de ser.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "«Ir» و «ser» در pretérito شکل‌های یکسان دارند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "La tarde ___ tranquila. (estar)",
+          "answer": [
+            "estuvo"
+          ],
+          "explanation_fa": "شکل گذشتهٔ «estar» برای ella برابر «estuvo» است."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Dónde estuvieron Marta y sus primos después?",
+          "answer": [
+            "En el mirador."
+          ],
+          "explanation_fa": "آن‌ها بعداً در نقطهٔ دیدبانی بودند."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Adónde fueron Marta y sus primos?",
+          "options": [
+            "A un parque natural",
+            "A una estación de tren",
+            "A un museo de la ciudad"
+          ],
+          "answer": "A un parque natural",
+          "explanation_fa": "Marta dice que fueron al parque natural."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuánto tiempo estuvieron en el bosque?",
+          "options": [
+            "Tres horas",
+            "Una hora",
+            "Toda la noche"
+          ],
+          "answer": "Tres horas",
+          "explanation_fa": "Estuvieron tres horas en el bosque."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hicieron hasta el mirador?",
+          "options": [
+            "Una ruta",
+            "Una visita a una tienda",
+            "Una clase de cocina"
+          ],
+          "answer": "Una ruta",
+          "explanation_fa": "Hicieron una ruta hasta el mirador."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Tuvieron tiempo para comer?",
+          "options": [
+            "Sí, hicieron un picnic",
+            "No, regresaron enseguida",
+            "Comieron en el hotel"
+          ],
+          "answer": "Sí, hicieron un picnic",
+          "explanation_fa": "Tuvieron un picnic junto al río."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde estuvieron después?",
+          "options": [
+            "En el mirador",
+            "En el aula",
+            "En el mercado"
+          ],
+          "answer": "En el mirador",
+          "explanation_fa": "Marta responde que estuvieron en el mirador."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش دوستی که گردش شنبه را تعریف می‌کند، از «fui/fuimos»، «hice/hicimos» و «tuve/tuvimos» استفاده کن.",
+      "suggested_prompts": [
+        [
+          "برای گفتن مقصد از چه فعلی استفاده می‌کنی؟",
+          "از شکل گذشتهٔ «ir» استفاده کن."
+        ],
+        [
+          "یک فعالیت را با «hacer» تعریف کن.",
+          "به «hice» یا «hicimos» فکر کن."
+        ],
+        [
+          "بگو برای غذا وقت داشتی یا نه.",
+          "از «tuve» یا «tuvimos» استفاده کن."
+        ]
+      ],
+      "focus": [
+        "pretérito irregular",
+        "ir y ser",
+        "hacer, tener y estar"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-04",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Marta cuenta a Luis una excursión que terminó el sábado."
+  }
+}

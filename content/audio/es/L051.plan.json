@@ -1,0 +1,398 @@
+{
+  "lesson": "L051",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L051-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Desde hace cuánto estudias español?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L051-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Desde hace seis meses.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L051-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Tienes clase en línea?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L051-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, tengo clase en línea desde hace dos meses.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L051-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Participas en un grupo de conversación?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L051-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, participo desde hace tres semanas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L051-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Tu compañero de clase estudia contigo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L051-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, estamos en el mismo grupo desde hace un mes.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L051-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Estudio español desde hace seis meses en el centro cultural.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L051-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "¿Tienes una clase en línea?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L051-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Sí, tengo una clase en línea desde hace dos meses.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L051-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Practicas con un grupo de conversación?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L051-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Sí, participo en ese grupo desde hace tres semanas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L051-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Desde hace cuánto escribes una lista de palabras?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L051-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Desde hace un mes; escribo la lista después de cada clase.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L051-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¿Tu compañero de clase también participa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L051-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Sí, estudia conmigo desde hace poco.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L051-es-vocab-claseenlinea",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "clase en línea. Tengo una clase en línea desde hace un mes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L051-es-vocab-grupodeconversacion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "grupo de conversación. Participo en un grupo de conversación desde hace dos semanas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 84
+    },
+    {
+      "id": "L051-es-vocab-companerodeclase",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "compañero de clase. Mi compañero de clase vive aquí desde hace un año.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 70
+    },
+    {
+      "id": "L051-es-vocab-cuadernodeapuntes",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "cuaderno de apuntes. Uso mi cuaderno de apuntes desde hace dos semanas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 71
+    },
+    {
+      "id": "L051-es-vocab-listadepalabras",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "lista de palabras. Escribo una lista de palabras desde hace tres días.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 70
+    },
+    {
+      "id": "L051-es-vocab-ejerciciodeescucha",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "ejercicio de escucha. Hago un ejercicio de escucha cada mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L051-es-vocab-tareaescrita",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "tarea escrita. La tarea escrita está en mi carpeta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L051-es-vocab-profesorparticular",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "profesor particular. Estudio con un profesor particular desde hace seis meses.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 78
+    },
+    {
+      "id": "L051-es-vocab-sesiondepractica",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "sesión de práctica. La sesión de práctica empieza a las cinco.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L051-es-vocab-nivelbasico",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "nivel básico. El curso está en el nivel básico.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L051-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Estudio español desde hace seis meses.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L051-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "¿Desde hace cuánto tiempo vives aquí?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L051-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Tenemos clase en línea desde hace un mes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L051-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Trabajo aquí desde enero.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L051-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Practico español en casa desde hace seis meses.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L051-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Mi hermana vive en este barrio desde hace un año.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L051-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tenemos clase en línea desde hace tres días.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L051-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "¿Trabajas aquí desde hace mucho tiempo?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L051-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Mi grupo practica español desde enero.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L051-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Lucía vive en esta ciudad desde hace un año. Estudia español desde hace seis meses y tiene una clase en línea desde hace dos meses. Cada semana participa en un grupo de conversación con otros estudiantes. Su compañero de clase también vive aquí desde enero. Los dos usan un cuaderno de apuntes y escriben una lista de palabras nuevas. Lucía hace un ejercicio de escucha cada mañana. Su profesor particular prepara una tarea escrita para el viernes. El curso está en el nivel básico, pero el grupo practica con regularidad y continúa aprendiendo.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 545
+    },
+    {
+      "id": "L051-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L051)",
+      "tts_text": "از چه مدت در این شهر زندگی می‌کنی یا زبانی را یاد می‌گیری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L051-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L051)",
+      "tts_text": "برای مدت ادامه‌دار می‌گوییم «desde hace + مدت» و فعل را در حال می‌آوریم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L051-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L051)",
+      "tts_text": "به گفت‌وگو گوش کن و مدت زمان یادگیری لوسیا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L051-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L051)",
+      "tts_text": "«Estudio desde hace seis meses» یعنی یادگیری هنوز ادامه دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L051-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L051)",
+      "tts_text": "دربارهٔ کاری که از مدتی پیش انجام می‌دهی صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L051-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L051)",
+      "tts_text": "برای مدت ادامه‌دار از زمان حال استفاده کن؛ برای نقطهٔ شروع بگو «desde enero».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 77
+    }
+  ]
+}

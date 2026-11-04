@@ -1,0 +1,398 @@
+{
+  "lesson": "L050",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L050-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Adónde fuiste el sábado?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L050-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Fui a un parque natural con mi familia.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L050-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Cuánto tiempo estuvieron allí?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L050-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Estuvimos desde la mañana hasta la tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L050-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Hiciste una caminata larga?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L050-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, hicimos una ruta sencilla.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L050-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Tuvieron buen tiempo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L050-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, el cielo estuvo despejado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L050-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Ayer fuimos al parque natural con nuestros primos y dos amigos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L050-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "¿El recorrido fue largo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L050-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "No, pero estuvimos tres horas en el bosque de pinos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L050-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Qué hicieron primero, al llegar al parque?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L050-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Hicimos una ruta corta hasta el mirador y la cascada.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L050-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Tuvieron tiempo para comer en el área de descanso?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L050-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Sí, tuvimos un picnic junto al río y descansamos un rato.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L050-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¿Dónde estuvieron después?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L050-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "En el mirador; fue un día tranquilo y regresamos antes de la noche.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 67
+    },
+    {
+      "id": "L050-es-vocab-excursiondeundia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "excursión de un día. La excursión de un día empezó a las ocho.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L050-es-vocab-parquenatural",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "parque natural. Ayer fuimos al parque natural con la clase.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L050-es-vocab-senderosenalizado",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "sendero señalizado. El sendero señalizado terminó junto a un río.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L050-es-vocab-mirador",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "mirador. El mirador estuvo abierto toda la tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L050-es-vocab-cascada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "cascada. La cascada estuvo muy cerca del puente.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L050-es-vocab-bosquedepinos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "bosque de pinos. El bosque de pinos fue muy tranquilo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L050-es-vocab-refugiodemontana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "refugio de montaña. El refugio de montaña tuvo agua fresca.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L050-es-vocab-areadedescanso",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "área de descanso. Hicimos una pausa en el área de descanso.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L050-es-vocab-mapadelaruta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "mapa de la ruta. El mapa de la ruta fue fácil de leer.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L050-es-vocab-puentecolgante",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "puente colgante. El puente colgante estuvo cerrado ayer.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L050-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Ayer fui al parque natural.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L050-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Hicimos una ruta corta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L050-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "El día fue tranquilo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L050-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Tuvieron tiempo para comer.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L050-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Ayer fui al parque natural con mis primos.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L050-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Hicimos una ruta corta hasta el mirador.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L050-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Tuvieron tiempo para descansar en el refugio.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L050-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La tarde estuvo tranquila junto a la cascada.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L050-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "El camino fue fácil para todos.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L050-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "El sábado, Inés y sus amigos fueron a un parque natural. El viaje fue corto y el día estuvo despejado. Primero hicieron una ruta por el bosque de pinos. Después estuvieron cerca de una cascada y descansaron en un área tranquila. Inés tuvo una idea: caminar hasta el mirador antes de comer. Sus amigos tuvieron tiempo y fueron con ella. La vista fue bonita y el grupo hizo un picnic junto al río. Por la tarde, estuvieron en el refugio de montaña y regresaron a casa antes de la noche.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 484
+    },
+    {
+      "id": "L050-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L050)",
+      "tts_text": "شنبهٔ گذشته چه گردش یا برنامه‌ای داشتی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 39
+    },
+    {
+      "id": "L050-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L050)",
+      "tts_text": "شکل‌های «fui», «hice», «tuve» و «estuve» در گذشته بی‌قاعده‌اند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L050-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L050)",
+      "tts_text": "به گفت‌وگو گوش کن و مکان بعدی مارتا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L050-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L050)",
+      "tts_text": "«Fui» می‌تواند شکل گذشتهٔ «ir» یا «ser» باشد؛ بافت معنی را روشن می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L050-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L050)",
+      "tts_text": "یک گردش گذشته را با چند فعل بی‌قاعده تعریف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    },
+    {
+      "id": "L050-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L050)",
+      "tts_text": "قید زمان گذشته و بافت جمله را برای انتخاب معنی در نظر بگیر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    }
+  ]
+}

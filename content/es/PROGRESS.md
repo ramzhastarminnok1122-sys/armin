@@ -4,8 +4,8 @@ Actualizado: 2026-11-04
 
 ## Contenido
 
-- Lecciones instaladas: L001–L048 (48 de 340).
-- Validación completa del corpus: 48 lecciones, 55.904 comprobaciones, 0 errores.
+- Lecciones instaladas: L001–L051 (51 de 340).
+- Validación completa del corpus: 51 lecciones, 59.475 comprobaciones, 0 errores.
 - QA independiente L001–L003: 36 comprobaciones de secciones, 30 términos nuevos y 141 enunciados objetivo únicos.
 - QA independiente L004–L006: 36 comprobaciones de secciones, 30 términos nuevos y 92 enunciados de ejemplos, diálogos y lecturas; revisión léxica previa aprobada.
 - QA independiente L007–L009: 36 comprobaciones de secciones, 30 términos nuevos y 91 enunciados objetivo únicos; revisión léxica previa aprobada.
@@ -23,14 +23,16 @@ Actualizado: 2026-11-04
 - QA independiente L043–L045: 36 comprobaciones de secciones, 30 términos nuevos y 78 enunciados únicos; respuestas, escucha bilingüe, explicaciones persas, permiso y continuidad revisados.
 - QA independiente L046–L048: 240 verificaciones, 30 términos nuevos y 75 enunciados únicos; respuestas, explicaciones persas, escucha bilingüe, roles y continuidad revisados.
 - Validación aislada L046–L048: 3.566 comprobaciones, 0 errores.
+- QA independiente L049–L051: 220 verificaciones, 30 términos nuevos y 74 enunciados únicos; pasado regular e irregular, duración en curso, respuestas y escucha bilingüe revisados.
+- Validación aislada L049–L051: 3.571 comprobaciones, 0 errores.
 - Inglés y francés no se modificaron.
 
 ## Audio — planes no son grabaciones
 
-- Lecciones/manifiestos españoles: 48; clips planificados: 2.064 (1.776 en español y 288 en persa).
-- MP3 físicos verificados: 0; referencias de audio en las lecciones: 0; clips pendientes: 2.064.
+- Lecciones/manifiestos españoles: 51; clips planificados: 2.193 (1.887 en español y 306 en persa).
+- MP3 físicos verificados: 0; referencias de audio en las lecciones: 0; clips pendientes: 2.193.
 - No se generaron archivos de audio.
 
 ## Próximo paso
 
-Continuar secuencialmente con L049–L051 en un lote aislado; validar antes de instalar.
+Continuar secuencialmente con L052–L054 en un lote aislado; validar antes de instalar.
