@@ -1,0 +1,466 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 54,
+    "title": "¿Tienes la cortina? Sí, la tengo",
+    "subtitle": "Reemplazar objetos con pronombres",
+    "description": "Diego y Marta organizan los objetos del apartamento nuevo.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Pronombres de objeto directo lo, la, los y las",
+      "objectives": [
+        "Reemplazar un objeto conocido con lo, la, los o las.",
+        "Hacer concordar el pronombre con el género y el número.",
+        "Colocar el pronombre antes del verbo conjugado."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "اگر نام وسیله‌ای را گفتی و نمی‌خواهی دوباره تکرارش کنی، چه می‌گویی؟",
+      "questions": [
+        {
+          "q": "«La cortina» را با چه ضمیری جایگزین می‌کنی؟",
+          "hint_fa": "با «la»، چون مؤنث و مفرد است."
+        },
+        {
+          "q": "ضمیر مفعولی مستقیم پیش از کجا می‌آید؟",
+          "hint_fa": "پیش از فعل صرف‌شده."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Pronombres de objeto directo",
+      "body_fa": "ضمیر مفعولی مستقیم جای اسمِ چیزی را می‌گیرد که عمل مستقیماً روی آن انجام می‌شود. از «lo» برای اسم مذکر مفرد، «la» برای مؤنث مفرد، «los» برای مذکر جمع و «las» برای مؤنث جمع استفاده می‌کنیم. ضمیر پیش از فعل صرف‌شده می‌آید: «¿Tienes la cortina? Sí, la tengo». ضمیر با اسم جایگزین‌شده از نظر جنس و شمار هماهنگ است. این ضمیرها با «le/les» فرق دارند: «le» دریافت‌کننده را نشان می‌دهد، اما «la» می‌تواند خودِ وسیله را جایگزین کند. ابتدا اسم را پیدا کن و سپس ضمیر مناسب را انتخاب کن.",
+      "key_points": [
+        "«Lo/la» برای مفرد و «los/las» برای جمع است.",
+        "جنس ضمیر با اسم جایگزین‌شده هماهنگ می‌شود.",
+        "ضمیر مستقیم پیش از فعل صرف‌شده می‌آید و با «le/les» فرق دارد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "cortina",
+          "ipa": "/koɾˈti.na/",
+          "translation_fa": "پرده",
+          "example": "La cortina cubre la ventana pequeña.",
+          "example_fa": "پرده پنجرهٔ کوچک را می‌پوشاند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "estantería",
+          "ipa": "/es.tan.teˈɾi.a/",
+          "translation_fa": "قفسه",
+          "example": "La estantería tiene libros de colores.",
+          "example_fa": "قفسه کتاب‌های رنگی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "enchufe",
+          "ipa": "/eŋˈtʃu.fe/",
+          "translation_fa": "پریز",
+          "example": "El enchufe está detrás de la mesa.",
+          "example_fa": "پریز پشت میز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "interruptor",
+          "ipa": "/in.te.ɾupˈtoɾ/",
+          "translation_fa": "کلید برق",
+          "example": "El interruptor está junto a la puerta.",
+          "example_fa": "کلید برق کنار در است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cajón",
+          "ipa": "/kaˈxon/",
+          "translation_fa": "کشو",
+          "example": "Guardo los calcetines en el cajón.",
+          "example_fa": "جوراب‌ها را در کشو می‌گذارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "percha",
+          "ipa": "/ˈpeɾ.tʃa/",
+          "translation_fa": "چوب‌لباسی",
+          "example": "La percha está en el armario.",
+          "example_fa": "چوب‌لباسی در کمد است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cojín",
+          "ipa": "/koˈxin/",
+          "translation_fa": "کوسن",
+          "example": "El cojín está sobre la cama.",
+          "example_fa": "کوسن روی تخت است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "persiana",
+          "ipa": "/peɾˈsja.na/",
+          "translation_fa": "کرکره",
+          "example": "La persiana baja por la noche.",
+          "example_fa": "کرکره شب‌ها پایین می‌آید.",
+          "tag": "اسم"
+        },
+        {
+          "term": "funda de almohada",
+          "ipa": "/ˈfun.da ðe al.moˈa.ða/",
+          "translation_fa": "روبالشی",
+          "example": "La funda de almohada es blanca.",
+          "example_fa": "روبالشی سفید است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cesto de ropa",
+          "ipa": "/ˈθes.to ðe ˈro.pa/",
+          "translation_fa": "سبد لباس",
+          "example": "El cesto de ropa está en el baño.",
+          "example_fa": "سبد لباس در حمام است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Pronombres de objeto directo",
+      "explanation_fa": "وقتی اسمِ وسیله یا چیز را از قبل می‌دانیم، می‌توانیم آن را با ضمیر مفعولی مستقیم جایگزین کنیم. «Lo» برای مذکر مفرد، «la» برای مؤنث مفرد، «los» برای مذکر جمع و «las» برای مؤنث جمع است. ضمیر پیش از فعل صرف‌شده می‌آید: «¿Tienes la cortina? Sí, la tengo». ابتدا جنس و شمار اسم را پیدا کن. این ضمیر با «le/les» فرق دارد: در «Le doy la cortina a Marta»، «le» گیرنده است و «la» چیزی است که می‌دهیم. در پاسخ کوتاه هم ضمیر را پیش از فعل نگه می‌داریم.",
+      "pattern": "objeto conocido → lo/la/los/las + verbo conjugado",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "masculino singular",
+            "¿Tienes el cojín? Sí, lo tengo.",
+            "کوسن را داری؟ بله، آن را دارم."
+          ],
+          [
+            "femenino singular",
+            "¿Compraste la cortina? Sí, la compré.",
+            "پرده را خریدی؟ بله، آن را خریدم."
+          ],
+          [
+            "masculino plural",
+            "¿Ves los cajones? Sí, los veo.",
+            "کشوها را می‌بینی؟ بله، آن‌ها را می‌بینم."
+          ],
+          [
+            "femenino plural",
+            "¿Tienes las perchas? Sí, las tengo.",
+            "چوب‌لباسی‌ها را داری؟ بله، آن‌ها را دارم."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Lo/la» برای مفرد و «los/las» برای جمع است.",
+        "«Le/les» به دریافت‌کننده اشاره می‌کند؛ «lo/la» خودِ چیز را جایگزین می‌کند."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "La cortina está limpia; la lavo cada semana.",
+          "fa": "پرده تمیز است؛ هر هفته آن را می‌شویم.",
+          "note_fa": "«La» جایگزین اسم مؤنث «cortina» است."
+        },
+        {
+          "target": "El interruptor está en la pared; lo veo desde aquí.",
+          "fa": "کلید برق روی دیوار است؛ از اینجا آن را می‌بینم.",
+          "note_fa": "«Lo» به اسم مذکر «interruptor» برمی‌گردد."
+        },
+        {
+          "target": "Los cajones están abiertos; los cierro ahora.",
+          "fa": "کشوها باز هستند؛ حالا آن‌ها را می‌بندم.",
+          "note_fa": "«Los» برای اسم جمع مذکر آمده است."
+        },
+        {
+          "target": "¿Tienes las perchas? Sí, las guardé en el armario.",
+          "fa": "چوب‌لباسی‌ها را داری؟ بله، آن‌ها را در کمد گذاشتم.",
+          "note_fa": "«Las» با اسم مؤنث جمع هماهنگ است."
+        },
+        {
+          "target": "No encuentro la funda de almohada; no la veo.",
+          "fa": "روبالشی را پیدا نمی‌کنم؛ آن را نمی‌بینم.",
+          "note_fa": "ضمیر «la» پیش از فعل آمده است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Ordenar los objetos",
+      "script": "Marta: ¿Tienes la cortina nueva para la ventana del dormitorio?\nDiego: Sí, la guardé en el cajón grande del dormitorio.\nMarta: ¿Y los cojines del sofá, dónde están ahora?\nDiego: Los dejé sobre la cama, junto a la ventana.\nMarta: ¿Dónde están las persianas del salón?\nDiego: Las bajé antes de salir por la mañana.\nMarta: ¿Tienes el enchufe de la lámpara nueva?\nDiego: Sí, lo tengo detrás de la estantería del salón.\nMarta: Perfecto; ahora tenemos todos los objetos en su sitio.",
+      "script_fa": "مارتا: پردهٔ تازه را برای پنجرهٔ اتاق خواب داری؟\nدیگو: بله، آن را در کشوی بزرگ اتاق خواب گذاشتم.\nمارتا: کوسن‌های مبل حالا کجا هستند؟\nدیگو: آن‌ها را روی تخت، کنار پنجره گذاشتم.\nمارتا: کرکره‌های اتاق نشیمن کجا هستند؟\nدیگو: پیش از بیرون‌رفتن در صبح آن‌ها را پایین آوردم.\nمارتا: پریز چراغ تازه را داری؟\nدیگو: بله، آن را پشت قفسهٔ اتاق نشیمن دارم.\nمارتا: عالی؛ حالا همهٔ وسایل سر جای خود هستند.",
+      "question_fa": "¿Dónde dejó Diego los cojines?",
+      "answer": "Sobre la cama.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Preguntar por los objetos",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Tienes la persiana?",
+          "fa": "کرکره را داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, la bajé antes de salir.",
+          "fa": "بله، پیش از بیرون‌رفتن آن را پایین آوردم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Dónde están los cojines?",
+          "fa": "کوسن‌ها کجا هستند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Los dejé sobre la cama.",
+          "fa": "آن‌ها را روی تخت گذاشتم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Encontraste el interruptor?",
+          "fa": "کلید برق را پیدا کردی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, lo tengo junto a la puerta.",
+          "fa": "بله، آن را کنار در دارم."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Tienes las perchas?",
+          "fa": "چوب‌لباسی‌ها را داری؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, las guardé en el armario.",
+          "fa": "بله، آن‌ها را در کمد گذاشتم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، دربارهٔ وسیله‌های خانه از دوستت سؤال کن و در پاسخ آن‌ها را با «lo/la/los/las» جایگزین کن.",
+      "useful_phrases": [
+        {
+          "target": "¿Tienes la cortina? Sí, la tengo.",
+          "fa": "پرده را داری؟ بله، آن را دارم."
+        },
+        {
+          "target": "¿Dónde están los cojines? Los veo en la cama.",
+          "fa": "کوسن‌ها کجا هستند؟ آن‌ها را روی تخت می‌بینم."
+        },
+        {
+          "target": "¿Tienes las perchas? Sí, las tengo.",
+          "fa": "چوب‌لباسی‌ها را داری؟ بله، آن‌ها را دارم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Los objetos del apartamento",
+      "text": "Marta y Diego terminan de ordenar su apartamento. Marta limpia la cortina y la cuelga junto a la ventana. Diego busca el enchufe de la lámpara y lo encuentra detrás de la estantería. Los cojines están en la cama; Marta los lleva al sofá. Las perchas están en una caja, así que Diego las guarda en el armario. La persiana está levantada y Marta la baja antes de dormir. La funda de almohada está limpia, pero el cesto de ropa está lleno. También revisan los cajones y los dejan cerrados. Al final, cada objeto está en su lugar y el dormitorio queda ordenado.",
+      "glossary": [
+        {
+          "term": "colgar",
+          "fa": "آویزان‌کردن"
+        },
+        {
+          "term": "levantar",
+          "fa": "بالابردن"
+        },
+        {
+          "term": "revisar",
+          "fa": "بررسی‌کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Dónde encuentra Diego el enchufe?",
+          "a": "Detrás de la estantería."
+        },
+        {
+          "q_fa": "¿Dónde guarda Diego las perchas?",
+          "a": "En el armario."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "ضمیر مناسب را انتخاب کن.",
+          "question": "¿Tienes la cortina? Sí, ___ tengo.",
+          "options": [
+            "la",
+            "lo",
+            "les"
+          ],
+          "answer": "la",
+          "explanation_fa": "«Cortina» مؤنث مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "¿Ves los cojines? Sí, ___ veo.",
+          "options": [
+            "los",
+            "las",
+            "le"
+          ],
+          "answer": "los",
+          "explanation_fa": "«Cojines» مذکر جمع است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "ضمیر درست را انتخاب کن.",
+          "question": "¿Tienes el interruptor? Sí, ___ tengo.",
+          "options": [
+            "lo",
+            "la",
+            "los"
+          ],
+          "answer": "lo",
+          "explanation_fa": "«Interruptor» مذکر مفرد است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Las» puede reemplazar un sustantivo femenino plural.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "«Las» برای اسم مؤنث جمع است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "No encuentro la persiana; no ___ veo.",
+          "answer": [
+            "la"
+          ],
+          "explanation_fa": "ضمیر مؤنث مفرد پیش از فعل می‌آید."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Dónde dejó Diego los cojines?",
+          "answer": [
+            "Sobre la cama."
+          ],
+          "explanation_fa": "دیگو کوسن‌ها را روی تخت گذاشت."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Dónde está el enchufe?",
+          "options": [
+            "Detrás de la estantería",
+            "En el baño",
+            "En la calle"
+          ],
+          "answer": "Detrás de la estantería",
+          "explanation_fa": "Diego dice que lo tiene detrás de la estantería."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde están los cojines al principio?",
+          "options": [
+            "Sobre la cama",
+            "En el jardín",
+            "En el cajón"
+          ],
+          "answer": "Sobre la cama",
+          "explanation_fa": "Diego los dejó sobre la cama."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hace Marta con la persiana antes de dormir?",
+          "options": [
+            "La baja",
+            "La compra",
+            "La limpia"
+          ],
+          "answer": "La baja",
+          "explanation_fa": "Marta baja la persiana."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde guarda Diego las perchas?",
+          "options": [
+            "En el armario",
+            "En la cocina",
+            "En el balcón"
+          ],
+          "answer": "En el armario",
+          "explanation_fa": "Diego las guarda en el armario."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cómo queda el dormitorio al final?",
+          "options": [
+            "Ordenado",
+            "Oscuro y vacío",
+            "Abierto al público"
+          ],
+          "answer": "Ordenado",
+          "explanation_fa": "Al final, el dormitorio queda ordenado."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش دوستی که دربارهٔ وسایل خانه صحبت می‌کند، پنج جمله با «lo, la, los, las» بساز و اسم جایگزین‌شده را مشخص کن.",
+      "suggested_prompts": [
+        [
+          "وسیله‌ای مذکر و مفرد را جایگزین کن.",
+          "از «lo» استفاده کن."
+        ],
+        [
+          "وسیله‌ای مؤنث و مفرد را جایگزین کن.",
+          "از «la» استفاده کن."
+        ],
+        [
+          "دربارهٔ چند وسیلهٔ جمع صحبت کن.",
+          "«los» یا «las» را با اسم هماهنگ کن."
+        ]
+      ],
+      "focus": [
+        "pronombres directos",
+        "género y número",
+        "objetos de casa"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-04",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Marta pregunta a Diego dónde están varios objetos de la casa."
+  }
+}

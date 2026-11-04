@@ -4,8 +4,8 @@ Actualizado: 2026-11-04
 
 ## Contenido
 
-- Lecciones instaladas: L001–L051 (51 de 340).
-- Validación completa del corpus: 51 lecciones, 59.475 comprobaciones, 0 errores.
+- Lecciones instaladas: L001–L054 (54 de 340).
+- Validación completa del corpus: 54 lecciones, 63.058 comprobaciones, 0 errores.
 - QA independiente L001–L003: 36 comprobaciones de secciones, 30 términos nuevos y 141 enunciados objetivo únicos.
 - QA independiente L004–L006: 36 comprobaciones de secciones, 30 términos nuevos y 92 enunciados de ejemplos, diálogos y lecturas; revisión léxica previa aprobada.
 - QA independiente L007–L009: 36 comprobaciones de secciones, 30 términos nuevos y 91 enunciados objetivo únicos; revisión léxica previa aprobada.
@@ -25,14 +25,16 @@ Actualizado: 2026-11-04
 - Validación aislada L046–L048: 3.566 comprobaciones, 0 errores.
 - QA independiente L049–L051: 220 verificaciones, 30 términos nuevos y 74 enunciados únicos; pasado regular e irregular, duración en curso, respuestas y escucha bilingüe revisados.
 - Validación aislada L049–L051: 3.571 comprobaciones, 0 errores.
+- QA independiente L052–L054: 213 verificaciones, 30 términos nuevos y 77 enunciados únicos; contraste temporal, pronombres de objeto, respuestas y escucha bilingüe revisados.
+- Validación aislada L052–L054: 3.583 comprobaciones, 0 errores.
 - Inglés y francés no se modificaron.
 
 ## Audio — planes no son grabaciones
 
-- Lecciones/manifiestos españoles: 51; clips planificados: 2.193 (1.887 en español y 306 en persa).
-- MP3 físicos verificados: 0; referencias de audio en las lecciones: 0; clips pendientes: 2.193.
+- Lecciones/manifiestos españoles: 54; clips planificados: 2.322 (1.998 en español y 324 en persa).
+- MP3 físicos verificados: 0; referencias de audio en las lecciones: 0; clips pendientes: 2.322.
 - No se generaron archivos de audio.
 
 ## Próximo paso
 
-Continuar secuencialmente con L052–L054 en un lote aislado; validar antes de instalar.
+Continuar secuencialmente con L055–L057 en un lote aislado; validar antes de instalar.

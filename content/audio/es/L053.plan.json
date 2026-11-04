@@ -1,0 +1,398 @@
+{
+  "lesson": "L053",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L053-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Le escribes a Marta hoy?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L053-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, le mando un correo electrónico.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L053-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Qué les mandas a tus vecinos?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L053-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Les doy una nota de bienvenida.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L053-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Te dan la tarjeta de acceso esta tarde?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L053-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, me dan la tarjeta esta tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L053-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Les das tu número de teléfono?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L053-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, les doy mi número.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L053-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Le entregas el paquete a la vecina?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L053-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Sí, le entrego el paquete a Marta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L053-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Qué les mandas a los vecinos?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L053-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Les mando un correo electrónico con el manual.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L053-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Le das tu número a la administración?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L053-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Sí, le doy mi número de teléfono a la administradora.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L053-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Te escriben los vecinos también?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L053-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, me mandan un mensaje de voz.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L053-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Así les das toda la información.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L053-es-vocab-llavederepuesto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "llave de repuesto. Le doy una llave de repuesto a Marta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L053-es-vocab-tarjetadeacceso",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "tarjeta de acceso. Les damos una tarjeta de acceso a los vecinos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L053-es-vocab-notadebienvenida",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "nota de bienvenida. Le escribo una nota de bienvenida a Ana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L053-es-vocab-paquetepequeno",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "paquete pequeño. El paquete pequeño llega esta tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L053-es-vocab-sobrecerrado",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "sobre cerrado. Le doy un sobre cerrado al portero.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L053-es-vocab-manualdeinstrucciones",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "manual de instrucciones. Les envío el manual de instrucciones a los vecinos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 76
+    },
+    {
+      "id": "L053-es-vocab-numerodetelefono",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "número de teléfono. Le doy mi número de teléfono a la administradora.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 69
+    },
+    {
+      "id": "L053-es-vocab-mensajedevoz",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "mensaje de voz. Te mando un mensaje de voz esta tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L053-es-vocab-correoelectronico",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "correo electrónico. Les envío un correo electrónico a mis vecinos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 66
+    },
+    {
+      "id": "L053-es-vocab-destinatario",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "destinatario. El destinatario recibe el paquete mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L053-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Me mandan un correo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L053-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Te doy una nota.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 16
+    },
+    {
+      "id": "L053-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Le envío el manual a Marta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L053-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Les damos las tarjetas a los vecinos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L053-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Le doy la llave de repuesto a la vecina.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L053-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Te envío un mensaje corto esta tarde.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L053-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Les damos una tarjeta de acceso a los vecinos.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L053-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "¿Me mandas el correo electrónico hoy?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L053-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "La administradora le entrega el paquete a Diego.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L053-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Diego vive en un edificio nuevo y ayuda a sus vecinos. Le entrega una llave de repuesto a Marta y le escribe una nota de bienvenida. A los nuevos vecinos les da una tarjeta de acceso y les manda el manual de instrucciones. La administradora pide el número de teléfono; Diego escribe el número en una nota. Luego los vecinos le envían un correo electrónico con una pregunta. Diego les responde con un mensaje corto. Si la familia necesita ayuda, Diego les explica dónde está la entrada. Todos reciben la información y conocen al nuevo vecino.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 541
+    },
+    {
+      "id": "L053-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L053)",
+      "tts_text": "وقتی چیزی را به دوستی می‌دهی یا برایش می‌فرستی، از چه ضمیری استفاده می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L053-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L053)",
+      "tts_text": "ضمیرهای «me, te, le, nos, les» دریافت‌کننده را نشان می‌دهند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L053-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L053)",
+      "tts_text": "به گفت‌وگو گوش کن و ببین دیگو برای همسایه‌ها چه می‌فرستد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L053-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L053)",
+      "tts_text": "«Le» برای یک دریافت‌کننده و «les» برای چند نفر است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L053-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L053)",
+      "tts_text": "بگو چه چیزی را به یک نفر یا چند نفر می‌دهی یا می‌فرستی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L053-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L053)",
+      "tts_text": "ضمیر غیرمستقیم پیش از فعل می‌آید و دریافت‌کننده را نشان می‌دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    }
+  ]
+}

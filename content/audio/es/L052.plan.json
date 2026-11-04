@@ -1,0 +1,398 @@
+{
+  "lesson": "L052",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L052-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Cuándo cambiaste de casa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L052-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Me mudé hace un mes.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L052-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Te ayudó el servicio de mudanza?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L052-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, llegó temprano.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L052-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Cuándo llegaron tus muebles?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L052-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Llegaron hace dos días.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L052-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Tienes ya una dirección nueva?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L052-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, escribí la dirección nueva ayer.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L052-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Me mudé a este apartamento hace tres semanas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L052-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "¿La mudanza fue difícil?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L052-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Un poco; el camión de mudanzas llegó muy temprano.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L052-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Cuándo firmaste el contrato de alquiler?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L052-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Firmé el contrato hace un mes, antes de la mudanza.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L052-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Llegaron todas las cajas ayer?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L052-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Sí, llegaron hace dos días; ya están en la sala.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L052-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¿Cuándo compraste el mueble grande?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L052-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Compré el mueble grande hace una semana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L052-es-vocab-mudanza",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "mudanza. La mudanza terminó hace tres días.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L052-es-vocab-cajadecarton",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "caja de cartón. Abrí una caja de cartón hace un rato.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L052-es-vocab-mueblegrande",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "mueble grande. Compré un mueble grande hace una semana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L052-es-vocab-camiondemudanzas",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "camión de mudanzas. El camión de mudanzas llegó hace dos horas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L052-es-vocab-habitaciondeinvitados",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "habitación de invitados. La habitación de invitados quedó lista hace dos días.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 78
+    },
+    {
+      "id": "L052-es-vocab-llavenueva",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "llave nueva. Recibí una llave nueva hace un mes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L052-es-vocab-contratodealquiler",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "contrato de alquiler. Firmé el contrato de alquiler hace tres meses.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 68
+    },
+    {
+      "id": "L052-es-vocab-direccionnueva",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "dirección nueva. Escribí mi dirección nueva ayer.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L052-es-vocab-edificiodeapartamentos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "edificio de apartamentos. El edificio de apartamentos abrió hace un año.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 72
+    },
+    {
+      "id": "L052-es-vocab-serviciodemudanza",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "servicio de mudanza. El servicio de mudanza llegó temprano.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L052-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Me mudé hace tres semanas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L052-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "El camión llegó hace una hora.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L052-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Firmamos el contrato hace un mes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L052-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Compraron cajas hace dos días.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L052-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Me mudé a este barrio hace tres semanas.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L052-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "El servicio de mudanza llegó hace dos horas.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L052-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Firmamos el contrato de alquiler hace un mes.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L052-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Mi hermana compró una caja grande hace dos días.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L052-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "La mudanza ocurrió hace tres semanas.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L052-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Marta cambió de casa hace tres semanas. El camión de mudanzas llegó por la mañana y dejó varias cajas en la sala. Marta abrió una caja de cartón y guardó los libros en una estantería. Su hermano compró un mueble grande hace una semana. La habitación de invitados quedó lista hace dos días. Marta escribió su dirección nueva en una nota para los vecinos. El servicio de mudanza terminó su trabajo antes de la tarde. Ahora Marta tiene una llave nueva y conoce a dos personas del edificio. La mudanza fue sencilla y la familia preparó una cena en el apartamento.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 559
+    },
+    {
+      "id": "L052-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L052)",
+      "tts_text": "چه مدت پیش خانه یا محل زندگی‌ات را عوض کردی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 44
+    },
+    {
+      "id": "L052-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L052)",
+      "tts_text": "برای رویداد گذشته از «hace + مدت» همراه فعل در گذشته استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L052-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L052)",
+      "tts_text": "به گفت‌وگو گوش کن و زمان اسباب‌کشی مارتا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L052-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L052)",
+      "tts_text": "«Me mudé hace tres semanas» رویدادی تمام‌شده را بیان می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    },
+    {
+      "id": "L052-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L052)",
+      "tts_text": "زمان چند رویداد تمام‌شده را با «hace» توضیح بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L052-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L052)",
+      "tts_text": "برای رویداد پایان‌یافته «hace + گذشته» و برای وضعیت ادامه‌دار «desde hace + حال» را به کار ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 95
+    }
+  ]
+}

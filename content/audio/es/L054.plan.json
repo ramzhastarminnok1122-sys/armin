@@ -1,0 +1,398 @@
+{
+  "lesson": "L054",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L054-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Tienes la persiana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L054-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, la bajé antes de salir.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L054-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Dónde están los cojines?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L054-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Los dejé sobre la cama.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L054-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Encontraste el interruptor?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L054-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, lo tengo junto a la puerta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L054-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Tienes las perchas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L054-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, las guardé en el armario.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L054-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Tienes la cortina nueva para la ventana del dormitorio?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L054-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Sí, la guardé en el cajón grande del dormitorio.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L054-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Y los cojines del sofá, dónde están ahora?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L054-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Los dejé sobre la cama, junto a la ventana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L054-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Dónde están las persianas del salón?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L054-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Las bajé antes de salir por la mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L054-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Tienes el enchufe de la lámpara nueva?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L054-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, lo tengo detrás de la estantería del salón.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L054-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Perfecto; ahora tenemos todos los objetos en su sitio.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L054-es-vocab-cortina",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "cortina. La cortina cubre la ventana pequeña.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L054-es-vocab-estanteria",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "estantería. La estantería tiene libros de colores.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L054-es-vocab-enchufe",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "enchufe. El enchufe está detrás de la mesa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L054-es-vocab-interruptor",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "interruptor. El interruptor está junto a la puerta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L054-es-vocab-cajon",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "cajón. Guardo los calcetines en el cajón.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L054-es-vocab-percha",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "percha. La percha está en el armario.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L054-es-vocab-cojin",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "cojín. El cojín está sobre la cama.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L054-es-vocab-persiana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "persiana. La persiana baja por la noche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L054-es-vocab-fundadealmohada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "funda de almohada. La funda de almohada es blanca.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L054-es-vocab-cestoderopa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "cesto de ropa. El cesto de ropa está en el baño.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L054-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "¿Tienes el cojín? Sí, lo tengo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L054-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "¿Compraste la cortina? Sí, la compré.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L054-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "¿Ves los cajones? Sí, los veo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L054-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "¿Tienes las perchas? Sí, las tengo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L054-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La cortina está limpia; la lavo cada semana.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L054-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "El interruptor está en la pared; lo veo desde aquí.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L054-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Los cajones están abiertos; los cierro ahora.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L054-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "¿Tienes las perchas? Sí, las guardé en el armario.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L054-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "No encuentro la funda de almohada; no la veo.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L054-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Marta y Diego terminan de ordenar su apartamento. Marta limpia la cortina y la cuelga junto a la ventana. Diego busca el enchufe de la lámpara y lo encuentra detrás de la estantería. Los cojines están en la cama; Marta los lleva al sofá. Las perchas están en una caja, así que Diego las guarda en el armario. La persiana está levantada y Marta la baja antes de dormir. La funda de almohada está limpia, pero el cesto de ropa está lleno. También revisan los cajones y los dejan cerrados. Al final, cada objeto está en su lugar y el dormitorio queda ordenado.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 557
+    },
+    {
+      "id": "L054-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L054)",
+      "tts_text": "اگر نام وسیله‌ای را گفتی و نمی‌خواهی دوباره تکرارش کنی، چه می‌گویی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L054-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L054)",
+      "tts_text": "ضمیر مستقیم «lo, la, los, las» جای اسم وسیله را می‌گیرد و با آن هماهنگ می‌شود.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 78
+    },
+    {
+      "id": "L054-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L054)",
+      "tts_text": "به گفت‌وگو گوش کن و جای کوسن‌ها را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 43
+    },
+    {
+      "id": "L054-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L054)",
+      "tts_text": "برای «la cortina» می‌گوییم «la»؛ برای «los cojines» می‌گوییم «los».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L054-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L054)",
+      "tts_text": "دربارهٔ وسیله‌های خانه سؤال کن و در پاسخ ضمیر بیاور.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L054-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L054)",
+      "tts_text": "ضمیر مستقیم پیش از فعل می‌آید؛ آن را با جنس و شمار اسم هماهنگ کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 65
+    }
+  ]
+}
