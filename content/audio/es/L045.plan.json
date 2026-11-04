@@ -1,0 +1,398 @@
+{
+  "lesson": "L045",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L045-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Puedo sacar una foto de esta obra?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L045-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, puedes, pero sin flash.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L045-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Puedo tocar la maqueta de la sala?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L045-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "No, no puedes tocar las obras.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L045-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Podemos hablar mientras escuchamos la explicación?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L045-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, podemos hablar en voz baja.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L045-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Tengo que apagar el móvil?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L045-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, por favor; así todos escuchan bien.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L045-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Bienvenidos a la exposición; pueden leer las normas en el folleto de la entrada.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 80
+    },
+    {
+      "id": "L045-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "¿Puedo fotografiar las obras de arte en esta sala?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L045-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Sí, puedes sacar fotos sin flash, pero no puedes tocar las esculturas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 70
+    },
+    {
+      "id": "L045-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Puedo usar el móvil para escribir una nota rápida?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L045-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Sí, pero tienes que apagar el sonido antes de empezar.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L045-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Podemos hablar durante la visita?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L045-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Pueden hablar en voz baja durante la visita.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L045-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¿Puedo dejar mi abrigo en algún sitio?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L045-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Puedes dejar el abrigo en recepción; al salir, recoges tus cosas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L045-es-vocab-permiso",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "permiso. ¿Puedo pedir permiso para sacar una foto?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L045-es-vocab-visitante",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "visitante. El visitante entra en la exposición.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L045-es-vocab-exposicion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "exposición. La exposición abre a las diez.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L045-es-vocab-obradearte",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "obra de arte. Una obra de arte está junto a la entrada.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L045-es-vocab-folleto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "folleto. El folleto explica las normas del museo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L045-es-vocab-fotografiar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "fotografiar. Puedes fotografiar la sala sin flash.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L045-es-vocab-prohibidoprohibida",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "prohibido, prohibida. El cartel dice: «Prohibido tocar las obras».",
+      "priority": "P2",
+      "language": "es",
+      "chars": 66
+    },
+    {
+      "id": "L045-es-vocab-sinflash",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "sin flash. Puedes sacar fotos sin flash.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L045-es-vocab-guardarsilencio",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "guardar silencio. El guía pide guardar silencio en la sala.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L045-es-vocab-apagarelmovil",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "apagar el móvil. Puedes apagar el móvil durante la visita.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L045-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "¿Puedo fotografiar esta obra?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L045-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Puedes entrar en la exposición.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L045-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Podemos guardar silencio aquí.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L045-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "No puedes tocar las obras.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L045-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "¿Puedo sacar una foto de la exposición?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L045-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Puedes leer el folleto en la entrada.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L045-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "No podemos usar el flash en esta sala.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L045-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "¿Puede el visitante apagar el móvil?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L045-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Los visitantes pueden guardar silencio durante la explicación.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L045-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Marta y Raúl visitan una exposición en el centro de la ciudad. En la entrada, una guía les entrega un folleto con las normas. Marta pregunta si puede fotografiar una obra de arte. La guía dice que sí, pero sin flash. También explica que los visitantes no pueden tocar las esculturas. Raúl quiere escribir una nota y pregunta si puede usar el móvil. La guía dice que puede usarlo, pero tiene que apagar el sonido. En la sala principal, todos pueden hablar en voz baja y guardar silencio durante la explicación. Al salir, Marta guarda el folleto en su bolso.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 556
+    },
+    {
+      "id": "L045-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L045)",
+      "tts_text": "هنگام بازدید از موزه، پیش از چه کاری اجازه می‌گیری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L045-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L045)",
+      "tts_text": "«Poder» همراه مصدر می‌آید و می‌تواند اجازه یا امکان را بیان کند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L045-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L045)",
+      "tts_text": "به گفت‌وگو گوش کن و کاری را پیدا کن که رائول اجازه ندارد با مجسمه‌ها انجام دهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 79
+    },
+    {
+      "id": "L045-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L045)",
+      "tts_text": "برای درخواست اجازه می‌گوییم «¿Puedo fotografiar...?».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L045-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L045)",
+      "tts_text": "در موزه دربارهٔ کارهای مجاز و ممنوع سؤال کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 44
+    },
+    {
+      "id": "L045-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L045)",
+      "tts_text": "«Poder» را با فاعل صرف کن و فعل بعدی را مصدر نگه دار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    }
+  ]
+}

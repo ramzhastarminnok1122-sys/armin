@@ -1,0 +1,398 @@
+{
+  "lesson": "L044",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L044-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué necesitas para la ruta del domingo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L044-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Necesito una cantimplora y una linterna.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L044-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Yo necesito revisar el pronóstico del tiempo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L044-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "¿Necesitas comprar botas de montaña?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L044-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "No, ya tengo botas; necesito llevar una gorra.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L044-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "También necesitamos protector solar.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L044-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Necesitamos repelente de insectos?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L044-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, y una brújula para seguir la ruta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L044-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Para la ruta de mañana, necesitamos revisar la lista y preparar la mochila hoy.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 79
+    },
+    {
+      "id": "L044-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Yo llevo una cantimplora grande, pero falta llenar otra botella.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 64
+    },
+    {
+      "id": "L044-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "También necesito comprar pilas para la linterna pequeña.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L044-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Aunque el día está fresco, necesitamos protector solar.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L044-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Sí, y necesitamos llevar repelente de insectos porque hay muchos mosquitos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 75
+    },
+    {
+      "id": "L044-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Tienes una brújula o un mapa para encontrar el sendero?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L044-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Tengo una brújula; tú necesitas llevar las botas de montaña.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L044-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "De acuerdo. También necesito llevar una gorra y un chubasquero ligero.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 70
+    },
+    {
+      "id": "L044-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Las pilas, el bastón y el agua ya están junto a la puerta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L044-es-vocab-cantimplora",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "cantimplora. Necesito llenar la cantimplora antes de salir.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L044-es-vocab-linterna",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "linterna. Una linterna es útil al final de la ruta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L044-es-vocab-protectorsolar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "protector solar. Necesitamos protector solar para el día.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L044-es-vocab-repelentedeinsectos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "repelente de insectos. El repelente de insectos está en la mochila.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 67
+    },
+    {
+      "id": "L044-es-vocab-brujula",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "brújula. ¿Tienes una brújula para la ruta?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L044-es-vocab-botasdemontana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "botas de montaña. Sus botas de montaña son cómodas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L044-es-vocab-gorra",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "gorra. Llevo una gorra cuando hace mucho sol.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L044-es-vocab-chubasquero",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "chubasquero. El chubasquero está dentro de la bolsa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L044-es-vocab-pilas",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "pilas. Necesito pilas para la linterna.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L044-es-vocab-bastondesenderismo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "bastón de senderismo. El bastón de senderismo ayuda en el camino.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L044-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Necesito una cantimplora.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L044-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Necesito comprar pilas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L044-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Necesitamos llevar agua.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L044-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "No necesitas una brújula hoy.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L044-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Necesito una linterna para la ruta.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L044-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Marta necesita llevar agua.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L044-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "¿Necesitas comprar pilas hoy?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L044-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "No necesitamos botas nuevas.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L044-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Raúl necesita una gorra y protector solar.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L044-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Marta y Raúl preparan una caminata corta para el domingo. Primero miran el pronóstico del tiempo y hacen una lista. Necesitan llevar agua en una cantimplora y una linterna con pilas nuevas. Marta necesita ponerse las botas de montaña y llevar una gorra. Raúl necesita comprar protector solar y repelente de insectos. Si llueve, llevan un chubasquero ligero. También guardan una brújula y un bastón de senderismo en la mochila. No necesitan llevar muchas cosas, pero sí revisar el equipo antes de salir. La noche anterior, dejan todo junto a la puerta para no olvidar nada.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 572
+    },
+    {
+      "id": "L044-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L044)",
+      "tts_text": "برای گردش کوتاه، چه چیزی را باید همراه ببری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 44
+    },
+    {
+      "id": "L044-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L044)",
+      "tts_text": "«Necesitar» می‌تواند پیش از اسم یا مصدر بیاید: «necesito una linterna» یا «necesito comprar pilas».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 99
+    },
+    {
+      "id": "L044-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L044)",
+      "tts_text": "به گفت‌وگو گوش کن و چیزی را پیدا کن که مارتا باید بخرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L044-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L044)",
+      "tts_text": "پس از «necesitar» اسم یا مصدر می‌آید؛ مصدر صرف نمی‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L044-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L044)",
+      "tts_text": "فهرست وسایل لازم برای گردش را با دوستت آماده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L044-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L044)",
+      "tts_text": "با «necesitar» بگو چه چیزی لازم داری یا چه کاری باید انجام بدهی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    }
+  ]
+}

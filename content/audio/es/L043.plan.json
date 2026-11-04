@@ -1,0 +1,398 @@
+{
+  "lesson": "L043",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L043-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué tienes que hacer antes del almuerzo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L043-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Tengo que poner la mesa y sacar la basura.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L043-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Tienes que ordenar tu habitación hoy?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L043-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, pero no tengo que tender la ropa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L043-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Quién tiene que regar las plantas?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L043-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Mi hermana tiene que regarlas por la tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L043-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Tenemos que recoger los juguetes también?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L043-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, todos tenemos una tarea doméstica.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L043-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Antes de preparar el almuerzo, tengo que terminar algunas tareas de casa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 73
+    },
+    {
+      "id": "L043-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "¿Qué haces primero hoy?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L043-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Tengo que ordenar mi habitación y hacer la cama.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L043-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Yo tengo que regar las plantas del balcón y quitar el polvo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L043-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Tienes que poner la mesa también?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L043-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Sí, pero mi hermana tiene que sacar la basura.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L043-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Después, todos tenemos que recoger los juguetes del salón.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L043-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Mi madre no tiene que lavar los platos; yo los lavo después.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L043-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Entonces repartimos el trabajo y terminamos antes de las dos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L043-es-vocab-hacerlacama",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "hacer la cama. Tengo que hacer la cama antes del desayuno.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L043-es-vocab-ponerlamesa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "poner la mesa. Raúl tiene que poner la mesa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L043-es-vocab-sacarlabasura",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "sacar la basura. Hoy saco la basura por la tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L043-es-vocab-quitarelpolvo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "quitar el polvo. Tenemos que quitar el polvo del salón.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L043-es-vocab-regarlasplantas",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "regar las plantas. Marta tiene que regar las plantas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L043-es-vocab-lavarlosplatos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "lavar los platos. Tengo que lavar los platos después de comer.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L043-es-vocab-ordenarlahabitacion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "ordenar la habitación. Raúl tiene que ordenar su habitación.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L043-es-vocab-recogerlosjuguetes",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "recoger los juguetes. Los niños tienen que recoger los juguetes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 64
+    },
+    {
+      "id": "L043-es-vocab-tenderlaropa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "tender la ropa. Mi hermana tiene que tender la ropa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L043-es-vocab-tareadomestica",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "tarea doméstica. Cada persona tiene una tarea doméstica.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L043-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Tengo que hacer la cama. ¿Tienes que poner la mesa?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L043-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Marta tiene que regar las plantas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L043-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Tenemos que quitar el polvo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L043-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Raúl no tiene que lavar los platos hoy.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L043-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Tengo que ordenar mi habitación hoy.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L043-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "¿Tienes que sacar la basura esta noche?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L043-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Marta tiene que tender la ropa.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L043-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "No tenemos que limpiar toda la casa.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L043-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Los niños tienen que recoger los juguetes.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L043-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Los sábados, la familia de Marta organiza las tareas domésticas. Marta tiene que hacer la cama y ordenar su habitación antes del desayuno. Su hermano Raúl tiene que sacar la basura y regar las plantas del balcón. Después, los dos ponen la mesa. Su padre quita el polvo de la sala y su madre recoge los juguetes de los niños pequeños. Nadie hace todas las tareas solo; cada persona ayuda un poco. Al mediodía, Raúl lava los platos mientras Marta tiende la ropa. Por la tarde, pueden descansar y jugar juntos. La lista de tareas está en la cocina para que todos recuerden su parte.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 579
+    },
+    {
+      "id": "L043-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L043)",
+      "tts_text": "در خانه برای تمام‌کردن کارها پیش از ناهار چه مسئولیتی داری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L043-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L043)",
+      "tts_text": "برای بیان وظیفه، «tener» را صرف می‌کنیم و سپس «que» و مصدر می‌آوریم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L043-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L043)",
+      "tts_text": "به گفت‌وگو گوش کن و نخستین کار مارتا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L043-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L043)",
+      "tts_text": "می‌گوییم «tengo que ordenar» و «tenemos que poner».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L043-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L043)",
+      "tts_text": "دربارهٔ کارهای خانه و تقسیم مسئولیت‌ها صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L043-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L043)",
+      "tts_text": "«Tener que» را برای مسئولیت به کار ببر و فعل دوم را در مصدر نگه دار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    }
+  ]
+}
