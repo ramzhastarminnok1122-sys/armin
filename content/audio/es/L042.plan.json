@@ -1,0 +1,398 @@
+{
+  "lesson": "L042",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L042-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Cómo es la ruta en tren hasta Valencia?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L042-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Es más rápida que la ruta en autobús.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L042-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Y el autobús? ¿Es muy rápido?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L042-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "No; el autobús es más lento, pero el viaje es tranquilo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L042-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "El tren es más caro, pero también es más silencioso.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L042-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, y la estación está más cerca del centro.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L042-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Viajar en tren es tan práctico como viajar en autobús.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L042-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "De acuerdo; las dos opciones son interesantes.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L042-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Comparamos el tren y el autobús para ir al museo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L042-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "El tren tarda veinte minutos; el autobús, cuarenta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L042-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "El tren es más rápido, pero cuesta más.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L042-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La parada de autobús está más cerca de casa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L042-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿El autobús es ruidoso por la mañana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L042-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "A veces; el tren es más silencioso.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L042-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "La mochila pesa mucho; caminamos menos hasta la parada.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L042-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "La estación está a dos calles; la parada queda frente al mercado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L042-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Las dos opciones son prácticas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L042-es-vocab-rapidorapida",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "rápido, rápida. El tren es rápido y cómodo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L042-es-vocab-lentolenta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "lento, lenta. El autobús es lento por la mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L042-es-vocab-facil",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "fácil. La actividad es fácil para principiantes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L042-es-vocab-dificil",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "difícil. El ejercicio es difícil para mi hermano.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L042-es-vocab-pesadopesada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "pesado, pesada. El equipaje es pesado para un niño.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L042-es-vocab-ligeroligera",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "ligero, ligera. La maleta pequeña es ligera.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L042-es-vocab-silenciososilenciosa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "silencioso, silenciosa. El tren nocturno es silencioso.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L042-es-vocab-divertidodivertida",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "divertido, divertida. El juego de palabras es divertido.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L042-es-vocab-interesante",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "interesante. El libro de viajes es interesante.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L042-es-vocab-practicopractica",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "práctico, práctica. El mapa digital es práctico para el viaje.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L042-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "El tren es más rápido que el autobús.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L042-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La ruta es menos difícil que el camino largo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L042-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "El juego es tan divertido como la película.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L042-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Las mochilas ligeras son más prácticas que las pesadas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L042-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Viajar en tren es más rápido que viajar en autobús.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L042-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "La bicicleta es más lenta que el tren.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L042-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La tarea de hoy es menos difícil que el examen.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L042-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "La mochila azul es tan ligera como la roja.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L042-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "El juego es más divertido que la película.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L042-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Ana y Diego preparan una excursión al museo de la ciudad. Comparan el tren con el autobús: el tren es más rápido, pero el billete cuesta un poco más. La parada de autobús está más cerca de la casa de Ana; la estación de tren está cerca del centro. Diego lleva una mochila ligera, mientras Ana tiene una bolsa más pesada. Para ellos, las dos rutas son prácticas. El viaje en tren es tan cómodo como el viaje en autobús, aunque el tren suele ser más silencioso. Al final, miran el horario y eligen la opción que llega a tiempo para la visita.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 540
+    },
+    {
+      "id": "L042-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L042)",
+      "tts_text": "چطور می‌توانی دو فعالیت یا وسیله را با هم مقایسه کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L042-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L042)",
+      "tts_text": "برای مقایسهٔ بیشتر یا کمتر می‌گوییم «más o menos» به‌علاوهٔ صفت و سپس «que».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 76
+    },
+    {
+      "id": "L042-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L042)",
+      "tts_text": "به گفت‌وگو گوش کن و وسیله‌ای را پیدا کن که زودتر به موزه می‌رسد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L042-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L042)",
+      "tts_text": "برای برابری از «tan + صفت + como» استفاده می‌کنیم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L042-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L042)",
+      "tts_text": "دو فعالیت یا وسیله را با صفت‌های مناسب مقایسه کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L042-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L042)",
+      "tts_text": "پس از «más» یا «menos» از «que» و برای برابری از «como» استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    }
+  ]
+}

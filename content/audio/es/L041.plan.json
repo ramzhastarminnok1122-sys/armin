@@ -1,0 +1,398 @@
+{
+  "lesson": "L041",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L041-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué música te gusta escuchar en casa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L041-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Me gustan las canciones de un grupo de mi barrio.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L041-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Te gusta la letra o el ritmo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L041-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Me gustan las dos cosas; el ritmo es alegre.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L041-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "A mí me gusta la voz de la cantante.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L041-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "¿Te gustan los conciertos pequeños?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L041-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Sí, y también me gusta escuchar música con auriculares.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L041-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Entonces, compartimos un estilo musical parecido.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L041-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Esta tarde escucho música con los auriculares mientras estudio en casa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 71
+    },
+    {
+      "id": "L041-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "A mí me gustan las canciones con un ritmo tranquilo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L041-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Te gusta la voz de esta cantante?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L041-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, me gusta mucho su melodía y entiendo bien la letra.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L041-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "A mi hermano le gusta el pop, pero yo escucho rock.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L041-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "El altavoz tiene mucho volumen; baja la música, por favor.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L041-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Claro. ¿Te gustan los conciertos pequeños?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L041-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, y hoy quiero escuchar una canción nueva en casa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L041-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Entonces, pongo un grupo diferente y bajamos el volumen para estudiar.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 70
+    },
+    {
+      "id": "L041-es-vocab-cancion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "canción. Me gusta esta canción.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L041-es-vocab-cantante",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "cantante. La cantante tiene una voz clara.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L041-es-vocab-grupomusical",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "grupo musical. El grupo musical toca en el centro cultural.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L041-es-vocab-ritmo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "ritmo. Me gusta el ritmo de esta canción.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L041-es-vocab-letra",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "letra. La letra de la canción es corta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L041-es-vocab-auriculares",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "auriculares. Uso auriculares en el autobús.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L041-es-vocab-altavoz",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "altavoz. El altavoz está junto a la ventana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L041-es-vocab-melodia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "melodía. La melodía es fácil de recordar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L041-es-vocab-volumen",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "volumen. Bajo el volumen por la noche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L041-es-vocab-estilomusical",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "estilo musical. ¿Qué estilo musical te gusta?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L041-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Me gusta la canción.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L041-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Te gustan las canciones.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L041-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "A Lucía le gusta la melodía.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L041-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "No nos gusta el volumen alto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L041-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Me gusta la canción del grupo.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L041-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Te gustan los ritmos tranquilos.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L041-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "A Omar le gusta la voz de la cantante.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L041-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "No nos gusta el volumen muy alto.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L041-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "¿Te gustan los auriculares nuevos?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L041-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "El viernes, Lucía y Omar preparan una tarde de música en el centro juvenil. Lucía elige canciones con una melodía tranquila y una letra sencilla. A Omar le gustan los grupos con un ritmo rápido, pero también disfruta de las canciones suaves. La cantante del grupo nuevo tiene una voz clara. Un altavoz pequeño llena la sala sin mucho volumen. Los jóvenes llevan auriculares para escuchar una grabación antes de la actividad. Después, comentan qué estilos les gustan y preparan una lista de canciones para la próxima reunión. Cada persona elige una canción y explica por qué le gusta.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 583
+    },
+    {
+      "id": "L041-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L041)",
+      "tts_text": "چه نوع موسیقی یا آهنگی را دوست داری گوش کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 44
+    },
+    {
+      "id": "L041-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L041)",
+      "tts_text": "با اسم مفرد می‌گوییم «me gusta la canción» و با اسم جمع «me gustan las canciones».",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L041-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L041)",
+      "tts_text": "به گفت‌وگو گوش کن و عنصری را پیدا کن که لوسیا در صدای خواننده دوست دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L041-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L041)",
+      "tts_text": "«Gusta» با اسم مفرد و «gustan» با اسم جمع هماهنگ می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L041-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L041)",
+      "tts_text": "دربارهٔ آهنگ‌ها و سبک‌هایی که دوست داری صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L041-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L041)",
+      "tts_text": "ضمیر «me» یا «te» را پیش از «gustar» بیاور و به مفرد یا جمع بودن اسم دقت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 76
+    }
+  ]
+}

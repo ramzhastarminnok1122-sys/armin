@@ -1,0 +1,398 @@
+{
+  "lesson": "L040",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L040-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Hola, Luis. ¿Qué quieres hacer el sábado?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L040-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Quiero correr por el parque temprano.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L040-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Quieres hacer senderismo el domingo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L040-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, y también quiero cocinar algo después.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L040-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Yo quiero aprender a pintar en el centro cultural.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L040-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "¿Quieres ir a la clase por la mañana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L040-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Sí. Luego quiero jugar al voleibol contigo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L040-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "¡Perfecto! Los dos queremos pasar tiempo al aire libre.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L040-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "El sábado tengo tiempo libre y quiero probar algo nuevo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L040-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "En el parque, un grupo corre temprano.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L040-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Quiero empezar con una clase tranquila.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L040-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "El centro cultural ofrece una clase de pintura a las diez.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L040-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Quiero ir a la clase y luego cocinar en casa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L040-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "El domingo hacemos senderismo juntos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L040-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Quiero jugar al voleibol, pero no tengo equipo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L040-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Mi hermana tiene una pelota y puede invitar a dos amigos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L040-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "¡Perfecto! El sábado voy a la clase y el domingo hago senderismo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L040-es-vocab-querer",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "querer. Quiero aprender algo nuevo este mes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L040-es-vocab-pintar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "pintar. Eva quiere pintar un paisaje.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L040-es-vocab-correr",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "correr. Luis quiere correr por el parque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L040-es-vocab-cocinar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "cocinar. Queremos cocinar juntos el domingo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L040-es-vocab-viajar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "viajar. Ellas quieren viajar en verano.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L040-es-vocab-jugaralvoleibol",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "jugar al voleibol. Quiero jugar al voleibol con mis amigos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L040-es-vocab-hacersenderismo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "hacer senderismo. Eva quiere hacer senderismo el domingo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L040-es-vocab-tiempolibre",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "tiempo libre. Tengo tiempo libre el sábado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L040-es-vocab-actividad",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "actividad. La pintura es una actividad tranquila.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L040-es-vocab-alairelibre",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "al aire libre. Corremos al aire libre por la mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L040-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Quiero pintar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 14
+    },
+    {
+      "id": "L040-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "¿Quieres viajar en verano?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L040-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Queremos cocinar juntos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L040-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Eva no quiere correr hoy.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L040-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Yo quiero aprender a pintar.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L040-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "¿Quieres cocinar esta noche?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L040-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Mi hermana quiere viajar en verano.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L040-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "No queremos correr bajo la lluvia.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L040-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "¿Qué quieren hacer después de clase?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L040-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Eva trabaja de lunes a viernes y tiene tiempo libre el sábado por la mañana. Este mes quiere aprender algo nuevo. En el centro cultural hay una clase de pintura para principiantes y Eva quiere participar. Su amigo Luis quiere correr por el parque, pero también quiere cocinar una receta sencilla. El domingo, los dos quieren hacer senderismo en una ruta corta. Eva quiere jugar al voleibol otra tarde, cuando su equipo está completo. Las actividades son diferentes, pero pueden compartir algunas. Eva anota la hora de la clase y prepara su mochila el viernes. Así organiza su tiempo libre sin prisa.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 599
+    },
+    {
+      "id": "L040-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L040)",
+      "tts_text": "در وقت آزاد دوست داری چه کاری انجام بدهی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 41
+    },
+    {
+      "id": "L040-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L040)",
+      "tts_text": "برای بیان خواسته، «querer» را صرف می‌کنیم و سپس مصدر می‌آوریم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L040-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L040)",
+      "tts_text": "به گفت‌وگو گوش کن و فعالیتی را پیدا کن که اوا در مرکز فرهنگی می‌خواهد انجام بدهد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 81
+    },
+    {
+      "id": "L040-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L040)",
+      "tts_text": "می‌گوییم «quiero pintar» و «queremos cocinar»؛ فعل دوم مصدر می‌ماند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L040-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L040)",
+      "tts_text": "از «quiero» و «queremos» برای گفتن خواسته‌هایت استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L040-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L040)",
+      "tts_text": "«Querer» را با فاعل صرف کن و پس از آن مصدر بیاور.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    }
+  ]
+}
