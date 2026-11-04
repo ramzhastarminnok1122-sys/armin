@@ -1,0 +1,398 @@
+{
+  "lesson": "L065",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L065-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Quién te dio la dirección postal?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L065-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "La coordinadora me la dio ayer.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L065-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Qué dijo sobre la reunión?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L065-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Dijo que empezó a las diez.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L065-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Vinieron los voluntarios?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L065-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, vinieron temprano y pusieron las sillas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L065-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Pudiste abrir la sala?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L065-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, pude abrirla con la llave de emergencia.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L065-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Quién vino primero a la sala de reuniones?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L065-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "La voluntaria Ana vino a las nueve.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L065-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Le diste la hoja de inscripción?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L065-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, se la di junto a la ventanilla de información.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L065-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Qué dijo el conserje sobre el paquete frágil?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L065-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Dijo que lo puso en la caja de materiales.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L065-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Pudiste abrir la sala a tiempo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L065-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, pude; la reunión empezó a las diez.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L065-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Gracias, ya llegó el grupo de voluntarios.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L065-es-vocab-saladereuniones",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "sala de reuniones. La sala de reuniones está en el primer piso.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L065-es-vocab-ventanilladeinformacion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "ventanilla de información. La ventanilla de información abre a las nueve.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 73
+    },
+    {
+      "id": "L065-es-vocab-hojadeinscripcion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "hoja de inscripción. Necesito una hoja de inscripción.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L065-es-vocab-cartelinformativo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "cartel informativo. El cartel informativo está junto a la entrada.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 66
+    },
+    {
+      "id": "L065-es-vocab-llavedeemergencia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "llave de emergencia. La llave de emergencia está en recepción.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L065-es-vocab-cajademateriales",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "caja de materiales. La caja de materiales está cerrada.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L065-es-vocab-turnodeatencion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "turno de atención. Mi turno de atención es a las diez.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L065-es-vocab-grupodevoluntarios",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "grupo de voluntarios. El grupo de voluntarios llega temprano.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L065-es-vocab-paquetefragil",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "paquete frágil. El paquete frágil está en la mesa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L065-es-vocab-direccionpostal",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "dirección postal. Escribo la dirección postal en el formulario.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L065-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "La coordinadora dio una hoja a cada persona.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L065-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Pablo vino a la reunión temprano.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L065-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "No pudimos abrir la sala.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L065-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Eva dijo la hora y puso el cartel.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L065-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Ayer di la dirección postal a la oficina.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L065-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "La voluntaria dijo la hora de la reunión.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L065-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Mis amigos vinieron al centro temprano.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L065-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "No pudimos abrir la sala de reuniones.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L065-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "El conserje puso un cartel informativo en la puerta.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L065-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Ayer, el grupo de voluntarios preparó una reunión en el centro del barrio. La coordinadora vino temprano y dio una hoja de inscripción a cada persona. El conserje puso un cartel informativo junto a la ventanilla de información. Después, dos visitantes vinieron con un paquete frágil para la sala de reuniones. El grupo no pudo abrir la caja de materiales porque faltaba una llave. La coordinadora dio la dirección postal del almacén y un voluntario fue a buscar la llave. Al final, encontraron la llave de emergencia y abrieron la sala a tiempo. Todos ayudaron y la reunión empezó a las diez.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 592
+    },
+    {
+      "id": "L065-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L065)",
+      "tts_text": "چطور می‌گویی دیروز نشانی را دادی، کسی آمد یا توانستی کاری انجام بدهی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L065-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L065)",
+      "tts_text": "«Dar, venir, poder, poner» و «decir» شکل‌های گذشتهٔ نامنظم دارند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 65
+    },
+    {
+      "id": "L065-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L065)",
+      "tts_text": "به گفت‌وگو گوش کن و ساعت آمدن آنا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    },
+    {
+      "id": "L065-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L065)",
+      "tts_text": "«Di, vino, pudimos, puso, dijeron».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 35
+    },
+    {
+      "id": "L065-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L065)",
+      "tts_text": "از جلسه‌ای در گذشته بگو و از فعل‌های نامنظم استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L065-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L065)",
+      "tts_text": "«Dijeron» درست است؛ «dijieron» نادرست است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 42
+    }
+  ]
+}

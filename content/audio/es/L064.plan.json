@@ -1,0 +1,398 @@
+{
+  "lesson": "L064",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L064-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué has hecho hoy por la mañana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L064-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "He ido al mercado de artesanía.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L064-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Fuiste a la función de teatro ayer?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L064-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, fue muy divertida.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L064-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Has visitado la exposición esta semana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L064-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, he ido el martes.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L064-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Y la semana pasada?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 20
+    },
+    {
+      "id": "L064-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Asistí a una reunión de vecinos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L064-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Has ido al mercado de artesanía esta semana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L064-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Sí, he ido hoy por la mañana y he comprado fruta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L064-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Fuiste al cine ayer?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L064-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, fui con mi hermana; la película terminó temprano.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L064-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Y el partido de baloncesto?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L064-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Fuimos el domingo pasado; nuestro equipo ganó.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L064-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Has visitado la feria del libro este mes?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L064-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Todavía no; la feria abre mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L064-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Entonces podemos ir juntos esta semana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L064-es-vocab-feriadellibro",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "feria del libro. La feria del libro abre el viernes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L064-es-vocab-mercadodeartesania",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "mercado de artesanía. El mercado de artesanía está en la plaza.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L064-es-vocab-partidodebaloncesto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "partido de baloncesto. El partido de baloncesto empieza a las ocho.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 67
+    },
+    {
+      "id": "L064-es-vocab-funciondeteatro",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "función de teatro. La función de teatro termina tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L064-es-vocab-exposicionfotografica",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "exposición fotográfica. La exposición fotográfica tiene fotos antiguas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 71
+    },
+    {
+      "id": "L064-es-vocab-clasedebaile",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "clase de baile. La clase de baile dura una hora.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L064-es-vocab-parquedeatracciones",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "parque de atracciones. El parque de atracciones está fuera de la ciudad.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 72
+    },
+    {
+      "id": "L064-es-vocab-cenadegrupo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "cena de grupo. Tenemos una cena de grupo el sábado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L064-es-vocab-visitaaldentista",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "visita al dentista. La visita al dentista es por la mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L064-es-vocab-reuniondevecinos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "reunión de vecinos. La reunión de vecinos empieza a las seis.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L064-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Hoy he visitado la feria del libro.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L064-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Ayer fui a una función de teatro.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L064-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Esta semana hemos ido dos veces.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L064-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "La semana pasada asistimos al partido.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L064-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Hoy he ido al mercado de artesanía.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L064-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Ayer fui a la función de teatro.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L064-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Esta semana hemos visitado una exposición fotográfica.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L064-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "El domingo pasado asistimos a un partido de baloncesto.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L064-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Todavía no he ido al parque de atracciones este mes.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L064-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Esta semana, Marta ha asistido a una clase de baile y ha visitado la feria del libro. Hoy ha ido al mercado de artesanía con su hermana. Ayer fue al dentista, así que no llegó a tiempo a una función de teatro. El domingo pasado asistió a un partido de baloncesto con sus vecinos. Este mes, ha visto una exposición fotográfica y ha cenado con un grupo de amigos. Marta explica que usa el pretérito perfecto para hablar de actividades de esta semana, que todavía no ha terminado. Para contar lo que hizo ayer o el domingo pasado, usa el indefinido. El próximo fin de semana quiere ir al parque de atracciones.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 607
+    },
+    {
+      "id": "L064-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L064)",
+      "tts_text": "چطور فرق می‌گذاری بین کاری که امروز انجام داده‌ای و کاری که دیروز انجام دادی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 77
+    },
+    {
+      "id": "L064-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L064)",
+      "tts_text": "برای بازهٔ جاری از حال کامل و برای زمان تمام‌شده از گذشتهٔ ساده استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 75
+    },
+    {
+      "id": "L064-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L064)",
+      "tts_text": "به گفت‌وگو گوش کن و بفهم پابلو چه روزی به سینما رفت.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L064-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L064)",
+      "tts_text": "«Hoy he ido»؛ «ayer fui».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 25
+    },
+    {
+      "id": "L064-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L064)",
+      "tts_text": "از کارهای این هفته و هفتهٔ گذشته‌ات حرف بزن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 44
+    },
+    {
+      "id": "L064-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L064)",
+      "tts_text": "به نشانهٔ زمانی و اینکه بازه هنوز ادامه دارد یا نه دقت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 58
+    }
+  ]
+}

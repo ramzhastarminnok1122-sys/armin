@@ -1,0 +1,466 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 65,
+    "title": "Ayer le di la dirección",
+    "subtitle": "Contar acciones pasadas con verbos irregulares",
+    "description": "Un grupo organiza una actividad en el centro del barrio y resuelve varias tareas.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Pretérito indefinido de dar, decir, venir, poder y poner",
+      "objectives": [
+        "Usar formas frecuentes de dar, decir, venir, poder y poner en el pasado.",
+        "Reconocer las raíces irregulares dij-, vin-, pud- y pus-.",
+        "Conjugar estas formas sin añadir tildes innecesarias."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور می‌گویی دیروز نشانی را دادی، کسی آمد یا توانستی کاری انجام بدهی؟",
+      "questions": [
+        {
+          "q": "گذشتهٔ «dar» برای «yo» چیست؟",
+          "hint_fa": "«Di»."
+        },
+        {
+          "q": "ریشهٔ گذشتهٔ «venir» چیست؟",
+          "hint_fa": "«Vin-»."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Dar, decir, venir, poder y poner",
+      "body_fa": "در «pretérito indefinido» چند فعل پرکاربرد شکل نامنظم دارند. «Dar» می‌شود «di, diste, dio, dimos, disteis, dieron» و «dio» بدون نشانهٔ تکیه نوشته می‌شود. برای بقیه، ریشهٔ فعل عوض می‌شود: «venir → vin-», «poder → pud-», «poner → pus-» و «decir → dij-». پس از این ریشه‌ها پایانه‌های گذشته می‌آیند: «vine», «pudo», «pusimos», «dijeron». دقت کن: می‌گوییم «dijeron»، نه «dijieron». این شکل‌ها را با نشانه‌های زمان گذشته، مانند «ayer», به کار ببر. در اول‌شخص مفرد نیز از صورت‌هایی مانند «vine», «pude» و «dije» استفاده می‌کنیم؛ این فعل‌ها را همراه با فاعل در جملهٔ کوتاه تمرین کن.",
+      "key_points": [
+        "«Dar» شکل‌هایی مانند «di» و «dio» دارد؛ «dio» تکیه نمی‌گیرد.",
+        "ریشه‌های نامنظم عبارت‌اند از «vin-», «pud-», «pus-» و «dij-».",
+        "شکل جمع «decir» در گذشته «dijeron» است، نه «dijieron»."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "sala de reuniones",
+          "ipa": "/ˈsa.la ðe re.uˈnjo.nes/",
+          "translation_fa": "اتاق جلسه",
+          "example": "La sala de reuniones está en el primer piso.",
+          "example_fa": "اتاق جلسه در طبقهٔ اول است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ventanilla de información",
+          "ipa": "/ben.taˈni.ʝa ðe in.foɾ.maˈθjon/",
+          "translation_fa": "باجهٔ اطلاعات",
+          "example": "La ventanilla de información abre a las nueve.",
+          "example_fa": "باجهٔ اطلاعات ساعت نه باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "hoja de inscripción",
+          "ipa": "/ˈo.xa ðe ins.kɾipˈθjon/",
+          "translation_fa": "برگهٔ ثبت‌نام",
+          "example": "Necesito una hoja de inscripción.",
+          "example_fa": "به یک برگهٔ ثبت‌نام نیاز دارم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cartel informativo",
+          "ipa": "/kaɾˈtel in.foɾ.maˈti.βo/",
+          "translation_fa": "تابلوی اطلاع‌رسانی",
+          "example": "El cartel informativo está junto a la entrada.",
+          "example_fa": "تابلوی اطلاع‌رسانی کنار ورودی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "llave de emergencia",
+          "ipa": "/ˈʝa.βe ðe e.meɾˈxen.θja/",
+          "translation_fa": "کلید اضطراری",
+          "example": "La llave de emergencia está en recepción.",
+          "example_fa": "کلید اضطراری در پذیرش است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "caja de materiales",
+          "ipa": "/ˈka.xa ðe ma.teˈɾja.les/",
+          "translation_fa": "جعبهٔ لوازم",
+          "example": "La caja de materiales está cerrada.",
+          "example_fa": "جعبهٔ لوازم بسته است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "turno de atención",
+          "ipa": "/ˈtuɾ.no ðe a.tenˈθjon/",
+          "translation_fa": "نوبت رسیدگی",
+          "example": "Mi turno de atención es a las diez.",
+          "example_fa": "نوبت رسیدگی من ساعت ده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "grupo de voluntarios",
+          "ipa": "/ˈɡɾu.po ðe βo.lunˈta.ɾjos/",
+          "translation_fa": "گروه داوطلبان",
+          "example": "El grupo de voluntarios llega temprano.",
+          "example_fa": "گروه داوطلبان زود می‌رسد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "paquete frágil",
+          "ipa": "/paˈke.te ˈfɾa.xil/",
+          "translation_fa": "بستهٔ شکستنی",
+          "example": "El paquete frágil está en la mesa.",
+          "example_fa": "بستهٔ شکستنی روی میز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "dirección postal",
+          "ipa": "/di.ɾekˈθjon posˈtal/",
+          "translation_fa": "نشانی پستی",
+          "example": "Escribo la dirección postal en el formulario.",
+          "example_fa": "نشانی پستی را در فرم می‌نویسم.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Dar, venir, poder, poner y decir",
+      "explanation_fa": "در گذشتهٔ ساده، «dar» شکل‌های کوتاه دارد: «di, diste, dio, dimos, disteis, dieron». در «venir, poder, poner» ریشه به‌ترتیب «vin-, pud-, pus-» می‌شود؛ برای نمونه «vine», «pudimos», «puso». در «decir» از ریشهٔ «dij-» استفاده می‌کنیم: «dije», «dijo», «dijeron». هیچ‌کدام از این شکل‌ها نشانهٔ تکیهٔ نوشتاری نمی‌گیرند. دقت کن که شکل جمع «dijeron» است، چون پس از «j» پایانهٔ «-eron» می‌آید. با «ayer» یا «el sábado» جمله را در زمانی تمام‌شده قرار بده. در سوم‌شخص مفرد می‌گوییم «vino», «pudo» و «puso»؛ این پایانه‌های بدون تکیه را حفظ کن و در جمله تمرین کن.",
+      "pattern": "dar: di/dio/dieron; venir: vin-; poder: pud-; poner: pus-; decir: dij-",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "dar",
+            "La coordinadora dio una hoja a cada persona.",
+            "هماهنگ‌کننده به هر نفر برگه‌ای داد."
+          ],
+          [
+            "venir",
+            "Pablo vino a la reunión temprano.",
+            "پابلو زود به جلسه آمد."
+          ],
+          [
+            "poder",
+            "No pudimos abrir la sala.",
+            "نتوانستیم اتاق را باز کنیم."
+          ],
+          [
+            "decir/poner",
+            "Eva dijo la hora y puso el cartel.",
+            "اوا ساعت را گفت و تابلو را گذاشت."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Dio» بدون نشانهٔ تکیه نوشته می‌شود.",
+        "برای جمع «decir» بنویس «dijeron»، نه «dijieron»."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Ayer di la dirección postal a la oficina.",
+          "fa": "دیروز نشانی پستی را به اداره دادم.",
+          "note_fa": "«Dar» در گذشته شکل نامنظم دارد."
+        },
+        {
+          "target": "La voluntaria dijo la hora de la reunión.",
+          "fa": "داوطلب ساعت جلسه را گفت.",
+          "note_fa": "«Decir» به «dijo» تبدیل می‌شود."
+        },
+        {
+          "target": "Mis amigos vinieron al centro temprano.",
+          "fa": "دوستانم زود به مرکز آمدند.",
+          "note_fa": "«Vinieron» از ریشهٔ «vin-» ساخته شده است."
+        },
+        {
+          "target": "No pudimos abrir la sala de reuniones.",
+          "fa": "نتوانستیم اتاق جلسه را باز کنیم.",
+          "note_fa": "«Pudimos» شکل گذشتهٔ «poder» است."
+        },
+        {
+          "target": "El conserje puso un cartel informativo en la puerta.",
+          "fa": "سرایدار تابلوی اطلاع‌رسانی را روی در گذاشت.",
+          "note_fa": "«Poner» به «puso» تبدیل می‌شود."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Preparar una reunión",
+      "script": "Nora: ¿Quién vino primero a la sala de reuniones?\nPablo: La voluntaria Ana vino a las nueve.\nNora: ¿Le diste la hoja de inscripción?\nPablo: Sí, se la di junto a la ventanilla de información.\nNora: ¿Qué dijo el conserje sobre el paquete frágil?\nPablo: Dijo que lo puso en la caja de materiales.\nNora: ¿Pudiste abrir la sala a tiempo?\nPablo: Sí, pude; la reunión empezó a las diez.\nNora: Gracias, ya llegó el grupo de voluntarios.",
+      "script_fa": "نورا: چه کسی اول به اتاق جلسه آمد؟\nپابلو: آنا، داوطلب، ساعت نه آمد.\nنورا: برگهٔ ثبت‌نام را به او دادی؟\nپابلو: بله، کنار باجهٔ اطلاعات آن را به او دادم.\nنورا: سرایدار دربارهٔ بستهٔ شکستنی چه گفت؟\nپابلو: گفت آن را در جعبهٔ لوازم گذاشت.\nنورا: توانستی اتاق را به‌موقع باز کنی؟\nپابلو: بله، توانستم؛ جلسه ساعت ده شروع شد.\nنورا: ممنون، گروه داوطلبان هم رسید.",
+      "question_fa": "¿A qué hora vino Ana?",
+      "answer": "A las nueve.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Organizar el centro",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Quién te dio la dirección postal?",
+          "fa": "چه کسی نشانی پستی را به تو داد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "La coordinadora me la dio ayer.",
+          "fa": "هماهنگ‌کننده دیروز آن را به من داد."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Qué dijo sobre la reunión?",
+          "fa": "دربارهٔ جلسه چه گفت؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Dijo que empezó a las diez.",
+          "fa": "گفت ساعت ده شروع شد."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Vinieron los voluntarios?",
+          "fa": "داوطلبان آمدند؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, vinieron temprano y pusieron las sillas.",
+          "fa": "بله، زود آمدند و صندلی‌ها را گذاشتند."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Pudiste abrir la sala?",
+          "fa": "توانستی اتاق را باز کنی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, pude abrirla con la llave de emergencia.",
+          "fa": "بله، توانستم با کلید اضطراری آن را باز کنم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، دربارهٔ جلسه‌ای که برگزار کردی حرف بزن؛ بگو چه کسی آمد، چه چیزی گفت یا چه کاری توانستی انجام بدهی.",
+      "useful_phrases": [
+        {
+          "target": "Ayer di una dirección a mi amiga.",
+          "fa": "دیروز نشانی‌ای به دوستم دادم."
+        },
+        {
+          "target": "Mis compañeros vinieron temprano.",
+          "fa": "هم‌کلاسی‌هایم زود آمدند."
+        },
+        {
+          "target": "Pudimos abrir la sala a tiempo.",
+          "fa": "توانستیم اتاق را به‌موقع باز کنیم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una reunión en el barrio",
+      "text": "Ayer, el grupo de voluntarios preparó una reunión en el centro del barrio. La coordinadora vino temprano y dio una hoja de inscripción a cada persona. El conserje puso un cartel informativo junto a la ventanilla de información. Después, dos visitantes vinieron con un paquete frágil para la sala de reuniones. El grupo no pudo abrir la caja de materiales porque faltaba una llave. La coordinadora dio la dirección postal del almacén y un voluntario fue a buscar la llave. Al final, encontraron la llave de emergencia y abrieron la sala a tiempo. Todos ayudaron y la reunión empezó a las diez.",
+      "glossary": [
+        {
+          "term": "conserje",
+          "fa": "سرایدار"
+        },
+        {
+          "term": "almacén",
+          "fa": "انبار"
+        },
+        {
+          "term": "faltaba",
+          "fa": "کم بود"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Quién dio la hoja de inscripción?",
+          "a": "La coordinadora."
+        },
+        {
+          "q_fa": "¿Qué encontraron al final?",
+          "a": "La llave de emergencia."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست را انتخاب کن.",
+          "question": "Ayer yo ___ la dirección postal.",
+          "options": [
+            "di",
+            "dí",
+            "daba"
+          ],
+          "answer": "di",
+          "explanation_fa": "«Di» در گذشتهٔ ساده بدون تکیه نوشته می‌شود."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "La coordinadora ___ a la sala temprano.",
+          "options": [
+            "vino",
+            "venió",
+            "viene"
+          ],
+          "answer": "vino",
+          "explanation_fa": "گذشتهٔ «venir» برای او «vino» است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "فعل مناسب را انتخاب کن.",
+          "question": "No ___ abrir la caja ayer. (nosotros)",
+          "options": [
+            "pudimos",
+            "podimos",
+            "podemos"
+          ],
+          "answer": "pudimos",
+          "explanation_fa": "ریشهٔ گذشتهٔ «poder» برابر «pud-» است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "La forma de «decir» para ellos es «dijieron».",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "شکل درست جمع «dijeron» است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "El conserje ___ el cartel en la puerta. (poner, él)",
+          "answer": [
+            "puso"
+          ],
+          "explanation_fa": "گذشتهٔ «poner» برای او «puso» است."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿A qué hora vino Ana?",
+          "answer": [
+            "A las nueve."
+          ],
+          "explanation_fa": "آنا ساعت نه آمد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Quién preparó la reunión?",
+          "options": [
+            "El grupo de voluntarios",
+            "Los viajeros del tren",
+            "Los vecinos del hotel"
+          ],
+          "answer": "El grupo de voluntarios",
+          "explanation_fa": "El texto empieza con el grupo de voluntarios."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué dio la coordinadora?",
+          "options": [
+            "Una hoja de inscripción",
+            "Una llave nueva",
+            "Un billete de autobús"
+          ],
+          "answer": "Una hoja de inscripción",
+          "explanation_fa": "La coordinadora dio una hoja a cada persona."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde puso el conserje el cartel?",
+          "options": [
+            "Junto a la ventanilla de información",
+            "Dentro del paquete",
+            "En la calle principal"
+          ],
+          "answer": "Junto a la ventanilla de información",
+          "explanation_fa": "El cartel quedó junto a la ventanilla."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Por qué no pudieron abrir la caja?",
+          "options": [
+            "Porque faltaba una llave",
+            "Porque estaba rota",
+            "Porque no tenían tiempo"
+          ],
+          "answer": "Porque faltaba una llave",
+          "explanation_fa": "El texto dice que faltaba una llave."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué encontraron al final?",
+          "options": [
+            "La llave de emergencia",
+            "Un paquete nuevo",
+            "La dirección de Ana"
+          ],
+          "answer": "La llave de emergencia",
+          "explanation_fa": "Al final, encontraron la llave de emergencia."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش داوطلبی که دیروز در مرکز محله کمک کرد، بگو چه کسی آمد، چه چیزی گفت و چه کاری توانست انجام دهد.",
+      "suggested_prompts": [
+        [
+          "از آمدن کسی حرف بزن.",
+          "از «vino/vinieron» استفاده کن."
+        ],
+        [
+          "بگو چه چیزی به کسی دادی یا چه چیزی گفتی.",
+          "از «di/dijo» استفاده کن."
+        ],
+        [
+          "بگو چه کاری توانستی انجام بدهی.",
+          "از «pude/pudimos» استفاده کن."
+        ]
+      ],
+      "focus": [
+        "dar",
+        "decir",
+        "venir/poder/poner"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-04",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "La coordinadora y los voluntarios preparan una reunión en el centro comunitario."
+  }
+}

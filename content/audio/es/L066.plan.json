@@ -1,0 +1,398 @@
+{
+  "lesson": "L066",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L066-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿A qué hora te levantaste ayer?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L066-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Me levanté a las seis y preparé la mochila.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L066-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Te pusiste las botas de montaña?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L066-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, y me llevé una botella de agua.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L066-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Dónde descansaste con tu hermano?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L066-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Descansamos junto al mirador natural.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L066-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿A qué hora se acostó tu hermano?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L066-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Se acostó pronto después de la caminata.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L066-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿A qué hora te levantaste para la salida?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L066-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Me levanté a las seis cuando sonó el despertador digital.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L066-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Te pusiste la ropa de abrigo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L066-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, me puse una chaqueta y guardé agua en la mochila.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L066-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Dónde descansaste durante la caminata?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L066-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "En una zona junto al camino de tierra.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L066-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Tu hermana se cansó durante la subida?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L066-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "No; se animó al ver el mirador natural.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L066-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "¡Parece que fue un buen día!",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L066-es-vocab-despertadordigital",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "despertador digital. El despertador digital suena a las seis.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L066-es-vocab-botelladeagua",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "botella de agua. Llevo una botella de agua en la mochila.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L066-es-vocab-mochilaligera",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "mochila ligera. La mochila ligera es cómoda para caminar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L066-es-vocab-ropadeabrigo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "ropa de abrigo. Necesito ropa de abrigo para la montaña.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L066-es-vocab-caminodetierra",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "camino de tierra. El camino de tierra empieza junto al río.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L066-es-vocab-botademontana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "bota de montaña. Esta bota de montaña es resistente.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L066-es-vocab-miradornatural",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "mirador natural. El mirador natural tiene vistas al valle.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L066-es-vocab-carreterasecundaria",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "carretera secundaria. La carretera secundaria pasa por el bosque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L066-es-vocab-zonadedescanso",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "zona de descanso. La zona de descanso está cerca del puente.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L066-es-vocab-nochedeacampada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "noche de acampada. La noche de acampada fue muy tranquila.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L066-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Ayer me levanté a las seis.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L066-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "¿Te preparaste antes de salir?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L066-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Nora se puso la ropa de abrigo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L066-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Nos acostamos temprano después de caminar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L066-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Ayer me levanté a las seis para caminar.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L066-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nora se preparó para la caminata.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L066-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Nos vestimos con ropa de abrigo antes de salir.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L066-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Los excursionistas se acostaron pronto.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L066-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "¿Te despertaste con el despertador digital?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L066-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "El sábado, Pablo y su hermana hicieron una excursión por la montaña. Se levantaron a las seis y se prepararon en casa. Pablo se puso la ropa de abrigo y guardó una botella de agua en la mochila ligera. Primero caminaron por un camino de tierra; después descansaron en una zona junto a un mirador natural. Su hermana se sentó en una roca y tomó fotos. Al final, regresaron por una carretera secundaria. Esa noche se acostaron temprano en el campamento. Pablo terminó cansado, pero contento con la salida.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 503
+    },
+    {
+      "id": "L066-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L066)",
+      "tts_text": "چطور تعریف می‌کنی دیروز چه ساعتی بیدار شدی و پیش از گردش چه کار کردی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L066-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L066)",
+      "tts_text": "ضمیر «me se/nos» پیش از فعل انعکاسی گذشته می‌آید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L066-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L066)",
+      "tts_text": "به گفت‌وگو گوش کن و محل استراحت پابلو را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L066-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L066)",
+      "tts_text": "«Me levanté», «se puso», «nos acostamos».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    },
+    {
+      "id": "L066-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L066)",
+      "tts_text": "یک گردش گذشته را با چند فعل انعکاسی تعریف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    },
+    {
+      "id": "L066-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L066)",
+      "tts_text": "برای ترتیب داستان از «primero», «después» و «al final» استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    }
+  ]
+}

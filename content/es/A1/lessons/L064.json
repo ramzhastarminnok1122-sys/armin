@@ -1,0 +1,466 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 64,
+    "title": "¿Qué has hecho esta semana?",
+    "subtitle": "Hablar de periodos actuales y terminados",
+    "description": "Marta cuenta sus planes recientes y diferencia esta semana de la semana pasada.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Contrastar el pretérito perfecto y el indefinido con expresiones de tiempo",
+      "objectives": [
+        "Elegir el pretérito perfecto para un periodo que incluye el presente.",
+        "Usar el indefinido para un periodo pasado y terminado.",
+        "Reconocer expresiones de tiempo como hoy, ayer y la semana pasada."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور فرق می‌گذاری بین کاری که امروز انجام داده‌ای و کاری که دیروز انجام دادی؟",
+      "questions": [
+        {
+          "q": "برای «امروز» کدام زمان معمولاً مناسب است؟",
+          "hint_fa": "در این الگو از «he + participio» استفاده کن."
+        },
+        {
+          "q": "برای «دیروز» کدام زمان به کار می‌رود؟",
+          "hint_fa": "از «pretérito indefinido» استفاده کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Periodos actuales y periodos terminados",
+      "body_fa": "در الگوی این دوره، اگر بازهٔ زمانی هنوز به اکنون وصل باشد، معمولاً از «pretérito perfecto» استفاده می‌کنیم: «hoy he ido», «esta semana hemos visitado». برای زمان تمام‌شده، مثل «ayer» یا «la semana pasada»، از «pretérito indefinido» می‌گوییم: «ayer fui», «el domingo pasado visitamos». نشانهٔ زمانی راهنماست، اما منظور گوینده هم مهم است. در اسپانیایی اسپانیا این تمایز بسیار رایج است؛ در بسیاری از مناطق دیگر، گذشتهٔ ساده در موقعیت‌های بیشتری به کار می‌رود. در این درس از الگوی اسپانیای اسپانیا پیروی می‌کنیم.",
+      "key_points": [
+        "برای بازهٔ زمانی هنوز باز، از «hoy/esta semana + pretérito perfecto» استفاده کن.",
+        "برای بازهٔ تمام‌شده، از «ayer/la semana pasada + indefinido» استفاده کن.",
+        "کاربرد زمان‌ها میان مناطق اسپانیازبان تفاوت دارد."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "feria del libro",
+          "ipa": "/ˈfe.ɾja ðel ˈli.βɾo/",
+          "translation_fa": "نمایشگاه کتاب",
+          "example": "La feria del libro abre el viernes.",
+          "example_fa": "نمایشگاه کتاب جمعه باز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "mercado de artesanía",
+          "ipa": "/meɾˈka.ðo ðe aɾ.te.saˈni.a/",
+          "translation_fa": "بازار صنایع‌دستی",
+          "example": "El mercado de artesanía está en la plaza.",
+          "example_fa": "بازار صنایع‌دستی در میدان است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "partido de baloncesto",
+          "ipa": "/paɾˈti.ðo ðe βa.lonˈθes.to/",
+          "translation_fa": "مسابقهٔ بسکتبال",
+          "example": "El partido de baloncesto empieza a las ocho.",
+          "example_fa": "مسابقهٔ بسکتبال ساعت هشت شروع می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "función de teatro",
+          "ipa": "/fuŋˈθjon ðe teˈa.tɾo/",
+          "translation_fa": "اجرای تئاتر",
+          "example": "La función de teatro termina tarde.",
+          "example_fa": "اجرای تئاتر دیر تمام می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "exposición fotográfica",
+          "ipa": "/eks.po.siˈθjon fo.toˈɣɾa.fi.ka/",
+          "translation_fa": "نمایشگاه عکس",
+          "example": "La exposición fotográfica tiene fotos antiguas.",
+          "example_fa": "نمایشگاه عکس تصاویر قدیمی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "clase de baile",
+          "ipa": "/ˈkla.se ðe ˈbai.le/",
+          "translation_fa": "کلاس رقص",
+          "example": "La clase de baile dura una hora.",
+          "example_fa": "کلاس رقص یک ساعت طول می‌کشد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "parque de atracciones",
+          "ipa": "/ˈpaɾ.ke ðe a.tɾakˈθjo.nes/",
+          "translation_fa": "شهربازی",
+          "example": "El parque de atracciones está fuera de la ciudad.",
+          "example_fa": "شهربازی بیرون شهر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cena de grupo",
+          "ipa": "/ˈθe.na ðe ˈɡɾu.po/",
+          "translation_fa": "شام گروهی",
+          "example": "Tenemos una cena de grupo el sábado.",
+          "example_fa": "شنبه شام گروهی داریم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "visita al dentista",
+          "ipa": "/biˈsi.ta al denˈtis.ta/",
+          "translation_fa": "مراجعه به دندان‌پزشک",
+          "example": "La visita al dentista es por la mañana.",
+          "example_fa": "مراجعه به دندان‌پزشک صبح است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "reunión de vecinos",
+          "ipa": "/re.uˈnjon ðe beˈθi.nos/",
+          "translation_fa": "جلسهٔ همسایه‌ها",
+          "example": "La reunión de vecinos empieza a las seis.",
+          "example_fa": "جلسهٔ همسایه‌ها ساعت شش شروع می‌شود.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Pretérito perfecto o indefinido",
+      "explanation_fa": "در الگوی این درس، زمان فعل با بازه‌ای که گوینده در نظر دارد هماهنگ می‌شود. برای بازه‌ای که هنوز ادامه دارد، مانند «hoy» یا «esta semana»، از «haber + participio» استفاده می‌کنیم: «Hoy he ido al cine». برای زمان پایان‌یافته، مانند «ayer» یا «el domingo pasado»، از «pretérito indefinido» می‌گوییم: «Ayer fui al cine». «Esta semana» معمولاً بازه‌ای باز است و «la semana pasada» تمام شده است. این کاربرد در اسپانیایی اسپانیا رایج است؛ در بخش‌هایی از آمریکای لاتین، گذشتهٔ ساده در موقعیت‌های بیشتری می‌آید.",
+      "pattern": "periodo abierto: pretérito perfecto; periodo terminado: pretérito indefinido",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "periodo actual",
+            "Hoy he visitado la feria del libro.",
+            "امروز از نمایشگاه کتاب بازدید کرده‌ام."
+          ],
+          [
+            "periodo terminado",
+            "Ayer fui a una función de teatro.",
+            "دیروز به یک اجرای تئاتر رفتم."
+          ],
+          [
+            "esta semana",
+            "Esta semana hemos ido dos veces.",
+            "این هفته دو بار رفته‌ایم."
+          ],
+          [
+            "la semana pasada",
+            "La semana pasada asistimos al partido.",
+            "هفتهٔ گذشته در مسابقه شرکت کردیم."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Hoy/esta semana» اغلب با حال کامل می‌آیند؛ «ayer/la semana pasada» با گذشتهٔ ساده.",
+        "این الگو در اسپانیایی اسپانیا رایج است؛ کاربرد منطقه‌ای می‌تواند متفاوت باشد."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "Hoy he ido al mercado de artesanía.",
+          "fa": "امروز به بازار صنایع‌دستی رفته‌ام.",
+          "note_fa": "«Hoy» بازه‌ای را معرفی می‌کند که هنوز ادامه دارد."
+        },
+        {
+          "target": "Ayer fui a la función de teatro.",
+          "fa": "دیروز به اجرای تئاتر رفتم.",
+          "note_fa": "«Ayer» به زمان تمام‌شده اشاره می‌کند."
+        },
+        {
+          "target": "Esta semana hemos visitado una exposición fotográfica.",
+          "fa": "این هفته از نمایشگاه عکس بازدید کرده‌ایم.",
+          "note_fa": "«Esta semana» بازهٔ جاری است."
+        },
+        {
+          "target": "El domingo pasado asistimos a un partido de baloncesto.",
+          "fa": "یکشنبهٔ گذشته در مسابقهٔ بسکتبال شرکت کردیم.",
+          "note_fa": "«El domingo pasado» بازهٔ پایان‌یافته است."
+        },
+        {
+          "target": "Todavía no he ido al parque de atracciones este mes.",
+          "fa": "این ماه هنوز به شهربازی نرفته‌ام.",
+          "note_fa": "«Este mes» هنوز ادامه دارد."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Una semana llena de planes",
+      "script": "Nora: ¿Has ido al mercado de artesanía esta semana?\nPablo: Sí, he ido hoy por la mañana y he comprado fruta.\nNora: ¿Fuiste al cine ayer?\nPablo: Sí, fui con mi hermana; la película terminó temprano.\nNora: ¿Y el partido de baloncesto?\nPablo: Fuimos el domingo pasado; nuestro equipo ganó.\nNora: ¿Has visitado la feria del libro este mes?\nPablo: Todavía no; la feria abre mañana.\nNora: Entonces podemos ir juntos esta semana.",
+      "script_fa": "نورا: این هفته به بازار صنایع‌دستی رفته‌ای؟\nپابلو: بله، امروز صبح رفته‌ام و میوه خریده‌ام.\nنورا: دیروز به سینما رفتی؟\nپابلو: بله، با خواهرم رفتم؛ فیلم زود تمام شد.\nنورا: مسابقهٔ بسکتبال چطور؟\nپابلو: یکشنبهٔ گذشته رفتیم؛ تیم ما برنده شد.\nنورا: این ماه از نمایشگاه کتاب بازدید کرده‌ای؟\nپابلو: هنوز نه؛ نمایشگاه فردا باز می‌شود.\nنورا: پس این هفته می‌توانیم با هم برویم.",
+      "question_fa": "¿Cuándo fue Pablo al cine?",
+      "answer": "Ayer.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Hablar de la semana",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Qué has hecho hoy por la mañana?",
+          "fa": "امروز صبح چه کار کرده‌ای؟"
+        },
+        {
+          "speaker": "B",
+          "target": "He ido al mercado de artesanía.",
+          "fa": "به بازار صنایع‌دستی رفته‌ام."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Fuiste a la función de teatro ayer?",
+          "fa": "دیروز به اجرای تئاتر رفتی؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, fue muy divertida.",
+          "fa": "بله، خیلی سرگرم‌کننده بود."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Has visitado la exposición esta semana?",
+          "fa": "این هفته از نمایشگاه بازدید کرده‌ای؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, he ido el martes.",
+          "fa": "بله، سه‌شنبه رفته‌ام."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Y la semana pasada?",
+          "fa": "و هفتهٔ گذشته؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Asistí a una reunión de vecinos.",
+          "fa": "در جلسهٔ همسایه‌ها شرکت کردم."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، دربارهٔ کارهای این هفته و هفتهٔ گذشته حرف بزن؛ زمان را با «hoy», «ayer» یا «la semana pasada» مشخص کن.",
+      "useful_phrases": [
+        {
+          "target": "Hoy he visitado la feria del libro.",
+          "fa": "امروز از نمایشگاه کتاب بازدید کرده‌ام."
+        },
+        {
+          "target": "Ayer fui a una clase de baile.",
+          "fa": "دیروز به کلاس رقص رفتم."
+        },
+        {
+          "target": "La semana pasada asistí a una reunión.",
+          "fa": "هفتهٔ گذشته در جلسه‌ای شرکت کردم."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Esta semana y la pasada",
+      "text": "Esta semana, Marta ha asistido a una clase de baile y ha visitado la feria del libro. Hoy ha ido al mercado de artesanía con su hermana. Ayer fue al dentista, así que no llegó a tiempo a una función de teatro. El domingo pasado asistió a un partido de baloncesto con sus vecinos. Este mes, ha visto una exposición fotográfica y ha cenado con un grupo de amigos. Marta explica que usa el pretérito perfecto para hablar de actividades de esta semana, que todavía no ha terminado. Para contar lo que hizo ayer o el domingo pasado, usa el indefinido. El próximo fin de semana quiere ir al parque de atracciones.",
+      "glossary": [
+        {
+          "term": "asistir",
+          "fa": "شرکت‌کردن"
+        },
+        {
+          "term": "llegar a tiempo",
+          "fa": "به‌موقع رسیدن"
+        },
+        {
+          "term": "todavía",
+          "fa": "هنوز"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué hizo Marta ayer?",
+          "a": "Fue al dentista."
+        },
+        {
+          "q_fa": "¿A qué fue el domingo pasado?",
+          "a": "A un partido de baloncesto."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "زمان مناسب را انتخاب کن.",
+          "question": "Hoy ___ al mercado.",
+          "options": [
+            "he ido",
+            "fui",
+            "iba"
+          ],
+          "answer": "he ido",
+          "explanation_fa": "«Hoy» در این الگو دوره‌ای است که هنوز ادامه دارد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "Ayer ___ al cine con mi hermana.",
+          "options": [
+            "fui",
+            "he ido",
+            "iba"
+          ],
+          "answer": "fui",
+          "explanation_fa": "«Ayer» زمان پایان‌یافته است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "گزینهٔ درست را انتخاب کن.",
+          "question": "Esta semana ___ una exposición.",
+          "options": [
+            "hemos visitado",
+            "visitamos ayer",
+            "visitábamos"
+          ],
+          "answer": "hemos visitado",
+          "explanation_fa": "«Esta semana» بازهٔ جاری است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«La semana pasada he ido al cine» es el modelo que se practica aquí.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "در الگوی این درس، با «la semana pasada» از indefinido استفاده می‌کنیم."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "El domingo pasado ___ al partido. (asistir, nosotros)",
+          "answer": [
+            "asistimos"
+          ],
+          "explanation_fa": "برای زمان پایان‌یافته از pretérito indefinido استفاده کن."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Cuándo fue Pablo al cine?",
+          "answer": [
+            "Ayer."
+          ],
+          "explanation_fa": "پابلو دیروز به سینما رفت."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué ha hecho Marta esta semana?",
+          "options": [
+            "Ha asistido a una clase de baile",
+            "Ha cambiado de ciudad",
+            "Ha cerrado el mercado"
+          ],
+          "answer": "Ha asistido a una clase de baile",
+          "explanation_fa": "El texto dice que ha asistido a una clase de baile."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Adónde ha ido hoy con su hermana?",
+          "options": [
+            "Al mercado de artesanía",
+            "Al dentista",
+            "Al parque de atracciones"
+          ],
+          "answer": "Al mercado de artesanía",
+          "explanation_fa": "Hoy ha ido al mercado con su hermana."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Por qué no llegó a tiempo al teatro?",
+          "options": [
+            "Porque fue al dentista",
+            "Porque perdió el tren",
+            "Porque trabajó hasta tarde"
+          ],
+          "answer": "Porque fue al dentista",
+          "explanation_fa": "Marta fue al dentista antes de la función."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hizo el domingo pasado?",
+          "options": [
+            "Asistió a un partido de baloncesto",
+            "Visitó una feria de ciencias",
+            "Tomó una clase de cocina"
+          ],
+          "answer": "Asistió a un partido de baloncesto",
+          "explanation_fa": "El domingo pasado asistió al partido."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué quiere hacer el próximo fin de semana?",
+          "options": [
+            "Ir al parque de atracciones",
+            "Volver al dentista",
+            "Asistir a una reunión"
+          ],
+          "answer": "Ir al parque de atracciones",
+          "explanation_fa": "Al final, quiere ir al parque de atracciones."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش دوستی که برنامهٔ هفتگی‌اش را تعریف می‌کند، یک کار انجام‌شده امروز و یک کار انجام‌شده روز دیگری را بگو.",
+      "suggested_prompts": [
+        [
+          "از کاری که امروز انجام داده‌ای بگو.",
+          "از «hoy he…» استفاده کن."
+        ],
+        [
+          "از کاری که دیروز انجام دادی بگو.",
+          "از «ayer + indefinido» استفاده کن."
+        ],
+        [
+          "از یک هفتهٔ تمام‌شده حرف بزن.",
+          "از «la semana pasada» استفاده کن."
+        ]
+      ],
+      "focus": [
+        "hoy/esta semana",
+        "ayer/la semana pasada",
+        "perfecto e indefinido"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-04",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Marta cuenta actividades de esta semana y de días ya terminados."
+  }
+}
