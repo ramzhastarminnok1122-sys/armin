@@ -1,0 +1,466 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 59,
+    "title": "La mejor habitación del hotel",
+    "subtitle": "Valorar opciones con mejor y peor",
+    "description": "Nora y Pablo comparan dos hoteles antes de reservar una habitación.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Comparativos irregulares mejor y peor",
+      "objectives": [
+        "Comparar la calidad de dos opciones con mejor y peor.",
+        "Usar mejores y peores con sustantivos plurales.",
+        "Elegir entre «mejor/peor que» y «el/la mejor/peor de»."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "وقتی می‌خواهی بگویی یک گزینه از گزینهٔ دیگر بهتر یا بدتر است، چه می‌گویی؟",
+      "questions": [
+        {
+          "q": "«بهتر از» در اسپانیایی چیست؟",
+          "hint_fa": "«Mejor que»."
+        },
+        {
+          "q": "شکل جمع «peor» چیست؟",
+          "hint_fa": "«Peores»."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Mejor y peor",
+      "body_fa": "«Mejor» و «peor» شکل‌های نامنظم مقایسه‌اند و به‌ترتیب یعنی «بهتر» و «بدتر». برای مقایسهٔ دو چیز می‌گوییم «mejor que» یا «peor que»: «El baño privado es mejor que el compartido». اینجا «más bueno» یا «más malo» به کار نمی‌بریم؛ همچنین «más mejor» و «más peor» نادرست‌اند. این صفت‌ها از نظر جنس تغییر نمی‌کنند، اما در جمع «mejores» و «peores» می‌شوند: «dos habitaciones mejores». برای انتخاب برتر یا ضعیف‌تر در یک گروه، حرف تعریف می‌آوریم: «el mejor hotel», «la peor habitación», «los mejores servicios». «De» گروه را معرفی می‌کند: «la mejor de las dos».",
+      "key_points": [
+        "«Mejor/peor» برای مقایسهٔ کیفیت، جای «más bueno/más malo» می‌آیند.",
+        "این صفت‌ها از نظر جنس تغییر نمی‌کنند؛ در جمع «mejores/peores» هستند.",
+        "برای انتخاب یک مورد از گروه بگو «el/la mejor/peor de»."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "hotel céntrico",
+          "ipa": "/oˈtel ˈθen.tɾi.ko/",
+          "translation_fa": "هتل مرکزی",
+          "example": "El hotel céntrico está cerca de la estación.",
+          "example_fa": "هتل مرکزی نزدیک ایستگاه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "hotel costero",
+          "ipa": "/oˈtel kosˈte.ɾo/",
+          "translation_fa": "هتل ساحلی",
+          "example": "El hotel costero tiene una terraza amplia.",
+          "example_fa": "هتل ساحلی تراس بزرگی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "habitación doble",
+          "ipa": "/a.βi.taˈθjon ˈdo.ble/",
+          "translation_fa": "اتاق دونفره",
+          "example": "La habitación doble es mejor para dos personas.",
+          "example_fa": "اتاق دونفره برای دو نفر بهتر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "cama grande",
+          "ipa": "/ˈka.ma ˈɡɾan.de/",
+          "translation_fa": "تخت بزرگ",
+          "example": "La cama grande es mejor para una pareja.",
+          "example_fa": "تخت بزرگ برای یک زوج بهتر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "baño privado",
+          "ipa": "/ˈba.ɲo pɾiˈβa.ðo/",
+          "translation_fa": "حمام اختصاصی",
+          "example": "El baño privado es mejor que el compartido.",
+          "example_fa": "حمام اختصاصی از حمام مشترک بهتر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "baño compartido",
+          "ipa": "/ˈba.ɲo kom.paɾˈti.ðo/",
+          "translation_fa": "حمام مشترک",
+          "example": "El baño compartido es peor para una familia.",
+          "example_fa": "حمام مشترک برای یک خانواده بدتر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "desayuno incluido",
+          "ipa": "/desaˈʝu.no iŋ.kluˈi.ðo/",
+          "translation_fa": "صبحانهٔ شامل‌شده",
+          "example": "El desayuno incluido es mejor para empezar el día.",
+          "example_fa": "صبحانهٔ شامل‌شده برای شروع روز بهتر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "reserva flexible",
+          "ipa": "/reˈseɾ.βa flekˈsi.βle/",
+          "translation_fa": "رزرو انعطاف‌پذیر",
+          "example": "La reserva flexible es mejor si cambiamos el plan.",
+          "example_fa": "رزرو انعطاف‌پذیر بهتر است اگر برنامه را عوض کنیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "vista al patio",
+          "ipa": "/ˈbis.ta al ˈpa.tjo/",
+          "translation_fa": "چشم‌انداز به حیاط",
+          "example": "La vista al patio es mejor para dormir.",
+          "example_fa": "چشم‌انداز به حیاط برای خواب بهتر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "servicio de lavandería",
+          "ipa": "/seɾˈβi.θjo ðe la.βan.deˈɾi.a/",
+          "translation_fa": "خدمات رخت‌شویی",
+          "example": "El servicio de lavandería es mejor en el hotel grande.",
+          "example_fa": "خدمات رخت‌شویی در هتل بزرگ بهتر است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Mejor y peor para comparar",
+      "explanation_fa": "«Mejor» و «peor» جای «más bueno» و «más malo» را می‌گیرند وقتی کیفیت دو گزینه را می‌سنجیم: «La habitación A es mejor que la B», «El desayuno es peor que la cena». جنس آن‌ها تغییر نمی‌کند، اما در جمع «mejores/peores» می‌گوییم: «dos habitaciones mejores». برای انتخاب بالاترین یا پایین‌ترین گزینه در یک گروه، حرف تعریف به کار می‌رود: «el mejor hotel», «la peor habitación». «Mejor/peor que» دو مورد را مقایسه می‌کند؛ «el/la mejor de» یک مورد را از گروه جدا می‌کند. از «más mejor» و «más peor» استفاده نکن.",
+      "pattern": "mejor/peor + que; mejor/peor + sustantivo; el/la mejor/peor de + grupo",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "mejor que",
+            "La habitación doble es mejor que la individual.",
+            "اتاق دونفره از اتاق یک‌نفره بهتر است."
+          ],
+          [
+            "peor que",
+            "El baño compartido es peor que el privado.",
+            "حمام مشترک از حمام اختصاصی بدتر است."
+          ],
+          [
+            "mejores",
+            "Estas camas son mejores que las del hotel Azul.",
+            "این تخت‌ها از تخت‌های هتل آزول بهترند."
+          ],
+          [
+            "el mejor de",
+            "El hotel Claro es el mejor de los dos.",
+            "هتل کلارو از این دو بهتر است."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Mejor/peor» از نظر جنس تغییر نمی‌کنند؛ شکل جمع آن‌ها «mejores/peores» است.",
+        "«Más mejor» و «más peor» نادرست‌اند؛ برای یک گروه از «el/la mejor/peor de» استفاده کن."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "La habitación doble es mejor que la individual para dos personas.",
+          "fa": "اتاق دونفره برای دو نفر از اتاق یک‌نفره بهتر است.",
+          "note_fa": "«Mejor que» دو گزینه را مقایسه می‌کند."
+        },
+        {
+          "target": "El baño privado es mejor que el baño compartido.",
+          "fa": "حمام اختصاصی از حمام مشترک بهتر است.",
+          "note_fa": "صفت «mejor» برای هر دو اسم یکسان است."
+        },
+        {
+          "target": "El desayuno del hotel Azul es peor que el del hotel Claro.",
+          "fa": "صبحانهٔ هتل آزول از صبحانهٔ هتل کلارو بدتر است.",
+          "note_fa": "برای مقایسهٔ کیفیت از «peor que» استفاده می‌کنیم."
+        },
+        {
+          "target": "Las camas del hotel Claro son mejores que las del Azul.",
+          "fa": "تخت‌های هتل کلارو از تخت‌های آزول بهترند.",
+          "note_fa": "«Mejores» با اسم جمع آمده است."
+        },
+        {
+          "target": "Esta es la mejor habitación del edificio.",
+          "fa": "این بهترین اتاق ساختمان است.",
+          "note_fa": "حرف تعریف «la» اسم مؤنث را معرفی می‌کند."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Dos opciones para el fin de semana",
+      "script": "Nora: La habitación doble cuesta menos, pero no incluye el desayuno.\nPablo: La otra habitación tiene desayuno incluido y un baño privado.\nNora: ¿Cuál es mejor para pasar dos noches?\nPablo: La segunda opción es mejor para nosotros.\nNora: ¿Y la vista al patio?\nPablo: La habitación con vista al patio es más tranquila que la que da a la calle.\nNora: La reserva flexible también cuesta un poco más.\nPablo: Sí, pero esa es la mejor opción si cambiamos los planes.\nNora: De acuerdo; reservamos la segunda habitación.",
+      "script_fa": "نورا: اتاق دونفره ارزان‌تر است، اما صبحانه ندارد.\nپابلو: اتاق دیگر صبحانهٔ شامل‌شده و حمام اختصاصی دارد.\nنورا: برای دو شب کدام بهتر است؟\nپابلو: گزینهٔ دوم برای ما بهتر است.\nنورا: چشم‌انداز به حیاط چطور است؟\nپابلو: اتاقی که رو به حیاط است از اتاق رو به خیابان آرام‌تر است.\nنورا: رزرو انعطاف‌پذیر هم کمی گران‌تر است.\nپابلو: بله، اما اگر برنامه را عوض کنیم بهترین گزینه است.\nنورا: موافقم؛ اتاق دوم را رزرو می‌کنیم.",
+      "question_fa": "¿Qué incluye la segunda opción?",
+      "answer": "Desayuno y baño privado.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Comparar dos hoteles",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Qué hotel parece mejor para una familia?",
+          "fa": "کدام هتل برای یک خانواده بهتر به نظر می‌رسد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "El hotel Claro; tiene baño privado.",
+          "fa": "هتل کلارو؛ حمام اختصاصی دارد."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Cuál ofrece el desayuno incluido?",
+          "fa": "کدام هتل صبحانهٔ شامل‌شده دارد؟"
+        },
+        {
+          "speaker": "B",
+          "target": "El hotel Claro, y la reserva es flexible.",
+          "fa": "هتل کلارو؛ رزرو آن هم انعطاف‌پذیر است."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Qué opción es peor para dormir?",
+          "fa": "کدام گزینه برای خواب بدتر است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "La habitación con vista a la calle.",
+          "fa": "اتاقی که چشم‌اندازش به خیابان است."
+        },
+        {
+          "speaker": "A",
+          "target": "Entonces, ¿qué hotel elegimos?",
+          "fa": "پس کدام هتل را انتخاب می‌کنیم؟"
+        },
+        {
+          "speaker": "B",
+          "target": "El Claro es el mejor de los dos.",
+          "fa": "کلارو از این دو بهتر است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «سفر»، دو محل اقامت را مقایسه کن؛ دربارهٔ اتاق، صبحانه یا چشم‌انداز نظر بده و از «mejor/peor» استفاده کن.",
+      "useful_phrases": [
+        {
+          "target": "La habitación doble es mejor para dos.",
+          "fa": "اتاق دونفره برای دو نفر بهتر است."
+        },
+        {
+          "target": "El desayuno incluido es mejor para nosotros.",
+          "fa": "صبحانهٔ شامل‌شده برای ما بهتر است."
+        },
+        {
+          "target": "Este hotel es el mejor de los dos.",
+          "fa": "این هتل از این دو بهتر است."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Elegir hotel",
+      "text": "Nora y Pablo buscan alojamiento para un fin de semana en la costa. El hotel Azul ofrece una habitación doble con una cama grande y vista a la calle. El hotel Claro tiene baño privado y desayuno incluido. La habitación del Claro cuesta un poco más, pero la reserva es flexible. En el Azul, el baño es compartido y no hay servicio de lavandería. Para Nora, el hotel con desayuno incluido es mejor que el que ofrece la habitación más barata. Pablo piensa que la habitación con vista al patio es mejor para dormir. Después de comparar los detalles, eligen el hotel Claro: para ellos es la mejor opción.",
+      "glossary": [
+        {
+          "term": "alojamiento",
+          "fa": "اقامتگاه"
+        },
+        {
+          "term": "flexible",
+          "fa": "انعطاف‌پذیر"
+        },
+        {
+          "term": "detalle",
+          "fa": "جزئیات"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué hotel tiene el baño privado?",
+          "a": "El hotel Claro."
+        },
+        {
+          "q_fa": "¿Por qué prefieren el hotel Claro?",
+          "a": "Tiene desayuno incluido y la reserva es flexible."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "گزینهٔ درست را انتخاب کن.",
+          "question": "La habitación doble es ___ que la individual.",
+          "options": [
+            "mejor",
+            "más mejor",
+            "la mejor"
+          ],
+          "answer": "mejor",
+          "explanation_fa": "«Mejor» شکل نامنظم مقایسه است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "El baño compartido es ___ que el privado.",
+          "options": [
+            "peor",
+            "más peor",
+            "la peor"
+          ],
+          "answer": "peor",
+          "explanation_fa": "برای مقایسهٔ دو حمام از «peor que» استفاده کن."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل جمع را انتخاب کن.",
+          "question": "Estas habitaciones son ___.",
+          "options": [
+            "mejores",
+            "mejor",
+            "más mejores"
+          ],
+          "answer": "mejores",
+          "explanation_fa": "«Mejor» در جمع به «mejores» تبدیل می‌شود."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Más mejor» es la forma estándar para comparar.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "False",
+          "explanation_fa": "«Mejor» خودش صفت مقایسه‌ای است؛ «más mejor» نمی‌گوییم."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "El hotel Claro es el ___ de los dos. (mejor)",
+          "answer": [
+            "mejor"
+          ],
+          "explanation_fa": "برای انتخاب برتر از «el mejor de» استفاده می‌شود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué incluye la segunda opción?",
+          "answer": [
+            "Desayuno y baño privado."
+          ],
+          "explanation_fa": "گزینهٔ دوم صبحانه و حمام اختصاصی دارد."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué hotel tiene el desayuno incluido?",
+          "options": [
+            "El hotel Claro",
+            "El hotel Azul",
+            "Los dos"
+          ],
+          "answer": "El hotel Claro",
+          "explanation_fa": "El texto dice que el Claro incluye el desayuno."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué habitación tiene una cama grande?",
+          "options": [
+            "La del hotel Azul",
+            "La del hotel Claro",
+            "Ninguna"
+          ],
+          "answer": "La del hotel Azul",
+          "explanation_fa": "El hotel Azul ofrece una cama grande."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hotel tiene baño compartido?",
+          "options": [
+            "El hotel Azul",
+            "El hotel Claro",
+            "Los dos"
+          ],
+          "answer": "El hotel Azul",
+          "explanation_fa": "El baño del Azul es compartido."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué reserva es flexible?",
+          "options": [
+            "La del hotel Claro",
+            "La del hotel Azul",
+            "Ninguna"
+          ],
+          "answer": "La del hotel Claro",
+          "explanation_fa": "La reserva del Claro es flexible."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Cuál es la mejor opción para Nora y Pablo?",
+          "options": [
+            "El hotel Claro",
+            "El hotel Azul",
+            "El hotel de la estación"
+          ],
+          "answer": "El hotel Claro",
+          "explanation_fa": "Nora y Pablo eligen el hotel Claro."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش دوستی که برای سفر آخر هفته برنامه‌ریزی می‌کند، دو گزینه را مقایسه کن و بگو کدام بهتر است.",
+      "suggested_prompts": [
+        [
+          "دو هتل را مقایسه کن.",
+          "از «mejor que» استفاده کن."
+        ],
+        [
+          "یک نکتهٔ نامناسب را بگو.",
+          "از «peor que» استفاده کن."
+        ],
+        [
+          "یک گزینه را انتخاب کن.",
+          "از «el/la mejor de» استفاده کن."
+        ]
+      ],
+      "focus": [
+        "mejor que",
+        "peor que",
+        "el/la mejor de"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-04",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Nora y Pablo comparan el desayuno, el baño y las habitaciones de dos hoteles."
+  }
+}

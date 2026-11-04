@@ -1,0 +1,398 @@
+{
+  "lesson": "L058",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L058-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué parque es el más grande de esta zona?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L058-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "El parque urbano, y tiene un jardín botánico.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L058-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Qué parte es la más tranquila por la mañana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L058-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "La zona verde detrás del estanque.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L058-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Cuál es el camino más corto hasta allí?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L058-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "El que empieza junto a la fuente central.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L058-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿La pista de patinaje está cerca?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L058-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, está al otro lado del puente.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L058-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Qué lugar es el más tranquilo del barrio?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L058-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Creo que el jardín botánico es el más tranquilo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L058-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Y qué zona es la más animada los sábados?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L058-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La pista de patinaje; ponen música por la tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L058-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Cuál es el camino más corto hasta la fuente central?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L058-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "El del puente de madera; pasa junto a los bancos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L058-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Hay una zona de juegos cerca de allí?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L058-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, está detrás del estanque pequeño.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L058-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Perfecto, podemos empezar por el jardín.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L058-es-vocab-parqueurbano",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "parque urbano. El parque urbano está cerca de mi casa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L058-es-vocab-jardinbotanico",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "jardín botánico. El jardín botánico es el lugar más tranquilo de la ciudad.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 75
+    },
+    {
+      "id": "L058-es-vocab-zonadejuegos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "zona de juegos. La zona de juegos es la más pequeña del parque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L058-es-vocab-pistadepatinaje",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "pista de patinaje. La pista de patinaje es la menos concurrida hoy.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 67
+    },
+    {
+      "id": "L058-es-vocab-puentedemadera",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "puente de madera. El puente de madera es el más largo del parque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L058-es-vocab-fuentecentral",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "fuente central. La fuente central es la más antigua de la zona.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L058-es-vocab-caminoprincipal",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "camino principal. El camino principal es el más ancho del recinto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 66
+    },
+    {
+      "id": "L058-es-vocab-bancodepiedra",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "banco de piedra. Ese banco de piedra es el más cómodo de todos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L058-es-vocab-estanquepequeno",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "estanque pequeño. El estanque pequeño es el más bonito del parque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 66
+    },
+    {
+      "id": "L058-es-vocab-zonaverde",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "zona verde. Esta zona verde es la más limpia del barrio.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L058-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "El parque más grande del barrio está junto al río.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L058-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "La pista menos concurrida es la del norte.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L058-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Los caminos más largos empiezan cerca de la entrada.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L058-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Las zonas más limpias están junto al jardín.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L058-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "El jardín botánico es el lugar más tranquilo de la ciudad.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L058-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "La zona de juegos es la más pequeña del parque.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L058-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Los caminos más cortos son los del centro.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L058-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Las fuentes más antiguas están cerca del puente.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L058-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Este es el puente más largo del barrio.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L058-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "El sábado, Nora y Pablo visitan el parque urbano del barrio. Primero miran el mapa del recinto y eligen el camino más corto hasta el jardín botánico. Allí hay bancos de piedra y un estanque pequeño; Nora dice que esa zona es la más tranquila del parque. Después caminan hacia la pista de patinaje y la zona de juegos. Los dos lugares están cerca de la fuente central, pero la pista tiene más gente. Pablo pregunta cuál es el puente más largo. Nora responde que el puente de madera es el más largo del parque. Antes de volver a casa, descansan junto a la fuente. Para Nora, el jardín botánico es el lugar más bonito de la visita.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 628
+    },
+    {
+      "id": "L058-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L058)",
+      "tts_text": "چطور می‌گویی یک مکان در میان چند مکان از همه بزرگ‌تر یا آرام‌تر است؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 68
+    },
+    {
+      "id": "L058-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L058)",
+      "tts_text": "برای بیان بالاترین یا پایین‌ترین درجه از «el/la más/menos + صفت + de» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 81
+    },
+    {
+      "id": "L058-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L058)",
+      "tts_text": "به گفت‌وگو گوش کن و آرام‌ترین بخش پارک را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    },
+    {
+      "id": "L058-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L058)",
+      "tts_text": "«El parque más grande» و «la zona menos concurrida».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L058-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L058)",
+      "tts_text": "چند مکان را با هم مقایسه کن و دربارهٔ بهترین ویژگی‌شان بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L058-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L058)",
+      "tts_text": "حرف تعریف و صفت را با اسم هماهنگ کن و گروه را با «de» معرفی کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    }
+  ]
+}

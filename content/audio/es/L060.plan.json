@@ -1,0 +1,398 @@
+{
+  "lesson": "L060",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L060-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Tienes ganas de visitar el festival este domingo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L060-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, y me interesa la música en directo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L060-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Qué hacemos si llueve?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L060-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Podemos elegir un plan alternativo cerca del centro.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L060-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Por qué no vamos a la clase de cocina?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L060-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Porque ya no hay fechas disponibles.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L060-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Qué prefieres para el domingo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L060-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "La excursión de la mañana; termina antes de comer.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L060-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Por qué no vienes a la clase de cocina el sábado?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L060-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Porque tengo un problema de horario y trabajo por la mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L060-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Hay un festival local el domingo, y la entrada es gratuita.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L060-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Por qué empieza la actividad al aire libre tan temprano?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L060-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Porque el grupo pequeño sale con una excursión organizada a las ocho.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 69
+    },
+    {
+      "id": "L060-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Queda alguna fecha disponible por la tarde?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L060-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Sí, hay otra actividad a las cuatro, cerca del centro.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L060-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Entonces prefiero ese plan; no trabajo el domingo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L060-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Perfecto, te escribo los detalles esta tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L060-es-vocab-planalternativo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "plan alternativo. Buscamos un plan alternativo para el domingo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L060-es-vocab-clasedecocina",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "clase de cocina. La clase de cocina empieza a las diez.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L060-es-vocab-festivallocal",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "festival local. El festival local es el sábado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L060-es-vocab-entradagratuita",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "entrada gratuita. La entrada gratuita atrae a muchas familias.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L060-es-vocab-fechadisponible",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "fecha disponible. ¿Hay una fecha disponible para la visita?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L060-es-vocab-problemadehorario",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "problema de horario. Tengo un problema de horario el sábado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L060-es-vocab-actividadalairelibre",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "actividad al aire libre. La actividad al aire libre empieza temprano.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 69
+    },
+    {
+      "id": "L060-es-vocab-grupopequeno",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "grupo pequeño. El grupo pequeño visita el jardín por la tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L060-es-vocab-excursionorganizada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "excursión organizada. La excursión organizada sale desde la plaza.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 66
+    },
+    {
+      "id": "L060-es-vocab-razonprincipal",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "razón principal. La razón principal es el precio.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L060-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "¿Por qué eliges el festival local?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L060-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Porque la entrada es gratuita.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L060-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Elegimos la clase porque tenemos tiempo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L060-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "¿Por qué cambia el plan? Porque llueve.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L060-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "¿Por qué visitas el festival local?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L060-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Elijo el festival porque la entrada es gratuita.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L060-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "La clase de cocina empieza temprano porque el grupo es pequeño.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 63
+    },
+    {
+      "id": "L060-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Buscamos una fecha disponible para la actividad al aire libre.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L060-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "No vamos a la excursión organizada porque tenemos un problema de horario.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 73
+    },
+    {
+      "id": "L060-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "El viernes, Eva escribe a Diego para organizar el fin de semana. Primero le propone asistir a una clase de cocina el sábado. Diego explica que trabaja hasta tarde porque tiene una reunión. Eva propone un plan alternativo: visitar el festival local el domingo. La entrada es gratuita y hay una actividad al aire libre para un grupo pequeño. Diego pregunta por qué la excursión organizada empieza tan temprano. Eva responde que el autobús sale a las ocho porque el camino es largo. Al final, los dos eligen el festival; prefieren la actividad de la tarde y no tienen que cambiar sus horarios.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 590
+    },
+    {
+      "id": "L060-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L060)",
+      "tts_text": "چطور می‌پرسی چرا کسی برنامه‌ای را انتخاب می‌کند و بعد دلیلش را می‌گویی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L060-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L060)",
+      "tts_text": "در پرسش «¿por qué?» جدا و در پاسخ «porque» یک‌کلمه‌ای است.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L060-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L060)",
+      "tts_text": "به گفت‌وگو گوش کن و دلیل نیامدن دیگو را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L060-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L060)",
+      "tts_text": "«¿Por qué vienes?»؛ «Porque tengo clase».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    },
+    {
+      "id": "L060-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L060)",
+      "tts_text": "برای برنامهٔ آخر هفته دلیل بپرس و دلیل انتخابت را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L060-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L060)",
+      "tts_text": "در «por qué» پرسشی، روی «qué» نشانهٔ تکیه می‌گذاریم.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 58,
+    "title": "El parque más grande del barrio",
+    "subtitle": "Comparar lugares y destacar uno",
+    "description": "Nora y Pablo recorren un parque y comparan sus distintas zonas.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Superlativos relativos con más y menos",
+      "objectives": [
+        "Identificar el lugar con el grado más alto o más bajo de una cualidad.",
+        "Formar superlativos con el/la/los/las + más o menos + adjetivo + de.",
+        "Hacer concordar el artículo y el adjetivo con el sustantivo."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور می‌گویی یک مکان در میان چند مکان از همه بزرگ‌تر یا آرام‌تر است؟",
+      "questions": [
+        {
+          "q": "برای گفتن «بزرگ‌ترین پارک» چه می‌گویی؟",
+          "hint_fa": "«el parque más grande»"
+        },
+        {
+          "q": "برای معرفی گروه مقایسه از چه حرفی استفاده می‌کنی؟",
+          "hint_fa": "از «de» استفاده کن."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "El más grande, la más tranquila",
+      "body_fa": "برای گفتن اینکه چیزی در یک گروه بیشترین یا کمترین ویژگی را دارد، از حرف تعریف هماهنگ با اسم + «más/menos» + صفت + «de» استفاده می‌کنیم: «el parque más grande del barrio», «la calle menos ruidosa de la zona». حرف تعریف و صفت با اسم هماهنگ می‌شوند: «el lugar más tranquilo», «las rutas más cortas». پس از «más/menos» صفت می‌آید و «de» گروه مقایسه را معرفی می‌کند. اگر پس از «de» اسم مذکر مفرد با حرف تعریف بیاید، «de + el» به «del» تبدیل می‌شود: «del barrio». برای این ساختار از صفت‌های معمولی استفاده کن؛ شکل‌های نامنظم «mejor/peor» را در درس بعد می‌بینیم.",
+      "key_points": [
+        "در ساختار «el/la más/menos + صفت»، حرف تعریف و صفت با اسم هماهنگ می‌شوند.",
+        "از «de» برای معرفی گروهی استفاده کن که در آن مقایسه می‌شود.",
+        "«De + el» به «del» تبدیل می‌شود."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "parque urbano",
+          "ipa": "/ˈpaɾ.ke uɾˈβa.no/",
+          "translation_fa": "پارک شهری",
+          "example": "El parque urbano está cerca de mi casa.",
+          "example_fa": "پارک شهری نزدیک خانهٔ من است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "jardín botánico",
+          "ipa": "/xaɾˈðin boˈta.ni.ko/",
+          "translation_fa": "باغ گیاه‌شناسی",
+          "example": "El jardín botánico es el lugar más tranquilo de la ciudad.",
+          "example_fa": "باغ گیاه‌شناسی آرام‌ترین جای شهر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "zona de juegos",
+          "ipa": "/ˈθo.na ðe ˈxwe.ɣos/",
+          "translation_fa": "محوطهٔ بازی",
+          "example": "La zona de juegos es la más pequeña del parque.",
+          "example_fa": "محوطهٔ بازی کوچک‌ترین بخش پارک است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pista de patinaje",
+          "ipa": "/ˈpis.ta ðe pa.tiˈna.xe/",
+          "translation_fa": "پیست اسکیت",
+          "example": "La pista de patinaje es la menos concurrida hoy.",
+          "example_fa": "امروز پیست اسکیت خلوت‌ترین جاست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "puente de madera",
+          "ipa": "/ˈpwen.te ðe maˈðe.ɾa/",
+          "translation_fa": "پل چوبی",
+          "example": "El puente de madera es el más largo del parque.",
+          "example_fa": "پل چوبی بلندترین پل پارک است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "fuente central",
+          "ipa": "/ˈfwen.te θenˈtɾal/",
+          "translation_fa": "فوارهٔ مرکزی",
+          "example": "La fuente central es la más antigua de la zona.",
+          "example_fa": "فوارهٔ مرکزی قدیمی‌ترینِ این محدوده است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "camino principal",
+          "ipa": "/kaˈmi.no pɾin.θiˈpal/",
+          "translation_fa": "مسیر اصلی",
+          "example": "El camino principal es el más ancho del recinto.",
+          "example_fa": "مسیر اصلی پهن‌ترین مسیر محوطه است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "banco de piedra",
+          "ipa": "/ˈbaŋ.ko ðe ˈpje.ðɾa/",
+          "translation_fa": "نیمکت سنگی",
+          "example": "Ese banco de piedra es el más cómodo de todos.",
+          "example_fa": "آن نیمکت سنگی از همه راحت‌تر است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "estanque pequeño",
+          "ipa": "/esˈtaŋ.ke peˈke.ɲo/",
+          "translation_fa": "برکهٔ کوچک",
+          "example": "El estanque pequeño es el más bonito del parque.",
+          "example_fa": "برکهٔ کوچک زیباترینِ پارک است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "zona verde",
+          "ipa": "/ˈθo.na ˈbeɾ.ðe/",
+          "translation_fa": "فضای سبز",
+          "example": "Esta zona verde es la más limpia del barrio.",
+          "example_fa": "این فضای سبز تمیزترینِ محله است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Superlativos relativos",
+      "explanation_fa": "برای بیان بالاترین یا پایین‌ترین درجهٔ یک ویژگی در میان چند چیز، از «el/la/los/las + más/menos + صفت + de» استفاده می‌کنیم: «el parque más grande del barrio», «la zona menos ruidosa de la ciudad». حرف تعریف و صفت با اسم از نظر جنس و شمار هماهنگ می‌شوند: «el lugar más tranquilo», «las calles más cortas». واژهٔ «de» گروهی را معرفی می‌کند که مقایسه در آن انجام می‌شود. اگر پس از «de» حرف تعریف «el» بیاید، آن دو به «del» تبدیل می‌شوند. صفت پس از «más» یا «menos» قرار می‌گیرد. برای توصیف یک چیز بدون مقایسهٔ آشکار با گروه، لازم نیست این ساختار را به کار ببری.",
+      "pattern": "el/la/los/las + más/menos + adjetivo + de + grupo",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "masculino singular",
+            "El parque más grande del barrio está junto al río.",
+            "بزرگ‌ترین پارک محله کنار رودخانه است."
+          ],
+          [
+            "femenino singular",
+            "La pista menos concurrida es la del norte.",
+            "خلوت‌ترین پیست، پیست شمالی است."
+          ],
+          [
+            "masculino plural",
+            "Los caminos más largos empiezan cerca de la entrada.",
+            "طولانی‌ترین مسیرها نزدیک ورودی آغاز می‌شوند."
+          ],
+          [
+            "femenino plural",
+            "Las zonas más limpias están junto al jardín.",
+            "تمیزترین محدوده‌ها کنار باغ هستند."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "حرف تعریف و صفت را از نظر جنس و شمار با اسم هماهنگ کن.",
+        "برای معرفی گروه مقایسه از «de» استفاده کن؛ «de + el» می‌شود «del»."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "El jardín botánico es el lugar más tranquilo de la ciudad.",
+          "fa": "باغ گیاه‌شناسی آرام‌ترین جای شهر است.",
+          "note_fa": "ساختار «el más + صفت» به کار رفته است."
+        },
+        {
+          "target": "La zona de juegos es la más pequeña del parque.",
+          "fa": "محوطهٔ بازی کوچک‌ترین بخش پارک است.",
+          "note_fa": "«La» و «pequeña» با «zona» هماهنگ‌اند."
+        },
+        {
+          "target": "Los caminos más cortos son los del centro.",
+          "fa": "کوتاه‌ترین مسیرها مسیرهای مرکز هستند.",
+          "note_fa": "حرف تعریف جمع مذکر با «caminos» هماهنگ است."
+        },
+        {
+          "target": "Las fuentes más antiguas están cerca del puente.",
+          "fa": "قدیمی‌ترین فواره‌ها نزدیک پل هستند.",
+          "note_fa": "«Las» و «antiguas» با «fuentes» جمع مؤنث‌اند."
+        },
+        {
+          "target": "Este es el puente más largo del barrio.",
+          "fa": "این بلندترین پل محله است.",
+          "note_fa": "گروه مقایسه با «del barrio» آمده است."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Un paseo por el parque",
+      "script": "Nora: ¿Qué lugar es el más tranquilo del barrio?\nPablo: Creo que el jardín botánico es el más tranquilo.\nNora: ¿Y qué zona es la más animada los sábados?\nPablo: La pista de patinaje; ponen música por la tarde.\nNora: ¿Cuál es el camino más corto hasta la fuente central?\nPablo: El del puente de madera; pasa junto a los bancos.\nNora: ¿Hay una zona de juegos cerca de allí?\nPablo: Sí, está detrás del estanque pequeño.\nNora: Perfecto, podemos empezar por el jardín.",
+      "script_fa": "نورا: آرام‌ترین مکان محله کجاست؟\nپابلو: فکر می‌کنم باغ گیاه‌شناسی آرام‌ترین جاست.\nنورا: و شنبه‌ها کدام محدوده از همه پرجنب‌وجوش‌تر است؟\nپابلو: پیست اسکیت؛ بعدازظهرها موسیقی می‌گذارند.\nنورا: کوتاه‌ترین مسیر تا فوارهٔ مرکزی کدام است؟\nپابلو: مسیر پل چوبی؛ از کنار نیمکت‌ها می‌گذرد.\nنورا: محوطهٔ بازی نزدیک آنجاست؟\nپابلو: بله، پشت برکهٔ کوچک است.\nنورا: عالی است، می‌توانیم از باغ شروع کنیم.",
+      "question_fa": "¿Qué lugar recomienda Pablo para estar tranquilo?",
+      "answer": "El jardín botánico.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Elegir un paseo",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Qué parque es el más grande de esta zona?",
+          "fa": "کدام پارک از همهٔ این محدوده بزرگ‌تر است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "El parque urbano, y tiene un jardín botánico.",
+          "fa": "پارک شهری؛ باغ گیاه‌شناسی هم دارد."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Qué parte es la más tranquila por la mañana?",
+          "fa": "صبح‌ها کدام بخش آرام‌تر است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "La zona verde detrás del estanque.",
+          "fa": "فضای سبز پشت برکه."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Cuál es el camino más corto hasta allí?",
+          "fa": "کوتاه‌ترین مسیر تا آنجا کدام است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "El que empieza junto a la fuente central.",
+          "fa": "مسیری که کنار فوارهٔ مرکزی شروع می‌شود."
+        },
+        {
+          "speaker": "A",
+          "target": "¿La pista de patinaje está cerca?",
+          "fa": "پیست اسکیت نزدیک است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, está al otro lado del puente.",
+          "fa": "بله، آن طرف پل است."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «زندگی روزمره»، دو مکان را با هم مقایسه کن و در مورد بزرگ‌ترین، آرام‌ترین یا خلوت‌ترین مکان صحبت کن.",
+      "useful_phrases": [
+        {
+          "target": "El parque más grande está en el centro.",
+          "fa": "بزرگ‌ترین پارک در مرکز است."
+        },
+        {
+          "target": "La zona menos concurrida es la del jardín.",
+          "fa": "خلوت‌ترین محدوده، محدودهٔ باغ است."
+        },
+        {
+          "target": "Los caminos más cortos están al norte.",
+          "fa": "کوتاه‌ترین مسیرها در شمال هستند."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Una tarde en el parque",
+      "text": "El sábado, Nora y Pablo visitan el parque urbano del barrio. Primero miran el mapa del recinto y eligen el camino más corto hasta el jardín botánico. Allí hay bancos de piedra y un estanque pequeño; Nora dice que esa zona es la más tranquila del parque. Después caminan hacia la pista de patinaje y la zona de juegos. Los dos lugares están cerca de la fuente central, pero la pista tiene más gente. Pablo pregunta cuál es el puente más largo. Nora responde que el puente de madera es el más largo del parque. Antes de volver a casa, descansan junto a la fuente. Para Nora, el jardín botánico es el lugar más bonito de la visita.",
+      "glossary": [
+        {
+          "term": "recinto",
+          "fa": "محوطه"
+        },
+        {
+          "term": "descansar",
+          "fa": "استراحت‌کردن"
+        },
+        {
+          "term": "elegir",
+          "fa": "انتخاب‌کردن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Qué lugar es el más tranquilo para Nora?",
+          "a": "El jardín botánico."
+        },
+        {
+          "q_fa": "¿Dónde están la pista y la zona de juegos?",
+          "a": "Cerca de la fuente central."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "شکل درست را انتخاب کن.",
+          "question": "El jardín botánico es ___ de la ciudad.",
+          "options": [
+            "el más tranquilo",
+            "la más tranquila",
+            "los más tranquilos"
+          ],
+          "answer": "el más tranquilo",
+          "explanation_fa": "«Jardín» مذکر مفرد است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "___ zonas están junto al puente.",
+          "options": [
+            "Las más limpias",
+            "El más limpio",
+            "La más limpia"
+          ],
+          "answer": "Las más limpias",
+          "explanation_fa": "«Zonas» مؤنث جمع است."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "خلوت‌ترین پیست را انتخاب کن.",
+          "question": "La pista ___ de la zona está al norte.",
+          "options": [
+            "menos concurrida",
+            "menos concurrido",
+            "más concurrida"
+          ],
+          "answer": "menos concurrida",
+          "explanation_fa": "«Pista» مؤنث مفرد است و اینجا «menos» ویژگی کمینه را می‌سازد."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Los caminos más cortos» lleva artículo y adjetivo en plural masculino.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "«Caminos» جمع مذکر است."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "La fuente ___ del parque es la central. (la más antigua)",
+          "answer": [
+            "más antigua"
+          ],
+          "explanation_fa": "«Fuente» مؤنث مفرد است؛ صفت هماهنگ می‌شود."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué lugar es el más tranquilo para Nora?",
+          "answer": [
+            "El jardín botánico."
+          ],
+          "explanation_fa": "نورا می‌گوید باغ گیاه‌شناسی آرام‌ترین جاست."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Qué lugar es el más tranquilo según Nora?",
+          "options": [
+            "El jardín botánico",
+            "La pista de patinaje",
+            "La zona de juegos"
+          ],
+          "answer": "El jardín botánico",
+          "explanation_fa": "Nora dice que el jardín botánico es el más tranquilo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Dónde está la zona de juegos?",
+          "options": [
+            "Detrás del estanque pequeño",
+            "Junto a la entrada del barrio",
+            "Al lado de la casa de Pablo"
+          ],
+          "answer": "Detrás del estanque pequeño",
+          "explanation_fa": "Pablo dice que queda detrás del estanque pequeño."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué camino eligen primero?",
+          "options": [
+            "El más corto",
+            "El más largo",
+            "El más ancho"
+          ],
+          "answer": "El más corto",
+          "explanation_fa": "El texto dice que eligen el camino más corto."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué hay cerca de la fuente central?",
+          "options": [
+            "La pista y la zona de juegos",
+            "El hotel y la recepción",
+            "La clase de cocina"
+          ],
+          "answer": "La pista y la zona de juegos",
+          "explanation_fa": "Los dos lugares están cerca de la fuente central."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué puente recorren?",
+          "options": [
+            "El puente de madera",
+            "El puente de piedra",
+            "El puente del centro"
+          ],
+          "answer": "El puente de madera",
+          "explanation_fa": "Nora y Pablo cruzan el puente de madera."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش دوستی که پارکی را به مهمانش نشان می‌دهد، سه مکان را مقایسه کن و از «el/la más» یا «el/la menos» استفاده کن.",
+      "suggested_prompts": [
+        [
+          "کدام مسیر از همه کوتاه‌تر است؟",
+          "از ساختار «el más corto» استفاده کن."
+        ],
+        [
+          "کدام محدوده خلوت‌تر است؟",
+          "از «la menos concurrida» استفاده کن."
+        ],
+        [
+          "محل را با چه گروهی مقایسه می‌کنی؟",
+          "گروه را پس از «de» بیاور."
+        ]
+      ],
+      "focus": [
+        "el/la más",
+        "el/la menos",
+        "de + el = del"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-04",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Nora y Pablo eligen una zona tranquila para pasear por el barrio."
+  }
+}

@@ -4,8 +4,8 @@ Actualizado: 2026-11-04
 
 ## Contenido
 
-- Lecciones instaladas: L001–L057 (57 de 340).
-- Validación completa del corpus: 57 lecciones, 66.651 comprobaciones, 0 errores.
+- Lecciones instaladas: L001–L060 (60 de 340).
+- Validación completa del corpus: 60 lecciones, 70.255 comprobaciones, 0 errores.
 - QA independiente L001–L003: 36 comprobaciones de secciones, 30 términos nuevos y 141 enunciados objetivo únicos.
 - QA independiente L004–L006: 36 comprobaciones de secciones, 30 términos nuevos y 92 enunciados de ejemplos, diálogos y lecturas; revisión léxica previa aprobada.
 - QA independiente L007–L009: 36 comprobaciones de secciones, 30 términos nuevos y 91 enunciados objetivo únicos; revisión léxica previa aprobada.
@@ -29,14 +29,16 @@ Actualizado: 2026-11-04
 - Validación aislada L052–L054: 3.583 comprobaciones, 0 errores.
 - QA independiente L055–L057: 213 verificaciones, 30 términos nuevos y 78 enunciados objetivo únicos; pronombres indefinidos, negación, también/tampoco, respuestas, escucha bilingüe, roles de audio y continuidad revisados.
 - Validación aislada L055–L057: 3.593 comprobaciones, 0 errores.
+- QA independiente L058–L060: 213 verificaciones, 30 términos nuevos y 76 enunciados objetivo únicos; superlativos, mejor/peor, por qué/porque, respuestas, escucha bilingüe, roles de audio y continuidad revisados.
+- Validación aislada L058–L060: 3.604 comprobaciones, 0 errores.
 - Inglés y francés no se modificaron.
 
 ## Audio — planes no son grabaciones
 
-- Lecciones/manifiestos españoles: 57; clips planificados: 2.451 (2.109 en español y 342 en persa).
-- MP3 físicos verificados: 0; referencias de audio en las lecciones: 0; clips pendientes: 2.451.
+- Lecciones/manifiestos españoles: 60; clips planificados: 2.580 (2.220 en español y 360 en persa).
+- MP3 físicos verificados: 0; referencias de audio en las lecciones: 0; clips pendientes: 2.580.
 - No se generaron archivos de audio.
 
 ## Próximo paso
 
-Continuar secuencialmente con L058–L060 en un lote aislado; validar antes de instalar.
+Continuar secuencialmente con L061–L063 en un lote aislado; validar antes de instalar.

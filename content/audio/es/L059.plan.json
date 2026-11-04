@@ -1,0 +1,398 @@
+{
+  "lesson": "L059",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L059-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué hotel parece mejor para una familia?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L059-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "El hotel Claro; tiene baño privado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L059-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Cuál ofrece el desayuno incluido?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L059-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "El hotel Claro, y la reserva es flexible.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L059-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Qué opción es peor para dormir?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L059-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "La habitación con vista a la calle.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L059-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "Entonces, ¿qué hotel elegimos?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L059-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "El Claro es el mejor de los dos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L059-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "La habitación doble cuesta menos, pero no incluye el desayuno.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L059-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "La otra habitación tiene desayuno incluido y un baño privado.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L059-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Cuál es mejor para pasar dos noches?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L059-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La segunda opción es mejor para nosotros.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L059-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Y la vista al patio?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L059-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "La habitación con vista al patio es más tranquila que la que da a la calle.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 75
+    },
+    {
+      "id": "L059-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "La reserva flexible también cuesta un poco más.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L059-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, pero esa es la mejor opción si cambiamos los planes.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L059-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "De acuerdo; reservamos la segunda habitación.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L059-es-vocab-hotelcentrico",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "hotel céntrico. El hotel céntrico está cerca de la estación.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L059-es-vocab-hotelcostero",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "hotel costero. El hotel costero tiene una terraza amplia.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L059-es-vocab-habitaciondoble",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "habitación doble. La habitación doble es mejor para dos personas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L059-es-vocab-camagrande",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "cama grande. La cama grande es mejor para una pareja.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L059-es-vocab-banoprivado",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "baño privado. El baño privado es mejor que el compartido.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L059-es-vocab-banocompartido",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "baño compartido. El baño compartido es peor para una familia.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L059-es-vocab-desayunoincluido",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "desayuno incluido. El desayuno incluido es mejor para empezar el día.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 69
+    },
+    {
+      "id": "L059-es-vocab-reservaflexible",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "reserva flexible. La reserva flexible es mejor si cambiamos el plan.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 68
+    },
+    {
+      "id": "L059-es-vocab-vistaalpatio",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "vista al patio. La vista al patio es mejor para dormir.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L059-es-vocab-serviciodelavanderia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "servicio de lavandería. El servicio de lavandería es mejor en el hotel grande.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 78
+    },
+    {
+      "id": "L059-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "La habitación doble es mejor que la individual.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L059-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "El baño compartido es peor que el privado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L059-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Estas camas son mejores que las del hotel Azul.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L059-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "El hotel Claro es el mejor de los dos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L059-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "La habitación doble es mejor que la individual para dos personas.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L059-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "El baño privado es mejor que el baño compartido.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L059-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "El desayuno del hotel Azul es peor que el del hotel Claro.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L059-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Las camas del hotel Claro son mejores que las del Azul.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L059-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Esta es la mejor habitación del edificio.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L059-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora y Pablo buscan alojamiento para un fin de semana en la costa. El hotel Azul ofrece una habitación doble con una cama grande y vista a la calle. El hotel Claro tiene baño privado y desayuno incluido. La habitación del Claro cuesta un poco más, pero la reserva es flexible. En el Azul, el baño es compartido y no hay servicio de lavandería. Para Nora, el hotel con desayuno incluido es mejor que el que ofrece la habitación más barata. Pablo piensa que la habitación con vista al patio es mejor para dormir. Después de comparar los detalles, eligen el hotel Claro: para ellos es la mejor opción.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 598
+    },
+    {
+      "id": "L059-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L059)",
+      "tts_text": "وقتی می‌خواهی بگویی یک گزینه از گزینهٔ دیگر بهتر یا بدتر است، چه می‌گویی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 73
+    },
+    {
+      "id": "L059-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L059)",
+      "tts_text": "برای مقایسهٔ کیفیت از «mejor que» و «peor que» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 58
+    },
+    {
+      "id": "L059-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L059)",
+      "tts_text": "به گفت‌وگو گوش کن و بفهم گزینهٔ دوم چه چیزهایی دارد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L059-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L059)",
+      "tts_text": "«Mejor» و «peor» شکل جمع «mejores» و «peores» دارند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L059-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L059)",
+      "tts_text": "دو محل اقامت را مقایسه کن و بهترین گزینه را انتخاب کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 54
+    },
+    {
+      "id": "L059-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L059)",
+      "tts_text": "«Más mejor» نادرست است؛ بگو «el mejor de los dos».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 50
+    }
+  ]
+}
