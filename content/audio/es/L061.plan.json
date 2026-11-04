@@ -1,0 +1,398 @@
+{
+  "lesson": "L061",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L061-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué has preparado hoy?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L061-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "He preparado un plato tradicional para la cena.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L061-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Has comprado los ingredientes en el mercado?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L061-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, he encontrado un puesto de comida regional.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L061-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Y qué has pedido de postre?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L061-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "He pedido un postre casero con fruta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L061-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Has comido en el restaurante vegetariano?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L061-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, he probado la sopa; está muy buena.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L061-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Qué has preparado para el taller de cocina?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L061-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "He preparado una receta nueva con ingredientes frescos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L061-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Has probado el plato tradicional del mercado?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L061-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, lo he probado esta mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L061-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Yo todavía no he comido allí.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L061-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Entonces, podemos ir después de la clase.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L061-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Has comprado algo para el postre?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L061-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, he comprado fruta para preparar un postre casero.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L061-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Perfecto, lo llevamos al taller.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L061-es-vocab-recetanueva",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "receta nueva. Hoy preparo una receta nueva.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L061-es-vocab-platotradicional",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "plato tradicional. El plato tradicional lleva arroz.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L061-es-vocab-ingredientefresco",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "ingrediente fresco. Necesitamos un ingrediente fresco.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L061-es-vocab-especiapicante",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "especia picante. Esta especia picante tiene mucho sabor.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L061-es-vocab-puestodecomida",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "puesto de comida. El puesto de comida está en la plaza.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L061-es-vocab-tallerdecocina",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "taller de cocina. El taller de cocina empieza a las seis.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L061-es-vocab-restaurantevegetariano",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "restaurante vegetariano. El restaurante vegetariano está abierto hoy.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 69
+    },
+    {
+      "id": "L061-es-vocab-postrecasero",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "postre casero. Mi abuela prepara un postre casero.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L061-es-vocab-mercadomunicipal",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "mercado municipal. El mercado municipal cierra por la tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L061-es-vocab-comidaregional",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "comida regional. La comida regional es diferente en cada zona.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L061-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Esta semana hemos visitado el mercado.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L061-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "¿Has comido el plato tradicional?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L061-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Mi hermana ha vivido aquí este año.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L061-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "He preparado una receta nueva.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L061-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Hoy he preparado una receta nueva.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L061-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "¿Has probado el plato tradicional?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L061-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Esta semana hemos visitado un mercado municipal.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L061-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "He comprado ingredientes frescos en el puesto de comida.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L061-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Mi hermana ha pedido un postre casero.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L061-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Esta semana, Nora ha participado en un taller de cocina cerca de casa. El primer día ha preparado una receta nueva con ingredientes frescos. Después, ha probado un plato tradicional en un mercado municipal. Pablo también ha visitado el taller, pero ha elegido una receta vegetariana. Los dos han comprado especias en un puesto de comida y han hablado con la cocinera. Hoy han preparado un postre casero con fruta y han compartido la comida con sus vecinos. Nora dice que ha aprendido palabras nuevas y ha disfrutado de la experiencia. El sábado, quieren volver al mercado para probar otra comida regional.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 605
+    },
+    {
+      "id": "L061-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L061)",
+      "tts_text": "چطور می‌گویی کاری را امروز یا در این هفته انجام داده‌ای؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 56
+    },
+    {
+      "id": "L061-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L061)",
+      "tts_text": "«Haber» را صرف کن و پس از آن اسم مفعول باقاعده بیاور.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 53
+    },
+    {
+      "id": "L061-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L061)",
+      "tts_text": "به گفت‌وگو گوش کن و بفهم پابلو برای کارگاه چه چیزی آماده کرده است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L061-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L061)",
+      "tts_text": "«He preparado» از «haber + preparado» ساخته می‌شود.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L061-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L061)",
+      "tts_text": "دربارهٔ کارهای امروز یا این هفته‌ات چند جمله بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 49
+    },
+    {
+      "id": "L061-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L061)",
+      "tts_text": "اسم مفعول با «haber» از نظر جنس و شمار تغییر نمی‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 53
+    }
+  ]
+}

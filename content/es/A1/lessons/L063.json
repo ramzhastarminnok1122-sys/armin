@@ -1,0 +1,466 @@
+{
+  "lesson": {
+    "language_code": "es",
+    "level": "A1",
+    "order_index": 63,
+    "title": "¿Has viajado alguna vez en tren?",
+    "subtitle": "Preguntar por experiencias de vida",
+    "description": "Nora y Pablo hablan de viajes que han hecho y lugares que todavía quieren visitar.",
+    "estimated_minutes": 18,
+    "is_free": false,
+    "status": "validated",
+    "version": 1
+  },
+  "content": {
+    "meta": {
+      "cefr": "A1",
+      "topic": "Preguntas de experiencia con alguna vez, ya, nunca y todavía no",
+      "objectives": [
+        "Preguntar si alguien ha tenido una experiencia.",
+        "Responder con alguna vez, ya, nunca o todavía no.",
+        "Usar el pretérito perfecto sin indicar una fecha pasada concreta."
+      ]
+    },
+    "warmup": {
+      "prompt_fa": "چطور می‌پرسی کسی تاکنون تجربه‌ای داشته یا نه و بعد می‌گویی هنوز انجامش نداده‌ای؟",
+      "questions": [
+        {
+          "q": "برای پرسیدن «تا حالا سفر کرده‌ای؟» از چه عبارتی شروع می‌کنی؟",
+          "hint_fa": "از «¿Has viajado alguna vez…?» استفاده کن."
+        },
+        {
+          "q": "برای گفتن «هنوز نه» چه می‌گویی؟",
+          "hint_fa": "«Todavía no»."
+        }
+      ]
+    },
+    "explanation": {
+      "title": "Preguntar por experiencias",
+      "body_fa": "برای پرسیدن دربارهٔ تجربه می‌گویی «¿Alguna vez has + اسم مفعول?»: «¿Has viajado alguna vez en tren?». پاسخ مثبت می‌تواند «Sí, una vez» باشد؛ برای تجربه‌نداشتن بگو «No, nunca» یا «Todavía no». «Ya» نشان می‌دهد کاری انجام شده است: «Ya he visitado ese museo». «Nunca» می‌تواند پیش از فعل کامل بیاید: «Nunca he viajado»؛ اگر پس از آن بیاید، «no» هم لازم است: «No he viajado nunca». در اسپانیایی اسپانیا، زمان حال کامل برای تجربه‌های مرتبط با اکنون رایج است؛ کاربرد زمان گذشتهٔ ساده در مناطق مختلف تفاوت دارد.",
+      "key_points": [
+        "از «¿Alguna vez has + participio?» برای پرسیدن تجربه استفاده کن.",
+        "«Ya» یعنی کار انجام شده؛ «todavía no» و «nunca» می‌توانند نبود تجربه را بیان کنند.",
+        "در ساختار «No he viajado nunca», «no» پیش از فعل می‌آید."
+      ]
+    },
+    "vocabulary": {
+      "items": [
+        {
+          "term": "pasaporte válido",
+          "ipa": "/pa.saˈpoɾ.te ˈba.li.ðo/",
+          "translation_fa": "گذرنامهٔ معتبر",
+          "example": "El pasaporte válido está dentro de la mochila.",
+          "example_fa": "گذرنامهٔ معتبر داخل کوله‌پشتی است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ciudad histórica",
+          "ipa": "/θjuˈðað isˈto.ɾi.ka/",
+          "translation_fa": "شهر تاریخی",
+          "example": "La ciudad histórica tiene un museo famoso.",
+          "example_fa": "شهر تاریخی موزهٔ مشهوری دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "pueblo costero",
+          "ipa": "/ˈpwe.blo kosˈte.ɾo/",
+          "translation_fa": "شهرک ساحلی",
+          "example": "El pueblo costero queda junto al mar.",
+          "example_fa": "شهرک ساحلی کنار دریاست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "tren nocturno",
+          "ipa": "/tɾen nokˈtuɾ.no/",
+          "translation_fa": "قطار شبانه",
+          "example": "El tren nocturno sale a las diez.",
+          "example_fa": "قطار شبانه ساعت ده حرکت می‌کند.",
+          "tag": "اسم"
+        },
+        {
+          "term": "vuelo directo",
+          "ipa": "/ˈbwe.lo ðiˈɾek.to/",
+          "translation_fa": "پرواز مستقیم",
+          "example": "Hay un vuelo directo al país vecino.",
+          "example_fa": "یک پرواز مستقیم به کشور همسایه هست.",
+          "tag": "اسم"
+        },
+        {
+          "term": "ruta de montaña",
+          "ipa": "/ˈru.ta ðe monˈta.ɲa/",
+          "translation_fa": "مسیر کوهستانی",
+          "example": "La ruta de montaña empieza junto al río.",
+          "example_fa": "مسیر کوهستانی کنار رودخانه آغاز می‌شود.",
+          "tag": "اسم"
+        },
+        {
+          "term": "museo de ciencias",
+          "ipa": "/muˈse.o ðe ˈθjen.θjas/",
+          "translation_fa": "موزهٔ علوم",
+          "example": "El museo de ciencias abre los domingos.",
+          "example_fa": "موزهٔ علوم یکشنبه‌ها باز است.",
+          "tag": "اسم"
+        },
+        {
+          "term": "reserva de hotel",
+          "ipa": "/reˈseɾ.βa ðe oˈtel/",
+          "translation_fa": "رزرو هتل",
+          "example": "Buscamos una reserva de hotel para cuatro noches.",
+          "example_fa": "برای چهار شب دنبال رزرو هتل هستیم.",
+          "tag": "اسم"
+        },
+        {
+          "term": "guía de viaje",
+          "ipa": "/ˈɡi.a ðe ˈbja.xe/",
+          "translation_fa": "راهنمای سفر",
+          "example": "La guía de viaje tiene un mapa pequeño.",
+          "example_fa": "راهنمای سفر نقشهٔ کوچکی دارد.",
+          "tag": "اسم"
+        },
+        {
+          "term": "país vecino",
+          "ipa": "/paˈis beˈθi.no/",
+          "translation_fa": "کشور همسایه",
+          "example": "Nuestro país vecino está al norte.",
+          "example_fa": "کشور همسایهٔ ما در شمال است.",
+          "tag": "اسم"
+        }
+      ]
+    },
+    "grammar": {
+      "title": "Alguna vez, ya, nunca y todavía no",
+      "explanation_fa": "برای پرسیدن دربارهٔ تجربه، از «¿Alguna vez has + اسم مفعول?» استفاده می‌کنیم: «¿Has viajado alguna vez en tren?». پاسخ مثبت می‌تواند «Sí, una vez» باشد؛ برای تجربه‌نداشتن بگو «No, nunca» یا «Todavía no». «Ya» نشان می‌دهد کاری انجام شده است: «Ya he visitado ese museo». «Nunca» می‌تواند پیش از فعل کامل بیاید: «Nunca he viajado»؛ اگر پس از آن بیاید، «no» هم لازم است: «No he viajado nunca». در اسپانیایی اسپانیا، زمان حال کامل برای تجربه‌های مرتبط با اکنون رایج است؛ کاربرد زمان گذشتهٔ ساده در مناطق مختلف تفاوت دارد.",
+      "pattern": "¿alguna vez + haber + participio?; ya/nunca/todavía no + pretérito perfecto",
+      "table": {
+        "headers": [
+          "ساختار",
+          "مثال",
+          "ترجمه"
+        ],
+        "rows": [
+          [
+            "pregunta",
+            "¿Has visitado alguna vez un pueblo costero?",
+            "تا به حال از شهرکی ساحلی بازدید کرده‌ای؟"
+          ],
+          [
+            "respuesta afirmativa",
+            "Sí, he estado allí dos veces.",
+            "بله، دو بار آنجا بوده‌ام."
+          ],
+          [
+            "todavía no",
+            "No, todavía no he viajado en tren nocturno.",
+            "نه، هنوز با قطار شبانه سفر نکرده‌ام."
+          ],
+          [
+            "nunca",
+            "Nunca he visto ese museo de ciencias.",
+            "هرگز آن موزهٔ علوم را ندیده‌ام."
+          ]
+        ]
+      },
+      "pitfalls_fa": [
+        "«Alguna vez» در پرسش دربارهٔ تجربه می‌آید؛ «ya» انجام‌شدن را نشان می‌دهد.",
+        "برای نفی بگو «No he viajado nunca» یا «Nunca he viajado»."
+      ]
+    },
+    "examples": {
+      "items": [
+        {
+          "target": "¿Has visitado alguna vez una ciudad histórica?",
+          "fa": "تا به حال از یک شهر تاریخی بازدید کرده‌ای؟",
+          "note_fa": "«Alguna vez» دربارهٔ تجربهٔ زندگی می‌پرسد."
+        },
+        {
+          "target": "Sí, he estado en esa ciudad dos veces.",
+          "fa": "بله، دو بار در آن شهر بوده‌ام.",
+          "note_fa": "«He estado» تجربهٔ انجام‌شده را بیان می‌کند."
+        },
+        {
+          "target": "No, todavía no he visitado el museo de ciencias.",
+          "fa": "نه، هنوز از موزهٔ علوم بازدید نکرده‌ام.",
+          "note_fa": "«Todavía no» یعنی تا این لحظه نه."
+        },
+        {
+          "target": "Ya hemos leído la guía de viaje.",
+          "fa": "راهنمای سفر را خوانده‌ایم.",
+          "note_fa": "«Ya» نشان می‌دهد کار انجام شده است."
+        },
+        {
+          "target": "Nunca he viajado a ese país vecino.",
+          "fa": "هرگز به آن کشور همسایه سفر نکرده‌ام.",
+          "note_fa": "«Nunca» می‌تواند پیش از فعل کامل بیاید."
+        }
+      ]
+    },
+    "listening": {
+      "title_fa": "Hablar de viajes",
+      "script": "Nora: ¿Has viajado alguna vez en tren nocturno?\nPablo: Sí, he viajado dos veces, pero nunca solo.\nNora: ¿Has visitado un pueblo costero?\nPablo: Sí, he estado en uno con mi familia.\nNora: ¿Has visto el museo de ciencias de la ciudad?\nPablo: No, todavía no; solo he visitado el centro histórico.\nNora: ¿Has encontrado una ruta de montaña para el fin de semana?\nPablo: Sí, he encontrado una ruta en una guía de viaje.\nNora: Perfecto; entonces podemos organizar una salida.",
+      "script_fa": "نورا: تا حالا با قطار شبانه سفر کرده‌ای؟\nپابلو: بله، دو بار سفر کرده‌ام، اما هرگز تنها نبوده‌ام.\nنورا: از شهرکی ساحلی بازدید کرده‌ای؟\nپابلو: بله، همراه خانواده‌ام آنجا بوده‌ام.\nنورا: موزهٔ علوم شهر را دیده‌ای؟\nپابلو: نه، هنوز نه؛ فقط از مرکز تاریخی بازدید کرده‌ام.\nنورا: برای آخر هفته مسیر کوهستانی پیدا کرده‌ای؟\nپابلو: بله، در راهنمای سفر مسیری پیدا کرده‌ام.\nنورا: عالی است؛ پس می‌توانیم گردش را برنامه‌ریزی کنیم.",
+      "question_fa": "¿Qué ha leído Pablo para elegir una ruta?",
+      "answer": "Una guía de viaje.",
+      "needs_audio": true
+    },
+    "dialogue": {
+      "title_fa": "Contar experiencias",
+      "lines": [
+        {
+          "speaker": "A",
+          "target": "¿Has visitado alguna vez un país vecino?",
+          "fa": "تا به حال از کشور همسایه‌ای بازدید کرده‌ای؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, he estado en Francia varias veces.",
+          "fa": "بله، چند بار در فرانسه بوده‌ام."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Has viajado en tren nocturno?",
+          "fa": "با قطار شبانه سفر کرده‌ای؟"
+        },
+        {
+          "speaker": "B",
+          "target": "No, todavía no he hecho ese viaje.",
+          "fa": "نه، هنوز آن سفر را انجام نداده‌ام."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Has estado en una ciudad histórica?",
+          "fa": "در یک شهر تاریخی بوده‌ای؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, he visitado un museo de ciencias.",
+          "fa": "بله، از یک موزهٔ علوم بازدید کرده‌ام."
+        },
+        {
+          "speaker": "A",
+          "target": "¿Has comprobado que tu pasaporte es válido?",
+          "fa": "بررسی کرده‌ای که گذرنامه‌ات معتبر است؟"
+        },
+        {
+          "speaker": "B",
+          "target": "Sí, lo he comprobado esta mañana.",
+          "fa": "بله، امروز صبح آن را بررسی کرده‌ام."
+        }
+      ]
+    },
+    "speaking": {
+      "task_fa": "در سناریوی «سفر»، دربارهٔ جاهایی که تا به حال رفته‌ای یا هنوز نرفته‌ای حرف بزن و از «alguna vez», «ya», «nunca» و «todavía no» استفاده کن.",
+      "useful_phrases": [
+        {
+          "target": "¿Has viajado alguna vez en tren?",
+          "fa": "تا به حال با قطار سفر کرده‌ای؟"
+        },
+        {
+          "target": "Nunca he visitado ese museo.",
+          "fa": "هرگز از آن موزه بازدید نکرده‌ام."
+        },
+        {
+          "target": "Todavía no he estado en la costa.",
+          "fa": "هنوز در ساحل نبوده‌ام."
+        }
+      ],
+      "seconds": 180
+    },
+    "reading": {
+      "title": "Preparar un viaje corto",
+      "text": "Leo y Sara preparan un viaje corto. Sara ha viajado en un tren nocturno, pero Leo todavía no. Él nunca ha visitado un pueblo costero. Sara le pregunta: «¿Has estado alguna vez en una ciudad histórica?». Leo responde que sí; ha visto el centro antiguo y el museo de ciencias. Los dos han leído una guía de viaje y han encontrado una ruta de montaña fácil. También han comprobado que sus pasaportes son válidos y que hay un vuelo directo a un país vecino. Todavía no han hecho una reserva de hotel, pero quieren decidir esta semana. Para Sara, la ruta parece interesante; Leo prefiere conocer primero la ciudad.",
+      "glossary": [
+        {
+          "term": "comprobar",
+          "fa": "بررسی‌کردن"
+        },
+        {
+          "term": "antiguo",
+          "fa": "قدیمی"
+        },
+        {
+          "term": "decidir",
+          "fa": "تصمیم‌گرفتن"
+        }
+      ],
+      "questions": [
+        {
+          "q_fa": "¿Quién ha viajado en tren nocturno?",
+          "a": "Sara."
+        },
+        {
+          "q_fa": "¿Qué prefiere hacer primero Leo?",
+          "a": "Conocer primero la ciudad."
+        }
+      ]
+    },
+    "exercises": {
+      "items": [
+        {
+          "type": "mcq",
+          "prompt_fa": "پاسخ مناسب را انتخاب کن.",
+          "question": "¿Has viajado ___ en tren nocturno?",
+          "options": [
+            "alguna vez",
+            "ya no",
+            "todavía no"
+          ],
+          "answer": "alguna vez",
+          "explanation_fa": "«Alguna vez» دربارهٔ تجربه می‌پرسد."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "No, ___ no he visitado el museo.",
+          "options": [
+            "todavía",
+            "alguna vez",
+            "ya"
+          ],
+          "answer": "todavía",
+          "explanation_fa": "«Todavía no» یعنی تا این لحظه نه."
+        },
+        {
+          "type": "mcq",
+          "prompt_fa": "قید مناسب را انتخاب کن.",
+          "question": "___ he leído la guía; está en mi mochila.",
+          "options": [
+            "Ya",
+            "Nunca",
+            "Todavía no"
+          ],
+          "answer": "Ya",
+          "explanation_fa": "«Ya» نشان می‌دهد راهنما خوانده شده است."
+        },
+        {
+          "type": "truefalse",
+          "prompt_fa": "درست یا نادرست؟",
+          "question": "«Nunca he viajado» puede expresar que no tengo esa experiencia.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True",
+          "explanation_fa": "«Nunca» پیش از فعل کامل، نبود تجربه را بیان می‌کند."
+        },
+        {
+          "type": "fill",
+          "prompt_fa": "جمله را کامل کن.",
+          "question": "___ he visto ese museo. (nunca)",
+          "answer": [
+            "Nunca"
+          ],
+          "explanation_fa": "«Nunca» می‌تواند پیش از «he visto» بیاید."
+        },
+        {
+          "type": "short",
+          "prompt_fa": "به پرسش پاسخ بده.",
+          "question": "¿Qué ha leído Pablo para elegir una ruta?",
+          "answer": [
+            "Una guía de viaje."
+          ],
+          "explanation_fa": "پابلو راهنمای سفر را خوانده است."
+        }
+      ]
+    },
+    "quiz": {
+      "items": [
+        {
+          "type": "mcq",
+          "question": "¿Quién todavía no ha viajado en tren nocturno?",
+          "options": [
+            "Pablo",
+            "Nora",
+            "Sara"
+          ],
+          "answer": "Pablo",
+          "explanation_fa": "Pablo dice que todavía no ha hecho ese viaje."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué ha visitado Leo?",
+          "options": [
+            "El centro antiguo y el museo de ciencias",
+            "Una isla tropical",
+            "Un hotel de montaña"
+          ],
+          "answer": "El centro antiguo y el museo de ciencias",
+          "explanation_fa": "Leo ha visto el centro antiguo y el museo."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué han leído Sara y Leo?",
+          "options": [
+            "Una guía de viaje",
+            "Un periódico local",
+            "Una carta del hotel"
+          ],
+          "answer": "Una guía de viaje",
+          "explanation_fa": "Los dos han leído una guía de viaje."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué han encontrado?",
+          "options": [
+            "Una ruta de montaña",
+            "Un vuelo nocturno",
+            "Una casa en la costa"
+          ],
+          "answer": "Una ruta de montaña",
+          "explanation_fa": "Han encontrado una ruta de montaña fácil."
+        },
+        {
+          "type": "mcq",
+          "question": "¿Qué prefiere Leo?",
+          "options": [
+            "Conocer primero la ciudad",
+            "Tomar un tren nocturno",
+            "Visitar el pueblo costero"
+          ],
+          "answer": "Conocer primero la ciudad",
+          "explanation_fa": "Al final, Leo prefiere conocer primero la ciudad."
+        }
+      ]
+    },
+    "ai_practice": {
+      "task_fa": "در نقش هم‌کلاسی‌ای که دربارهٔ سفرهایش صحبت می‌کند، از دوستت دربارهٔ تجربه‌هایش بپرس و تجربه‌های خودت را هم بگو.",
+      "suggested_prompts": [
+        [
+          "از تجربهٔ سفر دوستت بپرس.",
+          "از «¿Has viajado alguna vez…?» استفاده کن."
+        ],
+        [
+          "از کاری که انجام داده‌ای بگو.",
+          "از «Ya he…» استفاده کن."
+        ],
+        [
+          "از تجربه‌ای که نداری بگو.",
+          "از «Nunca he…» یا «Todavía no he…» استفاده کن."
+        ]
+      ],
+      "focus": [
+        "alguna vez",
+        "ya",
+        "nunca/todavía no"
+      ]
+    },
+    "audio": {}
+  },
+  "validation": {
+    "generated_by": "content-factory-agent",
+    "validated_at": "2026-11-04",
+    "checks": [
+      "schema",
+      "content",
+      "level",
+      "grammar",
+      "vocabulary",
+      "tts",
+      "quiz",
+      "exercise",
+      "ai_practice",
+      "ui_compatibility",
+      "duplicate"
+    ],
+    "notes": "Nora y Pablo comparan sus viajes y preparan una salida para el fin de semana."
+  }
+}

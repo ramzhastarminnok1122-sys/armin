@@ -1,0 +1,398 @@
+{
+  "lesson": "L062",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L062-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Has visto la tarjeta con la receta?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L062-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, la he puesto junto al horno.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L062-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Quién ha abierto la ventana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L062-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "La he abierto yo porque hacía calor.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L062-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Has hecho la lista de la compra?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L062-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, la he escrito después del desayuno.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L062-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Y la mesa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 11
+    },
+    {
+      "id": "L062-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Ya la hemos puesto para seis personas.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L062-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Has puesto la mesa para la cena?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L062-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Sí, he puesto los platos y los vasos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L062-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Has visto la receta escrita junto al horno?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L062-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "La he visto; también he abierto la ventana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L062-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Quién ha hecho la lista de la compra?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L062-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "La ha hecho Eva; faltan dos ingredientes.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L062-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Y el paño de cocina?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L062-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Lo he puesto al lado del delantal limpio.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L062-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Muy bien, la cocina ya está preparada.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L062-es-vocab-mesapuesta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "mesa puesta. La mesa está puesta para la cena.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L062-es-vocab-verduracortada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "verdura cortada. La verdura cortada está en un cuenco.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L062-es-vocab-puertaabierta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "puerta abierta. La puerta está abierta durante la clase.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L062-es-vocab-ventanacerrada",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "ventana cerrada. La ventana cerrada evita el ruido.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L062-es-vocab-recetaescrita",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "receta escrita. La receta escrita está sobre la mesa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L062-es-vocab-hornoencendido",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "horno encendido. El horno encendido calienta la cocina.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L062-es-vocab-platoroto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "plato roto. El plato roto no se puede usar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L062-es-vocab-listadelacompra",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "lista de la compra. Apunta los tomates en la lista de la compra.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 64
+    },
+    {
+      "id": "L062-es-vocab-delantallimpio",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "delantal limpio. El delantal limpio está en el armario.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L062-es-vocab-panodecocina",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "paño de cocina. El paño de cocina sirve para secar los vasos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L062-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "He hecho la lista de la compra.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L062-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "¿Has visto la mesa puesta?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L062-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Hemos puesto la mesa para seis personas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L062-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Eva ha abierto la ventana y ha escrito una nota.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L062-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Pablo ha puesto la mesa antes de cocinar.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L062-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "¿Has visto la receta escrita?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L062-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Eva ha abierto la ventana para ventilar la cocina.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L062-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Diego ha hecho la lista de la compra.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L062-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "He lavado el paño de cocina; ya está junto al horno.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L062-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora y Pablo han preparado una cena para sus amigos. Pablo ha hecho una lista de la compra y ha escrito los ingredientes que faltan. Nora ha puesto la mesa para seis personas y ha abierto la ventana de la cocina. Al buscar la receta, Pablo ha visto que el horno todavía está apagado. Han encendido el horno y han cortado las verduras. Nora ha encontrado un plato roto en el armario y ha elegido otro. La receta escrita está ahora junto al horno. Antes de que lleguen los invitados, han limpiado la mesa y han dejado el paño de cocina sobre la encimera. Los dos han terminado casi todo.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 585
+    },
+    {
+      "id": "L062-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L062)",
+      "tts_text": "چند فعل پرکاربرد اسم مفعول نامنظم دارند؛ چطور می‌گویی میز را چیده‌ای یا دستور را نوشته‌ای؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 90
+    },
+    {
+      "id": "L062-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L062)",
+      "tts_text": "«Hacer, ver, poner, escribir» و «abrir» شکل‌های نامنظم دارند.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L062-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L062)",
+      "tts_text": "به گفت‌وگو گوش کن و بفهم چه کسی فهرست خرید را آماده کرده است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 61
+    },
+    {
+      "id": "L062-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L062)",
+      "tts_text": "«He hecho», «he visto», «he puesto», «he escrito», «he abierto».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L062-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L062)",
+      "tts_text": "از کارهایی که برای آماده‌کردن خانه انجام داده‌ای حرف بزن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L062-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L062)",
+      "tts_text": "با «haber» اسم مفعول تغییر جنس و شمار نمی‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 46
+    }
+  ]
+}

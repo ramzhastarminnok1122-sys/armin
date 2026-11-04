@@ -1,0 +1,398 @@
+{
+  "lesson": "L063",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L063-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Has visitado alguna vez un país vecino?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L063-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, he estado en Francia varias veces.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L063-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Has viajado en tren nocturno?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L063-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "No, todavía no he hecho ese viaje.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L063-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Has estado en una ciudad histórica?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L063-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, he visitado un museo de ciencias.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L063-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Has comprobado que tu pasaporte es válido?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L063-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, lo he comprobado esta mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L063-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Has viajado alguna vez en tren nocturno?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L063-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Sí, he viajado dos veces, pero nunca solo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L063-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Has visitado un pueblo costero?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L063-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, he estado en uno con mi familia.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L063-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Has visto el museo de ciencias de la ciudad?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L063-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "No, todavía no; solo he visitado el centro histórico.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L063-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Has encontrado una ruta de montaña para el fin de semana?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L063-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Sí, he encontrado una ruta en una guía de viaje.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L063-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Perfecto; entonces podemos organizar una salida.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L063-es-vocab-pasaportevalido",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "pasaporte válido. El pasaporte válido está dentro de la mochila.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 64
+    },
+    {
+      "id": "L063-es-vocab-ciudadhistorica",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "ciudad histórica. La ciudad histórica tiene un museo famoso.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L063-es-vocab-pueblocostero",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "pueblo costero. El pueblo costero queda junto al mar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L063-es-vocab-trennocturno",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "tren nocturno. El tren nocturno sale a las diez.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L063-es-vocab-vuelodirecto",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "vuelo directo. Hay un vuelo directo al país vecino.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L063-es-vocab-rutademontana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "ruta de montaña. La ruta de montaña empieza junto al río.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L063-es-vocab-museodeciencias",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "museo de ciencias. El museo de ciencias abre los domingos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L063-es-vocab-reservadehotel",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "reserva de hotel. Buscamos una reserva de hotel para cuatro noches.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 67
+    },
+    {
+      "id": "L063-es-vocab-guiadeviaje",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "guía de viaje. La guía de viaje tiene un mapa pequeño.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L063-es-vocab-paisvecino",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "país vecino. Nuestro país vecino está al norte.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L063-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "¿Has visitado alguna vez un pueblo costero?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L063-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Sí, he estado allí dos veces.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L063-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "No, todavía no he viajado en tren nocturno.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L063-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "Nunca he visto ese museo de ciencias.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L063-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "¿Has visitado alguna vez una ciudad histórica?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L063-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Sí, he estado en esa ciudad dos veces.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L063-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "No, todavía no he visitado el museo de ciencias.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L063-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Ya hemos leído la guía de viaje.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L063-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Nunca he viajado a ese país vecino.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L063-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Leo y Sara preparan un viaje corto. Sara ha viajado en un tren nocturno, pero Leo todavía no. Él nunca ha visitado un pueblo costero. Sara le pregunta: «¿Has estado alguna vez en una ciudad histórica?». Leo responde que sí; ha visto el centro antiguo y el museo de ciencias. Los dos han leído una guía de viaje y han encontrado una ruta de montaña fácil. También han comprobado que sus pasaportes son válidos y que hay un vuelo directo a un país vecino. Todavía no han hecho una reserva de hotel, pero quieren decidir esta semana. Para Sara, la ruta parece interesante; Leo prefiere conocer primero la ciudad.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 609
+    },
+    {
+      "id": "L063-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L063)",
+      "tts_text": "چطور می‌پرسی کسی تاکنون تجربه‌ای داشته یا نه و بعد می‌گویی هنوز انجامش نداده‌ای؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 80
+    },
+    {
+      "id": "L063-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L063)",
+      "tts_text": "برای پرسیدن تجربه از «¿Alguna vez has + participio?» استفاده کن.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 64
+    },
+    {
+      "id": "L063-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L063)",
+      "tts_text": "به گفت‌وگو گوش کن و بفهم پابلو برای انتخاب مسیر چه چیزی خوانده است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 67
+    },
+    {
+      "id": "L063-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L063)",
+      "tts_text": "«¿Has viajado alguna vez?»؛ «Todavía no he viajado».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L063-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L063)",
+      "tts_text": "از تجربه‌های سفر خودت سؤال بپرس و پاسخ بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 43
+    },
+    {
+      "id": "L063-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L063)",
+      "tts_text": "«Ya» یعنی انجام شده؛ «nunca/todavía no» تجربه‌نداشتن را بیان می‌کنند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    }
+  ]
+}
