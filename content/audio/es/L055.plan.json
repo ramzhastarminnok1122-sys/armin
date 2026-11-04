@@ -1,0 +1,398 @@
+{
+  "lesson": "L055",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L055-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Hay alguien en la recepción?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L055-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, una persona espera junto a la puerta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L055-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Trae algo para mí?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L055-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, tiene una tarjeta de visita.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L055-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Conoces a la persona?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 22
+    },
+    {
+      "id": "L055-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, es una visita sorpresa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L055-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Hay alguna sala libre?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L055-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, la sala de espera está abierta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L055-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Alguien toca el timbre; ¿esperas a una visita?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L055-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "No, hoy no tengo una cita previa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L055-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Hay alguien en la recepción con un paquete urgente.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L055-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿La persona trae una tarjeta de visita?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L055-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Sí, la tarjeta está sobre la mesa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L055-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "¿Es alguien de la familia?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L055-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "No lo sé; espera en la sala de espera.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L055-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¿Pregunta por una habitación?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L055-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Sí, pregunta por el número de la habitación.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L055-es-vocab-timbre",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "timbre. Alguien toca el timbre a las ocho.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L055-es-vocab-golpeenlapuerta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "golpe en la puerta. Hay un golpe en la puerta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L055-es-vocab-visitasorpresa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "visita sorpresa. Tenemos una visita sorpresa esta tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L055-es-vocab-personadesconocida",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "persona desconocida. Una persona desconocida espera fuera.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L055-es-vocab-recepcion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "recepción. Alguien trabaja en la recepción.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L055-es-vocab-saladeespera",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "sala de espera. La sala de espera está vacía.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L055-es-vocab-citaprevia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "cita previa. Tengo una cita previa con la directora.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L055-es-vocab-tarjetadevisita",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "tarjeta de visita. La tarjeta de visita está sobre la mesa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L055-es-vocab-numerodehabitacion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "número de habitación. El número de habitación aparece en el papel.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 66
+    },
+    {
+      "id": "L055-es-vocab-paqueteurgente",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "paquete urgente. Alguien trae un paquete urgente.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L055-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Alguien espera en la recepción.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L055-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Tengo algo para ti.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L055-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Hay una sala libre en algún lugar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L055-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "¿Hay alguien en la puerta?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L055-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Alguien toca el timbre a las ocho.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L055-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "¿Tienes algo para la visita?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L055-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Una persona desconocida espera en la recepción.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L055-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "Hay alguna sala libre en el edificio.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L055-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Alguien trae un paquete urgente esta tarde.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L055-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Esta tarde, Sara oye el timbre del edificio y mira por la ventana. Hay una persona desconocida junto a la puerta. Diego está en la recepción y recibe un paquete urgente. La visita tiene una tarjeta de visita, pero no dice su nombre. Sara pregunta si es alguien de la familia; Diego no lo sabe. La persona espera en la sala de espera y pregunta por el número de una habitación. En algún lugar del edificio hay una reunión, así que Diego llama a la directora. Ella llega unos minutos después y habla con la visita. Al final, todos entienden quién trae el paquete.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 561
+    },
+    {
+      "id": "L055-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L055)",
+      "tts_text": "اگر کسی را نشناسی یا چیزی را هنوز مشخص نکنی، چطور درباره‌اش حرف می‌زنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L055-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L055)",
+      "tts_text": "از «alguien» برای فرد و از «algo» برای چیز نامشخص استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L055-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L055)",
+      "tts_text": "به گفت‌وگو گوش کن و بفهم فرد چه چیزی آورده است.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L055-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L055)",
+      "tts_text": "می‌گوییم «alguien espera» و «tengo algo».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    },
+    {
+      "id": "L055-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L055)",
+      "tts_text": "فرد یا چیزی نامشخص را در یک ساختمان توصیف کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    },
+    {
+      "id": "L055-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L055)",
+      "tts_text": "با «alguien» فعل مفرد بیاور و برای اسم از «algún/alguna» استفاده کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 68
+    }
+  ]
+}

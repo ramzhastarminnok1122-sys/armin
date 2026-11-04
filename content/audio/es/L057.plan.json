@@ -1,0 +1,398 @@
+{
+  "lesson": "L057",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L057-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "No me gusta madrugar los domingos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L057-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "A mí tampoco.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 13
+    },
+    {
+      "id": "L057-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Me gusta desayunar tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 25
+    },
+    {
+      "id": "L057-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "A mí también.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 13
+    },
+    {
+      "id": "L057-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Estás de acuerdo con caminar por la tarde?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L057-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Sí, me parece bien.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 19
+    },
+    {
+      "id": "L057-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "No quiero ir muy lejos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L057-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Yo tampoco; prefiero el parque cercano.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L057-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Me gusta estudiar en la biblioteca por la tarde.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L057-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "A mí también; allí trabajo con calma.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L057-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "No me gusta estudiar con música alta.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L057-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "A mí tampoco; prefiero un lugar tranquilo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L057-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Te gusta caminar después de clase?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L057-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Sí, y a mi hermana también.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 27
+    },
+    {
+      "id": "L057-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Hoy no tengo tiempo para caminar.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L057-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Yo sí tengo tiempo; podemos salir mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L057-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Me parece bien; nos vemos después.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L057-es-vocab-amitambien",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "a mí también. A mí también me gusta caminar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L057-es-vocab-amitampoco",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "a mí tampoco. A mí tampoco me gusta madrugar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L057-es-vocab-yotambien",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "yo también. Yo también estudio por la tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L057-es-vocab-yotampoco",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "yo tampoco. Yo tampoco tengo tiempo hoy.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L057-es-vocab-amisi",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "a mí sí. A mí sí me gusta el café.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L057-es-vocab-amino",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "a mí no. A mí no me gusta el ruido.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L057-es-vocab-estardeacuerdo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "estar de acuerdo. Estoy de acuerdo con la idea.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L057-es-vocab-noestardeacuerdo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "no estar de acuerdo. No estamos de acuerdo con el horario.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L057-es-vocab-meparecebien",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "me parece bien. Me parece bien salir mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L057-es-vocab-meparecemejor",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "me parece mejor. Me parece mejor ir en autobús.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L057-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Me gusta caminar. A mí también.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L057-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "No me gusta correr. A mí tampoco.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L057-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Yo también estudio por la tarde.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L057-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "No me gusta el café. A mí sí.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L057-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Me gusta estudiar en la biblioteca. A mí también.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L057-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "No me gusta madrugar. A mí tampoco.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L057-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Yo también quiero caminar después de clase.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L057-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "No tengo tiempo hoy, pero mi hermana sí.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L057-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Estoy de acuerdo; me parece mejor salir mañana.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L057-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Nora y Pablo hablan de sus planes después de clase. A Nora le gusta estudiar en la biblioteca; a Pablo también. No les gusta la música alta mientras estudian. Pablo prefiere un lugar tranquilo y Nora está de acuerdo. A Nora le gusta caminar, y su hermana también disfruta de esa actividad. Hoy Nora no tiene tiempo, pero Pablo sí. Él propone salir al día siguiente. Nora responde que le parece bien. Los dos eligen una ruta corta cerca del centro y quedan después de la clase. Al final, acuerdan encontrarse en la puerta de la biblioteca.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 538
+    },
+    {
+      "id": "L057-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L057)",
+      "tts_text": "وقتی دوستت می‌گوید کاری را دوست دارد یا دوست ندارد، چطور موافقت می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L057-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L057)",
+      "tts_text": "با جملهٔ مثبت «también» و با جملهٔ منفی «tampoco» می‌آید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L057-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L057)",
+      "tts_text": "به گفت‌وگو گوش کن و فعالیتی را پیدا کن که نورا و پابلو هر دو دوست دارند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L057-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L057)",
+      "tts_text": "«Me gusta caminar. A mí también»؛ «No me gusta correr. A mí tampoco».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    },
+    {
+      "id": "L057-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L057)",
+      "tts_text": "با دوستت دربارهٔ سلیقه‌ها موافقت کن یا تفاوت نظرت را بگو.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 57
+    },
+    {
+      "id": "L057-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L057)",
+      "tts_text": "«También» را برای جملهٔ مثبت و «tampoco» را برای جملهٔ منفی به کار ببر.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    }
+  ]
+}

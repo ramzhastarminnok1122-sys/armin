@@ -1,0 +1,398 @@
+{
+  "lesson": "L056",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L056-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Hay alguien en la sala?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L056-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "No, no hay nadie ahora.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 23
+    },
+    {
+      "id": "L056-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Ves algo en la caja?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 21
+    },
+    {
+      "id": "L056-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "No, no veo nada.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 16
+    },
+    {
+      "id": "L056-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "¿Hay algún papel en la mesa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L056-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "No, no queda ningún papel.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L056-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Encontraste la bolsa abierta?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L056-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "No, no encontré ninguna bolsa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L056-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "¿Hay alguien en la recepción del edificio ahora?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L056-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "No, no hay nadie; está vacía desde la mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L056-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Encontraste algo en el cajón pequeño?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L056-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "No, no encontré nada; el cajón está vacío.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L056-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Hay algún nombre nuevo en la lista de recepción?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L056-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "No, no aparece ningún nombre desde ayer.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L056-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Alguien recogió el objeto perdido esta tarde?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L056-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "No, nadie recogió el objeto todavía.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L056-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "¿Queda alguna bolsa abierta sobre la mesa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L056-es-vocab-objetoperdido",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "objeto perdido. Nadie recoge el objeto perdido hoy.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L056-es-vocab-cajonvacio",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "cajón vacío. No encuentro nada en el cajón vacío.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L056-es-vocab-papelarrugado",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "papel arrugado. No queda ningún papel arrugado en la mesa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L056-es-vocab-bolsillointerior",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "bolsillo interior. No hay nada en el bolsillo interior.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L056-es-vocab-cajadeobjetosperdidos",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "caja de objetos perdidos. La caja de objetos perdidos está vacía.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L056-es-vocab-listadenombres",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "lista de nombres. No tenemos ningún nombre en la lista.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L056-es-vocab-mesaderecepcion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "mesa de recepción. No hay ninguna bolsa en la mesa de recepción.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 64
+    },
+    {
+      "id": "L056-es-vocab-bolsaabierta",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "bolsa abierta. No veo ninguna bolsa abierta aquí.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L056-es-vocab-documentodeidentidad",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "documento de identidad. No aparece ningún documento de identidad.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 65
+    },
+    {
+      "id": "L056-es-vocab-sillavacia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "silla vacía. No hay ninguna silla vacía en la sala.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L056-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "No hay nadie en la sala.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L056-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Nadie espera en recepción.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L056-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "No encuentro nada en la caja.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L056-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "No queda ninguna bolsa abierta.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L056-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "No hay nadie en la recepción ahora.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L056-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Nadie recoge el objeto perdido hoy.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 35
+    },
+    {
+      "id": "L056-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "No encuentro nada en el cajón vacío.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L056-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "No queda ningún papel en la mesa.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 33
+    },
+    {
+      "id": "L056-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "No veo ninguna bolsa abierta aquí.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L056-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Sara revisa la caja de objetos perdidos en la recepción. No hay nadie en la sala y no encuentra nada sobre la mesa. Mira en un cajón vacío, pero no ve ningún papel ni ningún documento de identidad. En la lista de nombres no aparece ningún nombre nuevo. Diego pregunta si alguien recoge el objeto perdido, pero nadie viene por él. Tampoco queda ninguna bolsa abierta en la mesa de recepción. Sara guarda la caja y escribe una nota para el turno de la tarde. Si una persona llama, el personal puede ayudarla a buscar sus cosas.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 525
+    },
+    {
+      "id": "L056-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L056)",
+      "tts_text": "اگر هیچ‌کس یا هیچ‌چیزی در جایی نباشد، چطور جمله را منفی می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L056-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L056)",
+      "tts_text": "پس از فعل می‌گوییم «no + verbo + nadie/nada»؛ پیش از فعل، «nadie» به‌تنهایی می‌آید.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 83
+    },
+    {
+      "id": "L056-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L056)",
+      "tts_text": "به گفت‌وگو گوش کن و بفهم دیگو چه چیزی در کشو پیدا نکرد.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L056-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L056)",
+      "tts_text": "می‌گوییم «No hay nadie» و «Nadie espera».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 41
+    },
+    {
+      "id": "L056-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L056)",
+      "tts_text": "دربارهٔ افراد یا چیزهایی که در اتاق نیستند صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 51
+    },
+    {
+      "id": "L056-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L056)",
+      "tts_text": "در اسپانیایی «no» و «nadie/nada» با هم جمله را منفی می‌کنند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    }
+  ]
+}
