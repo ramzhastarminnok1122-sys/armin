@@ -1,0 +1,398 @@
+{
+  "lesson": "L048",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L048-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Qué te gusta hacer en tu tiempo libre?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L048-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Me gusta montar a caballo los sábados.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L048-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "A mí me gusta resolver crucigramas en casa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L048-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "¿Te gusta escalar en la montaña?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L048-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "No, no me gusta escalar, pero me gusta acampar.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L048-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Mi prima sabe coser y también tejer.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L048-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "A mi hermano le gusta hacer cerámica.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L048-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Podemos probar una afición nueva el domingo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L048-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Después del trabajo me gusta hacer cerámica en un taller del barrio.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 68
+    },
+    {
+      "id": "L048-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "¡Qué bien! A mí me gusta tocar el violín y escuchar música clásica.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 67
+    },
+    {
+      "id": "L048-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿También te gusta observar aves en el parque?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L048-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Sí, me gusta salir temprano, pero no me gusta caminar muy lejos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 64
+    },
+    {
+      "id": "L048-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "A mi hermana le gusta tejer; prepara regalos para la familia.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L048-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Yo quiero aprender a coser para arreglar mi mochila.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L048-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "¿Te gusta acampar cuando hace buen tiempo?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 42
+    },
+    {
+      "id": "L048-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Mucho; también me gusta hacer yoga al aire libre.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L048-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Tenemos varias aficiones; podemos probar una actividad juntos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L048-es-vocab-hacerceramica",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "hacer cerámica. Ana hace cerámica en un taller del barrio.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L048-es-vocab-coser",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "coser. Me gusta coser bolsos pequeños.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L048-es-vocab-tejer",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "tejer. Tomás sabe tejer una bufanda.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L048-es-vocab-escalar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "escalar. Mis amigos escalan una pared pequeña.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L048-es-vocab-acampar",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "acampar. Raúl acampa con su familia cada verano.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L048-es-vocab-tocarelviolin",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "tocar el violín. ¿Te gusta tocar el violín?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L048-es-vocab-montaracaballo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "montar a caballo. Ana monta a caballo los domingos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L048-es-vocab-observaraves",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "observar aves. Me gusta observar aves en el parque.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 51
+    },
+    {
+      "id": "L048-es-vocab-haceryoga",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "hacer yoga. Mi hermana hace yoga por la mañana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L048-es-vocab-resolvercrucigramas",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "resolver crucigramas. Me gusta resolver crucigramas con mi abuelo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 66
+    },
+    {
+      "id": "L048-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Me gusta hacer cerámica.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 24
+    },
+    {
+      "id": "L048-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "¿Te gusta acampar?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 18
+    },
+    {
+      "id": "L048-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "A Laura le gusta montar a caballo.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L048-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "No nos gusta resolver crucigramas.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 34
+    },
+    {
+      "id": "L048-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Me gusta coser para mi familia.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 31
+    },
+    {
+      "id": "L048-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "A Pablo le gusta tocar el violín por la tarde.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L048-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "¿Te gusta observar aves en el parque?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L048-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "No nos gusta escalar cuando hace mucho calor.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L048-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "A mi hermana le gusta hacer yoga y caminar.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L048-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Ana y Pablo visitan el centro cultural en su día de puertas abiertas. Ana cuenta que le gusta hacer cerámica y observar aves en el parque. A Pablo le gusta tocar el violín, pero también quiere aprender a coser. La hermana de Ana sabe tejer y hace bufandas para sus amigos. A un vecino le gusta acampar con su familia en verano. En otra sala, varias personas practican yoga y conversan sobre sus aficiones. A Ana no le gusta escalar, pero le gusta montar a caballo. Al final, todos escriben una actividad que quieren probar juntos el próximo mes.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 545
+    },
+    {
+      "id": "L048-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L048)",
+      "tts_text": "در وقت آزاد انجام‌دادن چه فعالیتی را دوست داری؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 47
+    },
+    {
+      "id": "L048-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L048)",
+      "tts_text": "برای گفتن علاقه به فعالیت می‌گوییم «me gusta» و سپس مصدر می‌آوریم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 66
+    },
+    {
+      "id": "L048-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L048)",
+      "tts_text": "به گفت‌وگو گوش کن و سرگرمی خواهر آنا را پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 48
+    },
+    {
+      "id": "L048-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L048)",
+      "tts_text": "با مصدر می‌گوییم «me gusta coser»؛ با اسم جمع «me gustan las canciones».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 72
+    },
+    {
+      "id": "L048-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L048)",
+      "tts_text": "دربارهٔ سرگرمی‌هایی که دوست داری یا دوست نداری صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 55
+    },
+    {
+      "id": "L048-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L048)",
+      "tts_text": "پس از «gustar» برای فعالیت، مصدر بیاور و ضمیر را پیش از فعل قرار بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 69
+    }
+  ]
+}

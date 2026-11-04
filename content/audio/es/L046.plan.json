@@ -1,0 +1,398 @@
+{
+  "lesson": "L046",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L046-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "Llevas mucho tiempo estudiando sin descanso.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L046-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Sí, la muñeca y el hombro me molestan un poco.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L046-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "Debes levantarte y mirar por la ventana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L046-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "¿Debo parar ahora?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 18
+    },
+    {
+      "id": "L046-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Sí, cinco minutos de relajación pueden ayudarte.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L046-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "También debo cambiar la postura al escribir.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L046-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "No debes acercarte tanto a la pantalla.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L046-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Gracias; voy a hacer una pausa y respirar hondo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L046-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Leo estudia para un examen y lleva casi dos horas frente a la pantalla.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 71
+    },
+    {
+      "id": "L046-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "Me duele un poco el hombro y muevo la muñeca con dificultad.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 60
+    },
+    {
+      "id": "L046-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "Debes apartarte de la pantalla y descansar cinco minutos.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L046-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "¿Debo tomar agua antes de continuar?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L046-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "Sí, y puedes respirar hondo cerca de la ventana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L046-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "También necesito mejorar mi postura en la silla.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L046-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Debes sentarte derecho y buscar luz natural.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 44
+    },
+    {
+      "id": "L046-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "¿Puedo hacer un estiramiento suave ahora?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L046-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Claro; después descansas y vuelves a estudiar con calma.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L046-es-vocab-pausa",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "pausa. Debes hacer una pausa cada hora.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L046-es-vocab-postura",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "postura. Una postura cómoda ayuda a la espalda.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L046-es-vocab-pantalla",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "pantalla. La pantalla está frente a la silla.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L046-es-vocab-muneca",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "muñeca. Me duele la muñeca después de escribir.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L046-es-vocab-hombro",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "hombro. Leo tiene dolor en el hombro.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L046-es-vocab-relajacion",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "relajación. La relajación ayuda después de un examen.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 53
+    },
+    {
+      "id": "L046-es-vocab-respirarhondo",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "respirar hondo. Debes respirar hondo antes del examen.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L046-es-vocab-estiramiento",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "estiramiento. Un estiramiento suave relaja los brazos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L046-es-vocab-tomarseundescanso",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "tomarse un descanso. Necesitas tomarte un descanso después de estudiar.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 71
+    },
+    {
+      "id": "L046-es-vocab-luznatural",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "luz natural. Hay luz natural cerca de la ventana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L046-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Debo descansar. ¿Debes hacer una pausa?",
+      "priority": "P2",
+      "language": "es",
+      "chars": 39
+    },
+    {
+      "id": "L046-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Leo debe estirar los brazos.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 28
+    },
+    {
+      "id": "L046-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Debemos cuidar la postura.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 26
+    },
+    {
+      "id": "L046-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "No debes estudiar toda la noche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 32
+    },
+    {
+      "id": "L046-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Debo cerrar el libro y descansar cinco minutos.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L046-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "Debes sentarte con la espalda recta.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L046-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Elena debe buscar luz natural para leer.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 40
+    },
+    {
+      "id": "L046-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "No debemos mirar la pantalla durante la pausa.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L046-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "¿Deben los alumnos descansar entre las clases?",
+      "priority": "P3",
+      "language": "es",
+      "chars": 46
+    },
+    {
+      "id": "L046-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Leo prepara un examen en la biblioteca y estudia varias horas cada tarde. Elena nota que está cansado y le da consejos sencillos. Le dice que debe apartarse de la pantalla y descansar unos minutos. También debe sentarse con una postura cómoda y buscar un lugar con luz natural. Leo mueve los brazos despacio y respira hondo antes de volver al libro. Sus compañeros hacen una pausa breve entre las clases. No estudian toda la noche; descansan y después repasan las notas. Así, Leo termina su trabajo con más calma y se siente mejor para el examen.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 546
+    },
+    {
+      "id": "L046-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L046)",
+      "tts_text": "وقتی هم‌کلاسی‌ات ساعت‌های زیادی درس می‌خواند، چه توصیه‌ای به او می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L046-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L046)",
+      "tts_text": "برای توصیه از «deber» صرف‌شده و پس از آن مصدر استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 62
+    },
+    {
+      "id": "L046-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L046)",
+      "tts_text": "به گفت‌وگو گوش کن و توصیهٔ النا را برای لئو پیدا کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 52
+    },
+    {
+      "id": "L046-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L046)",
+      "tts_text": "می‌گوییم «debes descansar» و «no debes estudiar toda la noche».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 63
+    },
+    {
+      "id": "L046-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L046)",
+      "tts_text": "به هم‌کلاسی‌ات چند توصیهٔ ساده بده.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 35
+    },
+    {
+      "id": "L046-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L046)",
+      "tts_text": "«Deber» را با فاعل صرف کن و فعل بعدی را در مصدر نگه دار.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 56
+    }
+  ]
+}

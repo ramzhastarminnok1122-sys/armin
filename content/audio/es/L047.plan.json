@@ -1,0 +1,398 @@
+{
+  "lesson": "L047",
+  "language": "es",
+  "level": "A1",
+  "needs_audio": true,
+  "voice_registry_ref": "content/audio/es/voices.json",
+  "generated_by": "content/tools/build_plans.mjs",
+  "mapping_note": "Speaker labels in the listening script select the matching role; an unlabelled monologue uses the reading role.",
+  "clips": [
+    {
+      "id": "L047-es-dialogue-1",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[0]",
+      "tts_text": "¿Con qué frecuencia caminas después de clase?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L047-es-dialogue-2",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[1]",
+      "tts_text": "Voy al parque tres veces por semana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L047-es-dialogue-3",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[2]",
+      "tts_text": "¿Siempre haces una pausa cuando estudias?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L047-es-dialogue-4",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[3]",
+      "tts_text": "Sí, descanso cinco minutos cada hora.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 37
+    },
+    {
+      "id": "L047-es-dialogue-5",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[4]",
+      "tts_text": "Yo casi nunca hago ejercicio por la mañana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L047-es-dialogue-6",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[5]",
+      "tts_text": "Podemos salir juntos los fines de semana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L047-es-dialogue-7",
+      "role": "ES-CHAR-A",
+      "source": "dialogue.lines[6]",
+      "tts_text": "¿Visitas a tus abuelos una vez al mes?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L047-es-dialogue-8",
+      "role": "ES-CHAR-B",
+      "source": "dialogue.lines[7]",
+      "tts_text": "Sí, y a veces damos un paseo.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 29
+    },
+    {
+      "id": "L047-es-listening-1",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[0]",
+      "tts_text": "Esta semana escribo mis actividades en una agenda sencilla.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 59
+    },
+    {
+      "id": "L047-es-listening-2",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[1]",
+      "tts_text": "De lunes a viernes camino hasta la parada del autobús.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L047-es-listening-3",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[2]",
+      "tts_text": "¿Y cuántas veces haces ejercicio fuera de casa?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L047-es-listening-4",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[3]",
+      "tts_text": "Juego al baloncesto dos veces por semana.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L047-es-listening-5",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[4]",
+      "tts_text": "¿Siempre haces estiramientos antes del partido?",
+      "priority": "P1",
+      "language": "es",
+      "chars": 47
+    },
+    {
+      "id": "L047-es-listening-6",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[5]",
+      "tts_text": "Casi siempre, pero a veces voy con prisa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L047-es-listening-7",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[6]",
+      "tts_text": "Los fines de semana yo camino con mi madre.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L047-es-listening-8",
+      "role": "ES-CHAR-B",
+      "source": "listening.script[7]",
+      "tts_text": "Nosotros visitamos a los abuelos una vez al mes.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L047-es-listening-9",
+      "role": "ES-CHAR-A",
+      "source": "listening.script[8]",
+      "tts_text": "Si llueve, de vez en cuando hago una rutina corta en casa.",
+      "priority": "P1",
+      "language": "es",
+      "chars": 58
+    },
+    {
+      "id": "L047-es-vocab-cadamanana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[0]",
+      "tts_text": "cada mañana. Cada mañana camino hasta la parada.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 48
+    },
+    {
+      "id": "L047-es-vocab-todoslosdias",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[1]",
+      "tts_text": "todos los días. Leo lee todos los días después de clase.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 56
+    },
+    {
+      "id": "L047-es-vocab-delunesaviernes",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[2]",
+      "tts_text": "de lunes a viernes. De lunes a viernes estudio en casa.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L047-es-vocab-losfinesdesemana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[3]",
+      "tts_text": "los fines de semana. Los fines de semana paseo con mi hermana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 62
+    },
+    {
+      "id": "L047-es-vocab-unavezaldia",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[4]",
+      "tts_text": "una vez al día. Llamo a mi abuela una vez al día.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 49
+    },
+    {
+      "id": "L047-es-vocab-dosvecesporsemana",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[5]",
+      "tts_text": "dos veces por semana. Hacemos ejercicio dos veces por semana.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 61
+    },
+    {
+      "id": "L047-es-vocab-unavezalmes",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[6]",
+      "tts_text": "una vez al mes. Visito a mis abuelos una vez al mes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 52
+    },
+    {
+      "id": "L047-es-vocab-cadaquincedias",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[7]",
+      "tts_text": "cada quince días. Vamos a la biblioteca cada quince días.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 57
+    },
+    {
+      "id": "L047-es-vocab-devezencuando",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[8]",
+      "tts_text": "de vez en cuando. De vez en cuando cocino con mi padre.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 55
+    },
+    {
+      "id": "L047-es-vocab-casinunca",
+      "role": "ES-VOCAB",
+      "source": "vocabulary.items[9]",
+      "tts_text": "casi nunca. Casi nunca veo la televisión por la noche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L047-es-grammar-row-1",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[0]",
+      "tts_text": "Casi nunca corro por la noche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 30
+    },
+    {
+      "id": "L047-es-grammar-row-2",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[1]",
+      "tts_text": "Dos veces por semana juego al baloncesto.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 41
+    },
+    {
+      "id": "L047-es-grammar-row-3",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[2]",
+      "tts_text": "Visito a mis abuelos una vez al mes.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 36
+    },
+    {
+      "id": "L047-es-grammar-row-4",
+      "role": "ES-VOCAB",
+      "source": "grammar.table.rows[3]",
+      "tts_text": "No camino nunca después de medianoche.",
+      "priority": "P2",
+      "language": "es",
+      "chars": 38
+    },
+    {
+      "id": "L047-es-examples-1",
+      "role": "ES-VOCAB",
+      "source": "examples.items[0]",
+      "tts_text": "Cada mañana, Elena camina hasta la parada del autobús.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 54
+    },
+    {
+      "id": "L047-es-examples-2",
+      "role": "ES-VOCAB",
+      "source": "examples.items[1]",
+      "tts_text": "De lunes a viernes, estudio en la biblioteca.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 45
+    },
+    {
+      "id": "L047-es-examples-3",
+      "role": "ES-VOCAB",
+      "source": "examples.items[2]",
+      "tts_text": "Mi hermano visita el mercado dos veces por semana.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 50
+    },
+    {
+      "id": "L047-es-examples-4",
+      "role": "ES-VOCAB",
+      "source": "examples.items[3]",
+      "tts_text": "De vez en cuando, cocinamos juntos en casa.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L047-es-examples-5",
+      "role": "ES-VOCAB",
+      "source": "examples.items[4]",
+      "tts_text": "Casi nunca uso el teléfono durante la cena.",
+      "priority": "P3",
+      "language": "es",
+      "chars": 43
+    },
+    {
+      "id": "L047-es-reading",
+      "role": "ES-READ-F",
+      "source": "reading.text",
+      "tts_text": "Elena y Leo comparan sus rutinas después de clase. Elena camina hasta la parada cada mañana y hace ejercicio dos veces por semana. De lunes a viernes, Leo estudia en la biblioteca y descansa cinco minutos cada hora. Los fines de semana, Elena pasea con su madre; Leo juega al baloncesto con sus amigos. Los dos visitan a sus abuelos una vez al mes. Casi nunca ven la televisión durante la cena. Si llueve, de vez en cuando hacen una rutina corta en casa. Escriben sus actividades en una agenda para recordar cuándo tienen tiempo libre.",
+      "priority": "P4",
+      "language": "es",
+      "chars": 535
+    },
+    {
+      "id": "L047-fa-warmup",
+      "role": "FA-COACH",
+      "source": "warmup (Persian teaching layer for L047)",
+      "tts_text": "در طول هفته چند بار ورزش یا پیاده‌روی می‌کنی؟",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 45
+    },
+    {
+      "id": "L047-fa-explanation",
+      "role": "FA-COACH",
+      "source": "explanation (Persian teaching layer for L047)",
+      "tts_text": "برای گفتن بسامد از قید یا عبارت‌هایی مانند «dos veces por semana» استفاده می‌کنیم.",
+      "priority": "P1",
+      "language": "fa",
+      "chars": 82
+    },
+    {
+      "id": "L047-fa-listening-intro",
+      "role": "FA-COACH",
+      "source": "listening-intro (Persian teaching layer for L047)",
+      "tts_text": "به گفت‌وگو گوش کن و تعداد دفعاتی را پیدا کن که لئو بسکتبال بازی می‌کند.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 71
+    },
+    {
+      "id": "L047-fa-grammar-note",
+      "role": "FA-COACH",
+      "source": "grammar-note (Persian teaching layer for L047)",
+      "tts_text": "می‌گوییم «Casi nunca corro» و «Juego dos veces por semana».",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 59
+    },
+    {
+      "id": "L047-fa-speaking",
+      "role": "FA-COACH",
+      "source": "speaking (Persian teaching layer for L047)",
+      "tts_text": "دربارهٔ عادت‌های هفتگی و بسامد آن‌ها صحبت کن.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 45
+    },
+    {
+      "id": "L047-fa-closing",
+      "role": "FA-COACH",
+      "source": "closing (Persian teaching layer for L047)",
+      "tts_text": "عبارت بسامد را نزدیک به فعلی بگذار که درباره‌اش صحبت می‌کنی.",
+      "priority": "P2",
+      "language": "fa",
+      "chars": 60
+    }
+  ]
+}
